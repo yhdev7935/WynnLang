@@ -1,10 +1,11 @@
-§7[1/5] §2Laen: §aHey, adventurer! Would you mind helping me for a second? I have a bit of a problem on my hands.@§7[1/5] §2Лаэн: §aПриветствую тебя, путешественник! Не мог бы ты помочь мне? У меня тут небольшая проблема.
-§7[2/5] §2Laen: §aA while ago, before Ancient Nemract was destroyed, my family used to own quite an interesting book, that held knowledge of places and beings of great power.@§7[2/5] §2Лаэн: §aДавным-давно, до разрушения Древнего Немракта, моя семья использовала одну интересную книгу, которая содержала знания о местах и существах большой силы.
-§7[3/5] §2Laen: §aUnfortunately, a creature stole it from them during the attack that led to the destruction of Ancient Nemract, and no one has seen it since.@§7[3/5] §2Лаэн: §aК сожалению, некое существо украло книгу у них во время атаки и разрушения Древнего Немрактa, и с тех пор никто ее не видел.
-§7[4/5] §2Laen: §aIf you are willing to help, bring me §3[1 Book of the Bones]§a, I believe this book is now between the hands of skeletons, in an old tower in Ancient Nemract.@§7[4/5] §2Лаэн: §aЕсли ты хочешь помочь мне, то принеси §3[1 Книгу Костей]§a. Я думаю, что книга сейчас в руках скелета, в старой башне в Древнем Немракте.
-§7[5/5] §2Laen: §aSee if you can find this tower, one of the skeletons probably has the book somewhere in there.@§7[5/5] §2Лаэн: §aПосмотри, сможешь ли ты найти эту башню, и у одного из скелетов, вероятно, есть эта книга.
-§7[1/1] §2Laen: §aGreat! This will be very interesting to read, thank you!@§7[1/1] §2Лаэн: §aЧудесно! Мне будет интересно это прочитать, спасибо!
+﻿===============================================================================================================================================
+§7[1/5] §2Laen: §aHey, adventurer! Would you mind helping me for a second? I have a bit of a problem on my hands.@§7[1/5] §2라엔: §a이봐, 거기 모험가! 잠깐 날 좀 도와줄 수 있겠나? 문제가 좀 있거든.  
+§7[2/5] §2Laen: §aA while ago, before Ancient Nemract was destroyed, my family used to own quite an interesting book, that held knowledge of places and beings of great power.@§7[2/5] §2라엔: §a과거, 고대 넴렉이 파괴 당하기 전에, 우리 집안은 엄청난 힘을 가진 장소와 존재에 대한 지식을 담고 있던 책을 가지고 있었네.
+§7[3/5] §2Laen: §aUnfortunately, a creature stole it from them during the attack that led to the destruction of Ancient Nemract, and no one has seen it since.@§7[3/5] §2라엔: §a불행히도, 고대 넴렉이 공격 받은 순간 한 생물이 그 책을 훔쳐갔어. 그 이후로 아무도 책을 보지 못했지. 
+§7[4/5] §2Laen: §aIf you are willing to help, bring me §3[1 Book of the Bones]§a, I believe this book is now between the hands of skeletons, in an old tower in Ancient Nemract.@§7[4/5] §2라엔: §a만약 자네가 날 도와줄 수 있다면, §3[1 Book of the Bones]§a 을 가져와 주게, 아마도 그 책은 고대 넴렉의 오래된 탑에 있는 해골들이 가지고 있을 거라고 생각하네. 
+§7[5/5] §2Laen: §aSee if you can find this tower, one of the skeletons probably has the book somewhere in there.@§7[5/5] §2라엔: §a탑을 찾아보게, 그 탑에 있는 해골 중 하나가 그 책을 가직 있을 거야.  
+§7[1/1] §2Laen: §aGreat! This will be very interesting to read, thank you!@§7[1/1] §2라엔: §a잘했네! 이 책은 재밌게 읽을 수 있겠군, 고맙네!
 
-§7[1/1] §2Laen: §aI have a task for you, but you §aare...perhaps§a a bit ill-equipped? Come back when you are level 26.@§7[1/1] §2Лаэн: §aУ меня есть задача для тебя, но ты...быть может, немного плохо оснащен? Вернись, когда будешь 26 уровня.
-§7[1/1] §2Laen: §aThank you for your help!@§7[1/1] §2Лаэн: §aСпасибо за твою помощь!
-§7[1/1] §2Laen: §aPlease, find the tower and the §3[1 Book of the Bones]§a and bring it back to me.@§7[1/1] §2Лаэн: §aПожалуйста, найди башню вместе с §3[1 Книгой костей]§a, и принеси ее мне.
+§7[1/1] §2Laen: §aI have a task for you, but you §aare...perhaps§a a bit ill-equipped? Come back when you are level 26.@§7[1/1] §2라엔: §a자네가 해 줄 일이 있지만, 자네는... 아직 경험이 부족해 보이는군? 26 전투 레벨을 달성하면 돌아오게. 
+§7[1/1] §2Laen: §aThank you for your help!@§7[1/1] §2라엔: §a도와줘서 고맙네!
+§7[1/1] §2Laen: §aPlease, find the tower and the §3[1 Book of the Bones]§a and bring it back to me.@§7[1/1] §2라엔: §a부디 탑에서 §3[1 뼈의 책]§a 을 찾아서 내게 가져다주게.

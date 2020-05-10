@@ -1,137 +1,138 @@
-§7[1/8] §2Dr. Picard: §aSUCCESS! I can see clearly now.. My memories from years ago!@§7[1/8] §2Др. Пикард: §aУСПЕХ! Теперь я вижу все ясно.. Мои воспоминания о том, что было много лет назад!
-§7[2/8] §2Dr. Picard: §aOh, a soldier! Are you by any chance from Fruma?@§7[2/8] §2Др. Пикард: §aОх, солдат! Ты случайно не из Фрумы?
-§7[3/8] §2Dr. Picard: §aTell me, do you remember anything about where you came from?@§7[3/8] §2Др. Пикард: §aСкажи, ты помнишь что-нибудь о том, откуда ты пришел?
-§7[4/8] §2Dr. Picard: §aI thought so. Everyone's story starts the same - In a wagon entering the Wynn province.@§7[4/8] §2Др. Пикард: §aТак и думал. История каждого начинается одинаково - в караване, въезжающем в провинцию Винн.
-§7[5/8] §2Dr. Picard: §aI want to find out more. I've just created this orb which allows me to see people's past.@§7[5/8] §2Др. Пикард: §aЯ хочу узнать больше. Я только что создал этот шар, который позволяет мне видеть прошлое людей.
-§7[6/8] §2Dr. Picard: §aSay, would you help me? I need some people originally from Fruma. Can you bring them here?@§7[6/8] §2Др. Пикард: §aСкажи, ты не мог бы мне помочь? Мне нужны люди родом из Фрумы. Ты можешь привести их сюда?
-§7[7/8] §2Dr. Picard: §aThere is another guard just across the bridge.@§7[7/8] §2Др. Пикард: §aНа мосту есть один страж.
-§7[8/8] §2Dr. Picard: §aSee if he would oblige this experiment. I'm sure they want to find out more.@§7[8/8] §2Др. Пикард: §aПосмотрим, согласится ли он на этот эксперимент. Я уверен, что они хотят узнать больше.
-§7[1/3] §2Scout Reynauld: §aOh, good! Reinforcements! I've been left here alone to defend Elkurn.@§7[1/3] §2Скаут Рейнольд: §aОх, хорошо! Подкрепление! Меня оставили здесь одного защищать Элкурн.
-§7[2/3] §2Scout Reynauld: §aSeriously? You want me to abandon my post? I'm expecting a huge attack from the Roots.@§7[2/3] §2Скаут Рейнольд: §aСерьезно? Ты хочешь, чтобы я оставил свой пост? Я ожидаю огромной атаки со стороны корней.
-§7[3/3] §2Scout Reynauld: §aFine, listen. If you help me defend the town, I'll go with you!@§7[3/3] §2Скаут Рейнольд: §aЛадно, слушай. Если ты поможешь мне защитить город, я пойду с тобой!
-§7[1/1] §2Scout Reynauld: §aAlright, here we are. Let me know when you're ready.@§7[1/1] §2Скаут Рейнольд: §aХорошо, мы на месте. Дай мне знать, когда будешь готов.
-§7[1/4] §2Scout Reynauld: §aOh boy, here they come!@§7[1/4] §2Скаут Рейнольд: §aО Боже, они идут!
-§7[2/4] §2Scout Reynauld: §aWow! Erected spikes, too?!@§7[2/4] §2Скаут Рейнольд: §aВоу! И шипы возвели?!
-§7[3/4] §2Scout Reynauld: §aThere's a Corrupted summoner on the other side of this bridge! We gotta destroy it!@§7[3/4] §2Скаут Рейнольд: §aНа другой стороне моста есть Испорченный призыватель! Мы должны уничтожить его!
-§7[4/4] §2Scout Reynauld: §aDefend me while I prepare my explosive arrows to bring down those towers blocking your path to it!@§7[4/4] §2Скаут Рейнольд: §aЗащити меня, пока я готовлю свои разрывные стрелы, чтобы сбить эти башни, преграждающие тебе путь к нему!
-§7[1/1] §2Scout Reynauld: §aMy arrow's almost ready...@§7[1/1] §2Скаут Рейнольд: §aМои стрелы почти готовы...
-§7[1/1] §2Scout Reynauld: §aYes! One down, one to go! You're doing great!@§7[1/1] §2Скаут Рейнольд: §aДа! Один был убит, и один остался! Ты отлично справляешься!
-§7[1/1] §2Scout Reynauld: §aAH! I'm hurt! Come here and help!@§7[1/1] §2Скаут Рейнольд: §aАХ! Я ранен! Приди сюда и помоги!
-§7[1/3] §2Scout Reynauld: §aAgh... Thanks for the rescue...@§7[1/3] §2Скаут Рейнольд: §aАгх... Спасибо что спас...
-§7[2/3] §2Scout Reynauld: §aTry not to let me get overwhelmed. Now, let's try this again.@§7[2/3] §2Скаут Рейнольд: §aПостарайся не дать им меня ошеломить. Теперь, давай попробуем снова.
-§7[3/3] §2Scout Reynauld: §aGet ready!@§7[3/3] §2Скаут Рейнольд: §aПриготовься!
-§7[1/1] §2Scout Reynauld: §aAlmost got this arrow nocked...@§7[1/1] §2Скаут Рейнольд: §aМоя стрела почти готова...
-§7[1/1] §2Scout Reynauld: §aBullseye! Now's your chance, go take out that summoner!@§7[1/1] §2Скаут Рейнольд: §aВ яблочко! Теперь у тебя есть шанс, иди и уничтожь этого призывателя.
-§7[1/1] §2Scout Reynauld: §aGreat job, you did it! Now, come back and get these monsters off me!@§7[1/1] §2Скаут Рейнольд: §aОтличная работа, ты сделал это! А теперь вернись и убери от меня этих монстров!
-§7[1/4] §2Scout Reynauld: §aPhew. Thanks for the help, not sure I could have done that alone.@§7[1/4] §2Скаут Рейнольд: §aФух. Спасибо за помощь, не уверен, что я мог бы сделать это в одиночку.
-§7[2/4] §2Scout Reynauld: §aSo, you want to find out about our past?@§7[2/4] §2Скаут Рейнольд: §aИтак, ты хочешь узнать о нашем прошлом?
-§7[3/4] §2Scout Reynauld: §aWell, I must admit I never really thought about it. I guess I could go with you.@§7[3/4] §2Скаут Рейнольд: §aНу, должен признаться, я никогда об этом не думал. Думаю, что могу пойти с тобой.
-§7[4/4] §2Scout Reynauld: §aLead the way, but quick. We can't leave Elkurn unguarded for too long.@§7[4/4] §2Скаут Рейнольд: §aВеди нас, но быстро. Мы не можем слишком долго оставлять Элкурн без охраны.
-§7[1/7] §2Dr. Picard: §aAh, I see you have the soldier.@§7[1/7] §2Др. Пикард: §aА, я вижу, ты привел солдата.
-§7[2/7] §2Scout Reynauld: §aSo how exactly were you planning on extracting my memory?@§7[2/7] §2Скаут Рейнольд: §aИтак, как именно вы собирались извлечь мою память?
-§7[3/7] §2Dr. Picard: §aIn a non painful way, I promise you. Now, if you'll stand over here, please.@§7[3/7] §2Др. Пикард: §aЭто будет не больно, я обещаю вам. А теперь, пожалуйста, встаньте здесь.
-§7[4/7] §2Scout Reynauld: §aYou mean in front of that crystal thing? Alright...@§7[4/7] §2Скаут Рейнольд: §aВы имеете в виду перед этой хрустальной штукой? Хорошо...
-§7[5/7] §2Scout Reynauld: §aDo I just look into it?@§7[5/7] §2Скаут Рейнольд: §aИ что, просто смотреть на нее?
-§7[6/7] §2Dr. Picard: §aJust stare into its depths and let that depth reflect into your mind...@§7[6/7] §2Др. Пикард: §aПросто вглядитесь в его глубины, и пусть эта глубина отразится в вашем уме...
-§7[7/7] §2Scout Reynauld: §aI don’t feel any- WOAH@§7[7/7] §2Скаут Рейнольд: §aЯ ничего не чувств- ВОУ
-§7[1/12] §2Reynauld: §a*Sigh*, what a day.@§7[1/12] §2Рейнольд: §a*вздыхает*, что за день.
-§7[2/12] §2Reynauld: §aIs the water any better?@§7[2/12] §2Рейнольд: §aЕсть улучшения с водой?
-§7[3/12] §2Heine: §a*Sigh*, there's barely enough for us and the horses.@§7[3/12] §2Хайне: §a*вздыхает*, там едва хватит на нас и лошадей.
-§7[4/12] §2Heine: §aI don't see why the Royalty has to irrigate from our rivers.@§7[4/12] §2Хайне: §aЯ не понимаю, почему королевская власть должна орошать посевы из наших рек.
-§7[5/12] §2Imperial Guard: §aThe Palace has ordered an inquest into the productivity of this village. You are behind on your crop deliveries.@§7[5/12] §2Имперский Страж: §aДворец приказал провести расследование о производительности этой деревни. Вы отстаете в поставках урожая.
-§7[6/12] §2Reynauld: §aSir, we tried but the farms don't have enough clean water since the Palace dammed up the river!@§7[6/12] §2Рейнольд: §aСэр, мы пытались, но на фермах не хватает чистой воды с тех пор, как дворец запрудил реку!
-§7[7/12] §2Imperial Soldier: §aAre you insulting the work of our royal engineers?@§7[7/12] §2Имперский Солдат: §aТы оскорбляешь работу наших королевских инженеров?
-§7[8/12] §2Reynauld: §aWhat? No! I'm just explaining- Please! I have a family I didn't speak out of turn.@§7[8/12] §2Рейнольд: §aЧто? Нет! Я просто объясняю - пожалуйста! У меня семья, я не хотел так высказываться.
-§7[9/12] §2Reynauld: §aHeine? Look after the kids. I'll be back soon!@§7[9/12] §2Рейнольд: §aХайне? Присмотри за детьми. Я скоро вернусь!
-§7[10/12] §2Imperial Guard: §aThe Palace does not tolerate insubordination. Reynauld you are to be tried for Lèse-majesté.@§7[10/12] §2Рейнольд: §aДворец не терпит неповиновения. Рейнольд, ты пытался оскорбить ее величество.
-§7[11/12] §2Imperial Guard: §aThis village would do well to remember who protects them from external forces.@§7[11/12] §2Имперский Страж: §aЭтой деревне не мешало бы вспомнить, кто защищает ее от внешних сил.
-§7[12/12] §2Dr. Picard: §aHey. HEY! It's not real. Just a memory! Talk to me!@§7[12/12] §2Др. Пикард: §aЭй. ЭЙ! Это все не реально! Просто воспоминание! Поговори со мной!
-§7[1/5] §2Dr. Picard: §aWell, that was unexpected. I didn't anticipate subjects would relive them that vividly.@§7[1/5] §2Др. Пикард: §aЧто ж, это было неожиданно. Я не ожидал, что испытуемые будут переживать их так ярко.
-§7[2/5] §2Dr. Picard: §aTo think Reynauld had a whole family and life before he came here.@§7[2/5] §2Др. Пикард: §aПодумать только, у Рейнольда была целая семья и целая жизнь до того, как он приехал сюда.
-§7[3/5] §2Dr. Picard: §aDo you think you could get me one more subject? We need to find out more.@§7[3/5] §2Др. Пикард: §aНе мог бы ты привести мне еще одного подопытного? Нам нужно узнать больше.
-§7[4/5] §2Dr. Picard: §aThere's a sailor close to Elkurn from Fruma. Maybe you could go ask him?@§7[4/5] §2Др. Пикард: §aНеподалеку от Элкурна есть моряк из Фрумы. Может, ты пойдешь и спросишь его?
-§7[5/5] §2Dr. Picard: §aCross the bridge you took earlier and continue past Elkurn. He should be by the river.@§7[5/5] §2Др. Пикард: §aПересеки мост, по которому ты шел раньше, и пройди мимо Элкурна. Он должен быть у реки.
-§7[1/5] §2Caid: §aYep, I'm the sailor. Pretty sure I'm from Fruma, came here on the same cart as you.@§7[1/5] §2Каид: §aДа, я моряк. Почти уверен, что я из Фрумы, приехал сюда на той же повозке, что и ты.
-§7[2/5] §2Caid: §aI'm not sure I want to know about it... I must have left for a reason, right?@§7[2/5] §2Каид: §aНе уверен, что хочу знать об этом... Я должен был уйти по какой-то причине, верно?
-§7[3/5] §2Caid: §aWait, Reynauld had his done? Hmm, I guess it couldn't hurt.@§7[3/5] §2Каид: §aПодожди, Рейнольд это сделал? Хм, думаю, это не повредит.
-§7[4/5] §2Caid: §aHowever, I have an issue. I've navigated my boat into a creek instead of the river..@§7[4/5] §2Каид: §aОднако, у меня есть проблема. Я направил свою лодку в ручей вместо реки..
-§7[5/5] §2Caid: §aMaybe we can use some magic to shrink the boat? Maybe someone in Elkurn knows? An alchemist maybe?@§7[5/5] §2Каид: §aМожет, мы можем использовать какую-нибудь магию, чтобы уменьшить лодку? Может, кто-то в Элкурне знает? Алхимик например?
-§7[1/6] §2Alchemist: §aLooking for potions?@§7[1/6] §2Алхимик: §aИщешь зелья?
-§7[2/6] §2Alchemist: §aThis is the best potion shop in Elkurn! A what? Excuse me?@§7[2/6] §2Алхимик: §aЭто лучший магазин зелий в Элкурне! Что прости?
-§7[3/6] §2Alchemist: §aA shrinking potion? No, we do not sell those here...@§7[3/6] §2Алхимик: §aУменьшающее зелье? Нет, мы их здесь не продаем...
-§7[4/6] §2Alchemist: §aOr... hold up. I think I know how to make one, I've never done it before though.@§7[4/6] §2Алхимик: §aИли... подожди-ка. Думаю, что знаю, как сделать одно, но я никогда не делал этого раньше.
-§7[5/6] §2Alchemist: §aIf I remember correctly... I need §3[1 Golden Apple]§a, §3[1 Bottle of Water] §aand lastly, §3[1 Bloom of Doom].@§7[5/6] §2Алхимик: §aЕсли я правильно помню... Мне нужно §3[1 Золотое Яблоко]§a, §3[1 Бутылка воды]§a и, наконец, §3[1 Цветок судьбы]§a.
-§7[6/6] §2Alchemist: §aGolden apples grow in certain big apple trees. Bottles of water should be available here in town. Blooms of Doom grow near death, try looking near the Elkurn church. Watch out, they aren't the friendliest.@§7[6/6] §2Алхимик: §aЗолотые яблоки растут на некоторых больших яблонях. Бутылки с водой должны быть доступны прямо здесь, в городе. Цветы судьбы растут рядом со смертью, попробуй посмотреть рядом с церковью Элкурна. Берегись, они не самые дружелюбные.
-§7[1/5] §2Caid: §aYou know, the more I look at this, the more I wonder how I did this.@§7[1/5] §2Каид: §aЗнаешь, чем больше я смотрю на это, тем больше удивляюсь, как я это сделал.
-§7[2/5] §2Caid: §aThanks for getting the potion. Let's see if it works. If it does I'll follow you to the tower.@§7[2/5] §2Каид: §aСпасибо за зелье. Давай посмотрим, работает ли оно. Если это случится, я последую за тобой в башню.
-§7[3/5] §2Caid: §a...@§7[3/5] §2Каид: §a...
-§7[4/5] §2Caid: §aI mean... It certainly shrunk. Do I even fit now?@§7[4/5] §2Каид: §aЯ имею в виду... Она определенно уменьшилась. Я вообще помещусь там сейчас?
-§7[5/5] §2Caid: §aI guess you held up your side of the deal. I'll follow you.@§7[5/5] §2Каид: §aДумаю, ты выполнил свою часть сделки. Я пойду за тобой.
-§7[1/5] §2Dr. Picard: §aAhhh, another Fruman. Let's see if his story is the same as Reynauld's.@§7[1/5] §2Др. Пикард: §aАхх, еще один из Фрумы. Давайте посмотрим, совпадает ли его история с историей Рейнольда.
-§7[2/5] §2Sailor Caid: §aI am still not sure about this, I'm kind of happy here.@§7[2/5] §2Моряк Каид: §aЯ все еще не уверен в этом, я вроде как счастлив здесь.
-§7[3/5] §2Dr. Picard: §aNothing to worry about, it won't change who you are now.@§7[3/5] §2Др. Пикард: §aНе о чем беспокоиться, это не изменит того, кто вы сейчас.
-§7[4/5] §2Dr. Picard: §aWait for it...@§7[4/5] §2Др. Пикард: §aСекунду...
-§7[5/5] §2Sailor Caid: §aHold up. What is going on?@§7[5/5] §2Моряк Каид: §aПодождите. Что происходит?
-§7[1/7] §2???: §aAHHH!!!!!@§7[1/7] §2???: §aАХХХ!!!!!
-§7[2/7] §2Imperial Guard §aMove.@§7[2/7] §2Имперский Страж: §aДвигай.
-§7[3/7] §2Caid §aCARA! @§7[3/7] §2Каид: §aКАРА!
-§7[4/7] §2Imperial Guard: §aCara is under arrest. She is coming with me.@§7[4/7] §2Имперский Страж: §aКара арестована. Она пойдет с нами.
-§7[5/7] §2Caid: §aGET YOUR HANDS OFF OF HER!@§7[5/7] §2Каид: §aУБЕРИТЕ ОТ НЕЕ СВОИ РУКИ!
-§7[6/7] §2Imperial Guard §aPerhaps you would like to go in her place? @§7[6/7] §2Имперский Страж: §aВозможно ты хочешь пойти вместо нее?
-§7[7/7] §2Dr. Picard: §aHey. Earth to human.@§7[7/7] §2Др. Пикард: §aЭй, вернись на землю.
-§7[1/4] §2Dr. Picard: §aHmmm... This doesn't look too good.@§7[1/4] §2Др. Пикард: §aХммм... Это выглядит не слишком хорошо.
-§7[2/4] §2Dr. Picard: §aJust what is happening in Fruma? They've locked that province away for hundreds and hundreds of years and now this?@§7[2/4] §2Др. Пикард: §aЧто же происходит во Фруме? Эта провинция закрылась на сотни лет, а теперь еще и это?
-§7[3/4] §2Dr. Picard: §aWe should see if we can uncover more about Fruma.@§7[3/4] §2Др. Пикард: §aМы должны посмотреть, сможем ли мы узнать больше о Фруме.
-§7[4/4] §2Dr. Picard: §aEdwin could be our next subject, he lives near the Nesaak border, just take the road south of here and you'll see his farmhouse.@§7[4/4] §2Др. Пикард: §aЭдвин должен быть нашим следующим объектом, он живет недалеко от границы с Несааком, просто сверни на дорогу к югу отсюда, и увидишь его ферму.
-§7[1/5] §2Edwin: §aFruma? Don't remember nothing. Don't want to neither.@§7[1/5] §2Эдвин: §aФрума? Не помню такого. И не хочу вспоминать.
-§7[2/5] §2Edwin: §aNo, I don't. I have more important things to think about than some mystery province.@§7[2/5] §2Эдвин: §aНет, у меня есть более важные вещи, о которых нужно думать, чем о какой-то таинственной провинции.
-§7[3/5] §2Edwin: §aWell, my water source has frozen over and my crops are struggling.@§7[3/5] §2Эдвин: §aЧто ж, мой источник воды замерз, и мой урожай гибнет.
-§7[4/5] §2Edwin: §aIt's like the snow has slowly been encroaching on my farm.@§7[4/5] §2Эдвин: §aПохоже, что снег медленно вторгается на мою ферму.
-§7[5/5] §2Edwin: §aCan you climb up the mountain and break through it? If you can water my plants I will go with you. There's a cave next to my farm that leads to the top.@§7[5/5] §2Эдвин: §aСможешь ли ты взобраться на гору и проломать лед? Если сможешь полить мои растения, я пойду с тобой. Рядом с моей фермой есть пещера, которая ведет наверх.
-§7[1/3] §2Edwin: §aYou army folk sure keep your promises.@§7[1/3] §2Эдвин: §aВы, солдаты, конечно, держите свои обещания.
-§7[2/3] §2Edwin: §aI guess I have to hold up my end.@§7[2/3] §2Эдвин: §aДумаю, что должен сдержать и свое.
-§7[3/3] §2Edwin: §aLead the way.@§7[3/3] §2Эдвин: §aПоказывай дорогу.
-§7[1/5] §2Dr. Picard: §aAh, I see you have the third subject.@§7[1/5] §2Др. Пикард: §aА, я вижу, ты привел третий субъект.
-§7[2/5] §2Edwin: §aPfft! I'm not some subject!@§7[2/5] §2Эдвин: §aПфф! Я не какой-то там субъект!
-§7[3/5] §2Dr. Picard: §aMy apologies. Please, stand in front of the orb.@§7[3/5] §2Др. Пикард: §aМои извинения, пожалуйста, встаньте перед шаром.
-§7[5/5] §2Edwin: §aWAAAAO!!!!!!!@§7[5/5] §2Эдвин: §aВООУА!!!!!!
-§7[1/23] §2Edwin: §aWhy are you doing this!?@§7[1/23] §2Эдвин: §aЗачем ты это делаешь??
-§7[2/23] §2Imperial Guard: §aOrder of her majesty.@§7[2/23] §2Имперский Страж: §aПриказ Ее Величества.
-§7[3/23] §2Edwin: §aLET ME OUT! WHAT IS THIS!@§7[3/23] §2Эдвин: §aВЫПУСТИТЕ МЕНЯ! ЭТО НЕСПРАВЕДЛИВО!
-§7[4/23] §2Caid: §aHey you. Calm down. There's no point in yelling...@§7[4/23] §2Каид: §aЭй ты. Успокойся. Нет смысла кричать...
-§7[5/23] §2Edwin: §aWhat... what do you mean?@§7[5/23] §2Эдвин: §aЧто... почему?
-§7[6/23] §2Caid: §aThere is no escape here. The guards come in once in a while and take people... people who are never seen again...@§7[6/23] §2Каид: §aОтсюда нет спасения. Время от времени приходят охранники и забирают людей... людей, которых больше никогда не увидят...
-§7[7/23] §2Edwin: §aWhere are they being taken?@§7[7/23] §2Эдвин: §aКуда их везут?
-§7[8/23] §2Caid: §aNo one knows... The last person they took was... Alen? Alida? Alegar?@§7[8/23] §2Каид: §aНикто не знает... Последний человек, которого они взяли, был... Ален? Алида? Алегар?
-§7[9/23] §2Imperial Guard: §aCaid! You are being transfered.@§7[9/23] §2Имперский Страж: §aКаид! Тебя переводят в другое место.
-§7[10/23] §2Caid: §aWh-what. I... don't want to go!@§7[10/23] §2Каид: §aЧ-что. Я... не хочу идти!
-§7[11/23] §2Imperial Guard: §aWalk. Or you will be executed on the spot.@§7[11/23] §2Имперский Страж: §aДвигай. Или тебя казнят на месте.
-§7[12/23] §2Caid: §aWhat are you doing!?@§7[12/23] §2Каид: §aЧто вы делаете!?
-§7[13/23] §2Imperial Guard: §aShut it.@§7[13/23] §2Имперский Страж: §aЗамолкни.
-§7[14/23] §2Imperial Guard: §aThere is no war inside the Fruman walls.@§7[14/23] §2Имперский Страж: §aНет войны в стенах Фрумы.
-§7[15/23] §2Imperial Guard: §aThere is no war inside the Fruman walls.@§7[15/23] §2Имперский Страж: §aНет войны в стенах Фрумы.
-§7[16/23] §2Imperial Guard: §aThere is no war inside the Fruman walls.@§7[16/23] §2Имперский Страж: §aНет войны в стенах Фрумы.
-§7[17/23] §2Imperial Guard: §aThere is no war inside the Fruman walls.@§7[17/23] §2Имперский Страж: §aНет войны в стенах Фрумы.
-§7[18/23] §2Imperial Guard: §aThere is no war inside the Fruman walls.@§7[18/23] §2Имперский Страж: §aНет войны в стенах Фрумы.
-§7[19/23] §2Imperial Guard: §aThere is no war inside the Fruman walls.@§7[19/23] §2Имперский Страж: §aНет войны в стенах Фрумы.
-§7[20/23] §2Imperial Guard: §aThere is no war inside the Fruman walls.@§7[20/23] §2Имперский Страж: §aНет войны в стенах Фрумы.
-§7[21/23] §2Imperial Guard: §aThere is no war inside the Fruman walls.@§7[21/23] §2Имперский Страж: §aНет войны в стенах Фрумы.
-§7[23/23] §2Dr. Picard: §aYou need to find an exit or you will be sucked into the memory without chance of returning. HURRY!@§7[23/23] §2Др. Пикард: §aТебе нужно найти выход, иначе тебя засосет в память без шанса на возвращение. ПОТОРОПИСЬ!
-§7[1/5] §2Dr. Picard: §aOkay, three Frumans have seen the same thing. Why are they sending their people here?@§7[1/5] §2Др. Пикард: §aЛадно, трое Фруманов видели то же самое. Зачем они посылают сюда своих людей?
-§7[2/5] §2Dr. Picard: §aThis asks more questions than it answers. Those people didn't do anything wrong.@§7[2/5] §2Др. Пикард: §aЭто оставляет больше вопросов, чем ответов. Эти люди не сделали ничего плохого.
-§7[3/5] §2Dr. Picard: §aThe only thing left is to check your own memory. To see if you also experienced the same thing.@§7[3/5] §2Др. Пикард: §aЕдинственное, что осталось, - это проверить твою собственную память. Чтобы увидеть, если ты также испытал то же самое.
-§7[4/5] §2Dr. Picard: §aStand on this red carpet here and we'll get started.@§7[4/5] §2Др. Пикард: §aВстань на эту красную дорожку, и мы начнем.
-§7[5/5] §2Dr. Picard: §aWait for it...@§7[5/5] §2Др. Пикард: §aЖди...
-§7[1/4] §2Dr. Picard: §aAre you okay?@§7[1/4] §2Др. Пикард: §aТы в порядке?
-§7[2/4] §2Dr. Picard: §aThe other subjects never experienced that powerful of a reaction, it's almost like we were accessing memories that never existed.@§7[2/4] §2Др. Пикард: §aДругие испытуемые никогда не испытывали такой мощной реакции, как будто мы искали доступ к воспоминаниям, которых никогда не существовало.
-§7[3/4] §2Dr. Picard: §aIt's almost as if you didn't have a life before you came to Wynn.@§7[3/4] §2Др. Пикард: §aЭто почти как если бы у тебя не было жизни до того, как ты пришел в Винн.
-§7[4/4] §2Dr. Picard: §aI need to do more research on this, thank you for helping me. Here's a small reward, hope we can discover what really goes on behind the walls of Fruma.@§7[4/4] §2Др. Пикард: §aМне нужно сделать больше исследований по этому вопросу, спасибо за помощь. Вот небольшая награда, надеюсь, мы сможем узнать, что на самом деле происходит за стенами Фрумы.
+﻿==========================================================================================================================
+§7[1/8] §2Dr. Picard: §aSUCCESS! I can see clearly now.. My memories from years ago!@§7[1/8] §2피카드 박사: §a성공이야! 내 과거의 기억들이 확실히 보이는군!
+§7[2/8] §2Dr. Picard: §aOh, a soldier! Are you by any chance from Fruma?@§7[2/8] §2피카드 박사: §a오, 병사! 자네 혹시 프루마에서 왔나?
+§7[3/8] §2Dr. Picard: §aTell me, do you remember anything about where you came from?@§7[3/8] §2피카드 박사: §a말해보게, 자네가 어디서 왔는지 기억하나?
+§7[4/8] §2Dr. Picard: §aI thought so. Everyone's story starts the same - In a wagon entering the Wynn province.@§7[4/8] §2피카드 박사: §a그럴 줄 알았네. 모든 사람들의 이야기가 똑같이 시작해. '윈으로 들어가는 마차에서' 부터 말이지.
+§7[5/8] §2Dr. Picard: §aI want to find out more. I've just created this orb which allows me to see people's past.@§7[5/8] §2피카드 박사: §a난 더 많이 알고 싶네. 방금 이 구슬을 만들어서 사람들의 과거를 볼 수 있도록 했으니.
+§7[6/8] §2Dr. Picard: §aSay, would you help me? I need some people originally from Fruma. Can you bring them here?@§7[6/8] §2피카드 박사: §a날 도와줄 수 있겠나? 난 프루마 출신의 사람이 필요하네. 찾는다면 여기로 데려올 수 있겠나?
+§7[7/8] §2Dr. Picard: §aThere is another guard just across the bridge.@§7[7/8] §2피카드 박사: §a다리 건너편에 또 다른 경비원이 있네.
+§7[8/8] §2Dr. Picard: §aSee if he would oblige this experiment. I'm sure they want to find out more.@§7[8/8] §2피카드 박사: §a그가 이 실험에 참여할 수 있는지 알아보게. 분명 그는 더 많은 것을 알고 싶어할 게야.
+§7[1/3] §2Scout Reynauld: §aOh, good! Reinforcements! I've been left here alone to defend Elkurn.@§7[1/3] §2정찰병 레이날드: §a오, 잘됐군! 지원병력이라니! 난 엘쿤을 지키기 위해 여기 혼자 남겨졌거든.
+§7[2/3] §2Scout Reynauld: §aSeriously? You want me to abandon my post? I'm expecting a huge attack from the Roots.@§7[2/3] §2정찰병 레이날드: §a정말인가? 나랑 같이 잠시 어디 좀 가자고? 나는 저 네더 포탈에서 엄청난 공격을 퍼붓는 걸 대비하고 있었다만.
+§7[3/3] §2Scout Reynauld: §aFine, listen. If you help me defend the town, I'll go with you!@§7[3/3] §2정찰병 레이날드: §a그럼 좋아. 마을을 지키는 걸 도와준다면 나도 동행하지.
+§7[1/1] §2Scout Reynauld: §aAlright, here we are. Let me know when you're ready.@§7[1/1] §2정찰병 레이날드: §a좋아, 도착했네. 준비되면 말하게.
+§7[1/1] §2Scout Reynauld: §aAlright, here we are. §bTalk to me §awhen you are ready.@§7[1/1] §2정찰병 레이날드: §a좋아. §a준비되면 §b말하게§a.
+§7[1/4] §2Scout Reynauld: §aOh boy, here they come!@§7[1/4] §2정찰병 레이날드: §a오 이런, 놈들이 온다!
+§7[2/4] §2Scout Reynauld: §aWow! Erected spikes, too?!@§7[2/4] §2정찰병 레이날드: §a와우! 뾰족한 기둥도 있군?
+§7[3/4] §2Scout Reynauld: §aThere's a Corrupted summoner on the other side of this bridge! We gotta destroy it!@§7[3/4] §2정찰병 레이날드: §a다리 건너편에 타락한 소환사가 있네! 가서 처치해야 해!
+§7[4/4] §2Scout Reynauld: §aDefend me while I prepare my explosive arrows to bring down those towers blocking your path to it!@§7[4/4] §2정찰병 레이날드: §a내가 폭발 화살을 준비하는 동안 날 지켜주게! 저 기둥을 폭파시켜서 길을 막을테니!
+§7[1/1] §2Scout Reynauld: §aMy arrow's almost ready...@§7[1/1] §2정찰병 레이날드: §a화살이 거의 다 준비 됐네...
+§7[1/1] §2Scout Reynauld: §aYes! One down, one to go! You're doing great!@§7[1/1] §2정찰병 레이날드: §a좋아! 하나 쓰러졌다, 잘하고 있어! 그럼 한 발 더 간다!
+§7[1/1] §2Scout Reynauld: §aAH! I'm hurt! Come here and help!@§7[1/1] §2정찰병 레이날드: §a으악! 당했네! 도와주게!
+§7[1/3] §2Scout Reynauld: §aAgh... Thanks for the rescue...@§7[1/3] §2정찰병 레이날드: §a으... 도와줘서 고맙네...
+§7[2/3] §2Scout Reynauld: §aTry not to let me get overwhelmed. Now, let's try this again.@§7[2/3] §2정찰병 레이날드: §a내가 당하지 않도록 해주게. 자, 다시 한 번 해보지.
+§7[3/3] §2Scout Reynauld: §aGet ready!@§7[3/3] §2정찰병 레이날드: §a준비!
+§7[1/1] §2Scout Reynauld: §aAlmost got this arrow nocked...@§7[1/1] §2정찰병 레이날드: §a활이 거의 준비 됐어...
+§7[1/1] §2Scout Reynauld: §aBullseye! Now's your chance, go take out that summoner!@§7[1/1] §2정찰병 레이날드: §a명중! 지금이 기회야, 가서 소환사를 처치해!
+§7[1/1] §2Scout Reynauld: §aGreat job, you did it! Now, come back and get these monsters off me!@§7[1/1] §2정찰병 레이날드: §a잘했네, 우리가 해냈어! 이제 돌아와서 이 몬스터들을 좀 해치워주게!
+§7[1/4] §2Scout Reynauld: §aPhew. Thanks for the help, not sure I could have done that alone.@§7[1/4] §2정찰병 레이날드: §a휴, 도와줘서 고맙군. 나 혼자 할 수 있을지 확신이 없었거든.
+§7[2/4] §2Scout Reynauld: §aSo, you want to find out about our past?@§7[2/4] §2정찰병 레이날드: §a그러니까, 우리의 과거에 대해 알고 싶다고?
+§7[3/4] §2Scout Reynauld: §aWell, I must admit I never really thought about it. I guess I could go with you.@§7[3/4] §2정찰병 레이날드: §a사실 과거에 대해 한 번도 안 해봤네. 나도 같이 가겠네.
+§7[4/4] §2Scout Reynauld: §aLead the way, but quick. We can't leave Elkurn unguarded for too long.@§7[4/4] §2정찰병 레이날드: §a길을 안내하되, 빠르게 안내하게. 엘쿤을 오래 방치할 수는 없네.
+§7[1/7] §2Dr. Picard: §aAh, I see you have the soldier.@§7[1/7] §2피카드 박사: §a아, 병사를 데리고 왔군.
+§7[2/7] §2Scout Reynauld: §aSo how exactly were you planning on extracting my memory?@§7[2/7] §2정찰병 레이날드: §a그래서, 정확히 어떻게 제 기억을 확인할 계획이죠? 
+§7[3/7] §2Dr. Picard: §aIn a non painful way, I promise you. Now, if you'll stand over here, please.@§7[3/7] §2피카드 박사: §a고통스럽지 않은 방법이라고 약속하지. 자 여기 서 보게.
+§7[4/7] §2Scout Reynauld: §aYou mean in front of that crystal thing? Alright...@§7[4/7] §2정찰병 레이날드: §a이 수정 같은 것 앞을 말하는 건가요? 뭐 좋습니다...
+§7[5/7] §2Scout Reynauld: §aDo I just look into it?@§7[5/7] §2정찰병 레이날드: §a그냥 쳐다보기만 하는건가요?
+§7[6/7] §2Dr. Picard: §aJust stare into its depths and let that depth reflect into your mind...@§7[6/7] §2피카드 박사: §a깊이 들여다보고 그 깊이가 자네의 마음에 반영되도록 하게...
+§7[7/7] §2Scout Reynauld: §aI don’t feel any- WOAH@§7[7/7] §2정찰병 레이날드: §a아무런 느낌도 없- 후아
+§7[1/12] §2Reynauld: §a*Sigh*, what a day.@§7[1/12] §2레이날드: §a*한숨*, 정말 바쁘군.
+§7[2/12] §2Reynauld: §aIs the water any better?@§7[2/12] §2레이날드: §a물은 좀 괜찮아?
+§7[3/12] §2Heine: §a*Sigh*, there's barely enough for us and the horses.@§7[3/12] §2헤이네: §a*한숨* 우리와 말들이 살기에는 충분하지 않아.
+§7[4/12] §2Heine: §aI don't see why the Royalty has to irrigate from our rivers.@§7[4/12] §2헤이네: §a왜 왕족이 우리 강에서 물을 사용하는지 모르겠어.
+§7[5/12] §2Imperial Guard: §aThe Palace has ordered an inquest into the productivity of this village. You are behind on your crop deliveries.@§7[5/12] §2왕실 근위병: §a왕국에서 이 마을의 생산량에 대한 조사를 명령했다. 넌 농작물 배달이 늦는군.
+§7[6/12] §2Reynauld: §aSir, we tried but the farms don't have enough clean water since the Palace dammed up the river!@§7[6/12] §2레이날드: §a선생님, 저희가 시도는 했지만 왕국에서 강을 댐으로 막아버려서 농장에 물이 부족합니다!
+§7[7/12] §2Imperial Soldier: §aAre you insulting the work of our royal engineers?@§7[7/12] §2왕실 병사: §a우리 왕실 기술자들의 일을 모욕한 건가?
+§7[8/12] §2Reynauld: §aWhat? No! I'm just explaining- Please! I have a family I didn't speak out of turn.@§7[8/12] §2레이날드: §a예? 아닙니다! 그냥 설명하려는 겁니다- 부탁드립니다! 전 아직 말도 못하는 가족이 있습니다.
+§7[9/12] §2Reynauld: §aHeine? Look after the kids. I'll be back soon!@§7[9/12] §2레이날드: §a헤이네? 애들 좀 봐줘. 금방 돌아올게!
+§7[10/12] §2Imperial Guard: §aThe Palace does not tolerate insubordination. Reynauld you are to be tried for Lèse-majesté.@§7[10/12] §2왕실 근위병: §a왕실은 불복종을 용납하지 않는다. 레이날드, 넌 국가에 대한 모욕죄로 재판을 받게 될 것이다.
+§7[11/12] §2Imperial Guard: §aThis village would do well to remember who protects them from external forces.@§7[11/12] §2왕실 근위병: §a그리고 이 마을은 누가 적들로부터 마을을 지켜주는지 기억하는 것이 좋을 거야.
+§7[12/12] §2Dr. Picard: §aHey. HEY! It's not real. Just a memory! Talk to me!@§7[12/12] §2피카드 박사: §a이봐. 이봐! 이건 진짜가 아닐세. 그냥 기억일 뿐이라고! 말 좀 해보게!
+§7[1/5] §2Dr. Picard: §aWell, that was unexpected. I didn't anticipate subjects would relive them that vividly.@§7[1/5] §2피카드 박사: §a예상치 못한 일이야. 피험자들의 기억이 이렇게 생생하게 되살아날 줄은 몰랐네.
+§7[2/5] §2Dr. Picard: §aTo think Reynauld had a whole family and life before he came here.@§7[2/5] §2피카드 박사: §a레이날드가 여기 오기 전에 가족과 함께한 삶이 있었어.
+§7[3/5] §2Dr. Picard: §aDo you think you could get me one more subject? We need to find out more.@§7[3/5] §2피카드 박사: §a한 명만 더 데려올 수 있겠나? 좀 더 연구해야겠네.
+§7[4/5] §2Dr. Picard: §aThere's a sailor close to Elkurn from Fruma. Maybe you could go ask him?@§7[4/5] §2피카드 박사: §a프루마 출신의 선원이 엘쿤 근처에 있네. 가서 좀 물어봐줄 수 있겠나?
+§7[5/5] §2Dr. Picard: §aCross the bridge you took earlier and continue past Elkurn. He should be by the river.@§7[5/5] §2피카드 박사: §a자네가 건넌 다리를 건너고 엘쿤을 지나서 계속 가게. 그는 강가에 있을 테니.
+§7[1/5] §2Caid: §aYep, I'm the sailor. Pretty sure I'm from Fruma, came here on the same cart as you.@§7[1/5] §2카이드: §a네, 제가 그 선원입니다. 프루마에서 온 게 확실해요. 저도 당신처럼 카트를 타고 여기 왔거든요.
+§7[2/5] §2Caid: §aI'm not sure I want to know about it... I must have left for a reason, right?@§7[2/5] §2카이드: §a제가 알고 싶어 하는지 잘 모르겠습니다. 하지만 제가 떠난 이유가 있을겁니다, 그렇겠죠?
+§7[3/5] §2Caid: §aWait, Reynauld had his done? Hmm, I guess it couldn't hurt.@§7[3/5] §2카이드: §a잠깐만요, 레이날드가 과거를 봤다고요? 흠, 그럼 나쁠 거 없죠.
+§7[4/5] §2Caid: §aHowever, I have an issue. I've navigated my boat into a creek instead of the river..@§7[4/5] §2카이드: §a근데, 문제가 있어요. 제가 강이 아니라 개울로 배를 몰고 가버렸습니다...
+§7[5/5] §2Caid: §aMaybe we can use some magic to shrink the boat? Maybe someone in Elkurn knows? An alchemist maybe?@§7[5/5] §2카이드: §a엘쿤에 있는 누군가라면 마법을 써서 배를 작게 만들 수 있을겁니다. 아니면 연금술사 라던가.
+§7[1/6] §2Alchemist: §aLooking for potions?@§7[1/6] §2연금술사: §a물약을 찾나?
+§7[2/6] §2Alchemist: §aThis is the best potion shop in Elkurn! A what? Excuse me?@§7[2/6] §2연금술사: §a여기가 엘쿤에서 가장 큰 물약집이야! 뭐? 뭐라고?
+§7[3/6] §2Alchemist: §aA shrinking potion? No, we do not sell those here...@§7[3/6] §2연금술사: §a축소 물약? 없어, 그런 물약은 안팔아.
+§7[4/6] §2Alchemist: §aOr... hold up. I think I know how to make one, I've never done it before though.@§7[4/6] §2연금술사: §a아니면... 잠깐만. 내가 만드는 법은 알아. 근데 한 번도 해본 적이 없어.
+§7[5/6] §2Alchemist: §aIf I remember correctly... I need §3[1 Golden Apple]§a, §3[1 Bottle of Water] §aand lastly, §3[1 Bloom of Doom].@§7[5/6] §2연금술사: §a내가 제대로 기억하는거면... §3[1 황금 사과]§a, §3[1 신선한 물] §a그리고 마지막으로, §3[1 파멸의 꽃]§a 이 필요해.
+§7[6/6] §2Alchemist: §aGolden apples grow in certain big apple trees. Bottles of water should be available here in town. Blooms of Doom grow near death, try looking near the Elkurn church. Watch out, they aren't the friendliest.@§7[6/6] §2연금술사: §a황금사과는 어떤 큰 사과나무에서 자라. 그리고 여기 마을에서 물 한 병을 떠야하고. 파멸의 꽃은 죽음 가까이에서 자라, 엘쿤 교회 근처를 살펴봐. 조심해, 쉽게 얻진 못 할거야.
+§7[1/5] §2Caid: §aYou know, the more I look at this, the more I wonder how I did this.@§7[1/5] §2카이드: §a이걸 보면 볼수록 어떻게 한건지 궁금해지네요.
+§7[2/5] §2Caid: §aThanks for getting the potion. Let's see if it works. If it does I'll follow you to the tower.@§7[2/5] §2카이드: §a물약을 가져다 주셔서 고마워요. 효과가 있는지 보죠. 효과가 있다면 탑으로 따라 갈게요.
+§7[3/5] §2Caid: §a...@§7[3/5] §2카이드: §a...
+§7[4/5] §2Caid: §aI mean... It certainly shrunk. Do I even fit now?@§7[4/5] §2카이드: §a제 말이... 확실히 줄어들었네요. 이젠 제가 배에 들어갈 수는 있긴 한건가요?
+§7[5/5] §2Caid: §aI guess you held up your side of the deal. I'll follow you.@§7[5/5] §2카이드: §a어쨌든 거래가 잘 이루어진 것 같네요. 따라가죠.
+§7[1/5] §2Dr. Picard: §aAhhh, another Fruman. Let's see if his story is the same as Reynauld's.@§7[1/5] §2피카드 박사: §a아, 또 다른 프루마 사람이군. 레이날드와 같은 이야기를 하는지 보지.
+§7[2/5] §2Sailor Caid: §aI am still not sure about this, I'm kind of happy here.@§7[2/5] §2선원 카이드: §a아직 확신을 못하겠어요. 전 여기가 행복하거든요.
+§7[3/5] §2Dr. Picard: §aNothing to worry about, it won't change who you are now.@§7[3/5] §2피카드 박사: §a걱정하지 말게, 자네가 누구인지는 변하지 않을 거니까.
+§7[4/5] §2Dr. Picard: §aWait for it...@§7[4/5] §2피카드 박사: §a기다리게...
+§7[5/5] §2Sailor Caid: §aHold up. What is going on?@§7[5/5] §2선원 카이드: §a잠깐만요. 이게 무슨 일이죠?
+§7[1/7] §2???: §aAHHH!!!!!@§7[1/7] §2???: §a으아아아!!!!
+§7[2/7] §2Imperial Guard §aMove.@§7[2/7] §2왕실 근위병: §a움직여라.
+§7[3/7] §2Caid §aCARA! @§7[3/7] §2카이드: §a카라!
+§7[4/7] §2Imperial Guard: §aCara is under arrest. She is coming with me.@§7[4/7] §2왕실 근위병: §a카라는 체포되었다. 그녀는 나와 함께 갈 것이다.
+§7[5/7] §2Caid: §aGET YOUR HANDS OFF OF HER!@§7[5/7] §2카이드: §a그녀에게서 손 떼!
+§7[6/7] §2Imperial Guard §aPerhaps you would like to go in her place? @§7[6/7] §2왕실 근위병: §a네가 그녀 대신 갈 생각인가?
+§7[7/7] §2Dr. Picard: §aHey. Earth to human.@§7[7/7] §2피카드 박사: §a이보게 병사.
+§7[1/4] §2Dr. Picard: §aHmmm... This doesn't look too good.@§7[1/4] §2피카드 박사: §a흠... 이건 좋지 않은데.
+§7[2/4] §2Dr. Picard: §aJust what is happening in Fruma? They've locked that province away for hundreds and hundreds of years and now this?@§7[2/4] §2피카드 박사: §a프루마에서 무슨 일이 일어나고 있는 거지? 수백년 동안이나 프루마는 잠겨 있었는데, 지금 이런 상황이란 말인가?
+§7[3/4] §2Dr. Picard: §aWe should see if we can uncover more about Fruma.@§7[3/4] §2피카드 박사: §a프루마에 대해 더 알아낼 수 있는지 봐야겠군.
+§7[4/4] §2Dr. Picard: §aEdwin could be our next subject, he lives near the Nesaak border, just take the road south of here and you'll see his farmhouse.@§7[4/4] §2피카드 박사: §a에드윈은 다음 대상이야. 그는 네삭 근처에 살고 있네. 여기서 남쪽의 길을 따라가면 그의 농가가 보일 걸세.
+§7[1/5] §2Edwin: §aFruma? Don't remember nothing. Don't want to neither.@§7[1/5] §2에드윈: §a프루마? 아무것도 기억하지 못 해. 기억하기도 싫고.
+§7[2/5] §2Edwin: §aNo, I don't. I have more important things to think about than some mystery province.@§7[2/5] §2에드윈: §a아니, 기억 없어. 난 그런 수수께끼의 지역보다 더 중요한 생각을 하고 있다고.
+§7[3/5] §2Edwin: §aWell, my water source has frozen over and my crops are struggling.@§7[3/5] §2에드윈: §a음, 내 수원은 얼어붙었고 내 작물들이 고생중이야.
+§7[4/5] §2Edwin: §aIt's like the snow has slowly been encroaching on my farm.@§7[4/5] §2에드윈: §a마치 눈이 내 농장을 잠식하는 것 같아.
+§7[5/5] §2Edwin: §aCan you climb up the mountain and break through it? If you can water my plants I will go with you. There's a cave next to my farm that leads to the top.@§7[5/5] §2에드윈: §a산 위로 올라가서 얼음을 부술 수 있겠나? 내 식물에 물을 줄 수만 있다면 널 따라가지. 농장 옆에 산꼭대기로 이어지는 동굴이 있으니 그곳으로 가.
+§7[1/3] §2Edwin: §aYou army folk sure keep your promises.@§7[1/3] §2에드윈: §a너희 군인들은 약속을 꼭 지키는군.
+§7[2/3] §2Edwin: §aI guess I have to hold up my end.@§7[2/3] §2에드윈: §a나도 내가 한 말을 지켜야지.
+§7[3/3] §2Edwin: §aLead the way.@§7[3/3] §2에드윈: §a길을 안내 해.
+§7[1/5] §2Dr. Picard: §aAh, I see you have the third subject.@§7[1/5] §2피카드 박사: §a아, 세 번째 대상이 왔군.
+§7[2/5] §2Edwin: §aPfft! I'm not some subject!@§7[2/5] §2에드윈: §a난 대상이 아니야!
+§7[3/5] §2Dr. Picard: §aMy apologies. Please, stand in front of the orb.@§7[3/5] §2피카드 박사: §a아 미안하군. 부탁이니, 일단 구슬 앞에 서게.
+§7[5/5] §2Edwin: §aWAAAAO!!!!!!!@§7[5/5] §2에드윈: §a으아아아아!!!!!!!
+§7[1/23] §2Edwin: §aWhy are you doing this!?@§7[1/23] §2에드윈: §a왜 이러는 거야!
+§7[2/23] §2Imperial Guard: §aOrder of her majesty.@§7[2/23] §2왕실 근위병: §a폐하의 명령이다.
+§7[3/23] §2Edwin: §aLET ME OUT! WHAT IS THIS!@§7[3/23] §2에드윈: §a날 풀어줘! 이게 뭐야!
+§7[4/23] §2Caid: §aHey you. Calm down. There's no point in yelling...@§7[4/23] §2카이드: §a이봐, 진정하라고. 소리지르는건 아무 의미 없어.
+§7[5/23] §2Edwin: §aWhat... what do you mean?@§7[5/23] §2에드윈: §a그... 그게 무슨 말이지?
+§7[6/23] §2Caid: §aThere is no escape here. The guards come in once in a while and take people... people who are never seen again...@§7[6/23] §2카이드: §a여기에 탈출구는 없어. 그저 간수들이 가끔 와서 다시는 볼 수 없을 사람들을 데려가곤 하지.
+§7[7/23] §2Edwin: §aWhere are they being taken?@§7[7/23] §2에드윈: §a어디로 데려가는 거지?
+§7[8/23] §2Caid: §aNo one knows... The last person they took was... Alen? Alida? Alegar?@§7[8/23] §2카이드: §a아무도 몰라. 그들이 마지막으로 데려간 사람이... 알렌? 알리다? 알레가? 
+§7[9/23] §2Imperial Guard: §aCaid! You are being transfered.@§7[9/23] §2왕실 근위병: §a카이드! 넌 이송될 거다.
+§7[10/23] §2Caid: §aWh-what. I... don't want to go!@§7[10/23] §2카이드: §a무... 뭐, 난 가고 싶지 않아!
+§7[11/23] §2Imperial Guard: §aWalk. Or you will be executed on the spot.@§7[11/23] §2왕실 근위병: §a움직여, 아니면 넌 처형될거다.
+§7[12/23] §2Caid: §aWhat are you doing!?@§7[12/23] §2카이드: §a뭘 하는 거야!
+§7[13/23] §2Imperial Guard: §aShut it.@§7[13/23] §2왕실 근위병: §a닥쳐라.
+§7[14/23] §2Imperial Guard: §aThere is no war inside the Fruman walls.@§7[14/23] §2왕실 근위병: §a프루마의 벽 너머에는 전쟁이 없다.
+§7[15/23] §2Imperial Guard: §aThere is no war inside the Fruman walls.@§7[15/23] §2왕실 근위병: §a프루마의 벽 너머에는 전쟁이 없다.
+§7[16/23] §2Imperial Guard: §aThere is no war inside the Fruman walls.@§7[16/23] §2왕실 근위병: §a프루마의 벽 너머에는 전쟁이 없다.
+§7[17/23] §2Imperial Guard: §aThere is no war inside the Fruman walls.@§7[17/23] §2왕실 근위병: §a프루마의 벽 너머에는 전쟁이 없다.
+§7[18/23] §2Imperial Guard: §aThere is no war inside the Fruman walls.@§7[18/23] §2왕실 근위병: §a프루마의 벽 너머에는 전쟁이 없다.
+§7[19/23] §2Imperial Guard: §aThere is no war inside the Fruman walls.@§7[19/23] §2왕실 근위병: §a프루마의 벽 너머에는 전쟁이 없다.
+§7[20/23] §2Imperial Guard: §aThere is no war inside the Fruman walls.@§7[20/23] §2왕실 근위병: §a프루마의 벽 너머에는 전쟁이 없다.
+§7[21/23] §2Imperial Guard: §aThere is no war inside the Fruman walls.@§7[21/23] §2왕실 근위병: §a프루마의 벽 너머에는 전쟁이 없다.
+§7[23/23] §2Dr. Picard: §aYou need to find an exit or you will be sucked into the memory without chance of returning. HURRY!@§7[23/23] §2피카드 박사: §a출구를 찾게! 아니면 돌아올 기회도 없이 기억 속으로 빨려 들어가게 될 거야, 서두르게!
+§7[1/5] §2Dr. Picard: §aOkay, three Frumans have seen the same thing. Why are they sending their people here?@§7[1/5] §2피카드 박사: §a좋아, 다른 세 명의 프루마 사람도 같은 걸 봤네. 왜 사람들을 윈으로 보내는 거지?
+§7[2/5] §2Dr. Picard: §aThis asks more questions than it answers. Those people didn't do anything wrong.@§7[2/5] §2피카드 박사: §a이 일로 얻는 정보보다 이 정보 때문에 더 많은 질문이 생기는군. 그 사람들은 잘못한 게 없네.
+§7[3/5] §2Dr. Picard: §aThe only thing left is to check your own memory. To see if you also experienced the same thing.@§7[3/5] §2피카드 박사: §a남은 건 자기 기억을 확인하는 것뿐이야. 자네도 같은 경험을 했는지 알아보는 거지.
+§7[4/5] §2Dr. Picard: §aStand on this red carpet here and we'll get started.@§7[4/5] §2피카드 박사: §a여기 빨간 카펫 위에 서면 시작하겠네.
+§7[5/5] §2Dr. Picard: §aWait for it...@§7[5/5] §2피카드 박사: §a기다리게...
+§7[1/4] §2Dr. Picard: §aAre you okay?@§7[1/4] §2피카드 박사: §a자네 괜찮나?
+§7[2/4] §2Dr. Picard: §aThe other subjects never experienced that powerful of a reaction, it's almost like we were accessing memories that never existed.@§7[2/4] §2피카드 박사: §a다른 피험자들은 그런 강력한 반응이 나오지 않았네. 이건 우리가 존재하지 않았던 기억에 접근하는 것 같아.
+§7[3/4] §2Dr. Picard: §aIt's almost as if you didn't have a life before you came to Wynn.@§7[3/4] §2피카드 박사: §a마치 윈에 오기 전에 삶이 없었던 것 같네.
+§7[4/4] §2Dr. Picard: §aI need to do more research on this, thank you for helping me. Here's a small reward, hope we can discover what really goes on behind the walls of Fruma.@§7[4/4] §2피카드 박사: §a이것에 대해 더 많은 연구가 필요해. 오늘 도와줘서 고맙네. 여기 작은 보상이 있네. 프루마의 벽 뒤에서 무슨 일이 벌어지고 있는 건지 알아낼 수 있기를 바라지.
 
-§7[1/1] §2Dr. Picard: §aHello, again! If you want to reset your skill points, use my assistant to my right!@§7[1/1] §2Др. Пикард: §aЗдравствуй опять! Если ты хочешь сбросить свои очки умений, используй моего помощника справа от меня!
-§7[1/2] §2Dr. Picard: §aGah, I could really use a Fruman brain right now... Oh, hey! You're Fruman, right?@§7[1/2] §2Др. Пикард: §aАга, мне бы сейчас очень пригодился мозг человека из Фрумы... О, привет! Ты ведь Фруман, верно?
-§7[2/2] §2Dr. Picard: §aWell, you're still not quite experienced enough to aid me... Come back when you're level 25, then we can talk.@§7[2/2] §2Др. Пикард: §aНу, ты все еще недостаточно опытен, чтобы помочь мне... Возвращайся, когда достигнешь 25-го уровня, тогда и поговорим.
-§7[1/1] §2Alchemist: §aNice to meet you again. I heard the shrinking potion actually worked, which is quite interesting.@§7[1/1] §2Алхимик: §aПриятно снова с тобой увидиться. Я слышал, что уменьшающее зелье действительно работает, что довольно интересно.
-§7[1/1] §2Dr. Picard: §aAre you getting my test subjects for me?@§7[1/1] §2Др. Пикард: §aТы достанешь для меня подопытных?
-§7[1/1] §2Alchemist: §aIf you have the items, mix them together in the brewing stand next to me.@§7[1/1] §2Алхимик: §aЕсли у тебя есть предметы, смешай их вместе в зельеварочной стойке рядом со мной.
-§7[1/1] §2Alchemist: §aArgh... Not like that... Oh, hello there! If you are looking for a potion I'm unfortunately a bit busy... Try coming back later.@§7[1/1] §2Алхимик: §aАргх... Только не это... О, привет! Если ты ищешь зелье, я, к сожалению, немного занят... Попробуй зайти попозже.
-§7[1/1] §2Scout Reynauld: §aAlright, here we are. §bTalk to me §awhen you are ready.@§7[1/1] §2Скаут Рейнольд: §aЛадно, вот мы и пришли. §bПоговори со мной§a, когда будешь готов.
+§7[1/1] §2Dr. Picard: §aHello, again! If you want to reset your skill points, use my assistant to my right!@§7[1/1] §2피카드 박사: §a다시 만나 반갑네! 자네가 스킬 포인트를 재설정하고 싶다면 옆에 있는 내 조수를 이용하게!
+§7[1/2] §2Dr. Picard: §aGah, I could really use a Fruman brain right now... Oh, hey! You're Fruman, right?@§7[1/2] §2피카드 박사: §a아, 지금 당장 프루마 사람의 머리를 사용할 수 있을 것 같군. 오, 이봐! 자네 프루마 사람인가! 
+§7[2/2] §2Dr. Picard: §aWell, you're still not quite experienced enough to aid me... Come back when you're level 25, then we can talk.@§7[2/2] §2피카드 박사: §a음, 아직 날 도와줄 만큼 경험이 많지 않군. 전투 레벨 25를 달성하면 그때 얘기하지.
+§7[1/1] §2Alchemist: §aNice to meet you again. I heard the shrinking potion actually worked, which is quite interesting.@§7[1/1] §2연금술사: §a다시 만나서 반갑군. 약이 잘 작동한다고 들었는데, 정말 흥미롭군.
+§7[1/1] §2Dr. Picard: §aAre you getting my test subjects for me?@§7[1/1] §2피카드 박사: §a실험 대상은 데려오고 있나?
+§7[1/1] §2Alchemist: §aIf you have the items, mix them together in the brewing stand next to me.@§7[1/1] §2연금술사: §a재료를 구했다면 내 옆에 있는 양조기에서 함께 섞게.
+§7[1/1] §2Alchemist: §aArgh... Not like that... Oh, hello there! If you are looking for a potion I'm unfortunately a bit busy... Try coming back later.@§7[1/1] §2연금술사: §a어... 그런게 아니라... 오, 반가워! 약을 찾고 있나? 근데 내가 좀 바뻐. 나중에 다시 와.

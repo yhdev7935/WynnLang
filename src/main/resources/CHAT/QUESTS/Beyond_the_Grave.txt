@@ -1,67 +1,68 @@
-§7[1/7] §2Irlok: §aWelcome to Bantisu Temple. We guide adventuring souls onwards.@§7[1/7] §2Ирлок: §aДобро пожаловать в Храм Бантису. Мы направляем заблудшие души на путь истинный.
-§7[2/7] §2Irlok: §aThere is a monster of such immense power, none of us here are capable of killing it.@§7[2/7] §2Ирлок: §aЕсть один очень сильный монстр с безграничной силой, которого никто из нас не может победить.
-§7[3/7] §2Irlok: §aWe are offering the highest reward possible for its slaughter. Be warned though, to face the monster is to face your worst fears.@§7[3/7] §2Ирлок: §aМы предлагаем самую большую награду за его убийство. Будь осторожен, ведь если посмотреть ему в глаза, то ты столкнешься со своими страхами.
-§7[4/7] §2Irlok: §aIt frequently takes the lives of many people attempting to cross the canyon, and we need it removed.@§7[4/7] §2Ирлок: §aОн часто забирает жизни тех, кто пытается пройти через каньон, и нам нужно избавиться от него.
-§7[5/7] §2Irlok: §aWe drove the beast into a cave and attempted to shut it in, but it's become a danger to us all again.@§7[5/7] §2Ирлок: §aМы смогли заманить зверя в пещеру и ненадолго запереть там. Но сейчас он снова угрожает нашим жизням.
-§7[6/7] §2Irlok: §aHe is located at the bottom of the canyon, right next to a popular road. If you follow the path down the mountain, you should find the mine. I wrote down the exact location in your book.@§7[6/7] §2Ирлок: §aПещера находится на дне каньона, справа от основной дороги. Если ты спустишься вниз с горы по дороге, то ты найдешь шахту. Я написал координаты в твоей книге.
-§7[7/7] §2Irlok: §aIf somehow you succeed, you will be handsomely rewarded. I look forward to seeing you on the other side.@§7[7/7] §2Ирлок: §aЕсли ты справишься с ним, то мы тебя наградим. Я с нетерпением жду встречи с тобой на другой стороне.
-§7[1/4] §2Death: §aIT SEEMS I HAVE A NEW GUEST. WELCOME.@§7[1/4] §2Смерть: §aПОХОЖЕ У НАС НОВЫЙ ГОСТЬ. ДОБРО ПОЖАЛОВАТЬ.
-§7[2/4] §2Death: §aMAKE YOURSELF COMFORTABLE. YOU'LL BE STAYING HERE FOR A WHILE.@§7[2/4] §2Смерть: §aЧУВСТВУЙ СЕБЯ КАК ДОМА. ТАК КАК ТЫ ТУТ ОСТАНЕШЬСЯ НАВЕЧНО.
-§7[3/4] §2Death: §aNOTHING IS STOPPING YOU FROM TAKING A LOOK AROUND. DON'T TOUCH ANYTHING THOUGH. AND TAKE OFF YOUR SHOES AS YOU ENTER.@§7[3/4] §2Смерть: §aМОЖЕШЬ ПРОХОДИТЬ И ОСМОТРЕТЬСЯ. НО НИЧЕГО РУКАМИ НЕ ТРОГАЙ. И СНИМИ БОТИНКИ НА ВХОДЕ.
-§7[4/4] §2Death: §aWHEN YOU FEEL LIKE IT, COME TO MY OFFICE UPSTAIRS. WE HAVE A LENGTHY TALK TO HAVE.@§7[4/4] §2Смерть: §aКОГДА ОСМОТРИШЬСЯ, ПРИХОДИ В МОЙ ОФИС НАВЕРХУ. У НАС БУДЕТ ДЛИННЫЙ РАЗГОВОР.
-§7[1/4] §2Death: §aTHIS IS MY OFFICE. GUESS WHAT I DO HERE. HUH?@§7[1/4] §2Смерть: §aЭТО МОЙ ОФИС. ЗНАЕШЬ, ЧТО Я ДЕЛАЮ ЗДЕСЬ, А?
-§7[1/14] §2Death: §aI KNOW THIS SEEMS LIKE AN ODD PLACE TO BE. SITTING IN FRONT OF DEATH.@§7[1/14] §2Смерть: §aЯ ЗНАЮ, ЭТО ВЫГЛЯДИТ СТРАННО ДЛЯ ТЕБЯ. СИДЕТЬ ПРЯМО НАПРОТИВ СМЕРТИ.
-§7[2/14] §2Death: §aTHE TRUTH IS, YOU HAVE BEEN HERE MANY TIMES BEFORE.@§7[2/14] §2Смерть: §aПРАВДА В ТОМ, ЧТО ТЫ БЫЛ ЗДЕСЬ УЖЕ МНОГО РАЗ.
-§7[3/14] §2Death: §aBUT A MORTAL MAY NEVER BE ALLOWED TO SPEAK OF MY REALM.@§7[3/14] §2Смерть: §aНО СМЕРТНЫМ НИКОГДА НЕ РАЗРЕШАЕТСЯ ГОВОРИТЬ О МОЕМ ЦАРСТВЕ.
-§7[4/14] §2Death: §aSO I MAKE EVERYONE WHO VISITS, SIMPLY FORGET.@§7[4/14] §2Смерть: §aТАК ЧТО ВСЕ КТО ПОБЫВАЛ ЗДЕСЬ – ВОЗВРАЩАЮТСЯ НАЗАД БЕЗ ПАМЯТИ.
-§7[5/14] §2Death: §aIT'S EASIER ON EVERYONE THAT WAY. YOU WOULDN'T WANT TO TELL PEOPLE ABOUT YOUR DEATH, THAT WOULD BE WEIRD.@§7[5/14] §2Смерть: §aТАК ПРОЩЕ ДЛЯ ВСЕХ. ПРЕДСТАВЬ, ЧТО ТЫ БЫ МОГ РАССКАЗАТЬ ЛЮДЯМ О СВОЕЙ СМЕРТИ, ЭТО БЫЛО БЫ ОЧЕНЬ СТРАННО.
-§7[6/14] §2Death: §aTHIS TIME, HOWEVER, I SHALL LET YOU REMEMBER YOUR JOURNEY HERE.@§7[6/14] §2Смерть: §aВ ЭТОТ РАЗ, ОДНАКО, Я ПОЗВОЛЮ ЗАПОМНИТЬ ТВОЕ ПУТЕШЕСТВИЕ ЗДЕСЬ.
-§7[7/14] §2Death: §aWHY YOU ASK?@§7[7/14] §2Смерть: §aТЫ СПРАШИВАЕШЬ ПОЧЕМУ?
-§7[8/14] §2Death: §aOH, YOU WOULDN'T WANT TO FORGET THE JOURNEY OF A §a§oLIFETIME§a, RIGHT?@§7[8/14] §2Смерть: §aОХ, ТЫ ЖЕ НЕ ХОЧЕШЬ ЗАБЫТЬ §a§oВСЮ СВОЮ ЖИЗНЬ§a, ВЕРНО?
-§7[2/4] §2Death: §aI §a§oDIE§a OF BOREDOM.@§7[2/4] §2Смерть: §aЯ §oУМИРАЮ§a ОТ СКУКИ.
-§7[9/14] §2Death: §aI ALWAYS ALLOW PEOPLE THE OPPORTUNITY TO RE-ENTER THE MORTAL PLAIN.@§7[9/14] §2Смерть: §aЯ ВСЕГДА РАЗРЕШАЮ ЛЮДЯМ ПОТОРГОВАТЬСЯ СО МНОЙ О СВОЕЙ СУДЬБЕ.
-§7[10/14] §2Death: §aCALL IT BARGAINING WITH DEATH IF YOU LIKE. TRUTH IS, I JUST GET A BIT BORED.@§7[10/14] §2Смерть: §aМОЖЕШЬ НАЗЫВАТЬ ЭТО СОГЛАШЕНИЕ СО СМЕРТЬЮ, ЕСЛИ ХОЧЕШЬ. НО ПОВЕРЬ МНЕ, ДЛЯ МЕНЯ ЭТО СКУЧНОЕ ЗАНЯТИЕ.
-§7[11/14] §2Death: §aIF YOU WISH TO RETURN TO LIFE, AND I CAN NEVER UNDERSTAND WHY PEOPLE DO, ALL YOU HAVE TO DO IS BEAT THAT WHICH SENT YOU HERE.@§7[11/14] §2Смерть: §aЕСЛИ ТЫ ХОЧЕШЬ ВЕРНУТЬСЯ К ЖИЗНИ, А Я НИКОГДА НЕ ПОНИМАЛА, ПОЧЕМУ ЛЮДИ ХОТЯТ ЭТОГО, ТО ВСЕ ЧТО ТЕБЕ НУЖНО - ЭТО ПОБЕДИТЬ ТО, ЧТО ПРИВЕЛО ТЕБЯ СЮДА.
-§7[12/14] §2Death: §aIN YOUR CASE, IT IS THE CREATION KNOWN AS KROLTON. WHEN YOU ARE READY, YOU CAN ENGAGE HIM ONCE MORE BY ENTERING THE DOOR AT THE BACK OF MY REALM.@§7[12/14] §2Смерть: §aВ ТВОЕМ СЛУЧАЕ, ЭТО СУЩЕСТВО ПОД НАЗВАНИЕМ КРОЛТОН. КОГДА ТЫ БУДЕШЬ ГОТОВ, ТЫ МОЖЕШЬ СРАЗИТЬСЯ С НИМ ЕЩЕ РАЗ, ПРОСТО ВЫЙДЯ В ТУ ДВЕРЬ, ЧТО ПОЗАДИ МОЕГО ЦАРСТВА.
-§7[13/14] §2Death: §aI DO ENJOY MY CHATS WITH HUMANS, THEY NEVER SAY ANYTHING.@§7[13/14] §2Смерть: §aОБОЖАЮ МОИ РАЗГОВОРЫ С ЛЮДЬМИ, ОНИ НИКОГДА НИЧЕГО НЕ ГОВОРЯТ.
-§7[14/14] §2Death: §aWHICH IS ODD, BECAUSE OUT OF THE TWO OF US, THEY ARE THE ONES WITH VOCAL CHORDS.@§7[14/14] §2Смерть: §aХОТЯ ЭТО СТРАННО, ПОТОМУ ЧТО ТОЛЬКО У ОДНОГО ИЗ НАС ЕСТЬ ГОЛОСОВЫЕ СВЯЗКИ.
-§7[3/4] §2Death: §a...REALLY? NOTHING? YOU HUMANS HAVE NO SENSE OF HUMOUR.@§7[3/4] §2Смерть: §a...СЕРЬЕЗНО? ДАЖЕ НЕ УЛЫБНУЛСЯ? ПОХОЖЕ, У ЛЮДЕЙ СОВСЕМ НЕТ ЧУВСТВА ЮМОРА.
-§7[4/4] §2Death: §aPLEASE TAKE A SEAT. LET'S REVIEW YOUR OPTIONS.@§7[4/4] §2Смерть: §aПОЖАЛУЙСТА, ПРИСАЖИВАЙСЯ. ОБСУДИМ ТВОИ ВАРИАНТЫ.
-§7[1/3] §2Death: §aI SUGGEST YOU DON'T EAT ANYTHING THAT YOU ARE SERVED HERE, I HEARD IT IS TO §a§oDIE§a FOR.@§7[1/3] §2Смерть: §aНАДЕЮСЬ, ТЫ НИЧЕГО НЕ СЪЕЛ СО СТОЛА, ТАК КАК СЛЫШАЛА, ЧТО ЗА ЭТО МОЖНО §a§oУМЕРЕТЬ§a.
-§7[2/3] §2Death: §aIF I HAD BOUGHT ANY WHEAT THIS MORNING, I'D OFFER A BISCUIT AS CONSOLATION FOR DYING.@§7[2/3] §2Смерть: §aЕСЛИ БЫ Я КУПИЛА НЕМНОГО МУКИ СЕГОДНЯ УТРОМ, Я БЫ КОНЕЧНО ИСПЕКЛА БИСКВИТ КАК УТЕШЕНИЕ ДЛЯ ПОГИБШИХ.
-§7[1/4] §2Death: §aTHESE HOURGLASSES SHOW THE LIFESPAN OF HUMANS. WHEN ALL THE SAND HITS THE BOTTOM, I GET A NEW GUEST.@§7[1/4] §2Смерть: §aЭТИ ПЕСОЧНЫЕ ЧАСЫ ПОКАЗЫВАЮТ ПРОДОЛЖИТЕЛЬНОСТЬ ЖИЗНИ ЧЕЛОВЕКА. КОГДА ВЕСЬ ПЕСОК ПАДАЕТ НА ДНО, Я ПОЛУЧАЮ НОВОГО ГОСТЯ.
-§7[3/3] §2Death: §aIT'S A SHAME, REALLY. I'M TOLD I MAKE THE BEST LITTLE CHOCOLATE CHIP ONES.@§7[3/3] §2Смерть: §aМНЕ ОЧЕНЬ СТЫДНО, ПРАВДА. Я ГОВОРИЛА, ЧТО ДЕЛАЮ ЛУЧШИЕ МАЛЕНЬКИЕ ШОКОЛАДНЫЕ КЕКСЫ?
-§7[2/4] §2Death: §aOH LOOK, HERE'S YOURS. IT SAYS YOU'VE BEEN HERE 325 TIMES IN THE LAST THREE MONTHS. SORRY, 326 NOW.@§7[2/4] §2Смерть: §aО, СМОТРИ, ВОТ ТВОЙ. ЗДЕСЬ СКАЗАНО, ЧТО ТЫ БЫЛ ЗДЕСЬ 325 РАЗ ЗА ПОСЛЕДНИЕ ТРИ МЕСЯЦА. ИЗВИНИ, УЖЕ 326.
-§7[3/4] §2Death: §aMY MIND MUST HAVE SLIPPED, I FORGOT TO MENTION THE MASSIVE HOURGLASS. IT SHOWS HOW MUCH TIME THE WORLD HAS LEFT.@§7[3/4] §2Смерть: §aМОЙ РАЗУМ, ДОЛЖНО БЫТЬ, ПОМУТИЛСЯ, Я ЗАБЫЛА УПОМЯНУТЬ МАССИВНЫЕ ПЕСОЧНЫЕ ЧАСЫ. ОНИ ПОКАЗЫВАЕТ, СКОЛЬКО ВРЕМЕНИ ОСТАЛОСЬ МИРУ.
-§7[4/4] §2Death: §aI'LL GIVE YOU TIME TO GET OVER WHAT YOU HAVE WITNESSED.@§7[4/4] §2Смерть: §aЯ ДАМ ТЕБЕ ВРЕМЯ ПРИЙТИ В СЕБЯ ПОСЛЕ ТОГО, ЧТО ТЫ ВИДЕЛ.
-§7[1/5] §2Death: §aWELL, I SEE YOU ARE LEAVING.@§7[1/5] §2Смерть: §aЧТО ЖЕ, ВИЖУ ТЫ УЖЕ УХОДИШЬ.
-§7[2/5] §2Death: §aIT WAS NICE TO HAVE YOU BACK AGAIN, I DO ENJOY YOUR VISITS.@§7[2/5] §2Смерть: §aБУДУ РАДА ВИДЕТЬ ТЕБЯ СНОВА, МНЕ НРАВЯТСЯ ТВОИ ВИЗИТЫ СЮДА.
-§7[3/5] §2Death: §aTO RISE BACK TO LIFE, YOU MUST DEFEAT THE ONE WHO BROUGHT YOU TO MY HANDS.@§7[3/5] §2Смерть: §aЧТОБЫ ВЕРНУТЬСЯ К ЖИЗНИ, ТЫ ДОЛЖЕН ПОБЕДИТЬ ТОГО, КТО ПРИВЕЛ ТЕБЯ В МОИ РУКИ.
-§7[4/5] §2Death: §aYOU'VE MANAGED IT BEFORE SO I CAN'T SEE WHY YOU CAN'T MANAGE IT AGAIN. AFTERALL, YOU MANAGE TO KEEP DYING.@§7[4/5] §2Смерть: §aТЫ УЖЕ СПРАВЛЯЛСЯ С НИМ РАНЬШЕ, НЕ ПОНИМАЮ, ПОЧЕМУ ТЫ НЕ МОЖЕШЬ СДЕЛАТЬ ЭТО СНОВА. ПОСЛЕ ВСЕГО ЭТОГО, ТЫ ПРОДОЛЖАЕШЬ ПОГИБАТЬ.
-§7[5/5] §2Death: §a...OR YOU KNOW, DON'T. I DO ENJOY HAVING A LITTLE COLOUR AROUND THE MANSION.@§7[5/5] §2Смерть: §a...ХОТЯ, ТЫ ЗНАЕШЬ, НЕ НУЖНО. МНЕ НРАВИТСЯ СМОТРЕТЬ НА ЭТОТ КУСОЧЕК ЦВЕТА РЯДОМ С ПОМЕСТЬЕМ.
-§7[1/5] §2Irlok: §aOh, you've returned. I must admit, I'm very impressed.@§7[1/5] §2Ирлок: §aОх, ты вернулся. Должен признать, я удивлен.
-§7[2/5] §2Irlok: §aKrolton was honestly the strongest being I've ever met. He has killed hundreds before you.@§7[2/5] §2Ирлок: §aКролтон был самым сильным существом, что я видел. Он убил сотни людей до тебя.
-§7[3/5] §2Irlok: §aBantisu Temple owes you a great deal. I want you to have something, it is extremely rare.@§7[3/5] §2Ирлок: §aХрам Бантису держит свое слово. У меня есть кое-что для тебя, что-то очень редкое.
-§7[4/5] §2Irlok: §aI want you to take this ring, as a symbol of your journey.@§7[4/5] §2Ирлок: §aЯ даю тебе это кольцо, как знак твоего приключения.
-§7[5/5] §2Irlok: §aLet us hope you never have to encounter a beast like Krolton again.@§7[5/5] §2Ирлок: §aБудем надеяться, что тебе не придется сразиться с монстром, вроде Кролтона, еще раз.
+===============================================================
+§7[1/7] §2Irlok: §aWelcome to Bantisu Temple. We guide adventuring souls onwards.@§7[1/7] §2이르록: §a반티수 사원에 온 걸 환영하네. 우리는 모험하는 영혼들을 인도한다네.
+§7[2/7] §2Irlok: §aThere is a monster of such immense power, none of us here are capable of killing it.@§7[2/7] §2이르록: §a이곳 근처에는 엄청난 힘을 가진 몬스터가 있지. 우리들은 그 녀석을 처치할만큼 강력하지 않다네.
+§7[3/7] §2Irlok: §aWe are offering the highest reward possible for its slaughter. Be warned though, to face the monster is to face your worst fears.@§7[3/7] §2이르록: §a그걸 죽인 자에겐 가능한 최고의 보상을 주겠네. 허나 조심하게. 그 몬스터는 자네에게 최고의 공포가 될테니.
+§7[4/7] §2Irlok: §aIt frequently takes the lives of many people attempting to cross the canyon, and we need it removed.@§7[4/7] §2이르록: §a그 녀석은 협곡을 건너는 자들의 목숨을 빼앗지. 우린 그 몬스터를 없애야 해.
+§7[5/7] §2Irlok: §aWe drove the beast into a cave and attempted to shut it in, but it's become a danger to us all again.@§7[5/7] §2이르록: §a우린 그 녀석을 동굴까지 몰아 넣었다네. 하지만 그건 우리의 숨통을 조이는 일이 되었지.
+§7[6/7] §2Irlok: §aHe is located at the bottom of the canyon, right next to a popular road. If you follow the path down the mountain, you should find the mine. I wrote down the exact location in your book.@§7[6/7] §2이르록: §a그 녀석은 협곡 맨 아래 길 옆의 동굴에 있다네. 이 산 아래로 길을 따라 내려간다면, 광산이 있을걸세. 혹시나 모르니 자네의 퀘스트북에 좌표를 적어놨네.
+§7[7/7] §2Irlok: §aIf somehow you succeed, you will be handsomely rewarded. I look forward to seeing you on the other side.@§7[7/7] §2이르록: §a만약 자네가 성공한다면. 내 가능한 최고의 보상을 주지. 그대를 다시 보길 바라네.
+§7[1/4] §2Death: §aIT SEEMS I HAVE A NEW GUEST. WELCOME.@§7[1/4] §2데스: §a새로운 손님이 왔네. 환영해.
+§7[2/4] §2Death: §aMAKE YOURSELF COMFORTABLE. YOU'LL BE STAYING HERE FOR A WHILE.@§7[2/4] §2데스: §a편하게 지내. 넌 어차피 여기에 있어야 하니.
+§7[3/4] §2Death: §aNOTHING IS STOPPING YOU FROM TAKING A LOOK AROUND. DON'T TOUCH ANYTHING THOUGH. AND TAKE OFF YOUR SHOES AS YOU ENTER.@§7[3/4] §2데스: §a둘러봐도 문제 없어. 대신 아무것도 만지지 마. 그리고 신발은 벗고 들어와.
+§7[4/4] §2Death: §aWHEN YOU FEEL LIKE IT, COME TO MY OFFICE UPSTAIRS. WE HAVE A LENGTHY TALK TO HAVE.@§7[4/4] §2데스: §a둘러봤다면, 2층의 내 사무실로 와. 우린 할 얘기가 아주 많지.
+§7[1/4] §2Death: §aTHIS IS MY OFFICE. GUESS WHAT I DO HERE. HUH?@§7[1/4] §2데스: §a여기가 내 사무실이야. 여기서 내가 뭘 할까?
+§7[1/14] §2Death: §aI KNOW THIS SEEMS LIKE AN ODD PLACE TO BE. SITTING IN FRONT OF DEATH.@§7[1/14] §2데스: §a여기가 이상한 곳이라는 건 나도 알아. 특히 사신 앞에 앉아있는 것.
+§7[2/14] §2Death: §aTHE TRUTH IS, YOU HAVE BEEN HERE MANY TIMES BEFORE.@§7[2/14] §2데스: §a사실, 넌 전에도 이곳을 꽤 와봤어. 너의 그 모습뿐만 아니라. 다른 모습에서도.
+§7[3/14] §2Death: §aBUT A MORTAL MAY NEVER BE ALLOWED TO SPEAK OF MY REALM.@§7[3/14] §2데스: §a아무튼, 죽은 자는 이곳에서 말을 할 수 없지.
+§7[4/14] §2Death: §aSO I MAKE EVERYONE WHO VISITS, SIMPLY FORGET.@§7[4/14] §2데스: §a그래서 나는 방문자 모두가 이곳을 잊어버리게 만들어.
+§7[5/14] §2Death: §aIT'S EASIER ON EVERYONE THAT WAY. YOU WOULDN'T WANT TO TELL PEOPLE ABOUT YOUR DEATH, THAT WOULD BE WEIRD.@§7[5/14] §2데스: §a그건 모두에게 편한 방법이야. 넌 사람들에게 네 죽음을 말하고 싶진 않을거고. 이상한 사람같잖아.
+§7[6/14] §2Death: §aTHIS TIME, HOWEVER, I SHALL LET YOU REMEMBER YOUR JOURNEY HERE.@§7[6/14] §2데스: §a하지만, 이번만큼은, 이 일을 기억하게 해줄게.
+§7[7/14] §2Death: §aWHY YOU ASK?@§7[7/14] §2데스: §a뭐라고?
+§7[8/14] §2Death: §aOH, YOU WOULDN'T WANT TO FORGET THE JOURNEY OF A §a§oLIFETIME§a, RIGHT?@§7[8/14] §2데스: §a아, 그래. 넌 아직 §a§o이승의 기억§a을 잊고 싶지 않아. 맞지?
+§7[2/4] §2Death: §aI §a§oDIE§a OF BOREDOM.@§7[2/4] §2데스: §a정말 지루해. §a§o죽을§a만큼.
+§7[9/14] §2Death: §aI ALWAYS ALLOW PEOPLE THE OPPORTUNITY TO RE-ENTER THE MORTAL PLAIN.@§7[9/14] §2데스: §a난 사람들에게 이승으로 돌아갈 수 있는 기회를 줘.
+§7[10/14] §2Death: §aCALL IT BARGAINING WITH DEATH IF YOU LIKE. TRUTH IS, I JUST GET A BIT BORED.@§7[10/14] §2데스: §a이걸 죽음과의 협상이라 부르지. 사실, 난 지금 지루해.
+§7[11/14] §2Death: §aIF YOU WISH TO RETURN TO LIFE, AND I CAN NEVER UNDERSTAND WHY PEOPLE DO, ALL YOU HAVE TO DO IS BEAT THAT WHICH SENT YOU HERE.@§7[11/14] §2데스: §a만약 다시 이승으로 돌아가고 싶다면, 널 죽게 한 존재를 이기면 돼.
+§7[12/14] §2Death: §aIN YOUR CASE, IT IS THE CREATION KNOWN AS KROLTON. WHEN YOU ARE READY, YOU CAN ENGAGE HIM ONCE MORE BY ENTERING THE DOOR AT THE BACK OF MY REALM.@§7[12/14] §2데스: §a너의 경우에는, 그 녀석은 콜트론이라 불리는 놈이야. 준비가 됐다면, 내 뒤에 있는 차원의 문으로 가. 그러면 그 녀석과 한번 더 싸울 수 있지.
+§7[13/14] §2Death: §aI DO ENJOY MY CHATS WITH HUMANS, THEY NEVER SAY ANYTHING.@§7[13/14] §2데스: §a난 인간과 채팅하는 걸 즐기지. 왜냐면 인간은 아무말도 하지 못하거든.
+§7[14/14] §2Death: §aWHICH IS ODD, BECAUSE OUT OF THE TWO OF US, THEY ARE THE ONES WITH VOCAL CHORDS.@§7[14/14] §2데스: §a이상하지? 분명 우리 둘 중 하나는 성대가 있는데.
+§7[3/4] §2Death: §a...REALLY? NOTHING? YOU HUMANS HAVE NO SENSE OF HUMOUR.@§7[3/4] §2데스: §a...정말? 별로야? 너희 인간들은 유머 감각이 없어.
+§7[4/4] §2Death: §aPLEASE TAKE A SEAT. LET'S REVIEW YOUR OPTIONS.@§7[4/4] §2데스: §a자리에 앉아. 너의 선택을 보자고.
+§7[1/3] §2Death: §aI SUGGEST YOU DON'T EAT ANYTHING THAT YOU ARE SERVED HERE, I HEARD IT IS TO §a§oDIE§a FOR.@§7[1/3] §2데스: §a음, 여기선 아무것도 먹지 않는걸 추천할게. 여기의 음식은 §a§o죽은자§a를 위한 음식이라 들었어.
+§7[2/3] §2Death: §aIF I HAD BOUGHT ANY WHEAT THIS MORNING, I'D OFFER A BISCUIT AS CONSOLATION FOR DYING.@§7[2/3] §2데스: §a만약 내가 오늘 아침 밀을 사왔다면, 너에게 위로로 비스킷을 대접했겠지.
+§7[1/4] §2Death: §aTHESE HOURGLASSES SHOW THE LIFESPAN OF HUMANS. WHEN ALL THE SAND HITS THE BOTTOM, I GET A NEW GUEST.@§7[1/4] §2데스: §a이 모래시계는 사람의 수명을 보여주지. 이 모래가 다 바닥에 떨어지면, 난 새로운 손님을 얻지.
+§7[3/3] §2Death: §aIT'S A SHAME, REALLY. I'M TOLD I MAKE THE BEST LITTLE CHOCOLATE CHIP ONES.@§7[3/3] §2데스: §a정말 부끄러워. 진짜로. 난 작은 초콜릿 칩 쿠키를 정말 잘 만들거든.
+§7[2/4] §2Death: §aOH LOOK, HERE'S YOURS. IT SAYS YOU'VE BEEN HERE 325 TIMES IN THE LAST THREE MONTHS. SORRY, 326 NOW.@§7[2/4] §2데스: §a아. 이것봐봐. 이건 네 거야. 보면 네가 3달안에 325번이나 여길 온 것을 알 수 있어. 아! 미안. 이제 326번째지.
+§7[3/4] §2Death: §aMY MIND MUST HAVE SLIPPED, I FORGOT TO MENTION THE MASSIVE HOURGLASS. IT SHOWS HOW MUCH TIME THE WORLD HAS LEFT.@§7[3/4] §2데스: §a아 맞아. 저 거대한 모래시계에 대해 이야기 하는것을 잊었네. 이건 세계의 시간이 얼마나 남았는지를 보여줘.
+§7[4/4] §2Death: §aI'LL GIVE YOU TIME TO GET OVER WHAT YOU HAVE WITNESSED.@§7[4/4] §2데스: §a네가 본 것에 대한 충격을 극복할 시간을 줄게.
+§7[1/5] §2Death: §aWELL, I SEE YOU ARE LEAVING.@§7[1/5] §2데스: §a음... 나가려고 하는군.
+§7[2/5] §2Death: §aIT WAS NICE TO HAVE YOU BACK AGAIN, I DO ENJOY YOUR VISITS.@§7[2/5] §2데스: §a다시 와서 좋았어. 난 네가 오는게 정말 즐겁거든.
+§7[3/5] §2Death: §aTO RISE BACK TO LIFE, YOU MUST DEFEAT THE ONE WHO BROUGHT YOU TO MY HANDS.@§7[3/5] §2데스: §a다시 살아나려면, 널 죽인것을 이겨야 해.
+§7[4/5] §2Death: §aYOU'VE MANAGED IT BEFORE SO I CAN'T SEE WHY YOU CAN'T MANAGE IT AGAIN. AFTERALL, YOU MANAGE TO KEEP DYING.@§7[4/5] §2데스: §a예전에 몇번이나 그걸 해냈기 때문에 이번에도 할 수 있을거야. 아무튼, 넌 계속 죽으니까.
+§7[5/5] §2Death: §a...OR YOU KNOW, DON'T. I DO ENJOY HAVING A LITTLE COLOUR AROUND THE MANSION.@§7[5/5] §2데스: §a아니면 아닐수도. 난 저택 주위에 색이 있는 걸 좋아하거든.
+§7[1/5] §2Irlok: §aOh, you've returned. I must admit, I'm very impressed.@§7[1/5] §2이르록: §a오, 돌와왔구만. 정말 놀라워.
+§7[2/5] §2Irlok: §aKrolton was honestly the strongest being I've ever met. He has killed hundreds before you.@§7[2/5] §2이르록: §a콜트론은 네가 만났던 몬스터중에 정말 강한 몬스터 였을걸세. 수백명이 희생됐으니.
+§7[3/5] §2Irlok: §aBantisu Temple owes you a great deal. I want you to have something, it is extremely rare.@§7[3/5] §2이르록: §a우리 사원은 자네에게 큰 빚을 졌네. 자네에게 꼭 이걸 주고 싶네. 매우 희귀한 거라네.
+§7[4/5] §2Irlok: §aI want you to take this ring, as a symbol of your journey.@§7[4/5] §2이르록: §a이 반지를 받게, 자네의 여행의 상징이 될걸세.
+§7[5/5] §2Irlok: §aLet us hope you never have to encounter a beast like Krolton again.@§7[5/5] §2이르록: §a자네가 다시 콜트론같은 괴물을 만나지 않기를.
 
-§7[1/1] §2Death: §aIF ANYONE ASKS, YES, I AM MARRIED. JUST BECAUSE I DON'T HAVE A HEART DOESN'T MEAN THAT I CAN'T LOVE.@§7[1/1] §2Смерть: §aЕСЛИ КТО-НИБУДЬ СПРОСИТ, ДА, Я ЗАМУЖЕМ. ЕСЛИ У МЕНЯ НЕТ СЕРДЦА, ЭТО НЕ ЗНАЧИТ, ЧТО Я НЕ МОГУ ЛЮБИТЬ.
-§7[1/1] §2Irlok: §aHe is located at the bottom of the canyon, right next to a popular road. If you follow the path down the mountain, you should find the mine. I wrote down the exact location in your book.@§7[1/1] §2Ирлок: §aПещера находится на дне каньона, справа от основной дороги. Если ты спустишься вниз с горы по дороге, то ты найдешь шахту. Я написал координаты в твоей книге.
-§7[1/1] §2Irlok: §aWe have a job that needs doing, but I'm afraid you're too weak. Come back when you are level 87.@§7[1/1] §2Ирлок: §aУ меня есть работа, которую нужно сделать, но я боюсь, что ты слишком слаб. Вернись, когда будешь 87 уровня.
-§7[1/1] §2Death: §aSTAY AWAY FROM THAT ROOM. IT'S NOT GOOD FOR EITHER OF US.@§7[1/1] §2Смерть: §a ДЕРЖИСЬ ПОДАЛЬШЕ ОТ ЭТОЙ КОМНАТЫ. ОНА ПЛОХА ДЛЯ НАС ОБОИХ.
-§7[1/1] §2Death: §aFEET OFF THE TABLE PLEASE.@§7[1/1] §2Смерть: §aУБЕРИ НОГИ СО СТОЛА, ПОЖАЛУЙСТА.
-§7[1/1] §2Irlok: §aYou are truly an amazing warrior. Thank you for putting an end to Krolton.@§7[1/1] §2Ирлок: §aТы действительно удивительный воин. Спасибо за то, что положил конец Кролтону.
-§7[1/3] §2Death: §aTHIS IS THE LIBRARY, WHERE MY GUESTS COME TO SPEND THEIR TIME.@§7[1/3] §2Смерть: §aЭТО БИБЛИОТЕКА, КУДА ПРИХОДЯТ МОИ ГОСТИ, ЧТОБЫ ПРОВЕСТИ СВОЕ ВРЕМЯ.
-§7[2/3] §2Death: §aFEEL FREE TO TAKE YOUR TIME AND READ UP. KNOWLEDGE IS POWER, AND ALL THAT.@§7[2/3] §2Смерть: §aНЕ СТЕСНЯЙСЯ, НЕ ТОРОПИТЕСЬ И ЧИТАЙ. ЗНАНИЕ - ЭТО СИЛА И ВСЕ ТАКОЕ.
-§7[3/3] §2Death: §aYOU COULD READ ALL OF THEM IF YOU LIKE, BUT THEY ARE ALL IN LATIN, AND I HEARD THAT IS NOW A §a§oDEAD§a LANGUAGE.@§7[3/3] §2Смерть: §aТЫ МОГ БЫ ПРОЧИТАТЬ ИХ ВСЕ, ЕСЛИ ХОЧЕШЬ, НО ВСЕ ОНИ НА ЛАТЫНИ, А Я СЛЫШАЛА, ЧТО ТЕПЕРЬ ЭТО §a§oМЕРТВЫЙ§a ЯЗЫК.
-§7[1/2] §2Death: §aSOMETHING I'M FINDING INCREASINGLY ANNOYING IS HOW MANY PEOPLE ARE FINDING WAYS TO BECOME IMMORTAL NOWADAYS. INTELLIGENT COMPANY IS STARTING TO GET A BIT SCARCER.@§7[1/2] §2Смерть: §aТО, ЧТО Я НАХОЖУ ВСЕ БОЛЕЕ РАЗДРАЖАЮЩИМ - ЭТО ТО, КАК МНОГО ЛЮДЕЙ НАХОДЯТ СПОСОБЫ СТАТЬ БЕССМЕРТНЫМИ В НАШИ ДНИ. ИНТЕЛЛЕКТУАЛЬНАЯ КОМПАНИЯ НАЧИНАЕТ ПОЛУЧАТЬ НЕМНОГО МЕНЬШЕ.
-§7[2/2] §2Death: §aOH, YOU ARE STILL HERE. KROLTON IS AT THE BACK OF MY REALM, OFF YOU GO. UNLESS YOU WANT TO STAY, THAT IS.@§7[2/2] §2Смерть: §aОХ, ТЫ ВСЕ ЕЩЕ ЗДЕСЬ. КРОЛТОН НАХОДИТСЯ НА ЗАДВОРКАХ МОЕГО КОРОЛЕВСТВА. ЕСЛИ, КОНЕЧНО, ТЫ НЕ ХОЧЕШЬ ОСТАТЬСЯ.
-§7[1/1] §2Death: §aTHIS BOOK IS SO BAD, EVEN §a§oTHE LONG-WINDED AND PAINFUL DEATH OF SWEENEY S. GREENVILLE §aIS BETTER THAN THIS.@§7[1/1] §2Смерть: §aЭТА КНИГА НАСТОЛЬКО ПЛОХА, ЧТО ДАЖЕ §a§oДОЛГАЯ И МУЧИТЕЛЬНАЯ СМЕРТЬ SWEENEY S. GREENVILLE §aНАМНОГО ЛУЧШЕ, ЧЕМ ЭТА.
-§7[1/1] §2Death: §aIS MY MANSION SO DULL YOU WOULD RATHER GO ROCK CLIMBING?@§7[1/1] §2Смерть: §aНЕУЖЕЛИ В МОЕМ ОСОБНЯКЕ ТАК СКУЧНО, ЧТО ТЫ ПРЕДПОЧЕЛ ЗАНЯТЬСЯ СКАЛОЛАЗАНИЕМ?
-§7[1/2] §2Death: §aTHIS IS AN EMPTY ROOM.@§7[1/2] §2Смерть: §aЭТО ПРОСТО ПУСТАЯ КОМНАТА.
-§7[2/2] §2Death: §aAROUND THE MANSION, THERE ARE MANY MORE EMPTY ROOMS.@§7[2/2] §2Смерть: §aПО ВСЕМУ ПОМЕСТЬЮ ЕСТЬ МНОГО ТАКИХ ПУСТЫХ КОМНАТ. 
-§7[1/1] §2Death: §aI'VE HEARD THERE IS SOME GUY AT THE TOP OF SOME ICE TOWER RIPPING ME OFF.@§7[1/1] §2Смерть: §aЯ СЛЫШАЛА, ЧТО КАКОЙ-ТО ПАРЕНЬ НА ВЕРШИНЕ КАКОЙ-ТО ЛЕДЯНОЙ БАШНИ ПРОСТО ИЗДЕВАЕТСЯ НАДО МНОЙ.
-§7[1/1] §2Death: §aIT SEEMS YOU ARE HAVING A BLAST, AREN'T YOU?@§7[1/1] §2Смерть: §aКАЖЕТСЯ, У ТЕБЯ СЕЙЧАС БОМБАНЕТ, НЕ ТАК ЛИ?
-§7[1/2] §2Death: §aWHAT DO YOU THINK YOU ARE DOING?@§7[1/2] §2Смерть: §aЧТО ТЫ ДЕЛАЕШЬ, ПО-ТВОЕМУ?
-§7[2/2] §2Death: §aYOU CANNOT JUST FINISH A QUEST BY ASKING IT TO.@§7[2/2] §2Смерть: §aТЫ НЕ МОЖЕШЬ ПРОСТО ЗАКОНЧИТЬ КВЕСТ, ПОПРОСИВ ОБ ЭТОМ.
-§7[1/1] §2Death: §aIF YOU HEAR SCREAMING, DON'T WORRY. IT'S JUST THE WALLS.@§7[1/1] §2Смерть: §aЕСЛИ ТЫ УСЛЫШИШЬ КРИК, НЕ ВОЛНУЙСЯ. ЭТО ВСЕГО ЛИШЬ СТЕНЫ.
+§7[1/1] §2Death: §aIF ANYONE ASKS, YES, I AM MARRIED. JUST BECAUSE I DON'T HAVE A HEART DOESN'T MEAN THAT I CAN'T LOVE.@§7[1/1] §2데스: §a만약 누가 묻거든, 그래, 난 결혼했어. 내가 심장이 없다고 해서 사랑을 못한다는 건 아니야.
+§7[1/1] §2Irlok: §aHe is located at the bottom of the canyon, right next to a popular road. If you follow the path down the mountain, you should find the mine. I wrote down the exact location in your book.@§7[1/1] §2이르록: §a그 녀석은 협곡 맨 아래 길 옆의 동굴에 있다네. 이 산 아래로 길을 따라 내려간다면, 광산이 있을걸세. 혹시나 모르니 자네의 퀘스트북에 좌표를 적어놨네.
+§7[1/1] §2Irlok: §aWe have a job that needs doing, but I'm afraid you're too weak. Come back when you are level 87.@§7[1/1] §2이르록: §a우리의 일을 해결해 줄 모험가가 필요해. 허나 자네는 아직 약하군. 전투 레벨 87이 되면 다시 오게나.
+§7[1/1] §2Death: §aSTAY AWAY FROM THAT ROOM. IT'S NOT GOOD FOR EITHER OF US.@§7[1/1] §2데스: §a그 방에서 떨어져. 우리 서로에게 좋지 않다고.
+§7[1/1] §2Death: §aFEET OFF THE TABLE PLEASE.@§7[1/1] §2데스: §a책상에서 발 좀 내려줄래.
+§7[1/1] §2Irlok: §aYou are truly an amazing warrior. Thank you for putting an end to Krolton.@§7[1/1] §2이르록: §a자네는 정말 위대한 전사야. 콜트론을 끝낸것에 대해 감사하네.
+§7[1/3] §2Death: §aTHIS IS THE LIBRARY, WHERE MY GUESTS COME TO SPEND THEIR TIME.@§7[1/3] §2데스: §a여긴 도서관이야. 내 손님들은 이곳에서 시간을 보내곤 하지.
+§7[2/3] §2Death: §aFEEL FREE TO TAKE YOUR TIME AND READ UP. KNOWLEDGE IS POWER, AND ALL THAT.@§7[2/3] §2데스: §a여기서 자유롭게 책을 읽으며 시간을 보내. 지식은 곧 힘이고, 그게 전부지.
+§7[3/3] §2Death: §aYOU COULD READ ALL OF THEM IF YOU LIKE, BUT THEY ARE ALL IN LATIN, AND I HEARD THAT IS NOW A §a§oDEAD§a LANGUAGE.@§7[3/3] §2데스: §a원한다면 여기 있는 모든 책을 읽어도 돼. 근데 여기 책은 전부 라틴어야. 이 문자가 §a§o죽음§a의 문자라 하더군.
+§7[1/2] §2Death: §aSOMETHING I'M FINDING INCREASINGLY ANNOYING IS HOW MANY PEOPLE ARE FINDING WAYS TO BECOME IMMORTAL NOWADAYS. INTELLIGENT COMPANY IS STARTING TO GET A BIT SCARCER.@§7[1/2] §2데스: §a내가 요즘 짜증나는 일이 생겼어. 사람들이 불멸의 길을 찾기 시작하더라고. 그들의 지능 회사가 점차 사라져가는 건가?
+§7[2/2] §2Death: §aOH, YOU ARE STILL HERE. KROLTON IS AT THE BACK OF MY REALM, OFF YOU GO. UNLESS YOU WANT TO STAY, THAT IS.@§7[2/2] §2데스: §a오, 아직 여기 있네. 크롤튼은 내 영역 뒤에 바로 있어. 원한다면 가봐. 여기에 계속 있어도 되고.
+§7[1/1] §2Death: §aTHIS BOOK IS SO BAD, EVEN §a§oTHE LONG-WINDED AND PAINFUL DEATH OF SWEENEY S. GREENVILLE §aIS BETTER THAN THIS.@§7[1/1] §2데스: §a이 책은 나쁜 책이야, §a§oThe Long​-​Winded and Painful Death of Sweeney S Greenville§a가 이것보다 나을 거다.
+§7[1/1] §2Death: §aIS MY MANSION SO DULL YOU WOULD RATHER GO ROCK CLIMBING?@§7[1/1] §2데스: §a내 저택이 마음에 안 드니? 암벽 등반이라도 할래?
+§7[1/2] §2Death: §aTHIS IS AN EMPTY ROOM.@§7[1/2] §2데스: §a여긴 빈 방이야.
+§7[2/2] §2Death: §aAROUND THE MANSION, THERE ARE MANY MORE EMPTY ROOMS.@§7[2/2] §2데스: §a이 저택 안에는, 더 많은 빈 방이 있지.
+§7[1/1] §2Death: §aI'VE HEARD THERE IS SOME GUY AT THE TOP OF SOME ICE TOWER RIPPING ME OFF.@§7[1/1] §2데스: §a누군가가 '승천의 탑' 이라고 불리는 곳에서 날 사칭한다고 들었어.
+§7[1/1] §2Death: §aIT SEEMS YOU ARE HAVING A BLAST, AREN'T YOU?@§7[1/1] §2데스: §a아주 즐거운 시간을 보내는 것 같은데, 그렇니?
+§7[1/2] §2Death: §aWHAT DO YOU THINK YOU ARE DOING?@§7[1/2] §2데스: §a네가 뭘 하는지 생각은 하는건가?
+§7[2/2] §2Death: §aYOU CANNOT JUST FINISH A QUEST BY ASKING IT TO.@§7[2/2] §2데스: §a그 퀘스트를 나에게 의뢰하지 마. 직접 해.
+§7[1/1] §2Death: §aIF YOU HEAR SCREAMING, DON'T WORRY. IT'S JUST THE WALLS.@§7[1/1] §2데스: §a혹시 비명소리를 듣는다면, 놀라지 마. 그저 벽이야.

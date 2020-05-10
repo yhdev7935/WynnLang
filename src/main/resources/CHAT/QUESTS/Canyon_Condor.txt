@@ -1,47 +1,48 @@
-§7[1/9] §2Svin: §aI am one of the Keepers in the great Temple of Legends. There we hoard secrets about the world.@§7[1/9] §2Свин: §aЯ один из хранителей великого Храма Легенд. Именно там мы храним тайны всего мира.
-§7[2/9] §2Svin: §aI am here to investigate an old tale of the canyon. Does that interest you? I'm sure it does!@§7[2/9] §2Свин: §aЯ здесь, чтобы подтвердить или опровергнуть древний миф каньона. Это тебя заинтересовало? Думаю что да!
-§7[3/9] §2Svin: §aLegend has it that a ferocious beast lives among these cliffs. A dangerous bird that has survived for many years.@§7[3/9] §2Свин: §aЛегенда гласит, что свирепый зверь живёт где-то на утёсах этих скал. Опасная птица, обосновавшаяся тут много лет назад.
-§7[4/9] §2Svin: §aI would love to seek the beast out, but it seems the natives here are too busy thieving each other to inform me of it.@§7[4/9] §2Свин: §aЯ бы с удовольствием поискал зверя, но похоже, что горожане здесь слишком заняты воровством друг у друга, вместо того, чтобы рассказать мне о местоположении зверя.
-§7[5/9] §2Svin: §aI have heard of an old prospector nearby who has ventured throughout this mesa. He may have some information.@§7[5/9] §2Свин: §aСлышал, что где-то поблизости живёт старый искатель, который исследовал это плато. Скорее всего, он что-то знает.
-§7[6/9] §2Svin: §aHis name is Jankan and he lives east from Rymek. Could you perhaps seek him out and ask him about this foul beast?@§7[6/9] §2Свин: §aЕго зовут Джанкан и он живёт к востоку от Римекa. Можешь ли ты найти его и узнать что-то об этом звере?
-§7[7/9] §2Svin: §aIf you help me, I'll let you use the elevators spread in the canyon. Well...@§7[7/9] §2Свин: §aЕсли ты поможешь, то я позволю тебе пользоваться лифтами в этом месте, хотя...
-§7[8/9] §2Svin: §aA strange hermit decided to take control of them, but I'm sure we can reason with him.@§7[8/9] §2Свин: §aСтранный отшельник захватил контроль над ними, но думаю с ним можно договориться.
-§7[9/9] §2Svin: §aI hope you are able to find the beast, and if you do, could you bring me back §3[1 Beast Egg]§a as evidence?@§7[9/9] §2Свин: §aЯ надеюсь, что ты найдёшь зверя и сможешь принести мне §3[1 Яйцо Зверя]§a в качестве доказательства?
-§7[1/6] §2Jankan: §aHello there, youngster! Ye must be the stranger folks 'been talkin' 'bout.@§7[1/6] §2Джанкан: §aПриветствую тебя юноша! Ты должно быть тот незнакомец, о котором говорят жители вокруг.
-§7[2/6] §2Jankan: §aIf yer lookin fer gold, I can promise ye that there ain' any for you in this here mineshaft!@§7[2/6] §2Джанкан: §aЕсли ты ищешь золото, то здесь, в этой шахте, ты его точно не найдешь!
-§7[3/6] §2Jankan: §aOh.. Yer lookin fer a winged wilder beast? Are ye out of yer mind?@§7[3/6] §2Джанкан: §aОх.. Ты хочешь разузнать про крылатого зверя? Ты в своем уме?
-§7[4/6] §2Jankan: §aThe devil of a bird is complete chaos! It can move mountains with a single screech! Men twice yer size 'ave weeped from the sight of it!@§7[4/6] §2Джанкан: §aДьявольская птица - это полный хаос! Она может двигать горы одним криком! Мужчины, в два раза больше меня, начинали плакать только от одного ее вида!
-§7[5/6] §2Jankan: §aAs it turns out, I did me back in trying to transport me earnin's from that there cave, left them right at the back did' I.@§7[5/6] §2Джанкан: §aКак бы то ни было, я оставил мои заработанные слитки вон в той пещере, прямо в конце нее.
-§7[6/6] §2Jankan: §aGo fetch me my §3[5 Gold Chunks] §afrom the end of the shaft and I'll tell ye where ye need to go next.@§7[6/6] §2Джанкан: §aДостань мне мои §3[5 Кусков Золота]§a в глубине пещеры и я скажу тебе, что делать дальше.
-§7[1/4] §2Jankan: §aFinally! It took ye long enough, hand it over! Oh right.. yer want'n somethin'@§7[1/4] §2Джанкан: §aНаконец-то! Тебя долго не было! Ах да...тебе же что-то было нужно.
-§7[2/4] §2Jankan: §aI ain' got any intention of help'n ye with yer demise, but I can send ye along to a young fellow who might help.@§7[2/4] §2Джанкан: §aУ меня нет желания помогать тебе с твоей смертью, но я могу отправить тебя к одному товарищу, который может помочь.
-§7[3/4] §2Jankan: §aThere's this Hermit feller ye wanna talk to, he is a right nutter, that one. Feeds the bird'n all.@§7[3/4] §2Джанкан: §aТебе нужно поговорить с Отшельником - он настоящий псих, как никто другой. Кормит всех птиц.
-§7[4/4] §2Jankan: §aI think ye can find him up the mountain and across the canyon abyss, he ain' a friendly fella, I can tell yer that much.@§7[4/4] §2Джанкан: §aДумаю, ты найдешь его на вершине горы, рядом с мостом через каньон, однако, он не особо дружелюбный парень.
-§7[1/7] §2Hermit: §aWhat do you think you're doing here, kid? Think you can waltz in my humble abode and get across my bridge?@§7[1/7] §2Отшельник: §aКак думаешь, что ты тут делаешь, мальчуган? Думаешь можешь покрасоваться передо мной и пройти через мост?
-§7[2/7] §2Hermit: §aOh, you want to know about the bird of the mountain? Hah, a little weed like you wouldn't stand a chance against it.@§7[2/7] §2Отшельник: §aОх, ты хочешь узнать о птице в горах? Хах, у маленького дохляка вроде тебя нет шансов против нее.
-§7[3/7] §2Hermit: §aIt doesn't take kindly to strangers you know. I once saw it turn a group of poachers to ash!@§7[3/7] §2Отшельник: §aОна не очень любит путешественников. Я видел, как она превратила целую группу людей в прах!
-§7[4/7] §2Hermit: §aIf you want to go through here, you'll need to pay. Oh, I don't want your money, why would I need money, I have everything!@§7[4/7] §2Отшельник: §aЕсли хочешь пройти через мост, то ты должен заплатить. Нет, мне не нужны твои деньги, у меня всё есть!
-§7[5/7] §2Hermit: §aIf you want access to these plateaus then you will have to find me a rare flower for my little cave here.@§7[5/7] §2Отшельник: §aЕсли хочешь пройти, то ты должен принести один редкий цветок для моей маленькой пещеры.
-§7[6/7] §2Hermit: §aIt is found on top of one of the stacks in the mesa, it shouldn't be too hard to find.@§7[6/7] §2Отшельник: §aОн находится на вершине одной из скал плато, его будет не очень тяжело найти.
-§7[7/7] §2Hermit: §aBring me §3[1 Rare Rose]§a and I shall let you pass on to the creature of the mesa.@§7[7/7] §2Отшельник: §aПринеси мне §3[1 Редкую Розу]§a и я пропущу тебя к созданию плато.
-§7[1/5] §2Hermit: §aA ha! This will do perfectly. My chickling will love it! I suppose you can cross the bridge now.@§7[1/5] §2Отшельник: §aАха! Прекрасно. Моей курочке это понравится! Теперь ты можешь пересечь мост.
-§7[2/5] §2Hermit: §aThe beast dwells on top of one of these plateaus. With a little searching, you should be able to find it.@§7[2/5] §2Отшельник: §aЗверь обитает на вершине одного из этих плато. Немного поищи, и ты обязательно его найдёшь.
-§7[3/5] §2Hermit: §aI'll let you use my elevators too. After all, it's not like you will last long...@§7[3/5] §2Отшельник: §aИ еще, я позволю тебе пользоваться лифтами. Судя по тебе, ты будешь пользоваться ими недолго...
-§7[4/5] §2Hermit: §aOnly one traveler I have heard of could stand against the beast. I believe he took an egg from it for a pet, hah!@§7[4/5] §2Отшельник: §aТолько один путешественник смог выстоять против зверя. Я слышал, что он сделал существо, вылупившееся из яйца, своим питомцем!
-§7[5/5] §2Hermit: §aHe is long gone now just like you will be in a few moments. It was nice not knowing you, kid.@§7[5/5] §2Отшельник: §aПравда, его уже давно нет с нами, прямо как тебя не будет через пару минут. Был не рад встрече, мальчуган.
-§7[1/5] §2Svin: §aTraveler! You have returned! Tell me, what have you learned?@§7[1/5] §2Свин: §aПутешественник! Ты вернулся! Скажи мне, что ты узнал?
-§7[2/5] §2Svin: §aYou found it?! This is wonderful news! You collected an egg from it's nest as well? You are very brave indeed!@§7[2/5] §2Свин: §aТы нашёл его? Какие прекрасные новости! Яйцо, полученное тобой, в сохранности? Ты очень храбр!
-§7[3/5] §2Svin: §aSo the legend of the Cockatrice is true! You've seen it and battled it with your own courage!@§7[3/5] §2Свин: §aЗначит легенда о птице из каньона оказалось правдой! Ты храбро сразился с этим чудищем!
-§7[4/5] §2Svin: §aIf only you could enter the Temple of Legends, brave soul! But it would seem our paths are to part now. @§7[4/5] §2Свин: §aОднажды ты сможешь войти в Храм Легенд, смельчак! Но сейчас похоже наши пути расходятся.
-§7[5/5] §2Svin: §aDo not worry, I shall keep the egg safe. One day your legend shall be as greatly told!@§7[5/5] §2Свин: §aНе беспокойся, я сохраню яйцо. Однажды и о тебе будут слагать легенды!
+﻿=====================================================================================
+§7[1/9] §2Svin: §aI am one of the Keepers in the great Temple of Legends. There we hoard secrets about the world.@§7[1/9] §2스빈: §a나는 위대한 전설의 사원을 지키는 사람 중 한 명이야. 우리는 그곳에 세계에 관한 비밀들을 저장해.
+§7[2/9] §2Svin: §aI am here to investigate an old tale of the canyon. Does that interest you? I'm sure it does!@§7[2/9] §2스빈: §a나는 이곳에 협곡의 오래된 이야기를 조사하기 위해 왔어. 너도 흥미가 생기니? 분명히 그럴 거야!
+§7[3/9] §2Svin: §aLegend has it that a ferocious beast lives among these cliffs. A dangerous bird that has survived for many years.@§7[3/9] §2스빈: §a전설에 의하면 이 절벽들 사이에 사나운 짐승이 살고 있다고 해. 몇 년 동안 살아남은 위험한 새지.
+§7[4/9] §2Svin: §aI would love to seek the beast out, but it seems the natives here are too busy thieving each other to inform me of it.@§7[4/9] §2스빈: §a나는 그 짐승을 찾아내고 싶지만, 여기 원주민들은 서로 도둑질하느라 바빠서 나에게 알려주지 못하는 거 같아.
+§7[5/9] §2Svin: §aI have heard of an old prospector nearby who has ventured throughout this mesa. He may have some information.@§7[5/9] §2스빈: §a나는 이 메사를 통틀어 탐험을 하는 탐사자가 인근에 있다고 들었어. 그가 아마 정보를 가지고 있을거야.
+§7[6/9] §2Svin: §aHis name is Jankan and he lives east from Rymek. Could you perhaps seek him out and ask him about this foul beast?@§7[6/9] §2스빈: §a그의 이름은 잔칸이고 리멕 동쪽에 살고 있어. 그를 찾아서 사나운 짐승에 대해 물어봐 주지 않을래?
+§7[7/9] §2Svin: §aIf you help me, I'll let you use the elevators spread in the canyon. Well...@§7[7/9] §2스빈: §a만약 날 도와준다면, 협곡에 널린 엘리베이터들을 사용하게 해줄게. 음...
+§7[8/9] §2Svin: §aA strange hermit decided to take control of them, but I'm sure we can reason with him.@§7[8/9] §2스빈: §a한 이상한 은둔자가 엘리베이터들을 장악하겠다고 말했지만, 우리가 그를 설득할 수 있어.
+§7[9/9] §2Svin: §aI hope you are able to find the beast, and if you do, could you bring me back §3[1 Beast Egg]§a as evidence?@§7[9/9] §2스빈: §a너가 그 짐승을 찾을 수 있기를 빌며, 만약 찾는다면 나에게 증거로 §3[1 Beast Egg]§a을 가져다 주지 않을래?
+§7[1/6] §2Jankan: §aHello there, youngster! Ye must be the stranger folks 'been talkin' 'bout.@§7[1/6] §2잔칸: §a거기 젊은이, 안녕! 네가 바로 사람들이 말하는 그 '이방인'이구만.
+§7[2/6] §2Jankan: §aIf yer lookin fer gold, I can promise ye that there ain' any for you in this here mineshaft!@§7[2/6] §2잔칸: §a만약 금을 찾고 있다면, 이 갱도에는 널 위한 것이 없어!
+§7[3/6] §2Jankan: §aOh.. Yer lookin fer a winged wilder beast? Are ye out of yer mind?@§7[3/6] §2잔칸: §a허... 날개 달린 야생짐승을 찾고 있다고? 미쳤구먼?
+§7[4/6] §2Jankan: §aThe devil of a bird is complete chaos! It can move mountains with a single screech! Men twice yer size 'ave weeped from the sight of it!@§7[4/6] §2잔칸: §a악마의 새는 완벽한 혼돈이야! 한 번의 비명으로 산을 움직일 수 있다고! 니 몸집의 2배나 되는 남자들이 그것을 보고 줄행랑쳤지!
+§7[5/6] §2Jankan: §aAs it turns out, I did me back in trying to transport me earnin's from that there cave, left them right at the back did' I.@§7[5/6] §2잔칸: §a그러고 보니, 저 동굴에서 얻은 금을 운반하려고 했는데, 저 뒤편에 두고 왔어.
+§7[6/6] §2Jankan: §aGo fetch me my§3[5 Gold Chunks] §afrom the end of the shaft and I'll tell ye where ye need to go next.@§7[6/6] §2잔칸: §a갱도 끝에서 §3[5 Gold Chunks]§a을 가져오면 다음에 어디로 갈지 알려줄게.
+§7[1/4] §2Jankan: §aFinally! It took ye long enough, hand it over! Oh right.. yer want'n somethin'@§7[1/4] §2잔칸: §a드디어! 매우 오래 걸렸어, 내놔! 아 맞다.. 정보를 줘야지.
+§7[2/4] §2Jankan: §aI ain' got any intention of help'n ye with yer demise, but I can send ye along to a young fellow who might help.@§7[2/4] §2잔칸: §a너의 죽음을 도와줄 의도는 전혀 없지만, 너에게 도움이 될 어린 동료에게 보내줄 수 있어.
+§7[3/4] §2Jankan: §aThere's this Hermit feller ye wanna talk to, he is a right nutter, that one. Feeds the bird'n all.@§7[3/4] §2잔칸: §a허밋이라는 놈에게 가봐. 그는 정말 미치광이야. 모든 새들을 먹여살리지.
+§7[4/4] §2Jankan: §aI think ye can find him up the mountain and across the canyon abyss, he ain' a friendly fella, I can tell yer that much.@§7[4/4] §2잔칸: §a산 위로 올라가서 협곡의 심연을 건너면 그를 찾을 수 있을거다. 그는 친절한 친구야 아니야, 이건 말해주지.
+§7[1/7] §2Hermit: §aWhat do you think you're doing here, kid? Think you can waltz in my humble abode and get across my bridge?@§7[1/7] §2허밋: §a여기서 뭐 하는 거야? 내 초라한 집에서 왈츠를 추고 다리를 건너갈 수 있을 거라 생각해?
+§7[2/7] §2Hermit: §aOh, you want to know about the bird of the mountain? Hah, a little weed like you wouldn't stand a chance against it.@§7[2/7] §2허밋: §a산의 새에 대해 알고 싶다고? 하, 너 같은 잡초는 상대할 가망이 없을 거야.
+§7[3/7] §2Hermit: §aIt doesn't take kindly to strangers you know. I once saw it turn a group of poachers to ash!@§7[3/7] §2허밋: §a이놈은 낯선 사람들에게는 친절하게 대하지 않아. 나는 그놈이 한 밀렵꾼 무리를 잿더미로 만드는 걸 본 적 있어!
+§7[4/7] §2Hermit: §aIf you want to go through here, you'll need to pay. Oh, I don't want your money, why would I need money, I have everything!@§7[4/7] §2허밋: §a만약 이곳을 지나고 싶다면, 뭔가를 줘야 할꺼야. 으, 나는 니 돈을 원하지 않아, 내가 왜 돈이 필요하겠어, 난 다 가지고 있다고!
+§7[5/7] §2Hermit: §aIf you want access to these plateaus then you will have to find me a rare flower for my little cave here.@§7[5/7] §2허밋: §a만약 이 고원에 접근하고 싶다면 여기 내 작은 동굴을 위해 진귀한 꽃을 찾아줘.
+§7[6/7] §2Hermit: §aIt is found on top of one of the stacks in the mesa, it shouldn't be too hard to find.@§7[6/7] §2허밋: §a이 메사의 봉우리 중 한 곳의 꼭대기에서 발견할 수 있어. 찾는데 그리 어렵지는 않을 거야.
+§7[7/7] §2Hermit: §aBring me §3[1 Rare Rose]§a and I shall let you pass on to the creature of the mesa.@§7[7/7] §2허밋: §a나에게 §3[1 Rare Rose]§a을 가져와주면 메사의 생물에게 나아갈 수 있게 해줄게.
+§7[1/5] §2Hermit: §aA ha! This will do perfectly. My chickling will love it! I suppose you can cross the bridge now.@§7[1/5] §2허밋: §a오호! 이거면 완벽할 거야. 내 새끼가 좋아할 거야! 너는 이제 다리를 건널 수 있을 거야.
+§7[2/5] §2Hermit: §aThe beast dwells on top of one of these plateaus. With a little searching, you should be able to find it.@§7[2/5] §2허밋: §a그 짐승은 이 고원 꼭대기에 살아. 조금만 찾아보면, 발견할 수 있을 거야.
+§7[3/5] §2Hermit: §aI'll let you use my elevators too. After all, it's not like you will last long...@§7[3/5] §2허밋: §a그리고 너가 내 엘리베이터를 사용할 수 있게 해줄게. 오래 살 것같지 않으니...
+§7[4/5] §2Hermit: §aOnly one traveler I have heard of could stand against the beast. I believe he took an egg from it for a pet, hah!@§7[4/5] §2허밋: §a오직 한 모험가만이 그 짐승에 맞설 수 있었어. 그는 펫을 위해 짐승으로부터 달걀을 뺏었지, 핫!
+§7[5/5] §2Hermit: §aHe is long gone now just like you will be in a few moments. It was nice not knowing you, kid.@§7[5/5] §2허밋: §a그는 오래전에 마치 잠시 후의 너처럼 떠났지. 널 알지 못할때가 좋았는데, 애송이.
+§7[1/5] §2Svin: §aTraveler! You have returned! Tell me, what have you learned?@§7[1/5] §2스빈: §a돌아왔구나 여행자! 말해줘, 무엇을 알게 됐어?
+§7[2/5] §2Svin: §aYou found it?! This is wonderful news! You collected an egg from it's nest as well? You are very brave indeed!@§7[2/5] §2스빈: §a찾았다고?! 정말 좋은 소식이야! 그 둥지에서 달걀을 수집했어? 너 정말 용감하구나!
+§7[3/5] §2Svin: §aSo the legend of the Cockatrice is true! You've seen it and battled it with your own courage!@§7[3/5] §2스빈: §a그래서 Cockatrice의 전설은 사실이구나! 그 놈을 보고도 용기를 내 싸우다니!
+§7[4/5] §2Svin: §aIf only you could enter the Temple of Legends, brave soul! But it would seem our paths are to part now. @§7[4/5] §2스빈: §a너도 전설의 사원에 들어갈 수 있다면 좋았을 텐데, 용감한 친구! 그러나 이제 우리는 서로 헤어져야 할 거 같아.
+§7[5/5] §2Svin: §aDo not worry, I shall keep the egg safe. One day your legend shall be as greatly told!@§7[5/5] §2스빈: §a걱정하지 마, 내가 계란을 안전하게 보관할게. 언젠가 너의 전설은 대단하게 전해질 거야!
 
-§7[1/1] §2Jankan: §aMe back ain’ gunna hold up carryin’ all that gold. Bring me my §3[5 Gold Chunks]§a from the tunnel, and then I’ll give ye yer information.@§7[1/1] §2Джанкан: §aЯ вернулся, потому что не смог тащить все это золото. Принеси мне мои §3[5 Кусков Золота]§a из туннеля, а затем я дам тебе твою информацию.
-§7[1/1] §2Jankan: §aWoa there kiddo, there ain' no gold for you in this here cave, This be my humble occupation.@§7[1/1] §2Джанкан: §aОоу, малой, в этой пещере для тебя нет золота. Это моя территория.
-§7[1/1] §2Svin: §aI hope you have learned much from your adventures, courageous traveler!@§7[1/1] §2Свин: §aНадеюсь, ты многому научился из своих приключений, отважный путешественник!
-§7[1/1] §2Svin: §aHow is the search going, traveler? I do hope you return to me with §3[1 Beast Egg]§a.@§7[1/1] §2Свин: §aКак идут поиски, путешественник? Я надеюсь, что ты вернешься ко мне с §3[1 Яйцом Зверя]§a.
-§7[1/1] §2Svin: §aThe secrets of this mesa are too much for you to behold. Come back at level 38.@§7[1/1] §2Свин: §aСекреты этого плато еще слишком непонятны для твоего понимания. Вернись на 38 уровне.
-§7[1/1] §2Jankan: §aYer back again, are ye? Yer ain' gettin' any of me gold, so move along!@§7[1/1] §2Джанкан: §aТы снова вернулся, не так ли? Ты не получишь ни гроша из моего золото, так что двигай! 
-§7[1/1] §2Hermit: §aThink you can waltz in my humble abode and get across my bridge? Get out!@§7[1/1] §2Отшельник: §aДумаешь можешь покрасоваться передо мной в моей скромной обители и перебраться через мост? Убирайся!
-§7[1/1] §2Hermit: §aWhat’s taken you so long, kid? I just want §3[1 Rare Rose]§a!@§7[1/1] §2Отшельник: §aПочему ты так долго, малыш? Я просто хочу §3[1 Редкую Розу]§a!
-§7[1/1] §2Jankan: §aNothing for ye to see here youngster. Move along!@§7[1/1] §2Джанкан: §aТебе нечего здесь смотреть, мальчуган. Двигай!
-§7[1/1] §2Hermit: §aWhat are you here for, eh kid? Get out. Get!@§7[1/1] §2Отшельник: §aЗачем ты здесь, а парнишка? Уходи. Сейчас же!
+§7[1/1] §2Jankan: §aMe back ain’ gunna hold up carryin’ all that gold. Bring me my §3[5 Gold Chunks]§a from the tunnel, and then I’ll give ye yer information.@§7[1/1] §2잔칸: §a난 저 금 전부를 나르기는 싫네. 터널에서 §3[5 Gold Chunks]§a을 가져다줘, 그러면 내 정보를 더 주지.
+§7[1/1] §2Jankan: §aWoa there kiddo, there ain' no gold for you in this here cave, This be my humble occupation.@§7[1/1] §2잔칸: §a오우 얘야, 여기 동굴에는 금이 없어. 이건 내 보잘것없는 직업이야.
+§7[1/1] §2Svin: §aI hope you have learned much from your adventures, courageous traveler!@§7[1/1] §2스빈: §a용기 있는 여행자여, 네가 모험을 하며 더 많은 것을 배웠으면 좋겠어!
+§7[1/1] §2Svin: §aHow is the search going, traveler? I do hope you return to me with §3[1 Beast Egg]§a.@§7[1/1] §2스빈: §a여행자여, 탐색은 어떻게 돼가고 있어? 나는 네가 §3[1 Beast Egg]§a을 갖고 돌아왔으면 좋겠어.
+§7[1/1] §2Svin: §aThe secrets of this mesa are too much for you to behold. Come back at level 38.@§7[1/1] §2스빈: §a이 메사의 비밀은 너가 찾기엔 너무 벅차. 38레벨에 돌아와.
+§7[1/1] §2Jankan: §aYer back again, are ye? Yer ain' gettin' any of me gold, so move along!@§7[1/1] §2잔칸: §a뭐야, 다시 돌아왔어? 나에게 아무 금도 안 가져왔잖아, 어서 움직여!
+§7[1/1] §2Hermit: §aThink you can waltz in my humble abode and get across my bridge? Get out!@§7[1/1] §2허밋: §a니가 내 초라한 집에서 왈츠를 추고 다리를 건널 수 있을 거 같아? 나가!
+§7[1/1] §2Hermit: §aWhat’s taken you so long, kid? I just want §3[1 Rare Rose]§a!@§7[1/1] §2허밋: §a뭐 이리 오래 걸려 애송아? 나는 단지 §3[1 Rare Rose]§a을 원한다고!
+§7[1/1] §2Jankan: §aNothing for ye to see here youngster. Move along!@§7[1/1] §2잔칸: §a얘야 여기에 너를 위해 보여줄 건 없어. 움직여!
+§7[1/1] §2Hermit: §aWhat are you here for, eh kid? Get out. Get!@§7[1/1] §2허밋: §aЗ뭐하러 온거야 꼬마야? 나가! 나가!

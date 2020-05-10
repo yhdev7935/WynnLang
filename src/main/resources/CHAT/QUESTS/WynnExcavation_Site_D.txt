@@ -1,122 +1,122 @@
-§7[1/8] §2Royal Advisor Carlos: §aHis majesty Lord King of Troms is indisposed at this moment.@§7[1/8] §2Королевский Советник Карлос: §aЕго Величеству господину Королю Тромсa нездоровится в данный момент.
-§7[2/8] §2Royal Advisor Carlos: §aHe recieved a message and made his way frantically down to the panic room, which is somewhere inside of this throne room.@§7[2/8] §2Королевский Советник Карлос: §aОн получил сообщение и начал лихорадочно бежать в свою комнату для паники, которая находится где-то внутри этого тронного зала.
-§7[3/8] §2Royal Advisor Carlos: §aHe hasn't been seen since. Only the King knows how to get into the panic room, but I've had my suspicions about it for a while now.@§7[3/8] §2Королевский Советник Карлос: §aС тех пор он не появлялся. Только Король знает, как попасть в ту комнату, однако у меня есть догадки, как туда попасть.
-§7[4/8] §2Royal Advisor Carlos: §aHe seemed to be expecting someone, but I'm fed up of waiting.@§7[4/8] §2Королевский Советник Карлос: §aКажется, он ждал кого-то, но лично мне это уже надоело.
-§7[5/8] §2Royal Advisor Carlos: §aI managed to hear a few things he was muttering to himself just before he disappeared, though.@§7[5/8] §2Королевский Советник Карлос: §aМне удалось услышать несколько вещей, которые он бормотал себе под нос, перед тем как исчез.
-§7[6/8] §2Royal Advisor Carlos: §aHe mentioned something about a §a§lfourth crystal§a... a §a§lgreen§a one.@§7[6/8] §2Королевский Советник Карлос: §aОн упоминал некий §a§lчетвертый кристалл§a... вроде как §a§lзеленый§a.
-§7[7/8] §2Royal Advisor Carlos: §aAnd then he said "The order of the crystals will open the way". Maybe it's a clue as to how to find him?@§7[7/8] §2Королевский Советник Карлос: §aИ затем он сказал "Порядок кристаллов откроет путь". Может это подсказка о том, как найти его?
-§7[8/8] §2Royal Advisor Carlos: §aPlease, we need to find him, I'm sick of telling everyone he's indisposed!@§7[8/8] §2Королевский Советник Карлос: §aУмоляю, нам нужно найти его. Мне надоело говорить всем, что он нездоров!
-§7[1/1] §2Royal Advisor Carlos: §aOh my, a secret passage has opened up beneath the throne! Quickly, head inside!@§7[1/1] §2Королевский Советник Карлос: §aО боже, секретный проход открылся под троном! Быстрее, проходи внутрь!
-§7[1/9] §2King of Troms: §aI am impressed you managed to find me. Someone of my intellect is not normally found when he hasn't the intention of being so.@§7[1/9] §2Король Тромса: §aЯ поражен, что тебе удалось найти меня. Кто-то с моим уровнем интеллекта не может найти меня, похоже им нет дела до этого.
-§7[2/9] §2King of Troms: §aI suppose I at least owe you the truth for getting this far, not that it matters.@§7[2/9] §2Король Тромса: §aПредполагаю, что я как минимум должен сказать тебе правду. Раз уж я зашел так далеко, будь что будет.
-§7[3/9] §2King of Troms: §aWynnExcavation, the Gavel company is a fake, a facade. It's not real....@§7[3/9] §2Король Тромса: §aВиннЭкскавейшен - компания из Гавела – это подделка. Она не настоящая...
-§7[4/9] §2King of Troms: §aIt's actually a secret society run by the high and mighty of Gavel. @§7[4/9] §2Король Тромса: §aНа самом деле это тайное общество, из могучей провинции Гавел.
-§7[5/9] §2King of Troms: §aThey have one goal, complete control.@§7[5/9] §2Король Тромса: §aОни имеют одну цель - полный контроль.
-§7[6/9] §2King of Troms: §aYou can't compete with them, kid. I tried to at first, but they had turned my inner circle before getting to me.@§7[6/9] §2Король Тромса: §aТы не сможешь бороться с ними, парнишка. Я сначала пытался, но они быстро поставили меня на место.
-§7[7/9] §2King of Troms: §aThough I cannot admit I fought hard, their ideals are admirable.@§7[7/9] §2Король Тромса: §aНе могу не признать, что я боролся изо всех сил, но их идеалы достойны восхищения.
-§7[8/9] §2King of Troms: §aSo I hope you will forgive me, I act only for the greater good of the world.@§7[8/9] §2Король Тромса: §aТак что надеюсь, что ты простишь меня, я действую только на благо мира.
-§7[9/9] §2King of Troms: §aAs you will not be leaving the city, I wish you a fond farewell. When you leave, you will be accused of treason and will be hunted. It is the only way...@§7[9/9] §2Король Тромса: §aЕсли ты останешься в городе, с тобой все будет хорошо. Если же уйдешь, то будешь обвинен в измене, и за тобой будут охотиться. Это единственный способ...
-§7[1/6] §2Troms Guard: §aTime is short, so I'll have to spare you the details, but let's just say I'm on your side.@§7[1/6] §2Страж Тромса: §aВремени мало, так что я избавлю тебя от подробностей, скажу лишь, что я на твоей стороне.
-§7[2/6] §2Troms Guard: §aThe King just placed you under arrest for treason. They've locked down the entire city.@§7[2/6] §2Страж Тромса: §aКороль только что арестовал тебя за измену. Они заблокировали весь город.
-§7[3/6] §2Troms Guard: §aBoth the front gate and the Passage are closed down. So we've created another exit for you.@§7[3/6] §2Страж Тромса: §aОба - центральные ворота, и Проход уже закрыты. Так что я сделал для тебя другой выход.
-§7[4/6] §2Troms Guard: §aJust follow the path to your left around the city. Keep going until you see a villager next to a tunnel. We'll clear your name once you've escaped.@§7[4/6] §2Страж Тромса: §aПросто иди по левой стороне пути, что ведет через весь город. Продолжай идти, пока не увидишь жителя рядом с тоннелем. Мы очистим твое имя, как только ты сбежишь.
-§7[5/6] §2Troms Guard: §aYou'll pass through the army headquarters on your way, so be prepared for a fight. I'm the only guard here to help you.@§7[5/6] §2Страж Тромса: §aТебе придется пройти через армию наемников на своем пути, так что готовься к битве. Я единственный охранник здесь, который поможет тебе.
-§7[6/6] §2Troms Guard: §aNow run! We don't have another moment to waste!@§7[6/6] §2Страж Тромса: §aТеперь беги! У нас нет времени на лишние разговоры!
-§7[1/4] §2???: §aHey, psst. Come here!@§7[1/4] §2???: §aЭй, пссс. Подойди сюда!
-§7[2/4] §2???: §aTake this, and run! You need to get out!@§7[2/4] §2???: §aВозьми это и беги! Тебе нужно выбираться!
-§7[3/4] §2???: §aHead to those coordinates, there is no time to explain, now go! I'll close the tunnel behind you.@§7[3/4] §2???: §aСледуй по координатам, нет времени объяснять, просто беги! Я закрою тоннель за тобой.
-§7[4/4] §2???: §aI'VE FOUND THE TRAITOR! THEY'RE OVER HERE!@§7[4/4] §2???: §aЯ НАШЕЛ ПРЕДАТЕЛЯ! ОН ЗДЕСЬ!
-§7[1/4] §2Traitor Thomas: §aI'm sorry, I can't let you in there.@§7[1/4] §2Предатель Томас: §aИзвини, я не могу пустить тебя туда.
-§7[2/4] §2Traitor Thomas: §aI can't let you in there, not until you have proven you are truly on our side.@§7[2/4] §2Предатель Томас: §aТы не войдешь, пока не докажешь, что ты действительно на нашей стороне.
-§7[3/4] §2Traitor Thomas: §aWe never know who to believe anymore. Unfortunately there is no way for you to prove your loyalty.@§7[3/4] §2Предатель Томас: §aМы не знаем, кому можно верить. К сожалению, нет никакого способа для тебя, чтобы доказать свою лояльность.
-§7[4/4] §2Traitor Thomas: §aNow if you would excuse me, I have to hunt for the lost map fragments of Dernel. I'm sure these eyes have something to do with it... @§7[4/4] §2Предатель Томас: §aТеперь, если извинишь меня, я должен искать потерянные фрагменты карты Дернел джунглей. Уверен, что эти глаза как-то связаны с этим...
-§7[1/4] §2Traitor Thomas: §aIs that... The map fragments? You found them!@§7[1/4] §2Предатель Томас: §aЭто... Фрагменты карты? Ты нашел их!
-§7[2/4] §2Traitor Thomas: §aOh my, you better come in.@§7[2/4] §2Предатель Томас: §aОго, тогда ты должен зайти.
-§7[3/4] §2Traitor Thomas: §aThere's not enough time! We need to combine those fragments with ours!@§7[3/4] §2Предатель Томас: §aНам надо спешить! Мы должны объединить эти фрагменты с нашими!
-§7[4/4] §2Traitor Thomas: §aHurry, get in the hideout!@§7[4/4] §2Предатель Томас: §aБыстрее, в убежище!
-§7[1/8] §2Traitor Amadel: §aWelcome, friend. I knew you would figure it all out.@§7[1/8] §2Предатель Амадел: §aДобро пожаловать, друг. Я знал, что ты во всем разберешься.
-§7[2/8] §2Traitor Amadel: §aYou must be surprised to see me. The excavation crew at site C tried very hard to kill me.@§7[2/8] §2Предатель Амадел: §aТы должно быть удивлен видеть меня живым. Рабочие из части C очень старались убить меня.
-§7[3/8] §2Traitor Amadel: §aThey didn't succeed though. I got away, and I swiped a fragment of a map, and I found out what it's for.@§7[3/8] §2Предатель Амадел: §aНо им не удалось. Я сбежал, и стащил фрагмент карты. И я знаю, для чего она.
-§7[4/8] §2Traitor Amadel: §aIf you made it this far, you know Wynn Excavation are not what they seem. They want to harness Wynn's ancient power.@§7[4/8] §2Предатель Амадел: §aРаз уж ты зашел настолько далеко, то ты знаешь, что ВиннЭкскавейшен не то, чем они кажутся. Они хотят пробудить древнюю мощь.
-§7[5/8] §2Traitor Amadel: §aThey control our governments, authorities and seem to be 3 steps ahead of any of us that oppose them.@§7[5/8] §2Предатель Амадел: §aОни управляют нашими правительствами, королями и кажется, всегда на 3 шага впереди любого из нас и нам нечего противопоставить им.
-§7[6/8] §2Traitor Amadel: §aThat is, unless we're able to beat the excavationists to the last crystal.@§7[6/8] §2Предатель Амадел: §aТак и есть, но они ничего не смогут сделать без последнего кристалла.
-§7[7/8] §2Traitor Amadel: §aThey cannot use a single shard of power without combining them all.@§7[7/8] §2Предатель Амадел: §aОни не смогут использовать один осколок силы без объединения их всех.
-§7[8/8] §2Traitor Amadel: §aHere, I've combined the map fragments behind me. It looks like it's deep in the jungle, I wonder where... @§7[8/8] §2Предатель Амадел: §aВот, я совместил фрагменты карт позади меня. Похоже, это где-то глубоко в джунглях, знать бы где...
-§7[1/8] §2Excavator Admin Uci: §aOh my. It's you. I can't say I'm surprised to see you, we thought you might be stupid enough to come here.@§7[1/8] §2Раскопщик Админ Уки: §aБоже мой. Это ты. Не могу сказать, что я удивлен видеть тебя. Мы думали, что ты не настолько глуп, чтобы прийти сюда.
-§7[2/8] §2Excavator Admin Uci: §aStupid enough to come here, yet, smart enough to make it.@§7[2/8] §2Раскопщик Админ Уки: §aХм, достаточно глуп, чтобы прийти сюда, но все же, достаточно умен, чтобы сделать это.
-§7[3/8] §2Excavator Admin Uci: §aYou were at every site, taking shards and attempting to thwart us.@§7[3/8] §2Раскопщик Админ Уки: §aТы был на каждой из раскопок, брал осколки и пытался помешать нам.
-§7[4/8] §2Excavator Admin Uci: §aThis time we won, and you lost.@§7[4/8] §2Раскопщик Админ Уки: §aНа этот раз мы победили, а ты проиграл.
-§7[5/8] §2Excavator Admin Uci: §aWhat do your shards mean to us when we have all four crystals?@§7[5/8] §2Раскопщик Админ Уки: §aЗачем нам твои осколки, если у нас есть все четыре кристалла?
-§7[6/8] §2Excavator Admin Uci: §aNothing, that's what.@§7[6/8] §2Раскопщик Админ Уки: §aНезачем, именно.
-§7[7/8] §2Excavator Admin Uci: §aThe boss wants to speak to you, I don't recommend keeping him waiting, he's not a patient man.@§7[7/8] §2Раскопщик Админ Уки: §aБосс хочет поговорить с тобой, и я не рекомендую заставлять его ждать - он очень нетерпеливый человек.
-§7[8/8] §2Excavator Admin Uci: §aHe'll be waiting for you, head through that door.@§7[8/8] §2Раскопщик Админ Уки: §aОн будет ждать тебя. Иди через эту дверь.
-§7[1/8] §2WynnExcavation Leader Amadel: §aWell, well. Looks like you've finally made it.@§7[1/8] §2Лидер ВиннЭкскавейшен Амадел: §aЧто же, что же. Похоже, ты наконец сделал это.
-§7[2/8] §2WynnExcavation Leader Amadel: §aYou might be a little shocked to see me here...@§7[2/8] §2Лидер ВиннЭкскавейшен Амадел: §aНаверно ты немного шокирован, увидев меня здесь....
-§7[3/8] §2WynnExcavation Leader Amadel: §aEverything was planned you see...@§7[3/8] §2Лидер ВиннЭкскавейшен Амадел: §aВсе было спланировано, как видишь...
-§7[4/8] §2WynnExcavation Leader Amadel: §aYou finding that old fool in the desert, you surviving that fall.@§7[4/8] §2Лидер ВиннЭкскавейшен Амадел: §aТы нашел этого старого дурака в пустыне, выжил после того падения.
-§7[5/8] §2WynnExcavation Leader Amadel: §aYou finding that notebook, and eventually meeting me.@§7[5/8] §2Лидер ВиннЭкскавейшен Амадел: §aТы нашел тот блокнот, и в конце концов встретился со мной.
-§7[6/8] §2WynnExcavation Leader Amadel: §aEverything that you have done has been planned by the mastermind behind this organisation, me.@§7[6/8] §2Лидер ВиннЭкскавейшен Амадел: §aВсе, что ты сделал, было запланировано идейным вдохновителем этой организации - мной.
-§7[7/8] §2WynnExcavation Leader Amadel: §aYou don't get it, do you? We needed you. The Ancient Crystals of Wynn are an old magic, and a powerful one at that.@§7[7/8] §2Лидер ВиннЭкскавейшен Амадел: §aТы не понимаешь, да? Ты нужен нам. Древние кристаллы Винн - старая магия, и мощная к тому же.
-§7[8/8] §2WynnExcavation Leader Amadel: §aWe needed you, a human of pure intention to bring empowered shards here, it's just part of how it all works, I wouldn't expect you to understand. Enough talk now.@§7[8/8] §2Лидер ВиннЭкскавейшен Амадел: §aМы нуждались в тебе, человеке чистого намерения, чтобы ты, принес эти осколки сюда. Это всего лишь часть моего плана, я не жду, что ты это поймешь. Довольно болтовни.
-§7[1/2] §2Amadel's Assistant: §aI see you have finally shown up.@§7[1/2] §2Ассистент Амаделя: §aВижу, ты наконец-то объявился.
-§7[2/2] §2Amadel's Assistant: §aThere is no chance someone as weak as you can beat Amadel!@§7[2/2] §2Ассистент Амаделя: §aУ такого слабака, как ты, нет шансов победить Амаделя!
-§7[1/1] §2Corrupted Amadel: §aThe crystals combine the ancient elements and grant me ultimate power, the power to change the world!@§7[1/1] §2Corrupted Amadel: §aКристаллы сочетают в себе древние элементы. Они даровали мне абсолютную власть. Власть, чтобы изменить мир
-§7[1/2] §2Amadel's Assistant: §aThat was a mere fluke..@§7[1/2] §2Ассистент Амаделя: §aЭто была случайность..
-§7[2/2] §2Amadel's Assistant: §aAmadel is unbeatable!@§7[2/2] §2Ассистент Амаделя: §aAmadel непобедим!
-§7[1/2] §2Amadel's Assistant: §aHe's simply warming up..@§7[1/2] §2Ассистент Амаделя: §aЕго мощь растет...
-§7[2/2] §2Amadel's Assistant: §aTHIS ISN'T EVEN HIS FINAL FORM!@§7[2/2] §2Ассистент Амаделя: §aЭТО ДАЖЕ НЕ ФИНАЛЬНАЯ ФОРМА!
-§7[1/1] §2Amadel: §aAAWWEERRAGH I WILL DESTROY ALL LIFE.@§7[1/1] §2Amadel: §aАААРРРГГГГХХХХ Я УНИЧТОЖУ ВСЕ ЖИВОЕ.
-§7[1/2] §2Amadel's Assistant: §aI, I can't believe you beat him...@§7[1/2] §2Ассистент Амаделя: §aЯ, я не могу поверить, что ты убил его...
-§7[2/2] §2Amadel's Assistant: §aAmadel was a god... He was going to save the province...@§7[2/2] §2Ассистент Амаделя: §aАмадел был Богом... Он должен был спасти провинцию...
-§7[1/18] §2Ragni's King: §aYou, ahh yes. I remember you. You're the recruit I accepted long ago..@§7[1/18] §2Король Рагни: §aТы? Ах да. Я помню тебя. Ты солдат, что прибыл сюда давно..
-§7[2/18] §2Ragni's King: §aI'm no mage, but what you have there may just be the most destructive force in the entire world.@§7[2/18] §2Король Рагни: §aЯ не маг, но думаю, что ты уничтожил самую разрушительную силу во всем мире.
-§7[3/18] §2Ragni's King: §aI remember being told something by my grandfather, and he was royalty in Gavel himself!@§7[3/18] §2Король Рагни: §aПомню, как мне что-то рассказывал мой дед, а он был членом королевской семьи в провинции Гавел!
-§7[4/18] §2Ragni's King: §aThat the Wynn province will never find solace. I never really understood why, until now.@§7[4/18] §2Король Рагни: §aЧто Винн провинция никогда не найдет утешения. Я никогда не понимал, почему, до этого дня.
-§7[5/18] §2Ragni's King: §aYou see, forces are at work on our lands that we cannot physically see, but the outcome of the influences cannot be ignored.@§7[5/18] §2Король Рагни: §aВидишь ли, силы действуют на наших землях, которые мы не можем видеть физически, но исход их влияния нельзя игнорировать.
-§7[6/18] §2Ragni's King: §aZombies, skeletons, the corrupt, you'll find these things all over Wynn, but not in Gavel. In Gavel there are magical beings, not all of them are friendly, mind.@§7[6/18] §2Король Рагни: §aЗомби, скелеты, порча - ты найдешь эти вещи по всей Винн провинции, но только не в Гавел. В Гавелe есть магические существа, но не все из них являются дружелюбными...
-§7[7/18] §2Ragni's King: §aBut rarely do you see the undead in such numbers. You know, there is a fundamental law of our land, when two forces collide, there is war.@§7[7/18] §2Король Рагни: §aНо редко ты увидишь нежить в таком количестве. Знаешь ли, есть фундаментальный закон на нашей земле - когда две силы сталкиваются, то происходит война.
-§7[8/18] §2Ragni's King: §aThis could be people, species or anything, really. And I think the same thing can be said for the powers that resonate in the crystal you have there.@§7[8/18] §2Король Рагни: §aЭто могут быть люди, виды или что-то другое. И я думаю тоже самое можно сказать и о силе, которая содержится в этих кристаллах.
-§7[9/18] §2Ragni's King: §aI think that crystal represents the collisions of two incomprehensible powers, and if that power can turn one man into what you fought back there, I shudder to think what else it could do.@§7[9/18] §2Король Рагни: §aДумаю, что кристаллы представляет собой столкновения двух непостижимых сил, и если эта сила может превратить одного человека в то, с чем ты боролся там, страшно подумать, что еще они могли сделать.
-§7[10/18] §2Ragni's King: §aThe ancient tribe that used to inhabit Dernel jungle clearly knew it too, as they met their eventual demise, perhaps they too, attempted to harness the power.@§7[10/18] §2Король Рагни: §aДревние племена, некогда населявшие Дернел джунгли наверняка знали, что они тоже могли погибнуть, если использовать эту силу.
-§7[11/18] §2Ragni's King: §aThese are things that the mages of the ocean have studied in secret for centuries. We may never know, and rather, I think we never should know.@§7[11/18] §2Король Рагни: §aЭто вещи, которые маги океана изучали в тайне на протяжении веков. Мы можем никогда не узнать, и скорее, я думаю, мы никогда не должны знать этого.
-§7[12/18] §2Ragni's King: §aIf Amadel taught us anything, it's that we can never be trusted with power. Here, put that crystal into the lava. Let it burn and never be used. §4The king places the crystals in the lava, and watches it sink.@§7[12/18] §2Король Рагни: §aЕсли Амадел и научил нас чему-то, то это то, что мы никогда не сможем совладать с этой силой. Вот, положу эти кристаллы в лаву. Пусть сгорят и не достанутся никому. §4Король помещает кристаллы в лаву, и наблюдает, как они тонут.
-§7[13/18] §2Ragni's King: §aThough it contains some of the most concentrated magical power, it is still limited to its container. Let it burn.@§7[13/18] §2Король Рагни: §aНесмотря на то, что здесь собрана самая могущественная магия, она все же ограничена в этом контейнере. Пусть все это сгорит.
-§7[14/18] §2Ragni's King: §aI do not know the severity of the Excavation's integration into the powers of Gavel, but I bet we haven't seen the last of them.@§7[14/18] §2Король Рагни: §aЯ точно не знаю, что будут делать последователи ВиннЭкскавейшен, но надеюсь, мы их больше не увидим.
-§7[15/18] §2Ragni's King: §aYou have done this province an unspeakable service. I bet even Bob is smiling down on you, I'm sure if he were here today, he would crown you worthy.@§7[15/18] §2Король Рагни: §aТы проделал огромную работу для нашей провинции. Держу пари, что даже Боб улыбается, смотря на нас с небес. Уверен, что если бы он был здесь сегодня, он бы вознаградил тебя.
-§7[16/18] §2Ragni's King: §aAs a token of our city's eternal gratitude, I wish for you to take this. It has no value to anyone except you.@§7[16/18] §2Король Рагни: §aВ знак нашей вечной благодарности от города, я дарю тебе это. Оно не имеет никакой ценности для нас, но тебе может пригодится.
-§7[17/18] §2Ragni's King: §aYou might want to hold onto it, a merchant in Cinfras has arrived and you will be able to trade it for the item that I wish I could bestow upon you now.@§7[17/18] §2Король Рагни: §aТы, возможно, захочешь обменять это у одного торговца в городе Цинфрас на предмет, который я бы подарил тебе сейчас.
-§7[18/18] §2Ragni's King: §aYou truly are, a master of this province, and I hereby knight you, as Wynn's true protector. I hope we meet again young master.@§7[18/18] §2Король Рагни: §aТеперь ты действительно – мастер этой провинции. Я посвящаю тебя в рыцаря, защитника провинции Винн. Надеюсь, что мы встретимся снова, юный мастер.
+===============================================================================================================
+§7[1/8] §2Royal Advisor Carlos: §aHis majesty Lord King of Troms is indisposed at this moment.@§7[1/8] §2왕실 비서 카를로스: §a트롬즈 왕께서는 지금 기분이 안 좋으셔.
+§7[2/8] §2Royal Advisor Carlos: §aHe recieved a message and made his way frantically down to the panic room, which is somewhere inside of this throne room.@§7[2/8] §2왕실 비서 카를로스: §a폐하께선 어떤 쪽지를 받으시고는 황급히 이 왕실 안 어딘가에 있는 대피소로 가셨어.
+§7[3/8] §2Royal Advisor Carlos: §aHe hasn't been seen since. Only the King knows how to get into the panic room, but I've had my suspicions about it for a while now.@§7[3/8] §2왕실 비서 카를로스: §a그 후로는 모습이 보이지 않으셔. 오직 왕만이 대피소에 들어가는 방법을 알고 있을 뿐, 나는 이 일에 대해 한동안 의심을 품고 있어.
+§7[4/8] §2Royal Advisor Carlos: §aHe seemed to be expecting someone, but I'm fed up of waiting.@§7[4/8] §2왕실 비서 카를로스: §a누군가를 기다리는 것처럼 보였는데, 하지만 난 이제 기다리는 것도 질렸어.
+§7[5/8] §2Royal Advisor Carlos: §aI managed to hear a few things he was muttering to himself just before he disappeared, though.@§7[5/8] §2왕실 비서 카를로스: §a하지만 폐하께서 사라지기 전에 혼자서 중얼거리는 걸 조금 들었어.
+§7[6/8] §2Royal Advisor Carlos: §aHe mentioned something about a §a§lfourth crystal§a... a §a§lgreen§a one.@§7[6/8] §2왕실 비서 카를로스: §a§a§l녹색의l§a... a §a§l네 번째 수정체§a에 대해 언급하셨어.
+§7[7/8] §2Royal Advisor Carlos: §aAnd then he said "The order of the crystals will open the way". Maybe it's a clue as to how to find him?@§7[7/8] §2왕실 비서 카를로스: §a그러고는 "수정체의 순서가 길을 열어 줄 것이다."라고 말씀하셨어. 어쩌면 이게 폐하를 찾을만한 단서가 될 수 있을까?
+§7[8/8] §2Royal Advisor Carlos: §aPlease, we need to find him, I'm sick of telling everyone he's indisposed!@§7[8/8] §2왕실 비서 카를로스: §a부탁해, 우린 폐하를 찾아야만 해, 나도 이제 모든 사람들에게 폐하가 기분이 안 좋다고 말하는 게 지겨워!
+§7[1/1] §2Royal Advisor Carlos: §aOh my, a secret passage has opened up beneath the throne! Quickly, head inside!@§7[1/1] §2왕실 비서 카를로스: §a세상에, 왕좌 밑에 비밀 통로가 열렸어! 빨리, 안으로 들어가 봐!
+§7[1/9] §2King of Troms: §aI am impressed you managed to find me. Someone of my intellect is not normally found when he hasn't the intention of being so.@§7[1/9] §2트롬즈 왕: §a나를 찾는자가 있을줄이야. 감동이네. 나처럼 똑똑한 사람은 증거를 흘리지 않으면 찾기 어렵지.
+§7[2/9] §2King of Troms: §aI suppose I at least owe you the truth for getting this far, not that it matters.@§7[2/9] §2트롬즈 왕: §a흠 흠 아무튼, 난 적어도 자네가 여기까지 도달한 것에 대한 사실에 대해 신세 졌다고 생각하네.
+§7[3/9] §2King of Troms: §aWynnExcavation, the Gavel company is a fake, a facade. It's not real....@§7[3/9] §2트롬즈 왕: §a가벨의 윈 발굴회사는 가짜, 겉모습일 뿐이야. 그건 진짜가 아니지....
+§7[4/9] §2King of Troms: §aIt's actually a secret society run by the high and mighty of Gavel. @§7[4/9] §2트롬즈 왕: §a그 단체는 사실 가벨의 높고 힘센 자들이 운영하는 비밀 조직이라네.
+§7[5/9] §2King of Troms: §aThey have one goal, complete control.@§7[5/9] §2트롬즈 왕: §a그들의 목표는 단 하나, 완전한 지배.
+§7[6/9] §2King of Troms: §aYou can't compete with them, kid. I tried to at first, but they had turned my inner circle before getting to me.@§7[6/9] §2트롬즈 왕: §a자넨 그들과 겨룰 수 없네, 젊은이. 한 번 시도했었지만, 그들은 내게 도착하기도 전에 내 핵심 세력을 돌려놓았어.
+§7[7/9] §2King of Troms: §aThough I cannot admit I fought hard, their ideals are admirable.@§7[7/9] §2트롬즈 왕: §a비록 내가 열심히 싸웠다는 것을 인정할 순 없지만, 그들의 이상은 존경할만하네.
+§7[8/9] §2King of Troms: §aSo I hope you will forgive me, I act only for the greater good of the world.@§7[8/9] §2트롬즈 왕: §a그래서 자네가 날 용서해 주길 바라네. 난 오직 세계의 더 큰 이익을 위해서만 행동하지.
+§7[9/9] §2King of Troms: §aAs you will not be leaving the city, I wish you a fond farewell. When you leave, you will be accused of treason and will be hunted. It is the only way...@§7[9/9] §2트롬즈 왕: §a자네가 도시를 떠나지 않는다면, 괜찮을 것이네. 하지만 만약 떠난다면, 자네는 반역죄로 고발되어 쫓기게 될 거야. 여기 가만히 있는게 유일한 방법이야...
+§7[1/6] §2Troms Guard: §aTime is short, so I'll have to spare you the details, but let's just say I'm on your side.@§7[1/6] §2트롬즈 경비병: §a시간이 짧으니 자세한 이야기는 피하고, 내가 네 편이라는 것만 말해둘게.
+§7[2/6] §2Troms Guard: §aThe King just placed you under arrest for treason. They've locked down the entire city.@§7[2/6] §2트롬즈 경비병: §a왕은 반역죄로 널 체포하려고 해. 그들은 도시 전체를 폐쇄했어.
+§7[3/6] §2Troms Guard: §aBoth the front gate and the Passage are closed down. So we've created another exit for you.@§7[3/6] §2트롬즈 경비병: §a정문과 복도는 모두 폐쇄됐어. 그래서 우린 널 위해 또 다른 출구를 만들었어.
+§7[4/6] §2Troms Guard: §aJust follow the path to your left around the city. Keep going until you see a villager next to a tunnel. We'll clear your name once you've escaped.@§7[4/6] §2트롬즈 경비병: §a도시를 두른 네 왼쪽의 길을 따라가. 터널 옆에 주민이 보일 때까지 계속 가. 네가 탈출한다면 네 이름을 지워줄게.
+§7[5/6] §2Troms Guard: §aYou'll pass through the army headquarters on your way, so be prepared for a fight. I'm the only guard here to help you.@§7[5/6] §2트롬즈 경비병: §a가는 길에 군대 본부를 지나게 될 테니 싸움에 대비해. 널 도와주는 경비병은 나뿐이야.
+§7[6/6] §2Troms Guard: §aNow run! We don't have another moment to waste!@§7[6/6] §2트롬즈 경비병: §a이제 가! 더 이상 낭비할 시간이 없어!
+§7[1/4] §2???: §aHey, psst. Come here!@§7[1/4] §2???: §a이봐, 잠깐만. 여기야!
+§7[2/4] §2???: §aTake this, and run! You need to get out!@§7[2/4] §2???: §a이걸 가지고 도망쳐! 넌 여기서 나가야 해!
+§7[3/4] §2???: §aHead to those coordinates, there is no time to explain, now go! I'll close the tunnel behind you.@§7[3/4] §2???: §a좌표로 가, 설명할 시간은 없어. 어서 가! 네가 가고 나면 터널을 닫을게!
+§7[4/4] §2???: §aI'VE FOUND THE TRAITOR! THEY'RE OVER HERE!@§7[4/4] §2???: §a반역자를 찾았어요! 여기 있어요!
+§7[1/4] §2Traitor Thomas: §aI'm sorry, I can't let you in there.@§7[1/4] §2배신자 토마스: §a미안하지만, 널 들여보낼 순 없어.
+§7[2/4] §2Traitor Thomas: §aI can't let you in there, not until you have proven you are truly on our side.@§7[2/4] §2배신자 토마스: §a네가 우리 편이라는 걸 증명하기 전까진 들여보낼 수 없어.
+§7[3/4] §2Traitor Thomas: §aWe never know who to believe anymore. Unfortunately there is no way for you to prove your loyalty.@§7[3/4] §2배신자 토마스: §a우린 더 이상 누굴 믿을 수 있는지 몰라. 유감스럽게도 너의 신의를 증명할 방법은 없어.
+§7[4/4] §2Traitor Thomas: §aNow if you would excuse me, I have to hunt for the lost map fragments of Dernel. I'm sure these eyes have something to do with it... @§7[4/4] §2배신자 토마스: §a이제 미안하지만, 난 더넬의 잃어버린 지도 조각을 찾아야만 해. 이 눈들은 분명 그것과 관련이 있을 거야...
+§7[1/4] §2Traitor Thomas: §aIs that... The map fragments? You found them!@§7[1/4] §2배신자 토마스: §a그거... 지도 조각이야? 네가 찾았구나!
+§7[2/4] §2Traitor Thomas: §aOh my, you better come in.@§7[2/4] §2배신자 토마스: §a세상에, 넌 들어와도 좋아.
+§7[3/4] §2Traitor Thomas: §aThere's not enough time! We need to combine those fragments with ours!@§7[3/4] §2배신자 토마스: §a시간이 충분치 않아! 그 조각을 빨리 우리 것들이랑 결합시켜야 해!
+§7[4/4] §2Traitor Thomas: §aHurry, get in the hideout!@§7[4/4] §2배신자 토마스: §a어서, 아지트로 들어가!
+§7[1/8] §2Traitor Amadel: §aWelcome, friend. I knew you would figure it all out.@§7[1/8] §2배신자 아마델: §a어서 와, 친구. 네가 다 알아낼 줄 알았어.
+§7[2/8] §2Traitor Amadel: §aYou must be surprised to see me. The excavation crew at site C tried very hard to kill me.@§7[2/8] §2배신자 아마델: §a넌 분명히 날 보고 놀랐을 거야. C 현장의 발굴 대원들이 날 죽이려고 무척 애를 썼지.
+§7[3/8] §2Traitor Amadel: §aThey didn't succeed though. I got away, and I swiped a fragment of a map, and I found out what it's for.@§7[3/8] §2배신자 아마델: §a그러나 그들은 성공하지 못했어. 난 도망쳤고, 지도 조각을 훔쳐서 어디에 쓰이는 건지 알아냈어.
+§7[4/8] §2Traitor Amadel: §aIf you made it this far, you know Wynn Excavation are not what they seem. They want to harness Wynn's ancient power.@§7[4/8] §2배신자 아마델: §a너도 여기까지 왔으니 윈 발굴 회사는 보이는 것과는 다르다는 걸 알 거야. 그들은 윈의 고대의 힘을 이용하길 원하고 있어.
+§7[5/8] §2Traitor Amadel: §aThey control our governments, authorities and seem to be 3 steps ahead of any of us that oppose them.@§7[5/8] §2배신자 아마델: §a그들은 우리의 정부와 당국들을 통제하고 있으며, 우리들보다 세 걸음은 앞서 있는 거처럼 보여.
+§7[6/8] §2Traitor Amadel: §aThat is, unless we're able to beat the excavationists to the last crystal.@§7[6/8] §2배신자 아마델: §a즉, 우린 그 녀석들보다 마지막 크리스탈을 더 빨리 찾아야 해.
+§7[7/8] §2Traitor Amadel: §aThey cannot use a single shard of power without combining them all.@§7[7/8] §2배신자 아마델: §a크리스탈을 모두 결합하지 않고서는 조각들의 힘을 사용할 수 없어.
+§7[8/8] §2Traitor Amadel: §aHere, I've combined the map fragments behind me. It looks like it's deep in the jungle, I wonder where... @§7[8/8] §2배신자 아마델: §a여기, 내 뒤에 지도 조각을 합쳐놨어. 정글 깊숙한 곳에 있을 거 같은데, 어디...
+§7[1/8] §2Excavator Admin Uci: §aOh my. It's you. I can't say I'm surprised to see you, we thought you might be stupid enough to come here.@§7[1/8] §2발굴팀 관리자 우시: §a세상에. 너구나. 널 보고 놀랐다고는 말 못 하겠네, 우린 네가 여기 올 만큼 멍청할지도 모른다고 생각했어.
+§7[2/8] §2Excavator Admin Uci: §aStupid enough to come here, yet, smart enough to make it.@§7[2/8] §2발굴팀 관리자 우시: §a여기 올 만큼 멍청하기도 하지만, 똑똑하기도 하구나.
+§7[3/8] §2Excavator Admin Uci: §aYou were at every site, taking shards and attempting to thwart us.@§7[3/8] §2발굴팀 관리자 우시: §a넌 모든 현장에 있었고, 조각을 훔치고 우릴 방해하려고 했었지.
+§7[4/8] §2Excavator Admin Uci: §aThis time we won, and you lost.@§7[4/8] §2발굴팀 관리자 우시: §a이번에는 우리가 이겼고, 넌 졌어.
+§7[5/8] §2Excavator Admin Uci: §aWhat do your shards mean to us when we have all four crystals?@§7[5/8] §2발굴팀 관리자 우시: §a우리가 네 개의 수정체를 모두 가지고 있다면 너의 조각들이 우리한테 무슨 의미가 있지?
+§7[6/8] §2Excavator Admin Uci: §aNothing, that's what.@§7[6/8] §2발굴팀 관리자 우시: §a아무것도 아닌 거야.
+§7[7/8] §2Excavator Admin Uci: §aThe boss wants to speak to you, I don't recommend keeping him waiting, he's not a patient man.@§7[7/8] §2발굴팀 관리자 우시: §a사장님은 너와 얘기하고 싶어 하셔, 그를 기다리게 하는 걸 권하지 않을게. 인내심이 강한 사람이 아니거든.
+§7[8/8] §2Excavator Admin Uci: §aHe'll be waiting for you, head through that door.@§7[8/8] §2발굴팀 관리자 우시: §a널 기다리고 있을 거야, 저 문으로 가봐.
+§7[1/8] §2WynnExcavation Leader Amadel: §aWell, well. Looks like you've finally made it.@§7[1/8] §2윈 발굴현장 리더 아마델: §a자, 자. 이제야 네가 해낸 거 같네.
+§7[2/8] §2WynnExcavation Leader Amadel: §aYou might be a little shocked to see me here...@§7[2/8] §2윈 발굴현장 리더 아마델: §a여기서 날 보다니 꽤 충격받았겠는걸...
+§7[3/8] §2WynnExcavation Leader Amadel: §aEverything was planned you see...@§7[3/8] §2윈 발굴현장 리더 아마델: §a보이다시피 모든 건 계획된 거야...
+§7[4/8] §2WynnExcavation Leader Amadel: §aYou finding that old fool in the desert, you surviving that fall.@§7[4/8] §2윈 발굴현장 리더 아마델: §a넌 사막에서 그 늙은 얼간이를 만났고, 그 함정에서 살아남았지.
+§7[5/8] §2WynnExcavation Leader Amadel: §aYou finding that notebook, and eventually meeting me.@§7[5/8] §2윈 발굴현장 리더 아마델: §a넌 그 노트를 발견하고, 마침내 나를 만났지.
+§7[6/8] §2WynnExcavation Leader Amadel: §aEverything that you have done has been planned by the mastermind behind this organisation, me.@§7[6/8] §2윈 발굴현장 리더 아마델: §a네가 한 모든 일은 이 조직, 나로부터 계획된 거야.
+§7[7/8] §2WynnExcavation Leader Amadel: §aYou don't get it, do you? We needed you. The Ancient Crystals of Wynn are an old magic, and a powerful one at that.@§7[7/8] §2윈 발굴현장 리더 아마델: §a이해가 안 되지? 우린 네가 필요했었어. 윈의 고대 수정체들은 오래되고 강력한 마법이야.
+§7[8/8] §2WynnExcavation Leader Amadel: §aWe needed you, a human of pure intention to bring empowered shards here, it's just part of how it all works, I wouldn't expect you to understand. Enough talk now.@§7[8/8] §2윈 발굴현장 리더 아마델: §a여기에 힘을 가진 조각들을 가져올 순수한 의도를 가진 인간이! 이건 모든 일이 어떻게 돌아가는지의 일부일 뿐이야. 넌 이해하지 못하겠지. 이제 얘기는 충분하겠군.
+§7[1/2] §2Amadel's Assistant: §aI see you have finally shown up.@§7[1/2] §2아마델의 비서: §a드디어 왔구나.
+§7[2/2] §2Amadel's Assistant: §aThere is no chance someone as weak as you can beat Amadel!@§7[2/2] §2아마델의 비서: §a너처럼 약한 사람이 아마델을 이길 가능성은 없어!
+§7[1/1] §2Corrupted Amadel: §aThe crystals combine the ancient elements and grant me ultimate power, the power to change the world!@§7[1/1] §2타락한 아마델: §a크리스탈들이 고대의 원소를 결합해, 나에게 세상을 바꿀 궁극적인 힘을 주는구나!
+§7[1/2] §2Amadel's Assistant: §aThat was a mere fluke..@§7[1/2] §2아마델의 비서: §a그건 단순한 우연이었어..
+§7[2/2] §2Amadel's Assistant: §aAmadel is unbeatable!@§7[2/2] §2아마델의 비서: §a아마델은 무적이야!
+§7[1/2] §2Amadel's Assistant: §aHe's simply warming up..@§7[1/2] §2아마델의 비서: §a그의 힘은 커지고 있어..
+§7[2/2] §2Amadel's Assistant: §aTHIS ISN'T EVEN HIS FINAL FORM!@§7[2/2] §2아마델의 비서: §a이것은 심지어 최종 형태가 아니야!
+§7[1/1] §2Amadel: §aAAWWEERRAGH I WILL DESTROY ALL LIFE.@§7[1/1] §2아마델: §a§4으§kAH§4아악§kAHA§4ㅏㅏㄱ §4§l모든 생명을 파괴하겠다.
+§7[1/2] §2Amadel's Assistant: §aI, I can't believe you beat him...@§7[1/2] §2아마델의 비서: §a네, 네가 어떻게 그를...
+§7[2/2] §2Amadel's Assistant: §aAmadel was a god... He was going to save the province...@§7[2/2] §2아마델의 비서: §a아마델은 신이었어... 그는 지방을 구하려고 했어...
+§7[1/18] §2Ragni's King: §aYou, ahh yes. I remember you. You're the recruit I accepted long ago..@§7[1/18] §2라그니 왕: §a자네는, 아아 그래. 난 자네를 기억하고 있어. 내가 오래전에 받아들인 신병이었지.
+§7[2/18] §2Ragni's King: §aI'm no mage, but what you have there may just be the most destructive force in the entire world.@§7[2/18] §2라그니 왕: §a난 마법사는 아니지만, 자네가 그곳에서 가졌던 힘은 아마 세상에서 가장 파괴적인 힘일지도 몰라.
+§7[3/18] §2Ragni's King: §aI remember being told something by my grandfather, and he was royalty in Gavel himself!@§7[3/18] §2라그니 왕: §a내 할아버지께서 이 말을 하셨지. 그 분은 가벨에서 왕족이셨단다!
+§7[4/18] §2Ragni's King: §aThat the Wynn province will never find solace. I never really understood why, until now.@§7[4/18] §2라그니 왕: §a윈 지방은 절대 위안을 찾지 못할 것이다. 왜 그런말을 하셨는지 이해하지 못했다네. 지금도.
+§7[5/18] §2Ragni's King: §aYou see, forces are at work on our lands that we cannot physically see, but the outcome of the influences cannot be ignored.@§7[5/18] §2라그니 왕: §a자네도 알다시피, 힘은 우리가 물리적으로 볼 수 없는 땅에서 작용하고 있지만, 그 영향의 결과는 결코 무시할 순 없네.
+§7[6/18] §2Ragni's King: §aZombies, skeletons, the corrupt, you'll find these things all over Wynn, but not in Gavel. In Gavel there are magical beings, not all of them are friendly, mind.@§7[6/18] §2라그니 왕: §a좀비, 스켈레톤, 부패한 것들, 자네 이것들을 윈에서 볼 수 있지만, 가벨에서는 아니네. 그곳에서는 대신 마법 같은 존재들이 있는데, 그들 전부가 친절하고 마음이 있지는 않지.
+§7[7/18] §2Ragni's King: §aBut rarely do you see the undead in such numbers. You know, there is a fundamental law of our land, when two forces collide, there is war.@§7[7/18] §2라그니 왕: §a그러나 그런 자들에서 언데드를 거의 보지는 못할걸세. 자네도 알다시피, 우리 땅에는 근본적인 법칙이 있지. 두 세력이 부딪힐 때, 전쟁이 일어난다.
+§7[8/18] §2Ragni's King: §aThis could be people, species or anything, really. And I think the same thing can be said for the powers that resonate in the crystal you have there.@§7[8/18] §2라그니 왕: §a그건 사람이나 종, 무엇이든지 될 수 있다네. 자네가 가지고 있는 크리스탈의 힘도 그 세력 중 하나겠지.
+§7[9/18] §2Ragni's King: §aI think that crystal represents the collisions of two incomprehensible powers, and if that power can turn one man into what you fought back there, I shudder to think what else it could do.@§7[9/18] §2라그니 왕: §a난 크리스탈들이 이해할 수 없는 힘의 부딪힘 중 하나라고 생각하네. 그리고 그 힘이 한 생명에게 가게 된다면... 그 괴물은 무슨 일을 저지를 지 아무도 모르네.
+§7[10/18] §2Ragni's King: §aThe ancient tribe that used to inhabit Dernel jungle clearly knew it too, as they met their eventual demise, perhaps they too, attempted to harness the power.@§7[10/18] §2라그니 왕: §a더넬 정글에 살던 고대 부족이 최후를 맞이했을 때도, 이 힘을 사용하다 무언가 잘못되었지.
+§7[11/18] §2Ragni's King: §aThese are things that the mages of the ocean have studied in secret for centuries. We may never know, and rather, I think we never should know.@§7[11/18] §2라그니 왕: §a이건 바다의 마법사들이 몇 세기 동안 비밀리에 연구해온 것이라네. 우린 결코 알지 못할 수도 있고. 오히려, 결고 알아서도 안 된다고 생각하네.
+§7[12/18] §2Ragni's King: §aIf Amadel taught us anything, it's that we can never be trusted with power. Here, put that crystal into the lava. Let it burn and never be used. §4The king places the crystals in the lava, and watches it sink.@§7[12/18] §2라그니 왕: §a만약 아마델이 우리에게 무언가를 가르쳐줬다면, 그건 우리가 결코 힘은 믿을 수 없다는 것이겠지. 자, 그 크리스탈들을 용암에 넣게나. 그것들은 태워버리고 절대로 사용되지 못하게 해야 해. §4왕은 수정체들을 용암 속에 넣고, 가라앉는 걸 지켜본다.
+§7[13/18] §2Ragni's King: §aThough it contains some of the most concentrated magical power, it is still limited to its container. Let it burn.@§7[13/18] §2라그니 왕: §a이 크리스탈들은 농축된 마력이 아직 남아있겠지만... 타게 냅두게.
+§7[14/18] §2Ragni's King: §aI do not know the severity of the Excavation's integration into the powers of Gavel, but I bet we haven't seen the last of them.@§7[14/18] §2라그니 왕: §a난 발굴단이 가벨의 권력에 통합되는 것의 심각성은 잘 모르지만, 그들의 최후는 아무도 보지 못할 것이라고 확신하네.
+§7[15/18] §2Ragni's King: §aYou have done this province an unspeakable service. I bet even Bob is smiling down on you, I'm sure if he were here today, he would crown you worthy.@§7[15/18] §2라그니 왕: §a자네는 이 지방에서 훌륭한 일들을 해왔어. 밥 조차도 분명히 자네를 보며 웃고 있을걸세. 그가 오늘 여기 있었다면, 분명히 그는 자네에게 상을 줬을 거야.
+§7[16/18] §2Ragni's King: §aAs a token of our city's eternal gratitude, I wish for you to take this. It has no value to anyone except you.@§7[16/18] §2라그니 왕: §a우리 도시의 영원한 감사의 표시로 이것을 받아주었으면 하네. 자네 말고는 누구에게도 가치가 없는 것이네.
+§7[17/18] §2Ragni's King: §aYou might want to hold onto it, a merchant in Cinfras has arrived and you will be able to trade it for the item that I wish I could bestow upon you now.@§7[17/18] §2라그니 왕: §a이걸 가지고 있어도 좋지만, 신프라스의 상인에게 가면 그대에게 걸맞는 보상으로 바꿀 수 있을걸세.
+§7[18/18] §2Ragni's King: §aYou truly are, a master of this province, and I hereby knight you, as Wynn's true protector. I hope we meet again young master.@§7[18/18] §2라그니 왕: §a자네는 진정으로 이 지방의 영웅일세. 자네를 윈의 진정한 수호자로써 기사 직위를 임명하지. 다시 만났으면 좋겠네.
 
-§7[1/1] §2Shadow Amadel: §aT§a§kh§ae ele§a§kment§aal force will not a§a§kllo§aw me to l§a§ko§ase.@§7[1/1] §2Shadow Amadel: §aС§ki§aла эле§a§kmen§aтов не позво§a§kli§aт мне про§a§kigr§aать.
-§7[1/3] §2Royal Advisor Carlos: §aThe panic room is hidden somewhere in here, we just need to figure out how to open it...@§7[1/3] §2Королевский Советник Карлос: §aКомната страха спрятана где-то здесь, нам просто нужно выяснить, как ее открыть... 
-§7[2/3] §2Royal Advisor Carlos: §aLast I heard from His Majesty, he was muttering something about a §a§lfourth crystal§a... a §a§lgreen§a one.@§7[2/3] §2Королевский Советник Карлос: §aПоследнее, что я слышал от Его Величества - он бормотал что-то о §a§lчетвертом кристалле...§a вроде §a§lзеленом§a.
-§7[3/3] §2Royal Advisor Carlos: §aAnd then he said "The order of the crystals will open the way". Maybe it's a clue as to how to find him?@§7[3/3] §2Королевский Советник Карлос: §aА затем он сказал: "Порядок кристаллов откроет путь". Может быть, это ключ к тому, как его найти?
-§7[1/1] §2Traitor Thomas: §aI'm sorry, I can't let you in there until you prove yourself!@§7[1/1] §2Предатель Томас: §aПрости, я не могу впустить тебя туда, пока ты не проявишь себя!
-§7[1/1] §2Amadel's Assistant: §aAmadel couldn't be defeated....@§7[1/1] §2Ассистент Амаделя: §aАмадел не мог быть побежден...
-§7[1/1] §2Amadel's Assistant: §aAmadel can't be defeated!@§7[1/1] §2Ассистент Амаделя: §aАмадел не может быть побежден!
-§7[1/1] §2???: §aWhat are you still doing here? Get out of the city!@§7[1/1] §2???: §aПочему ты еще здесь? Выбирайся из города!
-§7[1/1] §2Traitor Amadel: §aQuickly, you must reach the last crystal before WynnExcavation! It's in the Dernel Jungle, there must be a building like the one on the map@§7[1/1] §2Предатель Амадел: §aБыстрее, ты должен добраться до последнего кристалла раньше ВиннЭкскавейшен! Он в Дернел джунглях, там должно быть строение, как на этой карте.
-§7[1/1] §2Excavator Sean: §aMy boss Uci is a bit of a mean guy, but hey the perks of minionship aren't bad!@§7[1/1] §2Раскопщик Шон: §aМой босс Уки немного злой парень, но эй, зато льготы для миньонов не такие уж и плохие!
-§7[1/1] §2Royal Advisor Carlos: §aHelp, the king is... wait. No you're not strong enough yet, come back when you reached Level 70.@§7[1/1] §2Королевский Советник Карлос: §aПомоги, король... подожди-ка. Нет, ты еще недостаточно силен, возвращайся когда достигнешь 70-го уровня.
-§7[1/1] §2Royal Advisor Carlos: §aThank you for helping find the king!@§7[1/1] §2Королевский Советник Карлос: §aСпасибо, что помог найти короля!
-§7[1/1] §2Traitor Buice: §aWynnExcavation have done really horrible things, and I used to help...@§7[1/1] §2Предатель Бучи: §aВиннЭкскавейшен делает ужасные вещи, и я решил помочь...
-§7[1/1] §2Traitor Jaynar: §aWynnExcavation will be destroyed, no matter what!@§7[1/1] §2Предатель Джайнар: §aВиннЭкскавейшен будет уничтожена, неважно как!
-§7[1/1] §2Amadel's Assistant: §aTry to defend yourself!@§7[1/1] §2Ассистент Амаделя: §aПопробуй защитить себя!
-§7[1/1] §2Amadel's Assistant: §aDo not run from your fate!@§7[1/1] §2Ассистент Амаделя: §aНе беги от своей судьбы!
-§7[1/1] §2Traitor Thomas: §aThanks for helping with that long task...@§7[1/1] §2Предатель Томас: §aСпасибо, что помог с этой долгой задачей...
-§7[1/1] §2WynnExcavation Leader Amadel: §aStep into this hole, and accept your fate. It's over, you've lost!@§7[1/1] §2Лидер ВиннЭкскавейшен Амадел: §aВойди в эту дыру и прими свою судьбу. Все кончено, ты проиграл!
-§7[1/1] §2Excavator Admin Uci: §aAs fun as it would be to kill you, my boss wants you alive. He's in the temple already....@§7[1/1] §2Раскопщик Админ Уки: §aБыло бы весело убить тебя, но мой босс хочет видеть тебя живым. Он уже находится в храме...
-§7[1/1] §2WynnExcavation Scientist Azure: §aThis leads deeper into this dungeon, but it seems like it has to be activated from the other side.@§7[1/1] §2Ученый ВиннЭкскавейшен Азуре: §aЭта штука ведет глубоко в подземелье, но кажется, что она должна быть активирована с другой стороны.
-§7[1/1] §2King of Troms: §aPlease just leave my presence...@§7[1/1] §2Король Тромса: §aПожалуйста, оставь меня...
-§7[1/1] §2Amadel's Assistant: §aYou will die!@§7[1/1] §2Ассистент Амаделя: §aТы умрешь!
-§7[1/1] §2Ragni's King: §aAh, welcome my young recr-... my young master.@§7[1/1] §2Король Рагни: §aАх, добро пожаловать, мой юный рекр... мой юный мастер.
-§7[1/1] §2???: §aThe rest of the city is blocked off. You're trapped if you go down that way!@§7[1/1] §2???: §aОстальная часть города заблокирована. Ты попадешь в ловушку, если пойдешь туда!
-§7[1/1] §2Traitor Thomas: §aI can't let you in, we're busy looking for an important document, I'm sure these eyes have something to do with it...@§7[1/1] §2Предатель Томас: §aЯ не могу тебя впустить, мы заняты поисками важного документа. Уверен, что эти глаза имеют к нему какое-то отношение...
-§7[1/1] §2???: §aPsst, over here!@§7[1/1] §2???: §aПсс, сюда!
-§7[1/1] §2Troms Guard: §aHey, where are you going? Are you §a§otrying§a to get yourself arrested? Talk to me first.@§7[1/1] §2Страж Тромса: §aЭй, куда ты собрался? Ты пытаешься§o добиться§a, чтобы тебя арестовали? Сначала поговори со мной.
-§7[1/1] §2Troms Guard: §aJust run! Get out of the city as fast as you can, and be prepared for a fight!@§7[1/1] §2Страж Тромса: §aПросто беги! Убирайся из города как можно быстрее, и будь готов к бою!
-§7[1/1] §2Amadel's Assistant: §aOh hey, it's you!@§7[1/1] §2Ассистент Амаделя: §aОх эй, это же ты!
-§7[1/1] §2Traitor Thomas: §aHey, scram!@§7[1/1] §2Предатель Томас: §aЭй, проваливай!
-§7[1/1] §2WynnExcavation Leader Amadel: §aAh, my friend. It must be a shock, but don't run from me!@§7[1/1] §2Лидер ВиннЭкскавейшен Амадел: §aА, мой друг. Ты должно быть в шоке, но не убегай от меня!
-§7[1/1] §2King of Troms: §aI did what I did for my people. Not out of personal values. I can now rule the city free of influence.@§7[1/1] §2Король Тромса: §aЯ сделал то, что должен был сделать для своих людей. Не из-за личных побуждений. Теперь я могу управлять городом без внешнего влияния.
-§7[4/4] §2Excavator Admin Uci: §aYou... you ruined me..@§7[4/4] §2Раскопщик Админ Уки: §aТы...ты погубил меня..
+§7[1/1] §2Shadow Amadel: §aT§a§kh§ae ele§a§kment§aal force will not a§a§kllo§aw me to l§a§ko§ase.@§7[1/1] §2Shadow Amadel: §a원§kSo§a의 §a§khim§a은 내가 지는 걸 §a§khu§a락하지 §a§kdksd §a거야.
+§7[1/3] §2Royal Advisor Carlos: §aThe panic room is hidden somewhere in here, we just need to figure out how to open it...@§7[1/3] §2왕실 비서 카를로스: §a대피소는 여기 어딘가에 숨겨져 있을 거야. 우린 그저 문을 어떻게 여는지 알아내면 돼...
+§7[2/3] §2Royal Advisor Carlos: §aLast I heard from His Majesty, he was muttering something about a §a§lfourth crystal§a... a §a§lgreen§a one.@§7[2/3] §2왕실 비서 카를로스: §a마지막으로 폐하께 들은 바로는, §a§l녹색의l§a... a §a§l네 번째 수정체§a에 대해 중얼거리셨어.
+§7[3/3] §2Royal Advisor Carlos: §aAnd then he said "The order of the crystals will open the way". Maybe it's a clue as to how to find him?@§7[3/3] §2왕실 비서 카를로스: §a그러고는 "수정체의 순서가 길을 열어 줄 것이다."라고 말씀하셨어. 어쩌면 이게 폐하를 찾을만한 단서가 될 수 있을까?
+§7[1/1] §2Traitor Thomas: §aI'm sorry, I can't let you in there until you prove yourself!@§7[1/1] §2배신자 토마스: §a미안한데, 너 자신을 증명하기 전까진 널 들여보낼 수 없어!
+§7[1/1] §2Amadel's Assistant: §aAmadel couldn't be defeated....@§7[1/1] §2아마델의 비서: §a아마델이 질리가 없어....
+§7[1/1] §2Amadel's Assistant: §aAmadel can't be defeated!@§7[1/1] §2아마델의 비서: §a아마델이 질리가 없다고!
+§7[1/1] §2???: §aWhat are you still doing here? Get out of the city!@§7[1/1] §2???: §a아직도 여기서 뭐 하는 거야? 이 도시에서 나가!
+§7[1/1] §2Traitor Amadel: §aQuickly, you must reach the last crystal before WynnExcavation! It's in the Dernel Jungle, there must be a building like the one on the map@§7[1/1] §2배신자 아마델: §a빨리, 윈 발굴회사가 도착하기 전에 네 번째 크리스탈을 손에 넣어야 해! 더넬 정글 안에 있어. 지도에 있는 것과 같은 건물이 있을 거야.
+§7[1/1] §2Excavator Sean: §aMy boss Uci is a bit of a mean guy, but hey the perks of minionship aren't bad!@§7[1/1] §2발굴자 션: §a내 상사 우시는 좀 못된 사람이지만. 부하의 혜택은 나쁘지 않다고!
+§7[1/1] §2Royal Advisor Carlos: §aHelp, the king is... wait. No you're not strong enough yet, come back when you reached Level 70.@§7[1/1] §2왕실 비서 카를로스: §a도와줘, 왕이... 아니. 넌 아직 충분히 강하지 않아, 전투 레벨 70에 도달하면 다시 와.
+§7[1/1] §2Royal Advisor Carlos: §aThank you for helping find the king!@§7[1/1] §2왕실 비서 카를로스: §a왕을 찾는 걸 도와줘서 고마워!
+§7[1/1] §2Traitor Buice: §aWynnExcavation have done really horrible things, and I used to help...@§7[1/1] §2배신자 부이스: §a윈 발굴회사는 끔찍한 일을 하고 있어, 나도 돕곤 했지만...
+§7[1/1] §2Traitor Jaynar: §aWynnExcavation will be destroyed, no matter what!@§7[1/1] §2배신자 제이날: §a윈 발굴회사는 무슨 일이 있어도 파괴될 거야!
+§7[1/1] §2Amadel's Assistant: §aTry to defend yourself!@§7[1/1] §2아마델의 비서: §a너 자신이나 보호해!
+§7[1/1] §2Amadel's Assistant: §aDo not run from your fate!@§7[1/1] §2아마델의 비서: §a네 운명으로부터 도망치지 마!
+§7[1/1] §2Traitor Thomas: §aThanks for helping with that long task...@§7[1/1] §2배신자 토마스: §a긴 문제를 도와줘서 고마워...
+§7[1/1] §2WynnExcavation Leader Amadel: §aStep into this hole, and accept your fate. It's over, you've lost!@§7[1/1] §2윈 발굴현장 리더 아마델: §a이 구멍에 들어가서, 네 운명을 받아들여라. 이미 끝났어, 넌 패배했다!
+§7[1/1] §2Excavator Admin Uci: §aAs fun as it would be to kill you, my boss wants you alive. He's in the temple already....@§7[1/1] §2발굴팀 관리자 우시: §a널 죽이면 재밌을텐데, 사장님은 네가 살아있길 원해. 그는 벌써 신전에 계셔...
+§7[1/1] §2WynnExcavation Scientist Azure: §aThis leads deeper into this dungeon, but it seems like it has to be activated from the other side.@§7[1/1] §2윈 발굴현장 과학자 아줄: §a이건 더 깊은 던전으로 이어지지만, 다른 쪽에서 활성화 시켜야 하는군.
+§7[1/1] §2King of Troms: §aPlease just leave my presence...@§7[1/1] §2트롬즈 왕: §a제발 날 내버려 두게...
+§7[1/1] §2Amadel's Assistant: §aYou will die!@§7[1/1] §2아마델의 비서: §a넌 죽을거야!
+§7[1/1] §2Ragni's King: §aAh, welcome my young recr-... my young master.@§7[1/1] §2라그니 왕: §a아, 어서오게, 내... 내 젊은 영웅이여.
+§7[1/1] §2???: §aThe rest of the city is blocked off. You're trapped if you go down that way!@§7[1/1] §2???: §a도시의 나머지 부분은 봉쇄됐어! 그쪽으로 내려가면 갇힐 거야!
+§7[1/1] §2Traitor Thomas: §aI can't let you in, we're busy looking for an important document, I’m sure these eyes have something to do with it...@§7[1/1] §2배신자 토마스: §a널 들여보낼 수 없어, 우린 중요한 서류를 찾느라 바빠. 이 눈들이 분명 뭔가 관련이 있을 거야...
+§7[1/1] §2???: §aPsst, over here!@§7[1/1] §2???: §a이봐, 여기야!
+§7[1/1] §2Troms Guard: §aHey, where are you going? Are you §a§otrying§a to get yourself arrested? Talk to me first.@§7[1/1] §2트롬즈 경비병: §a이봐, 뭐 하는 거야? 너 스스로 §a§o잡히려고§a 하는 거니? 나에게 먼저 말해.
+§7[1/1] §2Troms Guard: §aJust run! Get out of the city as fast as you can, and be prepared for a fight!@§7[1/1] §2트롬즈 경비병: §a그냥 달려! 최대한 빨리 이 도시를 벗어나서 싸울 준비를 해!
+§7[1/1] §2Amadel's Assistant: §aOh hey, it's you!@§7[1/1] §2아마델의 비서: §a오 이봐, 너구나!
+§7[1/1] §2Traitor Thomas: §aHey, scram!@§7[1/1] §2배신자 토마스: §a이봐, 썩 꺼져!
+§7[1/1] §2WynnExcavation Leader Amadel: §aAh, my friend. It must be a shock, but don't run from me!@§7[1/1] §2윈 발굴현장 리더 아마델: §a아, 내 친구여. 분명 충격일 크겠지. 하지만 나에게서 도망가선 안 돼!
+§7[1/1] §2King of Troms: §aI did what I did for my people. Not out of personal values. I can now rule the city free of influence.@§7[1/1] §2트롬즈 왕: §a난 내 백성들을 위해서 해야 할 일을 한 거라네. 내 개인적인 감정 때문은 아니지. 난 이제 세력들을 벗어나서 도시를 다스릴 수 있겠군.

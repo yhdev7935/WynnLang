@@ -72,7 +72,7 @@ public class Chat extends TranslateType {
             }
             chat.refreshChat();
         } catch (IllegalArgumentException | IllegalAccessException e) {
-            WynnLang.sendMessage("§4Ошибка");
+            WynnLang.sendMessage("§4오류!");
         }
     }
 }

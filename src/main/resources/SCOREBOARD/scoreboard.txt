@@ -1,4 +1,4 @@
-§c§lDaily Objective:@§c§lЕжедневная Цель:
-§a§lObjectives:@§a§lЦели:
-§c- §7Trade 24² with@§c- §7Отдай 24² 
-§c- §7All done@§c- §7Все завершены
+﻿§c§lDaily Objective:@§c§l일일 퀘스트:
+§a§lObjectives:@§a§l퀘스트:
+§c- §7Trade 24² with@§7Lv. 1-10 뉴비
+§c- §7All done@§c- §7모두 완료

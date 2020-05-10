@@ -1,19 +1,20 @@
-§7[1/10] §2Dolem: §aHello, adventurer. What brings you to Thanos? Travelling, I suppose.@§7[1/10] §2Долем: §aПривет, путешественник. Что привело тебя в Танос? Путешествия, я полагаю?
-§7[2/10] §2Dolem: §aSay, while you're here, I could use your help with something. Something that might benefit both of us.@§7[2/10] §2Долем: §aСкажу, пока ты здесь, мне нужна твоя помощь. Кое-какая, что может быть выгодна для нас обоих.
-§7[3/10] §2Dolem: §aYou see, I am not a rich man. I barely have enough money to survive.@§7[3/10] §2Долем: §aКак видишь, я не богатый человек. Мне едва хватает денег для того, чтобы выжить.
-§7[4/10] §2Dolem: §aBut there is a way you can help me. Do you know of the treasure room in this city? It's just through this hallway.@§7[4/10] §2Долем: §aНо ты можешь мне помочь. Знаешь о сокровищнице в этом городе? Она находится прямо за коридором.
-§7[5/10] §2Dolem: §aYou see, the treasure in there is not real. It's fake, in case someone ever tries to steal it.@§7[5/10] §2Долем: §aКак видишь, сокровищница здесь не настоящая - она фальшивая. В случае того, если кто-то попытается ограбить ее.
-§7[6/10] §2Dolem: §aThe real treasure is inside a secret vault that I have discovered the entrance to. It's in the back of the treasure room.@§7[6/10] §2Долем: §aНастоящая сокровищница находиться внутри секретного хранилища, и я отыскал вход туда. Он находится позади сокровищницы.
-§7[7/10] §2Dolem: §aI don't know how to open it, however. That's where you come in. I need you to find out how to get inside.@§7[7/10] §2Долем: §aОднако, я не знаю, как ее открыть. Вот почему мне нужна твоя помощь. Мне нужно, что бы ты узнал как пробраться внутрь.
-§7[8/10] §2Dolem: §aIf I try to steal it, I'll be instantly caught, being a dwarf.@§7[8/10] §2Долем: §aЕсли я попытаюсь украсть что-то оттуда, меня моментально поймают, ведь я гном.
-§7[9/10] §2Dolem: §aBut if you go and succeed, I'll give you some of my emeralds in exchange for the gold.@§7[9/10] §2Долем: §aНо если войдешь ты, я дам тебе немного моих эмеральдов взамен золота.
-§7[10/10] §2Dolem: §aRemember, the entrance to the secret vault is in the back of the treasure room. Good luck.@§7[10/10] §2Долем: §aПомни, вход в секретное хранилища находиться позади сокровищницы. Удачи.
-§7[1/4] §2Dolem: §aVery nice work. You have done well. I am rather impressed that you pulled that off so easily.@§7[1/4] §2Долем: §aОтличная работа. Ты прекрасно справился. Я впечатлен, что это далось тебе так легко.
-§7[2/4] §2Dolem: §aThis is more gold than I expected. But that's not a bad thing, of course.@§7[2/4] §2Долем: §aЗдесь больше золота, чем я ожидал. Но это еще лучше, естественно.
-§7[3/4] §2Dolem: §aI realized after you left that I forgot to tell you about the giant troll guardian. But I see that wasn't an issue.@§7[3/4] §2Долем: §aДо меня дошло, что я забыл сказать тебе о гигантском тролле-охраннике. Но, очевидно, для тебя это не было проблемой.
-§7[4/4] §2Dolem: §aNow, we did have a deal. You deserve these emeralds. Impressive work.@§7[4/4] §2Долем: §aТеперь, как и договаривались. Ты заслужил эти эмеральды. Прекрасная работа!
+﻿=====================================================================================
+§7[1/10] §2Dolem: §aHello, adventurer. What brings you to Thanos? Travelling, I suppose.@§7[1/10] §2돌렘: §a반가워 모험가, 타노스엔 무슨 일로 왔지? 여행?
+§7[2/10] §2Dolem: §aSay, while you're here, I could use your help with something. Something that might benefit both of us.@§7[2/10] §2돌렘: §a네가 여기 있는 동안 나를 좀 도와줘, 우리 둘에게 도움이 될 만한 일이 있어.
+§7[3/10] §2Dolem: §aYou see, I am not a rich man. I barely have enough money to survive.@§7[3/10] §2돌렘: §a네가 알다시피, 난 부자가 아니야. 생활에 쓸 돈도 별로 없어.
+§7[4/10] §2Dolem: §aBut there is a way you can help me. Do you know of the treasure room in this city? It's just through this hallway.@§7[4/10] §2돌렘: §a하지만 네가 날 도울 방법이 하나 있어. 이 도시의 보물창고를 알아? 이 복도를 지나가면 나올 거야.
+§7[5/10] §2Dolem: §aYou see, the treasure in there is not real. It's fake, in case someone ever tries to steal it.@§7[5/10] §2돌렘: §a그런데 사실, 저 창고에 있는 보물들은 전부 가짜야. 누가 훔쳐 갈까 봐 가짜를 놔둔 거지.
+§7[6/10] §2Dolem: §aThe real treasure is inside a secret vault that I have discovered the entrance to. It's in the back of the treasure room.@§7[6/10] §2돌렘: §a진짜 보물은 내가 보물창고 뒤에서 발견한 비밀 금고 안에 있어.
+§7[7/10] §2Dolem: §aI don't know how to open it, however. That's where you come in. I need you to find out how to get inside.@§7[7/10] §2돌렘: §a네가 들어갈 곳이 그 비밀 금고야. 하지만 문을 여는 방법을 모르겠어. 그러니, 네가 들어갈 방법을 찾아봐.
+§7[8/10] §2Dolem: §aIf I try to steal it, I'll be instantly caught, being a dwarf.@§7[8/10] §2돌렘: §a만약에 내가 훔치려고 한다면 바로 붙잡힐거야.
+§7[9/10] §2Dolem: §aBut if you go and succeed, I'll give you some of my emeralds in exchange for the gold.@§7[9/10] §2돌렘: §a하지만 네가 성공하기만 하면, 내 에메랄드 일부를 금이랑 교환해줄게.
+§7[10/10] §2Dolem: §aRemember, the entrance to the secret vault is in the back of the treasure room. Good luck.@§7[10/10] §2돌렘: §a명심해, 비밀 금고의 입구는 보물창고 뒤쪽에 있어. 그럼 행운을 빌지.
+§7[1/4] §2Dolem: §aVery nice work. You have done well. I am rather impressed that you pulled that off so easily.@§7[1/4] §2돌렘: §a아주 잘했어. 네가 그렇게 쉽게 해냈다니, 참 인상적이야.
+§7[2/4] §2Dolem: §aThis is more gold than I expected. But that's not a bad thing, of course.@§7[2/4] §2돌렘: §a내가 예상한 것보다 금이 훨씬 많군, 하지만 그게 나쁜 일은 아니지.
+§7[3/4] §2Dolem: §aI realized after you left that I forgot to tell you about the giant troll guardian. But I see that wasn't an issue.@§7[3/4] §2돌렘: §a네가 떠난 뒤에 깨달은 건데, 네게 거대한 트롤 수호자에 대해 말해주지 않았더군, 하지만 그게 큰 문제는 아니었나 보네.
+§7[4/4] §2Dolem: §aNow, we did have a deal. You deserve these emeralds. Impressive work.@§7[4/4] §2돌렘: §a이제, 우린 거래를 한 거야. 넌 이 에메랄드를 받을 자격이 있어. 인상적인 일을 해줬으니 말이야.
 
-§7[1/1] §2Dolem: §aOh come on, have you not gotten any gold from the secret vault? If you've forgotten already, it's in the back of the treasure room.@§7[1/1] §2Долем: §aДа ладно тебе, разве ты не достал золота из секретного хранилища? Если ты уже забыл, оно находится в задней части сокровищницы.
-§7[1/1] §2Dolem: §aThanks for helping me out. I know who to call next time I need money.@§7[1/1] §2Долем: §aСпасибо за помощь. Я знаю, кого позвать в следующий раз, когда мне понадобятся деньги.
-§7[1/2] §2Dolem: §aWho are you? A traveller, I'm assuming. While you're here, I could use some help with something.@§7[1/2] §2Долем: §aКто ты такой? Путешественник, я полагаю. Пока ты здесь, мне бы не помешала помощь кое с чем.
-§7[2/2] §2Dolem: §aBut you're way too weak, maybe when you're level 81.@§7[2/2] §2Долем: §aНо ты слишком слаб; может быть, когда ты будешь 81-го уровня.
+§7[1/1] §2Dolem: §aOh come on, have you not gotten any gold from the secret vault? If you've forgotten already, it's in the back of the treasure room.@§7[1/1] §2돌렘: §a이봐, 비밀 금고에서 금을 못 찾은 거야? 금고 위치를 벌써 잊어버린 거면, 금고는 보물창고 뒤쪽에 있어.
+§7[1/1] §2Dolem: §aThanks for helping me out. I know who to call next time I need money.@§7[1/1] §2돌렘: §a도와줘서 고마워. 다음에 또 돈이 필요해지면 다시 연락하지.
+§7[1/2] §2Dolem: §aWho are you? A traveller, I'm assuming. While you're here, I could use some help with something.@§7[1/2] §2돌렘: §a넌 누구지? 여행자? 네가 여기 있는 동안, 난 도움이 좀 필요하다만...
+§7[2/2] §2Dolem: §aBut you're way too weak, maybe when you're level 81.@§7[2/2] §2돌렘: §a하지만, 넌 너무 약해. 81 레벨에 다시 오라고.

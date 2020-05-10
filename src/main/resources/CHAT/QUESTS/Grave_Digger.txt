@@ -1,30 +1,31 @@
-§7[1/8] §2Sayleros: §aYou sure look like a strong adventurer who could help me!@§7[1/8] §2Сайлерос: §aТы выглядишь как сильный путешественник, который может мне помочь!
-§7[2/8] §2Sayleros: §aMy name is Sayleros. I spent most of my life in Maltic, but decided to come live in Detlas with my family a few weeks ago.@§7[2/8] §2Сайлерос: §aМеня зовут Сайлерос. Я провел большую часть своей жизни в Малтике, но все же решил переехать в Детлас со своей семьей пару недель назад.
-§7[3/8] §2Sayleros: §aHowever, we got attacked by thieves on our way here, and I had to leave my family behind. Most of them died, unfortunately.@§7[3/8] §2Сайлерос: §aОднако, мы были атакованы ворами по пути сюда, и мне пришлось бросить свою семью. Многие из них погибли, к сожалению.
-§7[4/8] §2Sayleros: §aI know that my brother had his will on him during the attack. Knowing he was a rich fellow, I expect to be receving a large part of his fortune.@§7[4/8] §2Сайлерос: §aЯ знаю, что у моего брата было с собой завещание во время атаки. Зная, что он был богатым парнем, я рассчитываю получить большую часть его состояния.
-§7[5/8] §2Sayleros: §aHis body is buried somewhere in Nemract. I own a large graveyard there, and can grant you access to it if you can bring me back his will.@§7[5/8] §2Сайлерос: §aЕго тело было погребено где-то в Немракте. У меня большое кладбище там, и я могу предоставить тебе доступ к нему, если ты принесешь мне его завещание.
-§7[6/8] §2Sayleros: §aOne of my other brothers also survived the attack. He isn't... um... somebody I'd trust greatly, but I'm sure he has some useful informations for you.@§7[6/8] §2Сайлерос: §aОдин из моих братьев также пережил нападение. Правда он не один из тех... хм... кому я могу смело доверять. Уверен, что у него есть для тебя полезная информация.
-§7[7/8] §2Sayleros: §aHis name is Drucksh. He usually likes to talk a lot when he is drunk, see if you can do anything with that.@§7[7/8] §2Сайлерос: §aЕго зовут Дракш. Он обычно любит поболтать, когда пьян. Подумай, может ты сможешь сделать что-нибудь с этим.
-§7[8/8] §2Sayleros: §aI'll be waiting for your return! Follow this path, it leads directly to Nemract. Good luck!@§7[8/8] §2Сайлерос: §aЯ буду ждать твоего возвращения! Следуй этой дорогой, она приведет тебя прямо в Немракт. Удачи!
-§7[1/4] §2Drucksh: §aOhh mmhhhgg... g-g-good old Nemract whiskey!@§7[1/4] §2Дракш: §aОхх ммхххггг... х-хо-хороший старый Немракт виски!
-§7[2/4] §2Drucksh: §aF-fine! I guess it wouldn't h-h-hurt to tell...*burp*..you where it-it- he is...@§7[2/4] §2Дракш: §aХ-хорошо! Я думаю могу т-те-тебе сказать...*ик*..где-де он...
-§7[3/4] §2Drucksh: §aIt's in the old c-c-cathedral, at the end of the town. Walk east, it should be right after the b-b-bridge.@§7[3/4] §2Дракш: §aОн в старом с-со-соборе, в конце деревни. Иди на восток, он должен быть прямо после м-мо-моста.
-§7[4/4] §2Drucksh: §aThough, the p-p-priest might not let you go in that easily...@§7[4/4] §2Дракш: §aХотя св-свя-священник не даст тебе легко зайти туда...
-§7[1/4] §2The Priest: §aAre you trying to go down into the crypt? Oh, that is a very bad idea.@§7[1/4] §2Священник: §aТы хочешь спуститься вниз в склеп? Ох, это очень плохая идея.
-§7[2/4] §2The Priest: §aThis place has been corrupted, and the dead came back to life. We had to break the stairs to protect this cathedral.@§7[2/4] §2Священник: §aЭто место было заражено порчей, и мертвые стали возвращаться к жизни. Нам пришлось сломать лестницу, чтобы защитить этот собор.
-§7[3/4] §2The Priest: §aIf you really want to enter it, I'd have to purify it so it doesn't corrupt you.@§7[3/4] §2Священник: §aЕсли действительно хочешь войти туда, я должен буду освятить тебя, чтобы тебя не заразили порчей.
-§7[4/4] §2The Priest: §aBring me §3[12 Rotten Flesh]§a, that should do it. Ancient Nemract is filled with zombies, it's toward the south-west. @§7[4/4] §2Священник: §aПринеси мне плоти §3[12 Rotten Flesh]§a, этого должно хватить. Древний Немракт кишит зомбями, на юго-западе отсюда.
-§7[1/2] §2The Priest: §aYou got the flesh. Good.@§7[1/2] §2Священник: §aТы принес плоть. Хорошо.
-§7[2/2] §2The Priest: §aIt should be... "safe", now. Be very careful, you are entering at your own risk.@§7[2/2] §2Священник: §aТеперь ты... "в безопасности". Будь очень осторожен, входи туда на свой страх и риск.
-§7[1/1] §2Sayleros: §aBrilliant! It is a little bit dusty, but it will do the trick! Here, take these as proof of my gratitude.@§7[1/1] §2Сайлерос: §aВеликолепно! Оно немного в пыли, но мне этого будет достаточно! Вот, возьми это, как доказательство моей благодарности.
+﻿================================================================================================================================
+§7[1/8] §2Sayleros: §aYou sure look like a strong adventurer who could help me!@§7[1/8] §2세이렐로스: §a당신은 정말 절 도와줄 수 있는 강력한 모험가처럼 보이는군요!
+§7[2/8] §2Sayleros: §aMy name is Sayleros. I spent most of my life in Maltic, but decided to come live in Detlas with my family a few weeks ago.@§7[2/8] §2세이렐로스: §a제 이름은 세이렐로스입니다. 전 제 삶의 대부분을 멜틱에서 보냈지만, 몇 주 전에 가족과 함께 데틀라스에서 살기로 결정했죠. 
+§7[3/8] §2Sayleros: §aHowever, we got attacked by thieves on our way here, and I had to leave my family behind. Most of them died, unfortunately.@§7[3/8] §2세이렐로스: §a그런데, 우리는 데틀라스로 오는 길에 도적들에 습격을 받았고, 전 가족들을 남기고 떠나야 했습니다. 불행이도 대부분은 죽어버렸죠.
+§7[4/8] §2Sayleros: §aI know that my brother had his will on him during the attack. Knowing he was a rich fellow, I expect to be receving a large part of his fortune.@§7[4/8] §2세이렐로스: §a공격 중에 제 형이 유언장을 가지고 있었을 겁니다. 그는 부자였으니, 전 형의 대부분의 재산을 상속 받을 것을 기대하고 있어요.
+§7[5/8] §2Sayleros: §aHis body is buried somewhere in Nemract. I own a large graveyard there, and can grant you access to it if you can bring me back his will.@§7[5/8] §2세이렐로스: §a제 형의 시신은 넴렉 어딘가에 뭍혀 있습니다. 전 넴렉에 있는 큰 묘지를 소유하고 있습니다. 형의 유언장을 가져와 준다면 그 묘지에 출입하는걸 허락해 드리겠습니다. 
+§7[6/8] §2Sayleros: §aOne of my other brothers also survived the attack. He isn't... um... somebody I'd trust greatly, but I'm sure he has some useful informations for you.@§7[6/8] §2세이렐로스: §a제 다른 형제도 그 공격에서 살아남았습니다. 그는.... 음... 제가 크게 믿는 사람은 아니지만, 당신에게 유용한 정보를 가지고 있을 겁니다.
+§7[7/8] §2Sayleros: §aHis name is Drucksh. He usually likes to talk a lot when he is drunk, see if you can do anything with that.@§7[7/8] §2세이렐로스: §a그의 이름은 드럭시입니다. 그는 술에 취했을 때 많은 이야기를 하곤 하죠. 얘기를 듣고 잘 생각해 보세요.
+§7[8/8] §2Sayleros: §aI'll be waiting for your return! Follow this path, it leads directly to Nemract. Good luck!@§7[8/8] §2세이렐로스: §a돌아오시는 것을 기다리겠습니다! 이 길을 쭉 따라가시면 넴렉으로 바로 연결될 겁니다. 행운을 빌죠!
+§7[1/4] §2Drucksh: §aOhh mmhhhgg... g-g-good old Nemract whiskey!@§7[1/4] §2드럭시: §a오오 으으으... 조-조아! 오래된 넴렉 위스키라니!
+§7[2/4] §2Drucksh: §aF-fine! I guess it wouldn't h-h-hurt to tell...*burp*..you where it-it- he is...@§7[2/4] §2드럭시: §a조-좋아! 그의 시체가 어디 있는지 *딸꾹!* 말해도 괸찮갯지...
+§7[3/4] §2Drucksh: §aIt's in the old c-c-cathedral, at the end of the town. Walk east, it should be right after the b-b-bridge.@§7[3/4] §2드럭시: §a혀-형의 시신은 마을 끗에 있는 다리를 건눠면 나오는 성당에 있숴.
+§7[4/4] §2Drucksh: §aThough, the p-p-priest might not let you go in that easily...@§7[4/4] §2드럭시: §a사제님이 널 쉽게 들어가게 하진 안을지도 모르쥐만... *딸꾹!*
+§7[1/4] §2The Priest: §aAre you trying to go down into the crypt? Oh, that is a very bad idea.@§7[1/4] §2성직자: §a지하실로 내려가시려는 겁니까? 오, 좋은 생각은 아니군요.
+§7[2/4] §2The Priest: §aThis place has been corrupted, and the dead came back to life. We had to break the stairs to protect this cathedral.@§7[2/4] §2성직자: §a지하실은 이미 타락했기 때문에, 죽은 사람이 다시 깨어나게 되었습니다. 우린 성당을 지키기 위해 계단을 부숴야 했습니다.
+§7[3/4] §2The Priest: §aIf you really want to enter it, I'd have to purify it so it doesn't corrupt you.@§7[3/4] §2성직자: §a정말 들어가시고 싶으시다면, 제가 당신을 정화해야만 타락을 피하실 수 있을 겁니다.
+§7[4/4] §2The Priest: §aBring me §3[12 Rotten Flesh]§a, that should do it. Ancient Nemract is filled with zombies, it's toward the south-west. @§7[4/4] §2성직자: §a제게 §3[12 Rotten Flesh]§a 를 가져오십시오. 남서쪽의 고대 넴렉은 좀비로 가득 차 있으니 그곳으로 가십시오. 
+§7[1/2] §2The Priest: §aYou got the flesh. Good.@§7[1/2] §2성직자: §a좋습니다. §3[Rotten Flesh]§a 를 가져오셨군요.
+§7[2/2] §2The Priest: §aIt should be... "safe", now. Be very careful, you are entering at your own risk.@§7[2/2] §2성직자: §a지금은 '안전' 하지만, 조심하십시오, 당신은 위협을 무릅쓰고 들어가시는 겁니다.
+§7[1/1] §2Sayleros: §aBrilliant! It is a little bit dusty, but it will do the trick! Here, take these as proof of my gratitude.@§7[1/1] §2세이렐로스: §a멋지군요! 먼지가 좀 많이 묻었지만, 효과가 있을 겁니다! 자, 이건 제 감사의 증거입니다.
 
-§7[1/2] §2Drucksh: §aMmh. g... uh! oh, why hello there.@§7[1/2] §2Дракш: §aМмм. о... Ух! Приветствую.
-§7[2/2] §2Drucksh: §aMy brother? Oh yes, I do know where he is "buried", but do I want to tell you? No, It's none of your business.@§7[2/2] §2Дракш: §aМой брат? Ах да, я знаю, где он "погребен", но хочу ли я тебе это сказать? Неа, это не твое дело
-§7[1/1] §2Sayleros: §aYou look like you desperately need an adventure, Come back when you're level 20, I might need you.@§7[1/1] §2Сайлерос: §aТы выглядишь так, будто отчаянно нуждаешься в приключении. Вернись, когда достигнешь 20-го уровня, ты можешь мне понадобиться.
-§7[1/1] §2The Priest: §aThis place is very dangerous, I suggest you to leave as soon as you can.@§7[1/1] §2Священник: §aЭто место очень опасно, я предлагаю тебе уйти как можно скорее.
-§7[1/1] §2Sayleros: §aThank you so much for your help!@§7[1/1] §2Сайлерос: §aБольшое спасибо тебе за помощь!
-§7[1/1] §2The Priest: §3[12 Rotten Flesh]§a is usually what I need to purify the crypt downstairs. Be careful, it's at your own risk.@§7[1/1] §2Священник: §a§3[12 Rotten Flesh]§a мне будет достаточно, чтобы очистить тот склеп внизу. Будь осторожен, это все на твой страх и риск.
-§7[1/1] §2The Priest: §aThank God you are still alive! Hopefully you are still doing fine in this dangerous world?@§7[1/1] §2Священник: §aСлава Богу, ты жив! Надеюсь, у тебя все хорошо в этом опасном мире?
-§7[1/1] §2The Priest: §aYou should be able to enter the crypt now. But be careful, you are entering at your own risk.@§7[1/1] §2Священник: §aТеперь ты можешь спуститься в этот склеп. Но будь осторожен, входи туда на свой страх и риск.
-§7[1/1] §2Drucksh: §aOut of m-m-my house, st-str-weirdo!@§7[1/1] §2Дракш: §aУходи из м-мо-моего дома, му-уд-чудила!
-§7[1/1] §2Sayleros: §aHow is your quest doing? Have you got the will? Did you made my brother Drucksh talk? Getting alcohol shouldn't be too hard in Nemract.@§7[1/1] §2Сайлерос: §aКак продвигается твой квест? У тебя уже есть завещание? Ты заставил моего брата Дракша говорить? Добыть алкоголь должно быть не слишком трудно в Немракте.
+§7[1/2] §2Drucksh: §aMmh. g... uh! oh, why hello there.@§7[1/2] §2드럭시: §a음. 어... 어! 오, 왜 거기 있는거야?
+§7[2/2] §2Drucksh: §aMy brother? Oh yes, I do know where he is "buried", but do I want to tell you? No, It's none of your business.@§7[2/2] §2드럭시: §a내 형제? 그래, 난 그의 시신이 어디 있는지 알아. 하지만 너에게 말해줄거냐고? 아니, 이건 네가 상관할 바가 아니야.
+§7[1/1] §2Sayleros: §aYou look like you desperately need an adventure, Come back when you're level 20, I might need you.@§7[1/1] §2세이렐로스: §a당신은 모험을 원하는군요. 20 전투 레벨에 돌아오세요, 당신이 필요할지도 모르니.
+§7[1/1] §2The Priest: §aThis place is very dangerous, I suggest you to leave as soon as you can.@§7[1/1] §2성직자: §a이곳은 매우 위험한 장소이니, 가능한 빨리 이곳을 떠나십시오.
+§7[1/1] §2Sayleros: §aThank you so much for your help!@§7[1/1] §2세이렐로스: §a도와주셔서 정말 감사합니다!
+§7[1/1] §2The Priest: §3[12 Rotten Flesh]§a is usually what I need to purify the crypt downstairs. Be careful, it's at your own risk.@§7[1/1] §2성직자: §a§3[12 Rotten Flesh]§a 는 지하실을 정화하는데 필요합니다. 조심하십시오, 위험한 일이니.
+§7[1/1] §2The Priest: §aThank God you are still alive! Hopefully you are still doing fine in this dangerous world?@§7[1/1] §2성직자: §a살아계시다니 다행입니다! 이 위험한 세상에서 잘 지내고 계십니까?
+§7[1/1] §2The Priest: §aYou should be able to enter the crypt now. But be careful, you are entering at your own risk.@§7[1/1] §2성직자: §a이제 지하실에 들어갈 수 있을 겁니다. 하지만 조심하십시오, 당신은 위협을 무릅쓰고 들어가시는 겁니다.
+§7[1/1] §2Drucksh: §aOut of m-m-my house, st-str-weirdo!@§7[1/1] §2드럭시: §a내, 내, 내 집에서 나가, 이 괴짜놈!
+§7[1/1] §2Sayleros: §aHow is your quest doing? Have you got the will? Did you made my brother Drucksh talk? Getting alcohol shouldn't be too hard in Nemract.@§7[1/1] §2세이렐로스: §a일은 잘 하고 있습니까? 유언장은 가지고 돌아오셨나요? 제 형제 드럭시가 말하게 하셨습니까? 넴렉에서 술을 마시게 하는 것은 힘든 일이 아닐겁니다.

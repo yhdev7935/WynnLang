@@ -1,34 +1,37 @@
-§7[1/9] §2Eluzterp: §aOh, hey! You, adventurer over there! Would you mind helping me?@§7[1/9] §2Элузтерп: §aЭй ты! Да, я про тебя, путешественник! Не поможешь мне?
-§7[2/9] §2Eluzterp: §aYou see, this cave behind me has been troubling me for the past while now.@§7[2/9] §2Элузтерп: §aПонимаешь, пещера позади меня доставляет мне массу неудобств в последнее время.
-§7[3/9] §2Eluzterp: §aThere are special slimes that live in there, and they drop a certain goo that is quite a delicacy when brewed into a drink!@§7[3/9] §2Элузтерп: §aВ ней живут особые слизни, выделяющие специальную субстанцию, и по слухам это довольно вкусное лакомство, если сварить из нее напиток!
-§7[4/9] §2Eluzterp: §aThey are called Gooey Slimes, and should be at the very back. A friend of mine drinks the stuff like water, and he refuses to work without it.@§7[4/9] §2Элузтерп: §aЭти слаймы называются Gooey Slimes, и должны обитать в самом конце пещеры. Мой друг пьет его, как воду, и уже отказывается работать без него.
-§7[5/9] §2Eluzterp: §aHowever, the slimes have gotten stronger about a month ago. I'm unable to retrieve it any more, I've come close to getting killed a few times!@§7[5/9] §2Элузтерп: §aОднако, эти слаймы окрепли около месяца назад. Я больше не могу добывать слизь, меня даже несколько раз чуть не убили!
-§7[6/9] §2Eluzterp: §aYou, however, seem much better equipped than I. Hopefully you can do it.@§7[6/9] §2Элузтерп: §aОднако, ты кажешься экипированным намного лучше меня. Надеюсь, хотя бы ты сможешь это сделать.
-§7[7/9] §2Eluzterp: §aIf you decide to help me, you'll need to obtain a special device for retrieving it, as the slime will dry up quickly in the air.@§7[7/9] §2Элузтерп: §aЕсли ты собираешься мне помочь, то тебе понадобится специальное устройство для сбора слизи, поскольку слаймы очень быстро высыхают на воздухе.
-§7[8/9] §2Eluzterp: §aA...less§a fickle glassblower, Yodbon, can make it for you. He should be living in a house in front of the Almuj bank.@§7[8/9] §2Элузтерп: §aЭм... один менее противный стеклодув, Йодбон, может его изготовить. Он должен жить в доме напротив банка Алмужa.
-§7[9/9] §2Eluzterp: §aI'll need §3[8 Slimey Goo] §asince we'll need a big batch of drinks. If you help, I'll be sure to tell him, and he'll probably let you into his shop.@§7[9/9] §2Элузтерп: §aМне необходимо §3[8 Вязкой слизи]§a, так как нам понадобится большая партия напитков. Если ты поможешь, я обязательно расскажу ему, и он впустит тебя в свой магазин.
-§7[1/6] §2Yodbon: §aWelcome to Yodbon's Glass Blowery, what can I do f-@§7[1/6] §2Йодбон: §aДобро пожаловать в Стелодувную Мастерскую Йодбона, что я могу сделать дл-
-§7[2/6] §2Yodbon: §aOh, another stinkin' adventurer, eh...@§7[2/6] §2Йодбон: §aОх, очередной назойливый путешественник, ага...
-§7[3/6] §2Yodbon: §aSo many've been coming up to me recently, askin' for a bloody Slime Scooper...@§7[3/6] §2Йодбон: §aС недавних пор меня докучает куча таких как ты. Всем нужен чёртов Совок для Слизи...
-§7[4/6] §2Yodbon: §aIzzat brother o' mine stopped workin' again? I swear, he's addicted to that slop...@§7[4/6] §2Йодбон: §aИззат, брат мой, перестал снова работать? Клянусь, у него зависимость от этой помой...
-§7[5/6] §2Yodbon: §aAnyways, for me to make you a scooper you'll need to get §3[5 Soft Sand]§a.@§7[5/6] §2Йодбон: §aНеважно, для изготовления совка мне нужен песок §3[5 Soft Sand]§a.
-§7[6/6] §2Yodbon: §aCome back to me once you've gotten ahold of it. You can dig it up from those sand piles 'round the desert.@§7[6/6] §2Йодбон: §aПриходи ко мне, как все раздобудешь. Ты можешь выкопать его из тех песчаных куч, раскиданных по пустыне.
-§7[1/3] §2Yodbon: §aYou've returned, I see.@§7[1/3] §2Йодбон: §aВернулся, как вижу.
-§7[2/3] §2Yodbon: §aA'ight, fork 'em over and I'll make you the scooper.@§7[2/3] §2Йодбон: §aХорошо, сделаю я тебе совок.
-§7[3/3] §2Yodbon: §a...There§a you go. No idea why he wants that stuff though. Maybe it's an acquired taste...@§7[3/3] §2Йодбон: §a...Вот, держи. Не знаю, почему он так его хочет. Может быть, все из-за странного вкуса...
-§7[1/6] §2Eluzterp: §aOh, you're back! Good to see you were able to get through there. Have you got a full Slime Scooper?@§7[1/6] §2Элузтерп: §aОх, ты вернулся! Приятно видеть, что ты смог пройти через это. Твой совок для слизи полностью заполнен?
-§7[2/6] §2Eluzterp: §aHmm, yes, everything seems to be in order. Perfect!@§7[2/6] §2Элузтерп: §aХмм, вроде бы все в порядке. Идеально!
-§7[3/6] §2Eluzterp: §aThank you very much. Finally, I'll be able to get him in gear again... Why are all Villagers so fickle like that?@§7[3/6] §2Элузтерп: §aБольшое спасибо. Наконец-то, я смогу снова помочь ему подготовиться... И почему все жители так ненадежны как он?
-§7[4/6] §2Eluzterp: §aWell, I suppose that's beside the point. I'll be sure to let him know you got him his most recent fix.@§7[4/6] §2Элузтерп: §aЧто ж, я полагаю, это уже не относится к делу. Я обязательно сообщу ему, что ты уже решил его недавнюю проблему.
-§7[5/6] §2Eluzterp: §aHe hangs around in a little black stall in the bazaar, there's a basement to it. He should let you inside now.@§7[5/6] §2Элузтерп: §aОн тусуется в маленьком черном ларьке на базаре, там еще есть подвал. Теперь он может впустить тебя внутрь.
-§7[6/6] §2Eluzterp: §aAnd, for your troubles, a little something from me as well.@§7[6/6] §2Элузтерп: §aИ еще, за все твои проблемы, кое-что от меня тоже.
+﻿=================================================================================================================================
+§7[1/9] §2Eluzterp: §aOh, hey! You, adventurer over there! Would you mind helping me?@§7[1/9] §2엘루즈터프: §a엇, 이봐! 거기 있는 모험가 양반! 나 좀 도와주겠나?
+§7[2/9] §2Eluzterp: §aYou see, this cave behind me has been troubling me for the past while now.@§7[2/9] §2엘루즈터프: §a자네가 본 대로, 내 뒤에 있는 동굴은 예전부터 나를 애먹이고 있어.
+§7[3/9] §2Eluzterp: §aThere are special slimes that live in there, and they drop a certain goo that is quite a delicacy when brewed into a drink!@§7[3/9] §2엘루즈터프: §a이 안에는 특별한 슬라임이 살고 있지. 그놈들은 양조하면 꽤나 맛있는 음료가 되는 어떤 구를 떨어트린다네.
+§7[4/9] §2Eluzterp: §aThey are called Gooey Slimes, and should be at the very back. A friend of mine drinks the stuff like water, and he refuses to work without it.@§7[4/9] §2엘루즈터프: §a그것들은 끈적거리는 슬라임이라고 불리고 이 동굴 맨 끝에 서식하지. 내 친구는 그것을 물처럼 마시며, 그게 없으면 아무 일도 하지 않는다네.
+§7[5/9] §2Eluzterp: §aHowever, the slimes have gotten stronger about a month ago. I'm unable to retrieve it any more, I've come close to getting killed a few times!@§7[5/9] §2엘루즈터프: §a하지만, 슬라임들은 한 달 전부터 강해졌다네. 난 더 이상 그것을 회수할 수 없어. 난 몇 번씩이나 죽을 상황을 겪었단 말일세!
+§7[6/9] §2Eluzterp: §aYou, however, seem much better equipped than I. Hopefully you can do it.@§7[6/9] §2엘루즈터프: §a하지만 자네는 나보다 훨신 잘 갖춰져 있는것 같네. 자네가 할 수 있다고 믿네.
+§7[7/9] §2Eluzterp: §aIf you decide to help me, you'll need to obtain a special device for retrieving it, as the slime will dry up quickly in the air.@§7[7/9] §2엘루즈터프: §a도와주겠다고? 고마워. 슬라임은 공기중에서 빠르게 마르기 때문에, 그것을 회수할 수 있는 장치를 구해야 하네.
+§7[8/9] §2Eluzterp: §aA...less§a fickle glassblower, Yodbon, can make it for you. He should be living in a house in front of the Almuj bank.@§7[8/9] §2엘루즈터프: §a변덕스러운 유리직공인 요드본이 자네에게 만들어 줄 수 있지. 그는 알무즈 은행 앞에 있는 집에 살고 있을 거야.
+§7[9/9] §2Eluzterp: §aI'll need §3[8 Slimey Goo] §asince we'll need a big batch of drinks. If you help, I'll be sure to tell him, and he'll probably let you into his shop.@§7[9/9] §2엘루즈터프: §a음료가 많이 필요하니까 §3[8 슬라임의 점액] 이 필요해. 자네가 도와준다면, 내가 그에게 이 일을 전하지. 그러면 자네를 그의 가게로 들여보내 줄 것이라네.
+§7[1/6] §2Yodbon: §aWelcome to Yodbon's Glass Blowery, what can I do f-@§7[1/6] §2요드본: §a요드본의 유리직공에 온 걸 환영합니다! 무엇을 도-
+§7[2/6] §2Yodbon: §aOh, another stinkin' adventurer, eh...@§7[2/6] §2요드본: §a오, 또 다른 냄새... 나는 모험가잖아, 윽...
+§7[3/6] §2Yodbon: §aSo many've been coming up to me recently, askin' for a bloody Slime Scooper...@§7[3/6] §2요드본: §a요즘 너무 많은 사람들이 나에게 와서 슬라임 스쿠프를 달라고해...
+§7[4/6] §2Yodbon: §aIzzat brother o' mine stopped workin' again? I swear, he's addicted to that slop...@§7[4/6] §2요드본: §a내 동생이 또 일 하는걸 멈춘거야? 장담하지. 그는 그 오물에 중독되었어...
+§7[5/6] §2Yodbon: §aAnyways, for me to make you a scooper you'll need to get §3[5 Soft Sand]§a.@§7[5/6] §2요드본: §a어쨌든, 스쿠프를 만들려면 네가 §3[5 Soft Sand]§a 를 가져와야해.
+§7[6/6] §2Yodbon: §aCome back to me once you've gotten ahold of it. You can dig it up from those sand piles 'round the desert.@§7[6/6] §2요드본: §a네가 그것들을 다 얻으면 다시 돌아와. 너는 그것을 사막 주변에 있는 모래더미에서 파낼 수 있어.
+§7[1/3] §2Yodbon: §aYou've returned, I see.@§7[1/3] §2요드본: §a돌아왔군, 좋아.
+§7[2/3] §2Yodbon: §aA'ight, fork 'em over and I'll make you the scooper.@§7[2/3] §2요드본: §a굽쇠로 표면을 다듬고... 너를 위해 스쿠프를 만들어주지.
+§7[3/3] §2Yodbon: §a...There§a you go. No idea why he wants that stuff though. Maybe it's an acquired taste...@§7[3/3] §2요드본: §a...여기 있어. 그런데 왜 그걸 원하는지 모르겠어. 아마 중독 성분이 있는것 같은데...
+§7[1/6] §2Eluzterp: §aOh, you're back! Good to see you were able to get through there. Have you got a full Slime Scooper?@§7[1/6] §2엘루즈터프: §a오, 자네 돌아왔군! 자네가 그곳을 통과 할 수 있어 다행이라네. 제대로 된 슬라임 스쿠프를 가져왔나?
+§7[2/6] §2Eluzterp: §aHmm, yes, everything seems to be in order. Perfect!@§7[2/6] §2엘루즈터프: §a흐으음, 좋아, 모든것이 제대로 되어 있는것 같군. 완벽해!
+§7[3/6] §2Eluzterp: §aThank you very much. Finally, I'll be able to get him in gear again... Why are all Villagers so fickle like that?@§7[3/6] §2엘루즈터프: §a정말 고맙네. 마침내, 내가 다시 그를 일하게 할 수 있겠군... 어째서 모든 빌리저들은 그렇게 변덕스러운것이지?
+§7[4/6] §2Eluzterp: §aWell, I suppose that's beside the point. I'll be sure to let him know you got him his most recent fix.@§7[4/6] §2엘루즈터프: §a뭐, 방금건 요점에서 벗어난것 같군. 네가 그를 위해 이 슬라임을 가져왔다는 걸 알려주지.
+§7[5/6] §2Eluzterp: §aHe hangs around in a little black stall in the bazaar, there's a basement to it. He should let you inside now.@§7[5/6] §2엘루즈터프: §a그는 바자회의 작은 검은 노점 주위의 지하실에 있다네. 그가 자네를 환영할거야.
+§7[6/6] §2Eluzterp: §aAnd, for your troubles, a little something from me as well.@§7[6/6] §2엘루즈터프: §a그리고, 나도 작은 무언가를 준비했다네.
 
-§7[1/1] §2Eluzterp: §aOh, I beg your forgiveness, I don’t think you're quite ready to help me yet, or go into the cave. Come talk to me when you're level 31.@§7[1/1] §2Элузтерп: §aО, прошу прощения, я не думаю, что ты уже готов помочь мне, или пойти в пещеру. Поговори со мной, когда достигнешь 31-го уровня.
-§7[1/1] §2Eluzterp: §aHey you! Don't go in there yet!@§7[1/1] §2Элузтерп: §aЭй ты! Не ходи туда пока!
-§7[1/1] §2Yodbon: §aYou gotten me §3[5 Soft Sand] §ayet? You can dig it up from all those sand piles 'round the desert.@§7[1/1] §2Йодбон: §aТы уже достал для меня §3[5 Soft Sand] §a? Ты можешь выкопать его из всех этих куч песка по всей пустыне.
-§7[1/2] §2Eluzterp: §aAh, hello again. This latest batch of drinks apparently really revitalized him. He said he's looking to make some great craft.@§7[1/2] §2Элузтерп: §aАх, еще раз здравствуй. Эта последняя партия напитков, по-видимому, действительно активизировала его. Он сказал, что хочет сделать отличный рецепт.
-§7[2/2] §2Eluzterp: §aThose Villagers are a little bit crazy though... I have no idea what kind of material it is that he insists he needs for it.@§7[2/2] §2Элузтерп: §aЭти жители немного сумасшедшие... Я понятия не имею, что это за материал, в котором он так нуждается.
-§7[1/1] §2Yodbon: §aG'luck on whatever you're doing.@§7[1/1] §2Йодбон: §aУдачи с тем, что ты делаешь.
-§7[1/1] §2Eluzterp: §aHave you gotten me §3[8 Slimey Goo] §ayet? Oh, and make sure to bring your §3[Slime Scooper]§a, too!@§7[1/1] §2Элузтерп: §aТы уже достал для меня §3[8 вязкой слизи]§a? Ох, и не забудь взять с собой §3[Совок для слизи]§a тоже!
-§7[1/1] §2Glassblowing Merchant: §aIf your name isn't Eluzterp and you haven't got me my special drinks, get out of here! I'm not open for business!@§7[1/1] §2Glassblowing Merchant: §aЕсли твое имя не Элутзерп, и ты не принес мне мои особые напитки, то убирайся отсюда! Я закрыт для торговли!
-§7[1/1] §2Yodbon: §aOh, it's you again. Yes, my brother there just loves makin' his little trinkets. He oughta make somethin' useful out of his glass instead...@§7[1/1] §2Йодбон: §aОх, это опять ты. Да, мой брат просто обожает делать свои маленькие безделушки. Хотя вместо этого он мог бы делать что-то полезное из своего стекла...
+§7[1/1] §2Eluzterp: §aOh, I beg your forgiveness, I don’t think you're quite ready to help me yet, or go into the cave. Come talk to me when you're level 31.@§7[1/1] §2엘루즈터프: §a오, 미안하네. 아직 나를 도울 준비가 안 된 것 같아. 아직 동굴에 들어갈 준비가 안 된 것 같군. 자네가 31 전투 레벨에 도달했을 때 나에게 말을 건네게.
+§7[1/1] §2Eluzterp: §aHey you! Don't go in there yet!@§7[1/1] §2엘루즈터프: §a어이 자네! 아직 그곳에 들어가지 말게!
+§7[1/1] §2Yodbon: §aYou gotten me §3[5 Soft Sand] §ayet? You can dig it up from all those sand piles 'round the desert.@§7[1/1] §2요드본: §a아직 §3[5 Soft Sand] §a를 안 가져온 거야? 너는 그것을 사막 주변에 있는 모래더미에서 파낼 수 있어.
+§7[1/2] §2Eluzterp: §aAh, hello again. This latest batch of drinks apparently really revitalized him. He said he's looking to make some great craft.@§7[1/2] §2엘루즈터프: §a아, 또만났군. 이 최신 음료 한 병이 그에게 활력을 불어넣은것 같다네. 그는 새로운 걸 만들기 시작했어.
+§7[2/2] §2Eluzterp: §aThose Villagers are a little bit crazy though... I have no idea what kind of material it is that he insists he needs for it.@§7[2/2] §2엘루즈터프: §a그 빌리저들은 좀 미쳤다네... 나는 그가 그것을 위해 필요하다고 주장하는 것이 어떤 종류의 물질인지 전혀 모르겠다네. 애초에 그것이 뭐지?
+§7[1/1] §2Yodbon: §aG'luck on whatever you're doing.@§7[1/1] §2요드본: §a너가 무엇을 하던간 행운을 빈다.
+§7[1/1] §2Eluzterp: §aHave you gotten me §3[8 Slimey Goo] §ayet? Oh, and make sure to bring your §3[Slime Scooper]§a, too!@§7[1/1] §2엘루즈터프: §a아직 §3[8 슬라임의 점액] §a을 가져오지 못한 건가? 오, 그리고 잊지 말고 §3[슬라임 스쿠프]§a 도 가져가게나!
+§7[1/1] §2Glassblowing Merchant: §aIf your name isn't Eluzterp and you haven't got me my special drinks, get out of here! I'm not open for business!@§7[1/1] §2유리공예 상인: §a네 이름이 엘루즈터프도 아니고 내 특별한 음료수도 안 줬으면 꺼져! 난 영업 안 해!
+§7[1/1] §2Yodbon: §aOh, it's you again. Yes, my brother there just loves makin' his little trinkets. He oughta make somethin' useful out of his glass instead...@§7[1/1] §2요드본: §a오, 또 너구나. 그래, 내 동생은 그냥 작은 장신구를 만드는 걸 좋아해. 그가 유리로 뭔가 쓸만한 걸 만들어 줄 거야.
+
+

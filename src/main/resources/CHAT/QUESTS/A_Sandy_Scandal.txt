@@ -1,55 +1,56 @@
-§7[1/7] §2Almuj Bank Guard: §aYou look like a hardy one, Ragni army is it? Would you be willing to help Almuj a bit?@§7[1/7] §2Страж Алмуж Банка: §aТы выглядишь очень выносливым, случайно не из армии Рагни? Не хочешь ли ты немного помочь Алмужу?
-§7[2/7] §2Almuj Bank Guard: §aUs guards have been trying to root out desert bandits trying to rob the bank.@§7[2/7] §2Страж Алмуж Банка: §aНаши охранники пытаются избавиться от пустынных бандитов, пытающихся ограбить наш банк.
-§7[3/7] §2Almuj Bank Guard: §aWe're using reports from witnesses to try to gain information.@§7[3/7] §2Страж Алмуж Банка: §aМы используем отчеты свидетелей, чтобы получить хоть какую-то информацию.
-§7[4/7] §2Almuj Bank Guard: §aIf I give you some of the witness reports, will you help get clues from them?@§7[4/7] §2Страж Алмуж Банка: §aЕсли я дам тебе парочку отчетов, это поможет тебе найти какие-то улики?
-§7[5/7] §2Almuj Bank Guard: §aGreat! The store from the first witness report is straight down the stairs, just past this building here, just behind me.@§7[5/7] §2Страж Алмуж Банка: §aОтлично! Магазин первого свидетеля прямо вниз по лестнице за этим зданием, позади меня.
-§7[6/7] §2Almuj Bank Guard: §aThe store that you should read the report in is named “Gibbs' Mining Supply Store,” and it's the store that was robbed.@§7[6/7] §2Страж Алмуж Банка: §aМагазин, в котором ты должен прочитать отчет, называется "Лавка горнодобывающих запасов Гиббсa", и как раз этот магазин был недавно ограблен.
-§7[7/7] §2Almuj Bank Guard: §aI will write the coordinates to the store so you can read the report just in case you can't find it.@§7[7/7] §2Страж Алмуж Банка: §aЯ запишу координаты магазина, если вдруг ты не сможешь его найти.
-§7[1/9] §2Shopkeeper Gibbs: §aHello gentlemen! What can I interest you in today? Some industrial torches? Pickaxes?@§7[1/9] §2Лавочник Гибс: §aПриветствую джентльмены! Что вас сегодня интересует? Промышленные факела? Кирки?
-§7[2/9] §2Bandit: §aShut yer' trap, old man. We came for a different kind of business.@§7[2/9] §2Бандит: §aЗахлопни свой хавальник, старик. Мы тут пришли по своим делам.
-§7[3/9] §2Shopkeeper Gibbs: §aWha-? Look, fellows. Just step out of my store, and nobody gets hurt. I don't want any trouble.@§7[3/9] §2Лавочник Гибс: §aЧто-? Слушайте, парни. Давайте вы выйдете из моего магазина и никто не пострадает. Я не хочу никаких проблем.
-§7[4/9] §2Bandit: §aListen up old man, tell us the code to the TNT vault in the basement, or I decorate my necklace with your fingers!@§7[4/9] §2Бандит: §aСлушай, старикашка, быстро скажи код от хранилища в подвале, или я украшу свое ожерелье твоими пальцами!
-§7[5/9] §2Shopkeeper Gibbs: §aCertainly not! That TNT is for licensed mining companies only, not your average amateur miner.@§7[5/9] §2Лавочник Гибс: §aНикогда! Этот динамит только для лицензированных добывающих компаний, не для шахтеров вашего уровня.
-§7[6/9] §2Bandit: §aWell then! I guess you'll still be able to grasp a pick with four fingers, eh?@§7[6/9] §2Бандит: §aНу что ж! Я полагаю, ты сможешь копать киркой с помощью четырех пальцев, не так ли?
-§7[7/9] §2Shopkeeper Gibbs: §aGaaah! Alright, alright! No more violence, please!@§7[7/9] §2Лавочник Гибс: §aАаааа! Хорошо, хорошо! Не нужно больше насилия, прошу!
-§7[8/9] §2Shopkeeper Gibbs: §aThe code is 7-8-1-2... please don't hurt me!@§7[8/9] §2Лавочник Гибс: §aКод 7-8-1-2... пожалуйста, не делайте мне больно!
-§7[9/9] §2Bandit: §a7-8-1-2... thanks! We won’t be needing you anymore... now go to sleep!@§7[9/9] §2Бандит: §a7-8-1-2... Спасибо! Ты нам больше не нужен... а теперь баиньки!
-§7[1/6] §2Almuj Bank Guard: §aYou're back, having read the report I assume. Did you find anything in particular?@§7[1/6] §2Страж Алмуж Банка: §aТы вернулся! Уже прочитал отчет, я полагаю. Нашел что-нибудь необычное?
-§7[2/6] §2Almuj Bank Guard: §aMissing TNT in the shop's vault? The report was truthful and trustworthy.@§7[2/6] §2Страж Алмуж Банка: §aПропавший динамит в хранилище магазина? Значит отчет был правдивым и заслуживает доверия.
-§7[3/6] §2Almuj Bank Guard: §aWe need to catch these criminals quickly if they have access to this dangerous of TNT, capable of putting a hole in the bank's wall.@§7[3/6] §2Страж Алмуж Банка: §aНам нужно поймать этих преступников побыстрее. Если у них есть доступ к опасному динамиту, то возможно они захотят проделать дыру в стене банка.
-§7[4/6] §2Almuj Bank Guard: §aLuckily, we recently had another witness report come in.@§7[4/6] §2Страж Алмуж Банка: §aК счастью, мы недавно получили отчет от еще одного свидетеля.
-§7[5/6] §2Almuj Bank Guard: §aThis report takes place on the roof of the Scroll Merchant's residence, a garden roof.@§7[5/6] §2Страж Алмуж Банка: §aЭтот отчет был сделан с крыши дома торговца свитками, с крыши его сада.
-§7[6/6] §2Almuj Bank Guard: §aI've written the coordinates to the shop in your quest book in case you don't know where the Scroll Merchant is.@§7[6/6] §2Страж Алмуж Банка: §aЯ написал координаты в твоей квестовой книге, если ты не знаешь где находится магазин торговца свитками.
-§7[1/3] §2Scroll Merchant: §aEy', what do you two blighters think you're doing with those dangerous explosives in the city?@§7[1/3] §2Продавец Свитков: §aЭй, вы двое, что вы делаете с такой опасной взрывчаткой здесь в городе?
-§7[2/3] §2Scroll Merchant: §aGuards! Guards! Robber! Come quick! Urgently!@§7[2/3] §2Продавец Свитков: §aОхрана! Охрана! Грабители! Быстрее сюда! Срочно!
-§7[3/3] §2Scroll Merchant: §aGaaah!@§7[3/3] §2Продавец Свитков: §aАааах!
-§7[1/8] §2Almuj Bank Guard: §aWere you able to uncover any new information regarding the status of the criminals?@§7[1/8] §2Страж Алмуж Банка: §aТебе удалось узнать какую-то новую информацию о преступниках?
-§7[2/8] §2Almuj Bank Guard: §aOh dear, this isn't good. The criminals plundered two very powerful weapons.@§7[2/8] §2Страж Алмуж Банка: §aОх, голубчик, это не хорошо. Преступники заполучили два очень мощных оружия.
-§7[3/8] §2Almuj Bank Guard: §aIt won't be easy facing those criminals if they decide to raid the bank with those weapons.@§7[3/8] §2Страж Алмуж Банка: §aС этими преступниками будет нелегко справиться, если они решат совершить налет на банк с помощью этого оружия.
-§7[4/8] §2Almuj Bank Guard: §aI'm not certain how to proceed from here, we didn't recieve any more witness reports, and-@§7[4/8] §2Страж Алмуж Банка: §aЯ не уверен, где искать дальше, мы больше не получали отчетов, да и-
-§7[5/8] §2Almuj Sentry: §aBoss, I just received urgent reports of a robbery underway in the left residential area of Almuj!@§7[5/8] §2Часовой Алмужа: §aБосс, мне только что поступили срочные сообщения о грабеже в левом жилом квартале Алмужa!
-§7[6/8] §2Almuj Bank Guard: §aOh my… you! Soldier! Urgently! The residential area this robbery is taking place in is across the bridge next to the first house you visited today!@§7[6/8] §2Страж Алмуж Банка: §aО боже... ты! Солдат! Срочно! Жилой квартал с местом ограбления находится прямо за мостом, рядом с домом, что ты посетил первым сегодня!
-§7[7/8] §2Almuj Bank Guard: §aThere will be somebody waiting for you outside of the house once you get to the residential area!@§7[7/8] §2Страж Алмуж Банка: §aТам будет кто-нибудь ждать тебя снаружи дома, как только ты доберешься до места!
-§7[8/8] §2Almuj Bank Guard: §aIf you still can't find it, I've written the coordinates in your quest book. Now quickly, get to the house!@§7[8/8] §2Страж Алмуж Банка: §aЕсли ты все еще не можешь найти его, я написал координаты в твоей квестовой книге. Теперь быстрее к дому!
-§7[1/2] §2Almuj Citizen: §aHello? Are you with the guards? Good! Hurry! Some bandits just ransacked my house, and left with lots of emeralds!@§7[1/2] §2Житель Алмужа: §aПривет? Вы охранник? Отлично! Скорее! Какие-то бандиты разграбили дом, оставив кучу эмеральдов! 
-§7[2/2] §2Almuj Citizen: §aFollow me to my house, hopefully you can find the bandits! They stole lots of my precious gold!@§7[2/2] §2Житель Алмужа: §aСледуйте за мной в мой дом, надеюсь вы сможете найти бандитов! Они украли много моего драгоценного золота!
-§7[1/4] §2Bandit Leader: §aHere-- maybe you'll help us pull the heist if I give you some of this gold we just stole.@§7[1/4] §2Лидер Бандитов: §aВот так -- Быть может ты поможешь нам провернуть это дело, если я дам тебе немного того золота, что мы украли.
-§7[2/4] §2Bandit Leader: §aAhah. I had a feeling we had a guard on our tail.@§7[2/4] §2Лидер Бандитов: §aАхаха. У меня было ощущение, что какой-то охранник на хвосте.
-§7[3/4] §2Bandit Leader: §aI wouldn’t want to wear out my new-stolen weapons killing you… I'll just trap you in here with all of this TNT!@§7[3/4] §2Лидер Бандитов: §aЯ бы не хотел, чтобы мое новое украденное оружие убило тебя.... Так что я просто закрою тебя здесь со всем этим динамитом!
-§7[4/4] §2Bandit Leader: §aThis'll blow up in a few seconds. Good luck getting out of here!@§7[4/4] §2Лидер Бандитов: §aОни взорвутся через несколько секунд. Удачной тебе попытки выбраться отсюда!
-§7[1/1] §2Bandit Leader: §aIt’s too late to stop us now! We’re already about to bust out of here with a grand prize sure to gain us province-wide respect!@§7[1/1] §2Лидер Бандитов: §aУже поздно, нас не остановить! Мы уже собираемся выбраться отсюда с большим призом, чтобы завоевать уважение всей провинции!
-§7[1/3] §2Bandit Leader: §aLook here, he decided he wanted to follow us. Dumb move.@§7[1/3] §2Лидер Бандитов: §aСмотрите, он решил все-таки следовать за нами. Глупое решение.
-§7[2/3] §2Bandit Leader: §aI guess we can kill two birds with one stone: escaping the bank, and killing this pest.@§7[2/3] §2Лидер Бандитов: §aЯ думаю мы сможем убить двух кроликов одним выстрелом: сбежим из банка, и убьем этого паразита.
-§7[3/3] §2Bandit Leader: §aBlock the entrance, bandits!@§7[3/3] §2Лидер Бандитов: §aБандиты, заблокируйте вход!
-§7[1/1] §2Bandit Leader: §aOh no... we’ve run out of TNT... we were in over our heads... we can’t defeat them, just run for your life! Forget the emeralds, let’s get outta’ here!@§7[1/1] §2Лидер Бандитов: §aО нет... у нас больше нет динамита... мы влипли по уши... мы не сможем победить их, нужно бежать и спасать свои жизни! Забудьте об эмеральдах, давайте выбираться отсюда!
-§7[1/4] §2Almuj Bank Guard: §aWhat happened down there underneath the bank? I heard the rumble.@§7[1/4] §2Страж Алмуж Банка: §aЧто случилось внизу под банком? Я слышал какой-то грохот.
-§7[2/4] §2Almuj Bank Guard: §aYou stopped the crooks? Amazing!@§7[2/4] §2Страж Алмуж Банка: §aТы остановил ограбление? Невероятно!
-§7[3/4] §2Almuj Bank Guard: §aThe Almuj bank is typically reserved for trusted members only; however, you have proven yourself today to be one of them.@§7[3/4] §2Страж Алмуж Банка: §aБанк Алмужа обслуживает обычно только проверенных людей; однако, ты сегодня доказал, что являешься одним из таких.
-§7[4/4] §2Almuj Bank Guard: §aThank you for your service!@§7[4/4] §2Страж Алмуж Банка: §aСпасибо тебе за службу!
+﻿==============================================================================================================================================
+§7[1/7] §2Almuj Bank Guard: §aYou look like a hardy one, Ragni army is it? Would you be willing to help Almuj a bit?@§7[1/7] §2알무즈 은행 경비원: §a너 강해 보이는군, 라그니 병사 맞지? 알무즈 좀 도와주겠나?
+§7[2/7] §2Almuj Bank Guard: §aUs guards have been trying to root out desert bandits trying to rob the bank.@§7[2/7] §2알무즈 은행 경비원: §a우리 경비들은 은행을 털려고 하는 사막의 도적들을 뿌리뽑기 위해 노력해왔어.
+§7[3/7] §2Almuj Bank Guard: §aWe're using reports from witnesses to try to gain information.@§7[3/7] §2알무즈 은행 경비원: §a우리는 정보를 얻기 위해 목격자들의 보고서를 이용하고 있지.
+§7[4/7] §2Almuj Bank Guard: §aIf I give you some of the witness reports, will you help get clues from them?@§7[4/7] §2알무즈 은행 경비원 §a만약 몇가지 목격자의 보고서를 너에게 알려준다면, 단서를 얻는것좀 도와줄레?
+§7[5/7] §2Almuj Bank Guard: §aGreat! The store from the first witness report is straight down the stairs, just past this building here, just behind me.@§7[5/7] §2알무즈 은행 경비원: §a좋아! 첫 번째 목격자의 보고사에 나오는 상점은 내 뒤쪽 이 건물을 지나서, 곧장 계단을 내려가면 있어.
+§7[6/7] §2Almuj Bank Guard: §aThe store that you should read the report in is named “Gibbs' Mining Supply Store,” and it's the store that was robbed.@§7[6/7] §2알무즈 은행 경비원: §a너가 읽어야할 보고서에 나오는 상점의 이름은 “Gibbs' Mining Supply Store"이고, 약탈당한 상점이야.
+§7[7/7] §2Almuj Bank Guard: §aI will write the coordinates to the store so you can read the report just in case you can't find it.@§7[7/7] §2알무즈 은행 경비원: §2만약 상점을 못 찾을 경우를 대비해 좌표를 적어줄게.
+§7[1/9] §2Shopkeeper Gibbs: §aHello gentlemen! What can I interest you in today? Some industrial torches? Pickaxes?@§7[1/9] §2가게주인 깁스: §a안녕하세요! 오늘은 무엇을 찾으시는지요? 공업용 횃불? 곡괭이?
+§7[2/9] §2Bandit: §aShut yer' trap, old man. We came for a different kind of business.@§7[2/9] §2도적: §a입 다물어, 영감. 오늘은 다른 종류의 사업을 하러 왔다.
+§7[3/9] §2Shopkeeper Gibbs: §aWha-? Look, fellows. Just step out of my store, and nobody gets hurt. I don't want any trouble.@§7[3/9] §2가게주인 깁스: §a뭐-? 이봐, 당신들. 내 가게에서 나가주세요. 전 문제를 일으키고 싶지 않습니다.
+§7[4/9] §2Bandit: §aListen up old man, tell us the code to the TNT vault in the basement, or I decorate my necklace with your fingers!@§7[4/9] §2도적: §a어이 늙은이, 지하의 TNT 금고의 암호를 말하지 않으면 네 손가락으로 내 목걸이를 장식할 거야!
+§7[5/9] §2Shopkeeper Gibbs: §aCertainly not! That TNT is for licensed mining companies only, not your average amateur miner.@§7[5/9] §2가게주인 깁스: §a안됩니다! 그 TNT는 허가받은 채굴 회사를 위한 것이지, 당신 같은 도적들을 위한 게 아닙니다.
+§7[6/9] §2Bandit: §aWell then! I guess you'll still be able to grasp a pick with four fingers, eh?@§7[6/9] §2도적: §a그래 그렇다면! 손가락 4개로도 곡괭이는 잡을 수 있겠지?
+§7[7/9] §2Shopkeeper Gibbs: §aGaaah! Alright, alright! No more violence, please!@§7[7/9] §2가게주인 깁스: §a으악! 알겠어요, 알겠어! 폭력은 그만, 제발!
+§7[8/9] §2Shopkeeper Gibbs: §aThe code is 7-8-1-2... please don't hurt me!@§7[8/9] §2가게주인 깁스: §a암호는 7-8-1-2입니다... 제발 해치지 마세요!
+§7[9/9] §2Bandit: §a7-8-1-2... thanks! We won’t be needing you anymore... now go to sleep!@§7[9/9] §2도적: §a7-8-1-2... 고맙군! 이제 넌 더 이상 필요 없어... 잠이나 자러 가!
+§7[1/6] §2Almuj Bank Guard: §aYou're back, having read the report I assume. Did you find anything in particular?@§7[1/6] §2알무즈 은행 경비원: §a돌아왔구나. 특별히 찾은거라도 있어?
+§7[2/6] §2Almuj Bank Guard: §aMissing TNT in the shop's vault? The report was truthful and trustworthy.@§7[2/6] §2알무즈 은행 경비원: §a상점의 지하에 있는 TNT가 사라졌다고? 그 보고서는 믿을 만했군.
+§7[3/6] §2Almuj Bank Guard: §aWe need to catch these criminals quickly if they have access to this dangerous of TNT, capable of putting a hole in the bank's wall.@§7[3/6] §2알무즈 은행 경비원: §aTNT로 은행 벽에 구멍을 뚫으려 할테니 빨리 이 범죄자들을 잡아야 해.
+§7[4/6] §2Almuj Bank Guard: §aLuckily, we recently had another witness report come in.@§7[4/6] §2알무즈 은행 경비원: §a운 좋게도, 최근에 또다른 목격자의 보고서가 들어왔어.
+§7[5/6] §2Almuj Bank Guard: §aThis report takes place on the roof of the Scroll Merchant's residence, a garden roof.@§7[5/6] §2알무즈 은행 경비원: §a이 보고서는 주문서 상인 주택의 옥상정원에서 나왔어.
+§7[6/6] §2Almuj Bank Guard: §aI've written the coordinates to the shop in your quest book in case you don't know where the Scroll Merchant is.@§7[6/6] §2알무즈 은행 경비원: §a주문서 상인이 어디 있는지 모를 경우를 대비해 너의 퀘스트 북에 상점의 좌표를 적어놨어.,	
+§7[1/3] §2Scroll Merchant: §aEy', what do you two blighters think you're doing with those dangerous explosives in the city?@§7[1/3] §2주문서 상인: §a너희 두 놈. 위험한 폭발물을 가지고 뭘 할 생각이야?
+§7[2/3] §2Scroll Merchant: §aGuards! Guards! Robber! Come quick! Urgently!@§7[2/3] §2주문서 상인: §a경비병! 경비병! 강도야! 빨리 와! 급해!
+§7[3/3] §2Scroll Merchant: §aGaaah!@§7[3/3] §2주문서 상인: §a으아악!
+§7[1/8] §2Almuj Bank Guard: §aWere you able to uncover any new information regarding the status of the criminals?@§7[1/8] §2알무즈 은행 경비원: §a범죄자들의 상황에 관한 새로운 정보 좀 알아낼 수 있었어?
+§7[2/8] §2Almuj Bank Guard: §aOh dear, this isn't good. The criminals plundered two very powerful weapons.@§7[2/8] §2알무즈 은행 경비원: §a오 이런, 좋지 않은걸. 범죄자들이 강력한 무기 2개를 약탈해갔어.
+§7[3/8] §2Almuj Bank Guard: §aIt won't be easy facing those criminals if they decide to raid the bank with those weapons.@§7[3/8] §2알무즈 은행 경비원: §a만약 그놈들이 그 무기들을 가지고 은행을 약탈한다면 맞서기가 쉽지 않을 거야.
+§7[4/8] §2Almuj Bank Guard: §aI'm not certain how to proceed from here, we didn't recieve any more witness reports, and-@§7[4/8] §2알무즈 은행 경비원: §a여기서 어떻게 나아갈지 난 잘 모르겠고, 우린 더 이상의 목격자의 보고를 받지 못했고, 그리고-
+§7[5/8] §2Almuj Sentry: §aBoss, I just received urgent reports of a robbery underway in the left residential area of Almuj!@§7[5/8] §2알무즈 경비원: §a대장!, 방금 알무즈의 왼쪽 주택가에서 강도 사건이 벌어지고 있다는 긴급 보고를 받았어요!
+§7[6/8] §2Almuj Bank Guard: §aOh my… you! Soldier! Urgently! The residential area this robbery is taking place in is across the bridge next to the first house you visited today!@§7[6/8] §2알무즈 은행 경비원: §a세상에... 어이 너! 급해! 이 강도 사건이 일어나고 있는 주택가는 오늘 너가 처음 방문한 첫 번째 장소의 옆에 있는 다리 건너편이야!
+§7[7/8] §2Almuj Bank Guard: §aThere will be somebody waiting for you outside of the house once you get to the residential area!@§7[7/8] §2알무즈 은행 경비원: §a너가 주택가에 도착하면 집 밖에서 너를 기다리는 누군가가 있을 거야!
+§7[8/8] §2Almuj Bank Guard: §aIf you still can't find it, I've written the coordinates in your quest book. Now quickly, get to the house!@§7[8/8] §2알무즈 은행 경비원: §a만약 못 찾는다면, 너의 퀘스트 북에 좌표를 적어놨어. 자 어서, 빨리 가!
+§7[1/2] §2Almuj Citizen: §aHello? Are you with the guards? Good! Hurry! Some bandits just ransacked my house, and left with lots of emeralds!@§7[1/2] §2알무즈 시민: §a안녕하세요? 경비원이랑 같이 오셨나요? 좋아요! 어서! 어떤 강도들이 우리 집을 뒤지고, 많은 에메랄드를 가지고 떠났어요!
+§7[2/2] §2Almuj Citizen: §aFollow me to my house, hopefully you can find the bandits! They stole lots of my precious gold!@§7[2/2] §2알무즈 시민: §a저희 집까지 따라오세요, 당신이 그 강도들을 찾을 수 있기를! 그놈들이 내 귀중한 금을 가져갔어요!
+§7[1/4] §2Bandit Leader: §aHere-- maybe you'll help us pull the heist if I give you some of this gold we just stole.@§7[1/4] §2도적단 두목: §a여기-- 우리가 방금 훔친 금을 주면 강도들이 우리에게 합류하겠지?
+§7[2/4] §2Bandit Leader: §aAhah. I had a feeling we had a guard on our tail.@§7[2/4] §2도적단 두목: §a아아. 우리 경비병한테 꼬리를 물린 거 같군.
+§7[3/4] §2Bandit Leader: §aI wouldn’t want to wear out my new-stolen weapons killing you… I'll just trap you in here with all of this TNT!@§7[3/4] §2도적단 두목: §a내 새 무기는 너따위를 죽이기 위해 훔친 게 아냐... 이 TNT들로 널 묻어주마!
+§7[4/4] §2Bandit Leader: §aThis'll blow up in a few seconds. Good luck getting out of here!@§7[4/4] §2도적단 두목: §a몇 초 후에 곧 터질 거야. 행운을 빌지!
+§7[1/1] §2Bandit Leader: §aIt’s too late to stop us now! We’re already about to bust out of here with a grand prize sure to gain us province-wide respect!@§7[1/1] §2도적단 두목: §a우릴 막기엔 너무 늦었다! 우린 윈 지방 최고의 부자가 되기 위해 이 돈들을 가지고 탈출하겠다!
+§7[1/3] §2Bandit Leader: §aLook here, he decided he wanted to follow us. Dumb move.@§7[1/3] §2도적단 두목: §a봐, 저놈이 따라왔어. 어리석은 놈.
+§7[2/3] §2Bandit Leader: §aI guess we can kill two birds with one stone: escaping the bank, and killing this pest.@§7[2/3] §2도적단 두목: §a이거 일석이조 같은데? 은행을 탈출하고, 저 성가신 놈도 죽이고.
+§7[3/3] §2Bandit Leader: §aBlock the entrance, bandits!@§7[3/3] §2도적단 두목: §a입구를 막아라!
+§7[1/1] §2Bandit Leader: §aOh no... we’ve run out of TNT... we were in over our heads... we can’t defeat them, just run for your life! Forget the emeralds, let’s get outta’ here!@§7[1/1] §2도적단 두목: §a이런... TNT를 다 썼어... 우린 저 녀석을 이길 수 없어... 모두 도망쳐! 에메랄드는 잊어버려, 여기서 나가!
+§7[1/4] §2Almuj Bank Guard: §aWhat happened down there underneath the bank? I heard the rumble.@§7[1/4] §2알무즈 은행 경비원: §a은행 밑에서 무슨 일이 있었던 거야? 우르릉거리는 소리를 들었어.
+§7[2/4] §2Almuj Bank Guard: §aYou stopped the crooks? Amazing!@§7[2/4] §2알무즈 은행 경비원: §a네가 그 도적들을 막았다고? 굉장해!
+§7[3/4] §2Almuj Bank Guard: §aThe Almuj bank is typically reserved for trusted members only; however, you have proven yourself today to be one of them.@§7[3/4] §2알무즈 은행 경비원: §a알무즈 은행은 믿을 수 있는 회원만을 위한 은행이지만, 오늘 넌 스스로 증명해냈어.
+§7[4/4] §2Almuj Bank Guard: §aThank you for your service!@§7[4/4] §2알무즈 은행 경비원: §a도와줘서 고마워!
 
-§7[1/1] §2Bandit: §aEntering through there would be a mistake, weakling!@§7[1/1] §2Бандит: §aПроход через него был бы ошибкой, слабак!
-§7[1/1] §2Scroll Merchant: §aHey! You can't go up there!@§7[1/1] §2Продавец Свитков: §aЭй! Ты не можешь подняться туда!
-§7[1/1] §2Almuj Bank Guard: §aThank you for your services. Enjoy the Almuj Bank!@§7[1/1] §2Страж Алмуж Банка: §aСпасибо за твои услуги. Наслаждайся банком Алмужa!
-§7[1/1] §2Almuj Bank Guard: §aI could use some assistance with this case; however, I need an investigator at least level 32 to help.@§7[1/1] §2Страж Алмуж Банка: §aМне бы не помешала помощь с этим делом; однако, мне нужен сыщик хотя-бы 32 уровня для помощи.
-§7[1/1] §2Almuj Bank Guard: §aHave you been reading the witness reports?@§7[1/1] §2Страж Алмуж Банка: §aТы уже читал отчет свидетеля?
-§7[1/1] §2Almuj Bank Guard: §aOnly trusted members of this town can enter the bank! §7[Quest Req: A Sandy Scandal]@§7[1/1] §2Страж Алмуж Банка: §aТолько доверенные жители этого города могут входить в банк! §7[Пройти квест: A Sandy Scandal]
+§7[1/1] §2Bandit: §aEntering through there would be a mistake, weakling!@§7[1/1] §2도적: §a저기로 들어가는 건 실수일 걸, 약골아!
+§7[1/1] §2Scroll Merchant: §aHey! You can't go up there!@§7[1/1] §2주문서 상인: §a이봐! 거기 올라가면 안 돼!
+§7[1/1] §2Almuj Bank Guard: §aThank you for your services. Enjoy the Almuj Bank!@§7[1/1] §2알무즈 은행 경비원: §a덕분에 고마워. 알무즈 은행을 누려봐!
+§7[1/1] §2Almuj Bank Guard: §aI could use some assistance with this case; however, I need an investigator at least level 32 to help.@§7[1/1] §2알무즈 은행 경비원: §a나는 이 사건에 약간의 도움이 필요하지만, 적어도 32레벨의 사람이 필요해.
+§7[1/1] §2Almuj Bank Guard: §aHave you been reading the witness reports?@§7[1/1] §2알무즈 은행 경비원: §a목격자 보고서는 읽어봤어?
+§7[1/1] §2Almuj Bank Guard: §aOnly trusted members of this town can enter the bank! §7[Quest Req: A Sandy Scandal]@§7[1/1] §2알무즈 은행 경비원: 오직 믿을만한 회원만이 은행에 접근할 수 있습니다! §7[퀘스트 필요: A Sandy Scandal]

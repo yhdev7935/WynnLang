@@ -23,3 +23,15 @@ gradle
 # other
 eclipse
 run
+
+
+#resources
+src/main/resources/BOSSBAR/*
+src/main/resources/CHAT/*
+src/main/resources/ENTITY_NAME/*
+src/main/resources/INVENTORY_NAME/*
+src/main/resources/ITEM_LORE/*
+src/main/resources/ITEM_NAME/*
+src/main/resources/PLAYERLIST/*
+src/main/resources/SCOREBOARD/*
+src/main/resources/TITLE/*

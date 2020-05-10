@@ -1,18 +1,19 @@
-§7[1/5] §2Enzan: §aI see you want to venture into the wilderness!@§7[1/5] §2Энзан: §aЯ вижу, ты хочешь отправиться в дикую местность!
-§7[2/5] §2Enzan: §aMy name is Enzan, and I am now a retired knight. I've spent most of my life fighting for Ragni's army, just like you.@§7[2/5] §2Энзан: §aМеня зовут Энзан. Я - рыцарь в отставке. Я потратил большую часть своей жизни сражаясь за армию этого города, так же как и ты.
-§7[3/5] §2Enzan: §aI know how hard it must be to be a recruit at this time, so I've got something that could help you! Well, I don't have it, but my brother does!@§7[3/5] §2Энзан: §aЯ знаю, как трудно быть новобранцем в наше время, поэтому у меня есть нечто, что тебе поможет! Что же, оно не у меня, а у моего брата!
-§7[4/5] §2Enzan: §aFollow this road, he's at the entrance of the Nivla Forest, you can't miss him. Just head to the end of the trail, past the §bitem identifier§a.@§7[4/5] §2Энзан: §aСледуй этой дорогой. Он стоит у входа в Лес Нивла, ты не пройдешь мимо него. Иди до конца дороги, мимо §bидентификатора предметов§a.
-§7[5/5] §2Enzan: §aTell him I sent you! He can be such a jerk to strangers sometimes...@§7[5/5] §2Энзан: §aСкажи ему, что я прислал тебя! Временами он странно относится к незнакомцам...
-§7[1/7] §2Therck: §aCan't you see I'm busy?@§7[1/7] §2Терк: §aТы не видишь я занят?
-§7[2/7] §2Therck: §aOh, my brother? Sorry, I didn't know.@§7[2/7] §2Терк: §aОх, мой брат? Извини, я не знал.
-§7[3/7] §2Therck: §aWhy yes, I actually have something that could help you...@§7[3/7] §2Терк: §aДа, у меня есть кое-что, что тебе поможет...
-§7[4/7] §2Therck: §aTake this chain. It's an §3ingredient§a, one of its kind!@§7[4/7] §2Терк: §aВозьми эту цепь. Это §3ингредиент§a, единственный в своем роде!
-§7[5/7] §2Therck: §aYou know how to craft right? If you use this with your recipe, you can create a powerful item.@§7[5/7] §2Терк: §aТы же знаешь, как правильно крафтить? Если ты используешь это в рецепте, то сможешь создать мощный предмет.
-§7[6/7] §2Therck: §aI recommend you use it soon before it loses its value. Use the crafting stations right here.@§7[6/7] §2Терк: §aЯ рекомендую тебе использовать его, прежде чем он потеряет свою ценность. Используй станции для крафта прямо здесь.
-§7[7/7] §2Therck: §aYou'll definitely need a good weapon if you plan to reach Detlas, the trading city. It's right through this forest.@§7[7/7] §2Терк: §aТебе определенно понадобится хорошее оружие, если ты планируешь добраться до торгового города Детласа. Он находится за этим лесом.
+﻿=============================================================================================================
+§7[1/5] §2Enzan: §aI see you want to venture into the wilderness!@§7[1/5] §2엔잔: §a자네가 넓은 황무지로 모험하고 싶어 하는 것을 봤네! 
+§7[2/5] §2Enzan: §aMy name is Enzan, and I am now a retired knight. I've spent most of my life fighting for Ragni's army, just like you.@§7[2/5] §2엔잔: §a내 이름은 엔잔. 지금은 은퇴한 기사일세. 난 내 평생을 라그니의 군대를 위해 싸워왔네, 자네처럼 말이야.
+§7[3/5] §2Enzan: §aI know how hard it must be to be a recruit at this time, so I've got something that could help you! Well, I don't have it, but my brother does!@§7[3/5] §2엔잔: §a이 시기에 신병이 되는 게 얼마나 어려운지 잘 알고 있네. 마침 자네에게 도움이 될 만한 것이 있네! 나한텐 없지만, 내 형제는 가지고 있지!
+§7[4/5] §2Enzan: §aFollow this road, he's at the entrance of the Nivla Forest, you can't miss him. Just head to the end of the trail, past the §bitem identifier§a.@§7[4/5] §2엔잔: §a이 길을 따라가게, 길에 있는 §b감정사§a를 지나면 나오는 니블라 숲 입구에 내 형제가 있네. 
+§7[5/5] §2Enzan: §aTell him I sent you! He can be such a jerk to strangers sometimes...@§7[5/5] §2엔잔: §a그에겐 내가 보냈다고 말하게! 내 형제가 가끔 낯선 사람에게 얼간이처럼 굴 수도 있거든.
+§7[1/7] §2Therck: §aCan't you see I'm busy?@§7[1/7] §2더릭: §a지금 바쁜 거 안 보입니까?
+§7[2/7] §2Therck: §aOh, my brother? Sorry, I didn't know.@§7[2/7] §2더릭: §a오, 제 형제가 보냈다고요? 몰라봬서 죄송합니다.
+§7[3/7] §2Therck: §aWhy yes, I actually have something that could help you...@§7[3/7] §2더릭: §a네, 사실 당신을 도와줄 만한 물건이 있습니다.
+§7[4/7] §2Therck: §aTake this chain. It's an §3ingredient§a, one of its kind!@§7[4/7] §2더릭: §a이 사슬을 가져가세요. §3재료§a 중 하나입니다.
+§7[5/7] §2Therck: §aYou know how to craft right? If you use this with your recipe, you can create a powerful item.@§7[5/7] §2더릭: §a물건을 만드는 법은 알고 있나요? 이것을 제작법대로 사용하면, 강력한 물건을 만들 수 있습니다.
+§7[6/7] §2Therck: §aI recommend you use it soon before it loses its value. Use the crafting stations right here.@§7[6/7] §2더릭: §a그게 가치를 잃기 전에 사용하는 것을 권장합니다. 바로 옆에 있는 제작대를 이용하세요.
+§7[7/7] §2Therck: §aYou'll definitely need a good weapon if you plan to reach Detlas, the trading city. It's right through this forest.@§7[7/7] §2더릭: §a무역 도시인 데틀라스에 갈 계획이라면 분명히 좋은 무기가 필요할 겁니다. 데틀라스는 이 숲을 통과하면 나옵니다.
 
-§7[1/1] §2Enzan: §aWhat are you doing?@§7[1/1] §2Энзан: §aЧто ты делаешь?
-§7[1/1] §2Enzan: §aHey there! Still doing well after all this time?@§7[1/1] §2Энзан: §aПривет! У тебя все хорошо после стольких лет?
-§7[1/2] §2Therck: §aGo on, I don't have time for you. My brother keeps sending me people all the time.@§7[1/2] §2Терк: §aИди уже, у меня нет на тебя времени. Мой брат постоянно посылает людей ко мне.
-§7[2/2] §2Therck: §aThey keep coming expecting free stuff! What a cruel joke he is pulling on me...@§7[2/2] §2Терк: §aОни продолжают приходить, ожидая бесплатные вещи! Какую жестокую шутку он решил пошутить надо мной...
-§7[1/1] §2Therck: §aI don't have time to talk to you right now, move along!@§7[1/1] §2Терк: §aУ меня нет времени говорить с тобой прямо сейчас, проходи!
+§7[1/1] §2Enzan: §aWhat are you doing?@§7[1/1] §2엔잔: §a뭐하는 건가?
+§7[1/1] §2Enzan: §aHey there! Still doing well after all this time?@§7[1/1] §2엔잔: §a반갑네! 그 이후로 잘 지내나?
+§7[1/2] §2Therck: §aGo on, I don't have time for you. My brother keeps sending me people all the time.@§7[1/2] §2더릭: §a가보시죠, 전 지금 당신에게 시간을 쏟을 순 없습니다. 제 형제가 늘 다른 사람을 보내거든요.
+§7[2/2] §2Therck: §aThey keep coming expecting free stuff! What a cruel joke he is pulling on me...@§7[2/2] §2더릭: §a형제가 보내는 사람들이 늘 저에게 공짜 물건을 기대하며 오거든요! 얼마나 질 나쁜 장난입니까...
+§7[1/1] §2Therck: §aI don't have time to talk to you right now, move along!@§7[1/1] §2더릭: §a지금 당신과 얘기할 시간 없습니다, 빨리 가세요!

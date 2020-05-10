@@ -41,10 +41,10 @@ public class RuChat extends Thread {
     public static void mutePlayer(String playerName){
         if (!muted.contains(playerName)) {
         	muted.add(playerName);
-            WynnLang.sendMessage("§rВы §cбольше не будете§r получать сообщения от игрока " + playerName);
+            WynnLang.sendMessage("§c당신은 더이상 §6" + playerName + "§c으로부터 메시지를 받지 못합니다!");
         } else {
             muted.remove(playerName);
-            WynnLang.sendMessage("§rВы §aснова можете§r получать сообщения от игрока " + playerName);
+            WynnLang.sendMessage("§a당신은 더이상 §6" + playerName + "§a으로부터 메시지를 받을 수 있습니다!");
         }
         String[] arr = new String[muted.size()];
         arr = muted.toArray(arr);
@@ -72,7 +72,7 @@ public class RuChat extends Thread {
                 closeSocket();
             }
         } catch (Exception e) {
-        	WynnLang.sendMessage("§rСвязь с чатом оборвана. Произошла ошибка");
+        	WynnLang.sendMessage("§r채팅과의 통신이 끊어졌습니다. 오류가 발생했습니다.");
         }
     }
 
@@ -91,7 +91,7 @@ public class RuChat extends Thread {
             out.println(message);
             out.flush();
         } else {
-            WynnLang.sendMessage("§cПроизошла ошибка, сообщение не отправлено. Попробуйте еще раз");
+            WynnLang.sendMessage("§c오류가 발생하여 메시지가 보내지지 않았습니다. 다시 시도하십시오.");
         }
     }
     

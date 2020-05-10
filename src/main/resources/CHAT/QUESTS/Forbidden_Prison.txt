@@ -1,8 +1,9 @@
-§7[1/1] §2Prison Guard: §aYou are trespassing on prison property, didn't you read the signs! You're under arrest, human!@§7[1/1] §2Страж Тюрьмы: §aВы незаконно проникли на территорию тюрьмы, разве вы не читали таблички! Вы арестованы, человек!
-§7[1/1] §2Prison Guard: §aHey recruit, don't go near the dogs, they'll attack you!@§7[1/1] §2Страж Тюрьмы: §aЭй, новичок! Не ходи рядом с собаками, а то они на тебя нападут!
+﻿=======================================================================================================================================================
+§7[1/1] §2Prison Guard: §aYou are trespassing on prison property, didn't you read the signs! You're under arrest, human!@§7[1/1] §2감옥 경비: §a넌 교도소에 무단침입하고 있다. 표지판도 못 봤나? 인간! 널 체포하겠다!
+§7[1/1] §2Prison Guard: §aHey recruit, don't go near the dogs, they'll attack you!@§7[1/1] §2감옥 경비: §a이봐 신입, 개 근처에는 가지 마. 널 물껄?
 
-§7[1/1] §2Prison Guard: §aYou're under arrest! Don't try to escape!@§7[1/1] §2Страж Тюрьмы: §aТы арестован! Не пытайся сбежать!
-§7[1/1] §2Prison Guard: §aYou are trespassing on private property. Just get out of here, our cells are too full.@§7[1/1] §2Страж Тюрьмы: §aТы вторгся на частную собственность. Просто убирайся отсюда, наши камеры переполнены.
-§7[1/1] §2Prison Guard: §aYou are trespassing on private property. Just get out of here, our cells are too full. We prefer 72's and up anyway.@§7[1/1] §2Страж Тюрьмы: §aТы вторгся на частную собственность. Просто убирайся отсюда, наши камеры переполнены. Мы предпочитаем 72-го уровня и выше, в любом случае.
-§7[1/1] §2Prison Guard: §aNo trespassing!@§7[1/1] §2Страж Тюрьмы: §aНикаких посторонних!
-§7[1/1] §2The Guardian: §aStranger! If you value your life, you will walk away, and never return!@§7[1/1] §2Охранник: §aНезнакомец! Если ты ценишь свою жизнь, ты уйдешь и никогда не вернешься!
+§7[1/1] §2Prison Guard: §aYou're under arrest! Don't try to escape!@§7[1/1] §2감옥 경비: §a널 체포한다! 도망칠 순 없다!
+§7[1/1] §2Prison Guard: §aYou are trespassing on private property. Just get out of here, our cells are too full.@§7[1/1] §2감옥 경비: §a넌 사유지에 무단 침입하고 있다. 그냥 여기서 조용히 나가라. 감방이 꽉 차버렸거든.
+§7[1/1] §2Prison Guard: §aYou are trespassing on private property. Just get out of here, our cells are too full. We prefer 72's and up anyway.@§7[1/1] §2감옥 경비: §a넌 사유지에 무단 침입하고 있다. 그냥 여기서 조용히 나가. 우린 72 전투 레벨 이상의 사람을 선호하거든.
+§7[1/1] §2Prison Guard: §aNo trespassing!@§7[1/1] §2감옥 경비: §a무단침입 금지!
+§7[1/1] §2The Guardian: §aStranger! If you value your life, you will walk away, and never return!@§7[1/1] §2감옥 경비: §a이방인! 목숨이 아깝다면, 여기서 물러나서 다시는 돌아오지 않을 것이다!

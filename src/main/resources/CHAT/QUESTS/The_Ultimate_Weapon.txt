@@ -1,32 +1,33 @@
-§7[1/4] §2Dodegar: §aWow! You got the wood I needed, thanks!@§7[1/4] §2Додегар: §aВоу! Ты принес древесину, спасибо!
-§7[2/4] §2Dodegar: §aWhile I'm making the handle, could you help me with the blade?@§7[2/4] §2Додегар: §aПока я делаю рукоять, поможешь мне с лезвием?
-§7[3/4] §2Dodegar: §aI'm gonna need a very special metal. There is a cave to the east with a tribe of iron beasts, known as Golliers.@§7[3/4] §2Додегар: §aМне нужен специальный металл. Есть пещера на востоке отсюда с железными зверями, называемыми Golliers.
-§7[4/4] §2Dodegar: §aCollect §3[17 Gollier Iron]§a from them, and I can use them to create my masterpiece. It will never break.@§7[4/4] §2Додегар: §aСобери §3[17 Gollier железа]§a с них, и я использую их в своем шедевре. Он никогда не поломается.
-§7[1/7] §2Dodegar: §aAh, Gollier Iron, perfect...@§7[1/7] §2Додегар: §aАх, Gollier железо, отлично...
-§7[2/7] §2Dodegar: §aGreat. This one looks like it will work! Yes, this will make a truly awesome weapon.@§7[2/7] §2Додегар: §aВеликолепно. Только этот один слиток подойдет! Да, это будет просто великолепное оружие.
-§7[3/7] §2Dodegar: §aWhile I make the blade, would you be able to find something to sharpen it?@§7[3/7] §2Додегар: §aПока я доделаю лезвие, можешь принести мне то, чем заточить его?
-§7[4/7] §2Dodegar: §aI need soft whetstones to get the sharpest possible edge.@§7[4/7] §2Додегар: §aМне нужны мягкие бруски, чтобы сделать его самым острым на свете.
-§7[5/7] §2Dodegar: §aBut being soft, they grind away to nothing in no time, so I will need a few, §3[30 Soft Whetstone]§a should be enough.@§7[5/7] §2Додегар: §aНо они мягкие, и пока ими точишь, они быстро ломаются, §3[30 Мягких брусков]§a будет достаточно.
-§7[6/7] §2Dodegar: §aThey get washed down the river from the mountains. The big waterfall to the south-west is usually a good place to find some.@§7[6/7] §2Додегар: §aИх обычно смывает рекой с гор. Большой водопад на юго-западе – хорошее место для их поиска.
-§7[7/7] §2Dodegar: §aBut I believe it’s salmon spawning season in that area, and they can be aggressive. Be careful!@§7[7/7] §2Додегар: §aНо я слышал, что там нерестится лосось в это время, и он может быть недружелюбным. Осторожнее!
-§7[1/4] §2Dodegar: §aFinally! You took your time! This weapon is seriously going to be the best thing I've ever made.@§7[1/4] §2Додегар: §aНаконец-то! Ты как раз вовремя! Это оружие будет самым лучшим из тех, что я делал.
-§7[2/4] §2Dodegar: §aWell, I need a last thing... A weapon can’t be an “Ultimate” one without intense magical power!@§7[2/4] §2Додегар: §aМне нужно еще кое-что... Оружие не может быть “Смертельным” без сильной магической энергии!
-§7[3/4] §2Dodegar: §aWhile I finish sharpening the blade, would you get §3[24 Royal Bug Blood]§a?@§7[3/4] §2Додегар: §aКогда я закончу заточку, можешь принести мне §3[24 Royal Bug Blood]§a?
-§7[4/4] §2Dodegar: §aI assure you that is the last thing I need! Just follow the road, take the bridge, and search for some ruins. I should be done with the whetstone when you come back. Good luck!@§7[4/4] §2Додегар: §aУверен, это последняя вещь, что мне понадобится! Иди по дороге, через мост, и найди руины. Я должен закончить с брусками, когда ты вернешься. Удачи!
-§7[1/5] §2Dodegar: §aAh... Finally... My masterpiece... Let me imbue it with the blue blood!@§7[1/5] §2Додегар: §aАх... Свершилось... Мой шедевр... Дай мне пропитать его синей кровью!
-§7[2/5] §2Dodegar: §a...@§7[2/5] §2Додегар: §a...
-§7[3/5] §2Dodegar: §aLook at it! It's looking amazing! Don't you think? Since you helped me to make it, I will give one to you!@§7[3/5] §2Додегар: §aПосмотри на него! Выглядит великолепно! Не так ли? Поскольку ты мне помог, то вот, держи копию!
-§7[4/5] §2Dodegar: §aI want you to hold it during your adventures! I want the history books to speak about this mighty blade!@§7[4/5] §2Додегар: §aЯ хочу чтобы ты пользовался им в своих похождениях! Хочу, чтобы в учебниках истории написали об этом великолепном клинке!
-§7[5/5] §2Dodegar: §aThanks for your help and good luck!@§7[5/5] §2Додегар: §aСпасибо за помощь и удачи!
-§7[1/8] §2Dodegar: §aI'm glad you came along, I could do with a little help if you're not too busy.@§7[1/8] §2Додегар: §aРад, что ты появился здесь, надеюсь сможешь помочь мне, если не сильно занят.
-§7[2/8] §2Dodegar: §aI'm Dodegar Bandysnoot, the world famous Hobbit swordsmith! Perhaps you've heard of me?@§7[2/8] §2Додегар: §aЯ Додегар Бандиснут - известный на весь мир хоббит-оружейник! Наверно ты слышал обо мне?
-§7[3/8] §2Dodegar: §aNo? Oh... Well, I've had an idea about how I could make the best weapon that the world has ever seen!@§7[3/8] §2Додегар: §aНет? Ох... Что же, у меня есть идея сделать самое лучшее оружие, которое когда-либо видел мир!
-§7[4/8] §2Dodegar: §aBut, I need some help getting the special resources to make it.@§7[4/8] §2Додегар: §aНо, для этого мне нужны специальные ресурсы, которые нужно достать.
-§7[5/8] §2Dodegar: §aYou'll help?! Excellent! We shall gather enough resources to make one for each of us!@§7[5/8] §2Додегар: §aТы поможешь?! Отлично! Нам нужно много ресурсов, что бы я мог сделать две копии для нас!
-§7[6/8] §2Dodegar: §aSo firstly, I need some living wood for the handle, §3[10 Wood Scrap]§a should be enough.@§7[6/8] §2Додегар: §aДля начала, мне нужна живая древесина для рукоятки, §3[10 Wood Scrap]§a будет достаточно.
-§7[7/8] §2Dodegar: §aIt must come from the Wood Sprites that can be found across the river to the west. The handle can then mold to the user's hand!@§7[7/8] §2Додегар: §aМоешь достать их с Wood Sprites, что живут через реку на западе. Рукоятка из них будет как влитая!
-§7[8/8] §2Dodegar: §aThere's an enourmous ancient stump there that seems to attract the creatures... Good luck!@§7[8/8] §2Додегар: §aТам есть огромное подобие древнего пня, которое будто притягивает существ... Удачи!
+﻿=====================================================================================
+§7[1/4] §2Dodegar: §aWow! You got the wood I needed, thanks!@§7[1/4] §2도데가: §a와! 내게 필요하던 나무를 가져와 줬구나, 고마워!
+§7[2/4] §2Dodegar: §aWhile I'm making the handle, could you help me with the blade?@§7[2/4] §2도데가: §a손잡이를 만드는 동안 날 좀 도와줄래?
+§7[3/4] §2Dodegar: §aI'm gonna need a very special metal. There is a cave to the east with a tribe of iron beasts, known as Golliers.@§7[3/4] §2도데가: §a난 아주 특별한 금속이 필요해. 동쪽으로 가면 Gollier라고 알려진 철로 된 짐승 부족이 있는 동굴이 있어.
+§7[4/4] §2Dodegar: §aCollect §3[17 Gollier Iron]§a from them, and I can use them to create my masterpiece. It will never break.@§7[4/4] §2도데가: §a녀석들에게서 §3[17 Gollier 아이언]§a을 가져다주면, 그걸로 절대 부서지지 않는 걸작을 만들 수 있어.
+§7[1/7] §2Dodegar: §aAh, Gollier Iron, perfect...@§7[1/7] §2도데가: §a아, Gollier 아이언, 완벽해...
+§7[2/7] §2Dodegar: §aGreat. This one looks like it will work! Yes, this will make a truly awesome weapon.@§7[2/7] §2도데가: §a훌륭해. 잘 될 것 같군! 좋아, 이건 정말 엄청난 무기가 될 거야.
+§7[3/7] §2Dodegar: §aWhile I make the blade, would you be able to find something to sharpen it?@§7[3/7] §2도데가: §a내가 칼날을 만드는 동안, 너는 칼날을 연마할 물건을 찾을 수 있겠어?
+§7[4/7] §2Dodegar: §aI need soft whetstones to get the sharpest possible edge.@§7[4/7] §2도데가: §a난 가능하다면 가장 날카로운 칼날을 얻기 위해 최대한 부드러운 숫돌이 필요해.
+§7[5/7] §2Dodegar: §aBut being soft, they grind away to nothing in no time, so I will need a few, §3[30 Soft Whetstone]§a should be enough.@§7[5/7] §2도데가: §a그런데 부드러우면 숫돌이 순식간에 갈려서 없어질 거야. 그러니 나는 §3[30 부드러운 숫돌]§a 이 필요해.
+§7[6/7] §2Dodegar: §aThey get washed down the river from the mountains. The big waterfall to the south-west is usually a good place to find some.@§7[6/7] §2도데가: §a숫돌은 산에서 강을 따라 씻겨져 내려올 거야, 남서쪽에 있는 큰 폭포에서 찾기 좋을 거야.
+§7[7/7] §2Dodegar: §aBut I believe it’s salmon spawning season in that area, and they can be aggressive. Be careful!@§7[7/7] §2도데가: §a하지만 지금 그곳에서 연어가 태어나는 계절일거야. 그리고 그 연어들은 공격적일지도 모르니 조심해!
+§7[1/4] §2Dodegar: §aFinally! You took your time! This weapon is seriously going to be the best thing I've ever made.@§7[1/4] §2도데가: §a드디어! 꽤 천천히 왔네! 이 무기는 내가 만든 것 중 최고의 무기일거야.
+§7[2/4] §2Dodegar: §aWell, I need a last thing... A weapon can’t be an “Ultimate” one without intense magical power!@§7[2/4] §2도데가: §a음, 마지막으로... 무기에 강렬한 마법의 힘이 없다면 "궁극의" 무기가 될 수 없어!
+§7[3/4] §2Dodegar: §aWhile I finish sharpening the blade, would you get §3[24 Royal Bug Blood]§a?@§7[3/4] §2도데가: §a내가 칼날을 갈고 있는 동안, §3[24 Royal Bug의 피]§a 를 좀 가져와 줄 수 있겠어?
+§7[4/4] §2Dodegar: §aI assure you that is the last thing I need! Just follow the road, take the bridge, and search for some ruins. I should be done with the whetstone when you come back. Good luck!@§7[4/4] §2도데가: §a이게 마지막 부탁이야! 그냥 길을 따라가서 다리를 건너서 폐허를 하나 찾아봐. 네가 돌아오면 숫돌은 다 사용했을 거야. 행운을 빌어! 
+§7[1/5] §2Dodegar: §aAh... Finally... My masterpiece... Let me imbue it with the blue blood!@§7[1/5] §2도데가: §a아... 드디어... 내 걸작... 여기에 파란 피를 뿌려줘!
+§7[2/5] §2Dodegar: §a...@ §7[2/5]§2도데가: §a...
+§7[3/5] §2Dodegar: §aLook at it! It's looking amazing! Don't you think? Since you helped me to make it, I will give one to you!@§7[3/5] §2도데가: §a이것 좀 봐! 정말 멋져 보여! 안 그래? 네가 이걸 만드는 걸 도와줬으니, 하나 줄게!
+§7[4/5] §2Dodegar: §aI want you to hold it during your adventures! I want the history books to speak about this mighty blade!@§7[4/5] §2도데가: §a네가 모험할 때 이걸 들고 다녔으면 좋겠어! 역사책에 이 강력한 칼에 대한 내용이 실리면 좋겠어! 
+§7[5/5] §2Dodegar: §aThanks for your help and good luck!@§7[5/5] §2도데가: §a도와줘서 고맙고, 행운을 빌어!
+§7[1/8] §2Dodegar: §aI'm glad you came along, I could do with a little help if you're not too busy.@§7[1/8] §2도데가: §a네가 와줘서 기뻐, 네가 너무 바쁘지 않다면 내가 약간의 도움을 줄 수 있어.
+§7[2/8] §2Dodegar: §aI'm Dodegar Bandysnoot, the world famous Hobbit swordsmith! Perhaps you've heard of me?@§7[2/8] §2도데가: §a난 도데가 반디즈누트야. 세계적으로 유명한 호빗 대장장이지! 나에 대해 들어봤어?
+§7[3/8] §2Dodegar: §aNo? Oh... Well, I've had an idea about how I could make the best weapon that the world has ever seen!@§7[3/8] §2도데가: §a못들어 봤어? 어... 음, 난 내가 어떻게 세상에서 가장 뛰어난 무기를 만들 수 있을지 생각해 봤어! 
+§7[4/8] §2Dodegar: §aBut, I need some help getting the special resources to make it.@§7[4/8] §2도데가: §a하지만, 그런 무기를 만들기 위한 특별한 재료를 얻기 위해선 도움이 필요해.
+§7[5/8] §2Dodegar: §aYou'll help?! Excellent! We shall gather enough resources to make one for each of us!@§7[5/8] §2도데가: §a도와준다고?! 좋아! 우리는 각자를 위해 하나씩 만들 수 있을 충분한 재료를 모을 거야! 
+§7[6/8] §2Dodegar: §aSo firstly, I need some living wood for the handle, §3[10 Wood Scrap]§a should be enough.@§7[6/8] §2도데가: §a첫번째로, 손잡이를 만들 목재가 좀 필요해. §3[10 나무 스크랩]§a 이면 충분할거야.
+§7[7/8] §2Dodegar: §aIt must come from the Wood Sprites that can be found across the river to the west. The handle can then mold to the user's hand!@§7[7/8] §2도데가: §a그건 강 건너편 서쪽에서 찾을 수 있는 Wood Sprites에게서 찾아야 해. 그러면 손잡이가 사용자의 손에 맞게 맞춰질거야. 
+§7[8/8] §2Dodegar: §aThere's an enourmous ancient stump there that seems to attract the creatures... Good luck!@§7[8/8] §2도데가: §a그곳엔 생명을 끌어들이는 듯한 거대한 고대의 그루터기가 있어... 행운을 빌어!
 
-§7[1/1] §2Dodegar: §aHurry up! Or I will never be able to make this awesome weapon! Check your quest book if you have forgotten the ingredients!@§7[1/1] §2Додегар: §aПоторопись! Или я никогда не смогу сделать это потрясающее оружие! Проверь свою квестовую книгу, если ты забыл ингредиенты!
-§7[1/1] §2Dodegar: §aI can't let you help me making my masterpiece... You are too weak, come back when you're level 75 or higher.@§7[1/1] §2Додегар: §aЯ не могу позволить тебе помочь мне сделать мой шедевр... Ты слишком слаб; возвращайся на 75 уровне или выше.
-§7[1/1] §2Dodegar: §aI hope you are proud of owning this masterpiece!@§7[1/1] §2Додегар: §aНадеюсь, ты гордишься этим шедевром!
+§7[1/1] §2Dodegar: §aHurry up! Or I will never be able to make this awesome weapon! Check your quest book if you have forgotten the ingredients!@§7[1/1] §2도데가: §a서둘러! 안 그러면 난 이 엄청난 무기를 절대 만들 수 없을 거라고! 구해야 하는 재료를 잊어버렸다면 퀘스트북을 확인해! 
+§7[1/1] §2Dodegar: §aI can't let you help me making my masterpiece... You are too weak, come back when you're level 75 or higher.@§7[1/1] §2도데가: §a너는 너무 약해서 내 걸작을 만드는 걸 도와줄 수 없어. 75 레벨이 되면 돌아와!
+§7[1/1] §2Dodegar: §aI hope you are proud of owning this masterpiece!@§7[1/1] §2도데가: §a네가 이 걸작을 가지고 있는 것을 자랑스럽게 여기길 바랄게!

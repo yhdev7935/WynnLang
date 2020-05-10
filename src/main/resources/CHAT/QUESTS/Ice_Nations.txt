@@ -1,30 +1,31 @@
-§7[1/6] §2Adigard: §aWelcome traveler, to our humble island...@§7[1/6] §2Адигард: §aДобро пожаловать путешественник, на наш скромный остров...
-§7[2/6] §2Adigard: §aMy people and I landed here many years ago. Unfortunately, our ship didn't make it...@§7[2/6] §2Адигард: §aЯ и мои люди остановились здесь много лет назад. К сожалению, наш корабль не смог этого сделать...
-§7[3/6] §2Adigard: §aWe tried to build a nation on these islands but became divided through the years.@§7[3/6] §2Адигард: §aМы пытались создать здесь единую нацию, но распались через годы.
-§7[4/6] §2Adigard: §aBecause of this, we are fighting a useless war with our neighbours.@§7[4/6] §2Адигард: §aИ теперь мы бессмысленно сражаемся с нашими соседями.
-§7[5/6] §2Adigard: §aI believe we should try to pass a peace treaty, but I am afraid of getting killed if I leave the island...@§7[5/6] §2Адигард: §aЯ верю, что мы должны подписать мирный договор, но боюсь быть убитым, если покину остров...
-§7[6/6] §2Adigard: §aWould you mind helping us? Talk to Hallfred about this treaty. He lives on another ice island nearby.@§7[6/6] §2Адигард: §aТы поможешь нам? Поговори с Халлфредом насчет соглашения. Он живёт на соседнем острове.
-§7[1/5] §2Hallfred: §aWelcome traveler! What brings you to our island?@§7[1/5] §2Халлфред: §aДобро пожаловать, путешественник! Что привело тебя на наш остров?
-§7[2/5] §2Hallfred: §aOh, I see that Adigard now sends strangers through his cowardice! Worried he'll get killed?@§7[2/5] §2Халлфред: §aОх, я вижу, что Адигард теперь посылает чужаков из-за своей трусости! Боится, что его убьют?
-§7[3/5] §2Hallfred: §aThis is the last time I'll repeat it: We will sign the peace treaty the day Adigard and his nation will return to us... the treasure.@§7[3/5] §2Халлфред: §aПовторяю последний раз - мы подпишем мирный договор, когда его народ вернёт к нам... наше сокровище.
-§7[4/5] §2Hallfred: §aThe one that they kept and hid from us after the shipwreck.@§7[4/5] §2Халлфред: §aТо, что они прячут от нас после кораблекрушения.
-§7[5/5] §2Hallfred: §aPure gold, very valuable and rare! Tell him I'll be waiting for it. And none of that silly story again.@§7[5/5] §2Халлфред: §aЧистое золото - редкое и ценное! Скажи ему, что я жду его! И больше никаких глупых отговорок.
-§7[1/7] §2Adigard: §aI should have expected that. Hallfred was always very greedy...@§7[1/7] §2Адигард: §aЯ ждал этого. Халлфред всегда был очень жадным...
-§7[2/7] §2Adigard: §aWe tried to make him understand that we do not have the treasure, without much success.@§7[2/7] §2Адигард: §aМы пытались сказать ему, что у нас нет никакого сокровища, но безуспешно.
-§7[3/7] §2Adigard: §a...You§a see, the reason why we became shipwrecked wasn't natural cause. We were attacked...@§7[3/7] §2Адигард: §a... Видишь ли, наш корабль утонул не по естественным причинам. На нас напали...
-§7[4/7] §2Adigard: §aBy whom? The undead. Ghosts and demons navigating a monstrous ship. They got us by surprise.@§7[4/7] §2Адигард: §aКто? Нежить. Духи и демоны передвигаются на корабле-призраке. Они напали неожиданно.
-§7[5/7] §2Adigard: §aI believe they also stole our treasure during the attack.@§7[5/7] §2Адигард: §aЯ думаю, что они украли наше сокровище во время атаки.
-§7[6/7] §2Adigard: §aWould you help our nation come back together? Find this ship, and bring the treasure back to Hallfred so we can finally live in peace.@§7[6/7] §2Адигард: §aПоможешь нам вернуть мир? Найди этот корабль и принеси сокровище обратно Халлфреду, чтобы мы могли снова жить в мире.
-§7[7/7] §2Adigard: §aSail north. That is where they attacked us many years ago. It should be easy to find, I'm sure they are anchored there in glory... Thank you.@§7[7/7] §2Адигард: §aПлыви на север. Они атаковали нас именно там. Их легко найти, думаю они не ушли с того места...Спасибо тебе!
-§7[1/4] §2Hallfred: §aIncredible! He actually delivered the treasure!@§7[1/4] §2Халлфред: §aНевозможно! Наконец-то нам вернули сокровище!
-§7[2/4] §2Hallfred: §aI suppose that means the end of the war between our nations!@§7[2/4] §2Халлфред: §aПолагаю, это положит конец многолетней войне между нациями!
-§7[3/4] §2Hallfred: §aThis is a great day! Here, take this as a reward for helping our nation.@§7[3/4] §2Халлфред: §aЭто чудесный день! Возьми это как награду за помощь.
-§7[4/4] §2Hallfred: §aI'm sure you'll find a use for this helmet one day!@§7[4/4] §2Халлфред: §aУверен, однажды ты найдёшь применение этому шлему!
+=================================================================================================================
+§7[1/6] §2Adigard: §aWelcome traveler, to our humble island...@§7[1/6] §2아디가드: §a어서 와 모험가. 우리의 보잘것 없는 섬에...
+§7[2/6] §2Adigard: §aMy people and I landed here many years ago. Unfortunately, our ship didn't make it...@§7[2/6] §2아디가드: §a나와 사람들은 예전에 이 땅에 도착했어. 불행히도, 우리의 배가 난파되서 온 거지만...
+§7[3/6] §2Adigard: §aWe tried to build a nation on these islands but became divided through the years.@§7[3/6] §2아디가드: §a우리는 세 섬에 걸쳐 나라를 만들려고 했는데, 서로 갈라지고 말았어.
+§7[4/6] §2Adigard: §aBecause of this, we are fighting a useless war with our neighbours.@§7[4/6] §2아디가드: §a그리고 우리는 아직도 이웃들과 싸우고 있지.
+§7[5/6] §2Adigard: §aI believe we should try to pass a peace treaty, but I am afraid of getting killed if I leave the island...@§7[5/6] §2아디가드: §a난 평화조약을 하고 싶지만, 이 섬을 나가면 죽을수도 있어.
+§7[6/6] §2Adigard: §aWould you mind helping us? Talk to Hallfred about this treaty. He lives on another ice island nearby.@§7[6/6] §2아디가드: §a우리를 도와줄 수 있니? 할프레드에게 이 조약에 대해 말해줘. 그는 근처에 있는 다른 얼음 섬에 살아.
+§7[1/5] §2Hallfred: §aWelcome traveler! What brings you to our island?@§7[1/5] §2할프레드: §a환영해! 무슨 일로 이 섬에 왔니?
+§7[2/5] §2Hallfred: §aOh, I see that Adigard now sends strangers through his cowardice! Worried he'll get killed?@§7[2/5] §2할프레드: §a하, 아디가드 그 쫄보가 죽을까봐 다른 사람을 보내다니.
+§7[3/5] §2Hallfred: §aThis is the last time I'll repeat it: We will sign the peace treaty the day Adigard and his nation will return to us... the treasure.@§7[3/5] §2할프레드: §a이건 우리의 최후통보야. 아디가드가 보물을 돌려주면 평화 조약을 맺겠어.
+§7[4/5] §2Hallfred: §aThe one that they kept and hid from us after the shipwreck.@§7[4/5] §2할프레드: §a그들의 배가 난파된 이후 우리에게서 숨겨 보관한 것 말이지.
+§7[5/5] §2Hallfred: §aPure gold, very valuable and rare! Tell him I'll be waiting for it. And none of that silly story again.@§7[5/5] §2할프레드: §a순금이라고! 순금! 매우 귀한거야! 가서 그 쫄보에게 말해. 기다리고 있겠다고! 보물 없이 이런말을 한다면 다시는 말로 하지 않겠어.
+§7[1/7] §2Adigard: §aI should have expected that. Hallfred was always very greedy...@§7[1/7] §2아디가드: §a역시 그렇겠지. 할프레드는 언제나 욕심이 많아.
+§7[2/7] §2Adigard: §aWe tried to make him understand that we do not have the treasure, without much success.@§7[2/7] §2아디가드: §a그에게 우리가 보물이 없다는 것을 이해시키려고 여러번 시도했었어. 전부 실패했지.
+§7[3/7] §2Adigard: §a...You§a see, the reason why we became shipwrecked wasn't natural cause. We were attacked...@§7[3/7] §2아디가드: §a...너, 우리의 배가 자연적으로 침몰한 게 아냐. 우린 공격받았었어...
+§7[4/7] §2Adigard: §aBy whom? The undead. Ghosts and demons navigating a monstrous ship. They got us by surprise.@§7[4/7] §2아디가드: §a누구였나면... 언데드였어. 유령과 악마가 가득한 유령선이 있어. 우린 기습당했지.
+§7[5/7] §2Adigard: §aI believe they also stole our treasure during the attack.@§7[5/7] §2아디가드: §a그녀석들이 습격 중 보물을 훔쳐갔을거야.
+§7[6/7] §2Adigard: §aWould you help our nation come back together? Find this ship, and bring the treasure back to Hallfred so we can finally live in peace.@§7[6/7] §2아디가드: §a우리 섬들이 다시 화합할 수 있게 도와 줄 수 있니? 배를 찾아서, 보물을 다시 가져오고 할프레드에게 주면 돼.
+§7[7/7] §2Adigard: §aSail north. That is where they attacked us many years ago. It should be easy to find, I'm sure they are anchored there in glory... Thank you.@§7[7/7] §2아디가드: §a그 배는 북쪽에 있을거야. 거기서 우리배가 공격 당했거든. 찾기는 쉬울거야. 아마 거기서 닻을 내리고 있겠지...
+§7[1/4] §2Hallfred: §aIncredible! He actually delivered the treasure!@§7[1/4] §2할프레드: §a믿을수가 없군! 네가 보물을 배달하다니!
+§7[2/4] §2Hallfred: §aI suppose that means the end of the war between our nations!@§7[2/4] §2할프레드: §a이제 이 전쟁은 끝났어! 아주 완벽해!
+§7[3/4] §2Hallfred: §aThis is a great day! Here, take this as a reward for helping our nation.@§7[3/4] §2할프레드: §a정말 좋은 날이야! 여기 우리 섬들을 도와준 보상을 받아.
+§7[4/4] §2Hallfred: §aI'm sure you'll find a use for this helmet one day!@§7[4/4] §2할프레드: §a언젠가는 그 모자를 쓸 날이 올거야!
 
-§7[1/1] §2Hallfred: §aHey, we don't just let strangers use our equipment!@§7[1/1] §2Халлфред: §aЭй, мы не позволяем незнакомцам пользоваться нашим обмундированием.
-§7[1/1] §2Adigard: §aHave you made any progress?@§7[1/1] §2Адигард: §aЕсть какой-нибудь прогресс?
-§7[1/1] §2Adigard: §aOur nation greatly needs help, but I'm afraid you aren't strong enough. Come back to me when you are level 40.@§7[1/1] §2Адигард: §aНаша нация очень нуждается в помощи, но боюсь, что ты недостаточно силен. Возвращайся ко мне, когда будешь 40 уровня.
-§7[1/1] §2Adigard: §aThank you so much for bringing peace between our nations!@§7[1/1] §2Адигард: §aБольшое спасибо за то, что принес мир между нашими народами!
-§7[1/1] §2Hallfred: §aI am glad everything is back to normal.@§7[1/1] §2Халлфред: §aЯ рад, что все вернулось на круги своя.
-§7[1/1] §2Hallfred: §aIt's useless to come back to me if you do not have the treasure.@§7[1/1] §2Халлфред: §aБесполезно возвращаться ко мне, если у тебя нет сокровищ.
-§7[1/1] §2Hallfred: §aHey, we don't just let strangers use our people like that!@§7[1/1] §2Халлфред: §aЭй, мы не позволяем чужакам так использовать наших людей!
+§7[1/1] §2Hallfred: §aHey, we don't just let strangers use our equipment!@§7[1/1] §2할프레드: §a이봐, 수상한 자는 우리 장비를 쓸 수 없어!
+§7[1/1] §2Adigard: §aHave you made any progress?@§7[1/1] §2아디가드: §a진행된 사항이 있니?
+§7[1/1] §2Adigard: §aOur nation greatly needs help, but I'm afraid you aren't strong enough. Come back to me when you are level 40.@§7[1/1] §2아디가드: §a우리 섬들은 큰 도움이 필요해, 하지만 넌 아직 약해보여. 전투 레벨 40이 되면 다시와.
+§7[1/1] §2Adigard: §aThank you so much for bringing peace between our nations!@§7[1/1] §2아디가드: §a우리 섬들을 도와줘서 정말 고마워!
+§7[1/1] §2Hallfred: §aI am glad everything is back to normal.@§7[1/1] §2할프레드: §a모든게 다시 정상화 되기를 빌지.
+§7[1/1] §2Hallfred: §aIt's useless to come back to me if you do not have the treasure.@§7[1/1] §2할프레드: §a보물이 없으면 내게 다시 와도 소용없어.
+§7[1/1] §2Hallfred: §aHey, we don't just let strangers use our people like that!@§7[1/1] §2할프레드: §a이봐, 수상한자는 우리의 것을 이용할 수 없어!

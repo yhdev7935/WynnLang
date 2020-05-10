@@ -1,203 +1,162 @@
-§eYou must be in a party to list.@§eТы должен быть в пати, чтобы посмотреть список.
-§cYou are not in a guild.@§cТы не состоишь в гильдии.
-§eWe couldn't find any friends.@§eМы не можем найти никаких друзей.
-§eTry typing §6/friend add Username§e!@§eПопробуй написать §6/friend add Ник§e!
-§4There is no room for a horse.@§4Здесь нет места для лошади.
-§dSince you interacted with your inventory, your horse has despawned.@§dПоскольку ты взаимодействовал с инвентарем, твоя лошадь была убрана.
-§dYour horse is scared to come out right now, too many mobs are nearby.@§dТвоя лошадь напугана сейчас, чтобы выходить, поскольку слишком много мобов рядом.
-§4You don't have enough mana to do that spell!@§4У тебя недостаточно маны, чтобы использовать это заклинание!
-§4You have not unlocked this spell!@§4Ты еще не открыл это заклинание!
-§cYou already have that potion active...@§cЭто зелье уже действует на тебя...
-§cSorry, you can't teleport... Try moving away from blocks.@§cИзвини, ты не можешь телепортироваться... Попробуй отойти от блоков
-§b+3 minutes§7 speed boost.@§b+3 минуты§7 повышенной скорости.
-§4You must identify this item before using it.@§4Ты должен идентифицировать этот предмет, прежде чем использовать.
-§4This is not a §cArcher§4 weapon. You must use a §cbow.@§4Это не оружие дляa §cЛучника§4. Ты должен использовать §cлук.
-§4This is not a §cMage§4 weapon. You must use a §cwand.@§4Это не оружие дляa §cМага§4. Ты должен использовать §cпосох.
-§4This is not a §cAssassin§4 weapon. You must use a §cshear.@§4Это не оружие дляa §cАссасина§4. Ты должен использовать §cкинжал.
-§4This is not a §cAssassin§4 weapon. You must use a §cdagger.@§4Это не оружие дляa §cАссасина§4. Ты должен использовать §cкинжал.
-§4This is not a §cWarrior§4 weapon. You must use a §cspear.@§4Это не оружие дляa §cВоина§4. Ты должен использовать §cкопье.
-§4This is not a §cDark Wizard§4 weapon. You must use a §cwand.@§4Это не оружие дляa §cТемного Мага§4. Ты должен использовать §cпосох.
-§4This is not a §cShaman§4 weapon. You must use a §crelik.@§4Это не оружие §cШамана.§4 Ты должен использовать §cрелик
-§7[Please empty some space in your inventory first]@§7[Пожалуйста, сначала освободи немного места в своем инвентаре]
-§cYou have never been to that area!@§cТы никогда не был на этой территории!
-§d[+1 Soul Point]@§d[+1 Очко душ]
-§d[+2 Soul Points]@§d[+2 Очка душ]
-§cThe server is restarting in 4 minutes.@§cСервер перезагрузится через 4 минуты
-§cThe server is restarting in 3 minutes.@§cСервер перезагрузится через 3 минуты
-§cThe server is restarting in 2 minutes.@§cСервер перезагрузится через 2 минуты
-§cThe server is restarting in 1 minute.@§cСервер перезагрузится через 1 минуту
-§cThe server is restarting in 4 seconds.@§cСервер перезагрузится через 4 секунды
-§cThe server is restarting in 3 seconds.@§cСервер перезагрузится через 3 секунды
-§cThe server is restarting in 2 seconds.@§cСервер перезагрузится через 2 секунды
-§cThe server is restarting in 1 second.@§cСервер перезагрузится через 1 секунду
-§7[Quest Book Updated]@§7[Квестовая книга обновлена]
-§7[Quest book updated]@§7[Квестовая книга обновлена]
-§5Item Identifier: §dOkay, I'll identify them now!@§5Идентификатор Предметов: §dХорошо, я сейчас же их идентифицирую!
-§5Item Identifier: §dIt is done. Your item has been identified. The magic it contains will now blossom.@§5Идентификатор Предметов: §dГотово. Твой предмет был идентифицирован. Магия, содержащаяся в нем, теперь раскрыта.
-§5Item Identifier: §dIt is done. Your items have been identified. The magic they contain will now blossom.@§5Идентификатор Предметов: §dГотово. Твои предметы были идентифицированы. Магия, содержащаяся в них, теперь раскрыта.
-§5Blacksmith: §dI can't buy that item! I only accept weapons, accessories, potions, armour and crafted items.@§5Кузнец: §dЯ не могу купить этот предмет! Я принимаю только оружие, аксессуары, зелья, броню и крафтовые предметы.
-§5As the sun rises, you feel a little bit safer...@§5С восходом солнца ты чувствуешь себя немного безопаснее...
-§6Type the item name or type 'cancel' to cancel:@§6Напиши название предмета, или 'cancel' для отмены:
+§eYou must be in a party to list.@§e당신은 파티에 속해있지 않습니다.
+§cYou are not in a guild.@§c당신은 길드에 속해있지 않습니다.
+§eWe couldn't find any friends.@§e그 친구를 찾을 수 없습니다.
+§eTry typing §6/friend add Username§e!@§6/friend add [닉네임]§e을 입력해서 친구로 등록하세요!
+§4There is no room for a horse.@§4말을 소환할 수 있는 공간이 없습니다.
+§dSince you interacted with your inventory, your horse has despawned.@§d인벤토리 항목이 변경되었습니다. 당신의 말이 돌아갔습니다.
+§dYour horse is scared to come out right now, too many mobs are nearby.@§d주위에 몬스터가 너무 많아 말이 두려워 합니다.
+§4You don't have enough mana to do that spell!@§4주문을 쓰기 위한 마나가 부족합니다!
+§4You have not unlocked this spell!@§4이 주문을 아직 배우지 않았습니다!
+§cYou already have that potion active...@§c이미 포션 효과가 적용 중입니다.
+§cSorry, you can't teleport... Try moving away from blocks.@§c텔레포트할 수 없습니다... 이 블럭에서 떨어지고 시도하세요.
+§b+3 minutes§7 speed boost.@§b+3 분§7동안 이동 속도 버프.
+§4You must identify this item before using it.@§4이 아이템을 감정해야 사용할 수 있습니다.
+§4This is not a §cArcher§4 weapon. You must use a §cbow.@§4이 무기는 §c아쳐§4 의 무기가 아닙니다. §c활§4을 사용하십시오.
+§4This is not a §cMage§4 weapon. You must use a §cwand.@§4이 무기는 §c메이지§4 의 무기가 아닙니다. §c완드§4를 사용하십시오.
+§4This is not a §cAssassin§4 weapon. You must use a §cshear.@§§4이 무기는 §c어쌔신§4 의 무기가 아닙니다. §c가위§4를 사용하십시오.
+§4This is not a §cAssassin§4 weapon. You must use a §cdagger.@§4이 무기는 §c어쌔신§4 의 무기가 아닙니다. §c단검§4을 사용하십시오.
+§4This is not a §cWarrior§4 weapon. You must use a §cspear.@§4이 무기는 §c워리어§4 의 무기가 아닙니다. §c창§4을 사용하십시오.
+§4This is not a §cDark Wizard§4 weapon. You must use a §cwand.@§4이 무기는 §c다크 위자드§4 의 무기가 아닙니다. §c완드§4를 사용하십시오.
+§4This is not a §cShaman§4 weapon. You must use a §crelik.@§4이 무기는 §c주술사§4 의 무기가 아닙니다. §c렐릭§4을 사용하십시오.
+§7[Please empty some space in your inventory first]@§7[먼저 인벤토리의 공간을  비워주세요]
+§cYou have never been to that area!@§c당신은 이 지역을 한 번도 가보지 않았습니다!
+§d[+1 Soul Point]@§d[+1 소울 포인트]
+§d[+2 Soul Points]@§d[+2 소울 포인트]
+§cThe server is restarting in 4 minutes.@§c서버가 4분 후에 재시작합니다.
+§cThe server is restarting in 3 minutes.@§c서버가 3분 후에 재시작합니다.
+§cThe server is restarting in 2 minutes.@§c서버가 2분 후에 재시작합니다.
+§cThe server is restarting in 1 minute.@§c서버가 1분 후에 재시작합니다.
+§cThe server is restarting in 4 seconds.@§c서버가 4초 후에 재시작합니다.
+§cThe server is restarting in 3 seconds.@§c서버가 3초 후에 재시작합니다.
+§cThe server is restarting in 2 seconds.@§c서버가 2초 후에 재시작합니다.
+§cThe server is restarting in 1 second.@§c서버가 1초 후에 재시작합니다.
+§7[Quest Book Updated]@§7[퀘스트 북 갱신]
+§7[Quest book updated]@§7[퀘스트 북 갱신]
+§5Item Identifier: §dOkay, I'll identify them now!@§5아이템 감정사: §d좋아, 감정을 시작하지!
+§5Item Identifier: §dIt is done. Your item has been identified. The magic it contains will now blossom.@§5아이템 감정사: §d다 됐네. 자네가 의뢰한 물건을 모두 감정했어. 잘 활용하게.
+§5Item Identifier: §dIt is done. Your items have been identified. The magic they contain will now blossom.@§5아이템 감정사: §d다 됐네. 자네가 의뢰한 물건들을 모두 감정했어. 잘 활용하게.
+§5Blacksmith: §dI can't buy that item! I only accept weapons, accessories, potions, armour and crafted items.@§5대장장이: §d그 아이템은 구입할 수 없어! 무기, 장신구, 포션, 갑옷, 제작 아이템만 가져오라고.
+§5As the sun rises, you feel a little bit safer...@§5태양이 떠오르면서, 조금 안전해진 기분이 듭니다...
+§6Type the item name or type 'cancel' to cancel:@§6아이템 이름을 치거나, 'cancel'을 입력해 취소하세요:
 
-#####################################ENTERING/LEAVING##################################################
-§7[You are now entering PirateÀÀÀCove]@§7[Ты входишь в Пиратскую Бухту]
-§7[You are now leaving PirateÀÀÀCove]@§7[Ты покидаешь Пиратскую Бухту]
-§7[You are now entering Selchar]@§7[Ты входишь в Сельчар]
-§7[You are now leaving Selchar]@§7[Ты покидаешь Сельчар]
-§7[You are now entering LegendaryÀÀÀIsland]@§7[Ты входишь на Легендарный Остров]
-§7[You are now leaving LegendaryÀÀÀIsland]@§7[Ты покидаешь Легендарный Остров]
-§7[You are now entering Cinfras]@§7[Ты входишь в Цинфрас]
-§7[You are now leaving Cinfras]@§7[Ты покидаешь Цинфрас]
-§7[You are now entering Rodoroc]@§7[Ты входишь в Родорок]
-§7[You are now leaving Rodoroc]@§7[Ты покидаешь Родорок]
-§7[You are now entering Detlas]@§7[Ты входишь в Детлас]
-§7[You are now leaving Detlas]@§7[Ты покидаешь Детлас]
-§7[You are now entering theÀÀÀForgery]@§7[Ты входишь в Кузницу]
-§7[You are now leaving theÀÀÀForgery]@§7[Ты покидаешь Кузницу]
-§7[You are now entering Ragni]@§7[Ты входишь в Рагни]
-§7[You are now leaving Ragni]@§7[Ты покидаешь Рагни]
-§7[You are now entering Efilim]@§7[Ты входишь в Эфилим]
-§7[You are now leaving Efilim]@§7[Ты покидаешь Эфилим]
-§7[You are now entering Nemract]@§7[Ты входишь в Немракт]
-§7[You are now leaving Nemract]@§7[Ты покидаешь Немракт]
-§7[You are now entering Troms]@§7[Ты входишь в Тромс]
-§7[You are now leaving Troms]@§7[Ты покидаешь Тромс]
-§7[You are now entering Nesaak]@§7[Ты входишь в Несаак]
-§7[You are now leaving Nesaak]@§7[Ты покидаешь Несаак]
-§7[You are now entering Almuj]@§7[Ты входишь в Алмуж]
-§7[You are now leaving Almuj]@§7[Ты покидаешь Алмуж]
-§7[You are now entering Lusuco]@§7[Ты входишь в Лусуко]
-§7[You are now leaving Lusuco]@§7[Ты покидаешь Лусуко]
-§7[You are now entering Rymek]@§7[Ты входишь в Римек]
-§7[You are now leaving Rymek]@§7[Ты покидаешь Римек]
-§7[You are now entering Maltic]@§7[Ты входишь в Малтик]
-§7[You are now leaving Maltic]@§7[Ты покидаешь Малтик]
-§7[You are now entering Elkurn]@§7[Ты входишь в Элкурн]
-§7[You are now leaving Elkurn]@§7[Ты покидаешь Элкурн]
-§7[You are now entering Llevigar]@§7[Ты входишь в Ллевигар]
-§7[You are now leaving Llevigar]@§7[Ты покидаешь Ллевигар]
-§7[You are now entering Olux]@§7[Ты входишь в Олукс]
-§7[You are now leaving Olux]@§7[Ты покидаешь Олукс]
-§7[You are now entering Gelibord]@§7[Ты входишь в Гелиборд]
-§7[You are now leaving Gelibord]@§7[Ты покидаешь Гелиборд]
-§7[You are now entering Thanos]@§7[Ты входишь в Танос]
-§7[You are now leaving Thanos]@§7[Ты покидаешь Танос]
-§7[You are now entering Thesead]@§7[Ты входишь в Тесеад]
-§7[You are now leaving Thesead]@§7[Ты покидаешь Тесеад]
-§7[You are now entering Eltom]@§7[Ты входишь в Элтом]
-§7[You are now leaving Eltom]@§7[Ты покидаешь Элтом]
-§7[You are now entering Maex]@§7[Ты входишь в Маэкс]
-§7[You are now leaving Maex]@§7[Ты покидаешь Маэкс]
-§7[You are now entering Ahmsord]@§7[Ты входишь в Амсорд]
-§7[You are now leaving Ahmsord]@§7[Ты покидаешь Амсорд]
-§7[You are now entering Relos]@§7[Ты входишь в Релос]
-§7[You are now leaving Relos]@§7[Ты покидаешь Релос]
-§7[You are now entering Ternaves]@§7[Ты входишь в Тернейвс]
-§7[You are now leaving Ternaves]@§7[Ты покидаешь Тернейвс]
-§7[You are now entering Lexdale]@§7[Ты входишь в Лексдэйл]
-§7[You are now leaving Lexdale]@§7[Ты покидаешь Лексдэйл]
-§7[You are now entering CorruptedÀÀÀIceÀÀÀBarrowsÀÀÀEntrance]@§7[Ты входишь в Испорченный Ледяной Курган]
-§7[You are now entering CorruptedÀÀÀDecrepitÀÀÀSewersÀÀÀEntrance]@§7[Ты входишь в Испорченную Ветхую Канализацию]
-§7[You are now entering CorruptedÀÀÀInfestedÀÀÀPitÀÀÀEntrance]@§7[Ты входишь в Испорченную Зараженную Яму]
-§7[You are now entering CorruptedÀÀÀLostÀÀÀSanctuaryÀÀÀEntrance]@§7[Ты входишь в Испорченное Затерянное Святилище]
-§7[You are now entering DecrepitÀÀÀSewersÀÀÀEntrance]@§7[Ты входишь в Ветхую Канализацию]
-§7[You are now leaving DecrepitÀÀÀSewersÀÀÀEntrance]@§7[Ты покидаешь Ветхую Канализацию]
-§7[You are now entering Karoc Quarry]@§7[Ты входишь в Карьер Карок]
-§7[You are now leaving Karoc Quarry]@§7[Ты покидаешь Карьер Карок]
-§7[You are now entering Bucie]@§7[Ты входишь в Бучи]
-§7[You are now leaving Bucie]@§7[Ты покидаешь Бучи]
-§7[You are now entering Kandon-Beda]@§7[Ты входишь в Кандон-Бэда]
-§7[You are now leaving Kandon-Beda]@§7[Ты покидаешь Кандон-Бэда]
-§7[You are now entering Nodguj]@§7[Ты входишь в Нодгуж]
-§7[You are now leaving Nodguj]@§7[Ты покидаешь Нодгуж]
-§7[You are now entering Dujgon]@§7[Ты входишь в Дуджгон]
-§7[You are now leaving Dujgon]@§7[Ты покидаешь Дуджгон]
-§7[You are now leaving IceÀÀÀBarrowsÀÀÀEntrance]@§7[Ты покидаешь Ледяной Курган]
-§7[You are now entering IceÀÀÀBarrowsÀÀÀEntrance]@§7[Ты входишь в Ледяной Курган]
-§7[You are now entering Galleon'sÀÀÀGraveyardÀÀÀEntrance]@§7[Ты входишь на Кладбище Галеона]
-§7[You are now leaving Galleon'sÀÀÀGraveyardÀÀÀEntrance]@§7[Ты покидаешь Кладбище Галеона]
-§7[You are now entering the Gavel Province]@§7[Ты входишь в Провинцию Гавел]
-§7[You are now leaving the Gavel Province]@§7[Ты покидаешь Провинцию Гавел]
-§7[You are now entering Sand-SweptÀÀÀTombÀÀÀEntrance]@§7[Ты входишь в Песчаную Гробницу]
-§7[You are now leaving Sand-SweptÀÀÀTombÀÀÀEntrance]@§7[Ты покидаешь Песчаную Гробницу]
-§7[You are now entering the Guild Hall]@§7[Ты входишь в Зал Гильдий]
-§7[You are now leaving the Guild Hall]@§7[Ты покидаешь Зал Гильдий]
-§7[You are now entering LostÀÀÀSanctuaryÀÀÀEntrance]@§7[Ты входишь в Затерянное Святилище]
-§7[You are now leaving LostÀÀÀSanctuaryÀÀÀEntrance]@§7[Ты покидаешь Затерянное Святилище]
-§7[You are now entering Bremminglar]@§7[Ты входишь в Бремминглар]
-§7[You are now leaving Bremminglar]@§7[Ты покидаешь Бремминглар]
-§7[You are now entering InfestedÀÀÀPitÀÀÀEntrance]@§7[Ты входишь в Зараженную Яму]
-§7[You are now leaving InfestedÀÀÀPitÀÀÀEntrance]@§7[Ты покидаешь Зараженную Яму]
-§7[You are now leaving Iboju Village]@§7[Ты покидаешь Деревню Ибоджу]
-§7[You are now entering Iboju Village]@§7[Ты входишь в Деревню Ибоджу]
-§7[You are now entering MageÀÀÀIsland]@§7[Ты входишь на Остров Магов]
-§7[You are now leaving MageÀÀÀIsland]@§7[Ты покидаешь Остров Магов]
-§7[You are now entering UndergrowthÀÀÀRuinsÀÀÀEntrance]@§7[Ты входишь в Заросшие Руины]
-§7[You are now leaving UndergrowthÀÀÀRuinsÀÀÀEntrance]@§7[Ты покидаешь Заросшие Руины]
-§7[You are now entering UnderworldÀÀÀCryptÀÀÀEntrance]@§7[Ты входишь в Подземный Склеп]
-§7[You are now leaving UnderworldÀÀÀCryptÀÀÀEntrance]@§7[Ты покидаешь Подземный Склеп]
-§7[You are now entering CorkusÀÀÀCity]@§7[Ты входишь в Коркус Сити]
-§7[You are now leaving CorkusÀÀÀCity]@§7[Ты покидаешь Коркус Сити]
-§7[You are now leaving CorruptedÀÀÀDecrepitÀÀÀSewersÀÀÀEntrance]@§7[Ты покидаешь Испорченную Ветхую Канализацию]
-§7[You are now leaving CorruptedÀÀÀIceÀÀÀBarrowsÀÀÀEntrance]@§7[Ты покидаешь Испорченный Ледяной Курган]
-§7[You are now leaving CorruptedÀÀÀInfestedÀÀÀPitÀÀÀEntrance]@§7[Ты покидаешь Испорченную Зараженную Яму]
-§7[You are now leaving CorruptedÀÀÀLostÀÀÀSanctuaryÀÀÀEntrance]@§7[Ты покидаешь Испорченное Затерянное Святилище]
-§7[You are now leaving the Update Room]@§7[Ты покидаешь Апдейт Площадь]
-§7[You are now entering DecrepitÀÀÀSewersÀÀÀEntrance]@§7[Ты входишь в Ветхую Канализацию]
-§7[You are now leaving DecrepitÀÀÀSewersÀÀÀEntrance]@§7[Ты покидаешь Ветхую Канализацию]
-§7[You are now entering Karoc Quarry]@§7[Ты входишь в Карьер Карок]
-§7[You are now leaving Karoc Quarry]@§7[Ты покидаешь Карьер Карок]
-§7[You are now entering Bucie]@§7[Ты входишь в Бучи]
-§7[You are now leaving Bucie]@§7[Ты покидаешь Бучи]
-§7[You are now entering Kandon-Beda]@§7[Ты входишь в Кандон-Бэда]
-§7[You are now leaving Kandon-Beda]@§7[Ты покидаешь Кандон-Бэда]
-§7[You are now entering Nodguj]@§7[Ты входишь в Нодгуж]
-§7[You are now leaving Nodguj]@§7[Ты покидаешь Нодгуж]
-§7[You are now entering Dujgon]@§7[Ты входишь в Дуджгон]
-§7[You are now leaving Dujgon]@§7[Ты покидаешь Дуджгон]
-§7[You are now leaving IceÀÀÀBarrowsÀÀÀEntrance]@§7[Ты покидаешь Ледяной Курган]
-§7[You are now entering IceÀÀÀBarrowsÀÀÀEntrance]@§7[Ты входишь в Ледяной Курган]
-§7[You are now entering Galleon'sÀÀÀGraveyardÀÀÀEntrance]@§7[Ты входишь на Кладбище Галеона]
-§7[You are now leaving Galleon'sÀÀÀGraveyardÀÀÀEntrance]@§7[Ты покидаешь Кладбище Галеона]
-§7[You are now entering the Gavel Province]@§7[Ты входишь в Провинцию Гавел]
-§7[You are now leaving the Gavel Province]@§7[Ты покидаешь Провинцию Гавел]
-§7[You are now entering Sand-SweptÀÀÀTombÀÀÀEntrance]@§7[Ты входишь в Песчаную Гробницу]
-§7[You are now leaving Sand-SweptÀÀÀTombÀÀÀEntrance]@§7[Ты покидаешь Песчаную Гробницу]
-§7[You are now entering the Guild Hall]@§7[Ты входишь в Зал Гильдий]
-§7[You are now leaving the Guild Hall]@§7[Ты покидаешь Зал Гильдий]
-§7[You are now entering LostÀÀÀSanctuaryÀÀÀEntrance]@§7[Ты входишь в Затерянное Святилище]
-§7[You are now leaving LostÀÀÀSanctuaryÀÀÀEntrance]@§7[Ты покидаешь Затерянное Святилище]
-§7[You are now entering Bremminglar]@§7[Ты входишь в Бремминглар]
-§7[You are now leaving Bremminglar]@§7[Ты покидаешь Бремминглар]
-§7[You are now entering InfestedÀÀÀPitÀÀÀEntrance]@§7[Ты входишь в Зараженную Яму]
-§7[You are now leaving InfestedÀÀÀPitÀÀÀEntrance]@§7[Ты покидаешь Зараженную Яму]
-§7[You are now leaving Iboju Village]@§7[Ты покидаешь Деревню Ибоджу]
-§7[You are now entering Iboju Village]@§7[Ты входишь в Деревню Ибоджу]
-§7[You are now entering MageÀÀÀIsland]@§7[Ты входишь на Остров Магов]
-§7[You are now leaving MageÀÀÀIsland]@§7[Ты покидаешь Остров Магов]
-§7[You are now entering UndergrowthÀÀÀRuinsÀÀÀEntrance]@§7[Ты входишь в Заросшие Руины]
-§7[You are now leaving UndergrowthÀÀÀRuinsÀÀÀEntrance]@§7[Ты покидаешь Заросшие Руины]
-§7[You are now entering UnderworldÀÀÀCryptÀÀÀEntrance]@§7[Ты входишь в Подземный Склеп]
-§7[You are now leaving UnderworldÀÀÀCryptÀÀÀEntrance]@§7[Ты покидаешь Подземный Склеп]
-§7[You are now entering CorkusÀÀÀCity]@§7[Ты входишь в Коркус Сити]
-§7[You are now leaving CorkusÀÀÀCity]@§7[Ты покидаешь Коркус Сити]
-§7[You are now leaving CorruptedÀÀÀDecrepitÀÀÀSewersÀÀÀEntrance]@§7[Ты покидаешь Испорченную Ветхую Канализацию]
-§7[You are now leaving CorruptedÀÀÀIceÀÀÀBarrowsÀÀÀEntrance]@§7[Ты покидаешь Испорченный Ледяной Курган]
-§7[You are now leaving CorruptedÀÀÀInfestedÀÀÀPitÀÀÀEntrance]@§7[Ты покидаешь Испорченную Зараженную Яму]
-§7[You are now leaving CorruptedÀÀÀLostÀÀÀSanctuaryÀÀÀEntrance]@§7[Ты покидаешь Испорченное Затерянное Святилище]
-§7[You are now leaving the Update Room]@§7[Ты покидаешь Апдейт Площадь]
-§7[You are now entering FallenÀÀÀFactoryÀÀÀEntrance]@§7[Ты входишь в Заброшенную Фабрику]
-§7[You are now leaving FallenÀÀÀFactoryÀÀÀEntrance]@§7[Ты покидаешь Заброшенную Фабрику]
-§7[You are now entering your cell]@§7[Ты входишь в свою клетку]
-§7[You are now leaving your cell]@§7[Ты покидаешь свою клетку]
-§7[You are now entering the Heliolux Village]@§7[Ты входишь в Деревню Хелиолуксов]
-§7[You are now leaving the Heliolux Village]@§7[Ты покидаешь Деревню Хелиолуксов]
-§7[You are now entering Gateway Island]@§7[Ты входишь в Остров Врат]
-§7[You are now leaving Gateway Island]@§7[Ты покидаешь Остров Врат]
-§7[You are now entering Lutho]@§7[Ты входишь в Луто]
-§7[You are now leaving Lutho]@§7[Ты покидаешь Луто]
-§7[You are now entering EldritchÀÀÀOutlookÀÀÀEntrance]@§7[Ты входишь к Жуткому Наблюдателю]
-§7[You are now leaving EldritchÀÀÀOutlookÀÀÀEntrance]@§7[Ты покидаешь Жуткого Наблюдателя]
-§7[You are now entering CorruptedÀÀÀUndergrowthÀÀÀRuinsÀÀÀEntrance]@§7[Ты входишь в Испорченные Заросшие Руины]
-§7[You are now leaving CorruptedÀÀÀUndergrowthÀÀÀRuinsÀÀÀEntrance]@§7[Ты покидаешь Испорченные Заросшие Руины]
-§7[You are now entering the Update Room]@§7[Ты входишь в Апдейт Комнату]
+############################입장/퇴장##################################
+§7[You are now entering PirateÀÀÀCove]@§7[해적의 만에 입장하셨습니다.]
+§7[You are now leaving PirateÀÀÀCove]@§7[해적의 만에서 퇴장하셨습니다.]
+§7[You are now entering Selchar]@§7[셀쳐에 입장하셨습니다.]
+§7[You are now leaving Selchar]@§7[셀쳐에서 퇴장하셨습니다.]
+§7[You are now entering LegendaryÀÀÀIsland]@§7[전설의 섬에 입장하셨습니다.]
+§7[You are now leaving LegendaryÀÀÀIsland]@§7[전설의 섬에서 퇴장하셨습니다.]
+§7[You are now entering Cinfras]@§7[신프라스에 입장하셨습니다.]
+§7[You are now leaving Cinfras]@§7[신프라스에서 퇴장하셨습니다.]
+§7[You are now entering Rodoroc]@§7[로도록에 입장하셨습니다.]
+§7[You are now leaving Rodoroc]@§7[로도록에서 퇴장하셨습니다.]
+§7[You are now entering Detlas]@§7[데틀라스에 입장하셨습니다.]
+§7[You are now leaving Detlas]@§7[데틀라스에서 퇴장하셨습니다.]
+§7[You are now entering theÀÀÀForgery]@§7[포저리에 입장하셨습니다.]
+§7[You are now leaving theÀÀÀForgery]@§7[포저리에서 퇴장하셨습니다.]
+§7[You are now entering Ragni]@§7[라그니에 입장하셨습니다.]
+§7[You are now leaving Ragni]@§7[라그니에서 퇴장하셨습니다.]
+§7[You are now entering Efilim]@§7[에필림에 입장하셨습니다.]
+§7[You are now leaving Efilim]@§7[에필림에서 퇴장하셨습니다.]
+§7[You are now entering Nemract]@§7[넴렉에 입장하셨습니다.]
+§7[You are now leaving Nemract]@§7[넴렉에서 퇴장하셨습니다.]
+§7[You are now entering Troms]@§7[트롬즈에 입장하셨습니다.]
+§7[You are now leaving Troms]@§7[트롬즈에서 퇴장하셨습니다.]
+§7[You are now entering Nesaak]@§7[네삭에 입장하셨습니다.]
+§7[You are now leaving Nesaak]@§7[네삭에서 퇴장하셨습니다.]
+§7[You are now entering Almuj]@§7[알무즈에 입장하셨습니다.]
+§7[You are now leaving Almuj]@§7[알무즈에서 퇴장하셨습니다.]
+§7[You are now entering Lusuco]@§7[루스코에 입장하셨습니다.]
+§7[You are now leaving Lusuco]@§7[루스코에서 퇴장하셨습니다.]
+§7[You are now entering Rymek]@§7[리멕에 입장하셨습니다.]
+§7[You are now leaving Rymek]@§7[리멕에서 퇴장하셨습니다.]
+§7[You are now entering Maltic]@§7[멜틱에 입장하셨습니다.]
+§7[You are now leaving Maltic]@§7[멜틱에서 퇴장하셨습니다.]
+§7[You are now entering Elkurn]@§7[엘컨에 입장하셨습니다.]
+§7[You are now leaving Elkurn]@§7[엘컨에서 퇴장하셨습니다.]
+§7[You are now entering Llevigar]@§7[레비가에 입장하셨습니다.]
+§7[You are now leaving Llevigar]@§7[레비가에서 퇴장하셨습니다.]
+§7[You are now entering Olux]@§7[올렉스에 입장하셨습니다.]
+§7[You are now leaving Olux]@§7[올렉스에서 퇴장하셨습니다.]
+§7[You are now entering Gelibord]@§7[겔리보드에 입장하셨습니다.]
+§7[You are now leaving Gelibord]@§7[겔리보드에서 퇴장하셨습니다.]
+§7[You are now entering Thanos]@§7[타노스에 입장하셨습니다.]
+§7[You are now leaving Thanos]@§7[타노스에서 퇴장하셨습니다.]
+§7[You are now entering Thesead]@§7[더시드에 입장하셨습니다.]
+§7[You are now leaving Thesead]@§7[더시드에서 퇴장하셨습니다.]
+§7[You are now entering Eltom]@§7[엘톰에 입장하셨습니다.]
+§7[You are now leaving Eltom]@§7[엘톰에서 퇴장하셨습니다.]
+§7[You are now entering Maex]@§7[마엑스에 입장하셨습니다.]
+§7[You are now leaving Maex]@§7[마엑스에서 퇴장하셨습니다.]
+§7[You are now entering Ahmsord]@§7[암소드에 입장하셨습니다.]
+§7[You are now leaving Ahmsord]@§7[암소드에서 퇴장하셨습니다.]
+§7[You are now entering Relos]@§7[리오스에 입장하셨습니다.]
+§7[You are now leaving Relos]@§7[리오스에서 퇴장하셨습니다.]
+§7[You are now entering Ternaves]@§7[터네이브즈에 입장하셨습니다.]
+§7[You are now leaving Ternaves]@§7[터네이브즈에서 퇴장하셨습니다.]
+§7[You are now entering Lexdale]@§7[렉스데일에 입장하셨습니다.]
+§7[You are now leaving Lexdale]@§7[렉스데일에서 퇴장하셨습니다.]
+§7[You are now entering CorruptedÀÀÀIceÀÀÀBarrowsÀÀÀEntrance]@§7[타락한 얼어붙은 무덤 입구에 입장하셨습니다.]
+§7[You are now entering CorruptedÀÀÀDecrepitÀÀÀSewersÀÀÀEntrance]@§7[타락한 무너진 하수구 입구에 입장하셨습니다.]
+§7[You are now entering CorruptedÀÀÀInfestedÀÀÀPitÀÀÀEntrance]@§7[타락한 우글거리는 구덩이 입구에 입장하셨습니다.]
+§7[You are now entering CorruptedÀÀÀLostÀÀÀSanctuaryÀÀÀEntrance]@§7[타락한 잊혀진 성역 입구에 입장하셨습니다.]
+§7[You are now entering DecrepitÀÀÀSewersÀÀÀEntrance]@§7[무너진 하수구 입구에 입장하셨습니다.]
+§7[You are now leaving DecrepitÀÀÀSewersÀÀÀEntrance]@§7[무너진 하수구에서 퇴장하셨습니다.]
+§7[You are now entering Karoc Quarry]@§7[카로크 채석장에 입장하셨습니다.]
+§7[You are now leaving Karoc Quarry]@§7[카로크 채석장에서 퇴장하셨습니다.]
+§7[You are now entering Bucie]@§7[버키에 입장하셨습니다.]
+§7[You are now leaving Bucie]@§7[버키에서 퇴장하셨습니다.]
+§7[You are now entering Kandon-Beda]@§7[칸돈 베다에 입장하셨습니다.]
+§7[You are now leaving Kandon-Beda]@§7[칸돈 베다에서 퇴장하셨습니다.]
+§7[You are now entering Nodguj]@§7[노드굳에 입장하셨습니다.]
+§7[You are now leaving Nodguj]@§7[노드굳에서 퇴장하셨습니다.]
+§7[You are now entering Dujgon]@§7[두즈곤에 입장하셨습니다.]
+§7[You are now leaving Dujgon]@§7[두즈곤에서 퇴장하셨습니다.]
+§7[You are now leaving IceÀÀÀBarrowsÀÀÀEntrance]@§7[얼어붙은 무덤 입구에서 퇴장하셨습니다.]
+§7[You are now entering IceÀÀÀBarrowsÀÀÀEntrance]@§7[얼어붙은 무덤 입구에 입장하셨습니다.]
+§7[You are now entering Galleon'sÀÀÀGraveyardÀÀÀEntrance]@§7[갈레온의 묘지에 입장하셨습니다.]
+§7[You are now leaving Galleon'sÀÀÀGraveyardÀÀÀEntrance]@§7[갈레온의 묘지에서 퇴장하셨습니다.]
+§7[You are now entering the Gavel Province]@§7[가벨 지방에 입장하셨습니다.]
+§7[You are now leaving the Gavel Province]@§7[가벨 지방에서 퇴장하셨습니다.]
+§7[You are now entering Sand-SweptÀÀÀTombÀÀÀEntrance]@§7[모래 속의 무덤에 입장하셨습니다.]
+§7[You are now leaving Sand-SweptÀÀÀTombÀÀÀEntrance]@§7[모래 속의 무덤에서 퇴장하셨습니다.]
+§7[You are now entering the Guild Hall]@§7[길드 홀에 입장하셨습니다.]
+§7[You are now leaving the Guild Hall]@§7[길드 홀에서 퇴장하셨습니다.]
+§7[You are now entering LostÀÀÀSanctuaryÀÀÀEntrance]@§7[잊혀진 성역 입구에 입장하셨습니다.]
+§7[You are now leaving LostÀÀÀSanctuaryÀÀÀEntrance]@§7[잊혀진 성역 입구에서 퇴장하셨습니다.]
+§7[You are now entering Bremminglar]@§7[브레밍글러에 입장하셨습니다.]
+§7[You are now leaving Bremminglar]@§7[브레밍글러에서 퇴장하셨습니다.]
+§7[You are now entering InfestedÀÀÀPitÀÀÀEntrance]@§7[우글거리는 구덩이 입구에 입장하셨습니다.]
+§7[You are now leaving InfestedÀÀÀPitÀÀÀEntrance]@§7[우글거리는 구덩이 입구에서 퇴장하셨습니다.]
+§7[You are now leaving Iboju Village]@§7[이보주 마을에서 퇴장하셨습니다.]
+§7[You are now entering Iboju Village]@§7[이보주 마을에 입장하셨습니다.]
+§7[You are now entering MageÀÀÀIsland]@§7[마법사의 섬에 입장하셨습니다.]
+§7[You are now leaving MageÀÀÀIsland]@§7[마법사의 섬에서 퇴장하셨습니다.]
+§7[You are now entering UndergrowthÀÀÀRuinsÀÀÀEntrance]@§7[자라나는 저주 입구에 입장하셨습니다.]
+§7[You are now leaving UndergrowthÀÀÀRuinsÀÀÀEntrance]@§7[자라나는 저주 입구에서 퇴장하셨습니다.]
+§7[You are now entering UnderworldÀÀÀCryptÀÀÀEntrance]@§7[저승으로 가는 지하실 입구에 입장하셨습니다.]
+§7[You are now leaving UnderworldÀÀÀCryptÀÀÀEntrance]@§7[저승으로 가는 지하실 입구에서 퇴장하셨습니다.]
+§7[You are now leaving CorruptedÀÀÀUnderworldÀÀÀCryptÀÀÀEntrance]@§7[저승으로 가는 지하실 입구에서 퇴장하셨습니다.]
+§7[You are now entering CorruptedÀÀÀUnderworldÀÀÀCryptÀÀÀEntrance]@§7[저승으로 가는 지하실 입구에 입장하셨습니다.]
+§7[You are now entering CorkusÀÀÀCity]@§7[코커스 도시에 입장하셨습니다.]
+§7[You are now leaving CorkusÀÀÀCity]@§7[코커스 도시에서 퇴장하셨습니다.]
+§7[You are now leaving CorruptedÀÀÀDecrepitÀÀÀSewersÀÀÀEntrance]@§7[타락한 무너진 하수구 입구에서 퇴장하셨습니다.]
+§7[You are now leaving CorruptedÀÀÀIceÀÀÀBarrowsÀÀÀEntrance]@§7[타락한 얼어붙은 무덤 입구에서 퇴장하셨습니다.]
+§7[You are now leaving CorruptedÀÀÀInfestedÀÀÀPitÀÀÀEntrance]@§7[타락한 우글거리는 구덩이 입구에서 퇴장하셨습니다.]
+§7[You are now leaving CorruptedÀÀÀLostÀÀÀSanctuaryÀÀÀEntrance]@§7[타락한 잊혀진 성역 입구에서 퇴장하셨습니다.]
+§7[You are now leaving the Update Room]@§7[업데이트 룸에서 퇴장하셨습니다.]
+§7[You are now entering FallenÀÀÀFactoryÀÀÀEntrance]@§7[폐쇄된 공장 입구에 입장하셨습니다.]
+§7[You are now leaving FallenÀÀÀFactoryÀÀÀEntrance]@§7[폐쇄된 공장 입구에서 퇴장하셨습니다.]
+§7[You are now entering your cell]@§7[당신의 감옥에 입장하셨습니다.]
+§7[You are now leaving your cell]@§7[당신의 감옥에서 퇴장하셨습니다.]
+§7[You are now entering the Heliolux Village]@§7[헬리오룩스 마을에 입장하셨습니다.]
+§7[You are now leaving the Heliolux Village]@§7[헬리오룩스 마을에서 퇴장하셨습니다.]
+§7[You are now entering Gateway Island]@§7[게이트웨이 섬에 입장하셨습니다.]
+§7[You are now leaving Gateway Island]@§7[게이트웨이 섬에서 퇴장하셨습니다.]
+§7[You are now entering Lutho]@§7[루스오에 입장하셨습니다.]
+§7[You are now leaving Lutho]@§7[루스오에서 퇴장하셨습니다.]
+§7[You are now entering EldritchÀÀÀOutlookÀÀÀEntrance]@§7[섬뜩한 전망대 입구에 입장하셨습니다.]
+§7[You are now leaving EldritchÀÀÀOutlookÀÀÀEntrance]@§7[섬뜩한 전망대 입구에서 퇴장하셨습니다.]
+§7[You are now entering CorruptedÀÀÀUndergrowthÀÀÀRuinsÀÀÀEntrance]@§7[타락한 자라나는 저주 입구에 입장하셨습니다.]
+§7[You are now leaving CorruptedÀÀÀUndergrowthÀÀÀRuinsÀÀÀEntrance]@§7[타락한 자라나는 저주 입구에서 퇴장하셨습니다.]
+§7[You are now entering the Update Room]@§7[업데이트 룸에 입장하셨습니다.]

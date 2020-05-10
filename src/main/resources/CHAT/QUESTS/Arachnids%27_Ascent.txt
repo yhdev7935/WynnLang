@@ -1,19 +1,20 @@
-§7[1/8] §2Enduyn: §aAt ease, soldier! Good timing. We need more manpower.@§7[1/8] §2Эндуин: §aВольно, солдат! Ты как раз вовремя, нам нужно больше рабочих рук.
-§7[2/8] §2Enduyn: §aNivla forest has always been plagued by spider vermin. Thousands of them.@§7[2/8] §2Эндуин: §aЛес Нивла всегда страдал от пауков паразитов. Их тут тысячи.
-§7[3/8] §2Enduyn: §aHowever the tides are about to turn. We've found their nest!@§7[3/8] §2Эндуин: §aОднако удача повернулась в нашу сторону. Мы нашли их гнездо!
-§7[4/8] §2Enduyn: §aIf we can kill the queen, we can control the population.@§7[4/8] §2Эндуин: §aЕсли мы сможем убить их королеву, то сможем контролировать популяцию.
-§7[5/8] §2Enduyn: §aAs you can see though, we're having problems getting past this wall.@§7[5/8] §2Эндуин: §aНо, как ты можешь видеть, у нас возникли проблемы с прохождением этой стены.
-§7[6/8] §2Enduyn: §aBy far the easiest way would be with lava. Fire or magic seems to do nothing.@§7[6/8] §2Эндуин: §aДумаю на данный момент самым легким решением будет использовать лаву. Огонь или магия в этом деле не помогут.
-§7[7/8] §2Enduyn: §aSo I've got a mission for you, soldier. Head to the top of Mount Wynn, the nearby volcano, and return with lava.@§7[7/8] §2Эндуин: §aТак что у меня для тебя задание, солдат. Поднимись на вершину Mount Wynn, ближайшего вулкана, и вернись с лавой.
-§7[8/8] §2Enduyn: §aDon't worry, it's been dormant for hundreds of years. Now take this bucket and get moving! That cave behind you leads right up.@§7[8/8] §2Эндуин: §aНе беспокойся, он находится в спячке уже сотни лет. Теперь возьми это ведро и выдвигайся в путь! Тебе нужна пещера, что с правой стороны от тебя.
-§7[1/4] §2Enduyn: §aAh perfect! Now give me that bucket.@§7[1/4] §2Эндуин: §aОтлично! Теперь дай мне это ведро.
-§7[2/4] §2Enduyn: §aSeems like you've got a real knack for spider killing, would you be willing to tackle the queen?@§7[2/4] §2Эндуин: §aПохоже у тебя есть реальные умения в убийстве пауков, не хотел бы иметь дело с их королевой?
-§7[3/4] §2Enduyn: §aI'll keep dealing with the rest of the spiders in the forest.@§7[3/4] §2Эндуин: §aА я пока буду разбираться с остальными пауками в лесу.
-§7[4/4] §2Enduyn: §aStand clear, I'm about to burn down the webs!@§7[4/4] §2Эндуин: §aОтойди подальше, я собираюсь сжигать паутину!
+﻿==========================================================================================================================
+§7[1/8] §2Enduyn: §aAt ease, soldier! Good timing. We need more manpower.@§7[1/8] §2엔듄: §a병사! 멈추게, 마침 사람이 더 필요하던 참인데 타이밍 좋게 왔군!
+§7[2/8] §2Enduyn: §aNivla forest has always been plagued by spider vermin. Thousands of them.@§7[2/8] §2엔듄: §a니블라 숲은 항상 거미같은 해충에 시달려왔네.
+§7[3/8] §2Enduyn: §aHowever the tides are about to turn. We've found their nest!@§7[3/8] §2엔듄: §a하지만 우리에게 좋은 기회가 생겼네. 거미들의 둥지를 찾았거든!
+§7[4/8] §2Enduyn: §aIf we can kill the queen, we can control the population.@§7[4/8] §2엔듄: §a만약 우리가 여왕을 죽이는데 성공한다면, 놈들의 수를 줄이는 게 가능할걸세.
+§7[5/8] §2Enduyn: §aAs you can see though, we're having problems getting past this wall.@§7[5/8] §2엔듄: §a하지만, 자네도 봤겠지만, 이 벽을 통과하는데 문제가 있어.
+§7[6/8] §2Enduyn: §aBy far the easiest way would be with lava. Fire or magic seems to do nothing.@§7[6/8] §2엔듄: §a가장 좋은 방법은 용암일세. 불이나 마법은 아무 효과도 없는 것 같으니. 
+§7[7/8] §2Enduyn: §aSo I've got a mission for you, soldier. Head to the top of Mount Wynn, the nearby volcano, and return with lava.@§7[7/8] §2엔듄: §a그러니 자네에게 임무를 내리겠네. 근처에 있는 윈 산의 정상으로 올라가서 용암을 가지고 돌아오게.
+§7[8/8] §2Enduyn: §aDon't worry, it's been dormant for hundreds of years. Now take this bucket and get moving! That cave behind you leads right up.@§7[8/8] §2엔듄: §a걱정 말게, 수백 년 동안 화산 활동은 없었으니까. 이제 이 양동이를 들고 가게! 그리고 뒤에 있는 동굴이 화산의 정상과 이어져 있네.
+§7[1/4] §2Enduyn: §aAh perfect! Now give me that bucket.@§7[1/4] §2엔듄: §a아, 완벽하군! 이제 그 양동이를 내게 주게. 
+§7[2/4] §2Enduyn: §aSeems like you've got a real knack for spider killing, would you be willing to tackle the queen?@§7[2/4] §2엔듄: §a거미 죽이기에 재능이 있는 것 같은데, 거미 여왕을 상대해볼 생각 있나?
+§7[3/4] §2Enduyn: §aI'll keep dealing with the rest of the spiders in the forest.@§7[3/4] §2엔듄: §a숲에 있는 거미들은 내가 계속 처리하겠네.
+§7[4/4] §2Enduyn: §aStand clear, I'm about to burn down the webs!@§7[4/4] §2엔듄: §a그럼 물러서게, 거미줄을 태워버릴 걸세!
 
-§7[1/1] §2Enduyn: §aThe Army could use some assistance, but you aren't high-ranked enough. Report back when you're level 14.@§7[1/1] §2Эндуин: §aАрмия могла бы воспользоваться некоторой помощью, но ты недостаточно высокопоставлен. Доложишь, когда будешь 14 уровня.
-§7[1/1] §2Enduyn: §aI'm counting on you, soldier. Get some lava from the top of Mount Wynn! It's not far from here.@§7[1/1] §2Эндуин: §aЯ рассчитываю на тебя, солдат. Добудь немного лавы с вершины Mount Wynn! Это недалеко отсюда.
-§7[1/1] §2Enduyn: §aThink you can handle the spider queen on your own? Well, head inside and we'll find out!@§7[1/1] §2Эндуин: §aДумаешь, ты справишься с королевой пауков самостоятельно? Ну, иди внутрь, и мы узнаем!
-§7[1/2] §2Enduyn: §aHere we go!@§7[1/2] §2Эндуин: §aПрекрасно!
-§7[2/2] §2Enduyn: §aNow head on in and finish off these pests!@§7[2/2] §2Эндуин: §aТеперь иди внутрь и прикончи этих паразитов!
-§7[1/1] §2Captain Enduyn: §aHey, be careful! You don't want to get stuck in those webs!@§7[1/1] §2Эндуин: §aЭй, поосторожнее! Ты же не хочешь застрять в этой паутине!
+§7[1/1] §2Enduyn: §aThe Army could use some assistance, but you aren't high-ranked enough. Report back when you're level 14.@§7[1/1] §2엔듄: §a군대에 도움이 좀 필요할지 몰라도, 자넨 충분히 강하지 않군. 14 레벨에 다시 오게.
+§7[1/1] §2Enduyn: §aI'm counting on you, soldier. Get some lava from the top of Mount Wynn! It's not far from here.@§7[1/1] §2엔듄: §a자네를 믿고 있네, 병사. 윈 산 꼭대기에서 용암을 가져오게! 여기서 멀지 않네.
+§7[1/1] §2Enduyn: §aThink you can handle the spider queen on your own? Well, head inside and we'll find out!@§7[1/1] §2엔듄: §a혼자서 거미 여왕과 싸울 수 있을 것 같나? 들어가 보면 알 수 있을 걸세!
+§7[1/2] §2Enduyn: §aHere we go!@§7[1/2] §2엔듄: §a가자고!
+§7[2/2] §2Enduyn: §aNow head on in and finish off these pests!@§7[2/2] §2엔듄: §a이제 들어가서 저 거미 놈들을 처치하게!
+§7[1/1] §2Captain Enduyn: §aHey, be careful! You don't want to get stuck in those webs!@§7[1/1] §2Captain 엔듄: §a이봐, 조심하게! 저 거미줄에 걸리고 싶진 않겠지!

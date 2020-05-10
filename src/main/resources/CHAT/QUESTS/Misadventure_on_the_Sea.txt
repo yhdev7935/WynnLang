@@ -1,193 +1,174 @@
-§7[1/8] §2Barman: §aHello there soldier! What can I get you?@§7[1/8] §2Бармен: §aЗдравствуй, солдатик! Что я могу тебе предложить?
-§7[2/8] §2Honip: §aI'll take 2 Nemract Whiskeys. One for me, one for this chap.@§7[2/8] §2Хонип: §aЯ возьму 2 Немракт виски. Один для меня, и один для этого парня.
-§7[3/8] §2Barman: §aYou got it.@§7[3/8] §2Бармен: §aБудет сделано.
-§7[4/8] §2Honip: §aSo... I've seen ya around town. I saw how happy that guy was when you brought him some journal.@§7[4/8] §2Хонип: §aТак вот...Я видел тебя в городе. Видел, как обрадовался тот парень, когда ты принес ему дневник.
-§7[5/8] §2Barman: §a2 Nemract Whiskeys, coming up!@§7[5/8] §2Бармен: §a2 Немракт Виски, принимайте!
-§7[6/8] §2Honip: §aSo... Soldier. Are ya up for sailin' the ocean with me? I got a fancier boat than that seaskipper!@§7[6/8] §2Хонип: §aТак вот... Солдат. Ты готов плыть по океану вместе со мной? У меня есть более причудливая лодка, чем у того морского шкипера!
-§7[7/8] §2Honip: §aI figured you'd be interested in explorin' the waters!@§7[7/8] §2Хонип: §aЯ подумал, что тебе будет интересно исследовать воды!
-§7[8/8] §2Honip: §aI'll wait for ya on the docks. Don't worry, ya can't miss the boat!@§7[8/8] §2Хонип: §aБуду ждать тебя в доках. Не волнуйся, ты не пропустишь мою лодку!
-§7[1/3] §2Honip: §aThere you are! Ready? Follow me, the boat's over here!@§7[1/3] §2Хонип: §aВот ты где! Готов? Следуй за мной, лодка здесь!
-§7[2/3] §2Honip: §aLook at this.. Magnificent! Much better than whatever the Seaskipper is using!@§7[2/3] §2Хонип: §aПосмотри на нее.. Великолепна! Гораздо лучше, чем все, что используют шкиперы!
-§7[3/3] §2Honip: §aWell, what are you waiting for? Hop aboard!@§7[3/3] §2Хонип: §aТак, чего же ты ждешь? Запрыгивай на борт!
-§7[1/2] §2Honip: §aThen it's settled, we're goin' on an adventure!@§7[1/2] §2Хонип: §aКак только все уладится, мы отправимся на поиски приключений!
-§7[2/2] §2Honip: §aBuckle up, we got waves to catch.@§7[2/2] §2Хонип: §aПристегнись, нам нужно поймать волну.
-§7[1/7] §2Honip: §aSo... I should warn ya', this is actually my first time sailing...@§7[1/7] §2Хонип: §aТак вот... Я должен предупредить тебя, это на самом деле мое первое плавание...
-§7[2/7] §2Honip: §aIt doesn’t seem too difficult though, a little to the left...
-§7[2/7] §2Honip: §aIt doesn't seem too difficult though, a little to the left...@§7[2/7] §2Хонип: §aХотя это не кажется слишком сложным, немного влево...
-§7[3/7] §2Honip: §aHmm, looks like we're not the only ones out on the water today.@§7[3/7] §2Хонип: §aХм, похоже мы не единственные, кто сегодня вышел на воду.
-§7[4/7] §2Honip: §aThey are a bit too head on, don't you think?@§7[4/7] §2Хонип: §aОни слишком прямо идут на нас, тебе не кажется?
-§7[5/7] §2Honip: §aI'm trying to steer the ship but it's not budging...@§7[5/7] §2Хонип: §aЯ пытаюсь управлять кораблем, но он не двигается с места...
-§7[6/7] §2Honip: §aThat's unfortunate...@§7[6/7] §2Хонип: §aК сожалению...
-§7[7/7] §2Honip: §aUnfortunate... For §a§lYOU§a!@§7[7/7] §2Хонип: §aСожалению... Для §a§lТЕБЯ§a!
-§7[1/6] §2Honip: §aHey, you're finally awake.@§7[1/6] §2Хонип: §aАга, наконец-то проснулся.
-§7[1/1] §2Honip: §aStay back!@§7[1/1] §2Хонип: §aОтойди!
-§7[2/6] §2Honip: §aI honestly, truly can't believe you fell for that. Let me sum it up for you...@§7[2/6] §2Хонип: §aЯ честно, правда не могу поверить, что ты купился на это. Позволь мне подвести для тебя итоги...
-§7[3/6] §2Honip: §aSome extremely suspicious §a§lpirate§a comes up, offers you a drink, and leads you to his suspicious boat.@§7[3/6] §2Хонип: §aКакой-то крайне подозрительный §a§lпират§a подходит, предлагает тебе выпить и ведет тебя к своей подозрительной лодке.
-§7[4/6] §2Honip: §aAny normal person would've turned back by then. But what do you do? You hop on! Well, now you're stuck with us.@§7[4/6] §2Хонип: §aЛюбой нормальный человек к тому времени уже повернул бы назад. Но что сделал ты? А ты запрыгнул! Чтож, теперь ты застрял с нами.
-§7[5/6] §2Honip: §aLet me make this quick. This boat needs renovation, and we want you to do it.@§7[5/6] §2Хонип: §aПозволь мне быть покороче. Эта лодка нуждается в ремонте, и мы хотим, чтобы ты занялся этим.
-§7[6/6] §2Honip: §aWhy? You're a soldier! All you do is take orders! Anyway, we'll need you to clean our stuff. Here, get out.@§7[6/6] §2Хонип: §aПочему? Ты же солдат! Все, что вы делаете, это принимаете заказы! В любом случае, нам нужно, чтобы ты почистил наши вещи. Вот, вылезай.
-§7[1/3] §2Honip: §aSo, there's quite a few skeletons in there, and we never bothered throwin' em out!@§7[1/3] §2Хонип: §aТак вот, там довольно много скелетов, и мы никогда не утруждали себя их выбрасыванием за борт!
-§7[2/3] §2Honip: §aGo ahead, here's a sponge for the dried blood as well. Just wack the skeletons with it!@§7[2/3] §2Хонип: §aДавай, вот тебе еще губка для засохшей крови. Просто три скелетов вместе с ней!
-§7[3/3] §2Honip: §aIf you need me, I'll be on the deck. And, uh, don't go in the hold. We've got a §a§lBIG§a rat problem.@§7[3/3] §2Хонип: §aЕсли понадоблюсь, я буду на палубе. И не заходи в трюм. У нас там §a§lБОЛЬШАЯ§a проблема с крысами.
-§7[1/2] §2Pirate: §aOh, uh... Don't worry about that, 'ay?@§7[1/2] §2Пират: §aОх, ух... Не беспокойся об этом, ок?
-§7[2/2] §2Pirate: §aThat's our... fuel source.@§7[2/2] §2Пират: §aЭто наш... источник топлива.
-§7[1/4] §2Honip: §aHey! The boat's lookin' real nice now!@§7[1/4] §2Хонип: §aЭй! Лодка начала выглядеть очень неплохо!
-§7[2/4] §2Honip: §aI'll probably let you rest so- hold on.@§7[2/4] §2Хонип: §aЯ наверное, дам тебе отдохнуть, так что- погоди-ка
-§7[3/4] §2Pirate: §aHo-Honip! One of the guys said he saw something really weird coming right for us!@§7[3/4] §2Пират: §aХо-Хонип! Один из парней сказал, что видел что-то очень странное, идущее прямо на нас!
-§7[4/4] §2Honip: §aWait... What? Soldier, come!@§7[4/4] §2Хонип: §aМинутку... Что? Солдат, пойдем!
-§7[1/7] §2Honip: §aWhat's happening?!@§7[1/7] §2Хонип: §aЧто случилось?
-§7[2/7] §2Pirate: §aWe-we don't know! We can't exactly see it, but it seems huge!@§7[2/7] §2Пират: §aМы-мы не знаем! Мы не можем точно увидеть его, но он кажется огромным!
-§7[3/7] §2Honip: §aI- Let me see.@§7[3/7] §2Хонип: §aЯ- Дай мне посмотреть.
-§7[4/7] §2Honip: §aUh... Where am I supposed to be looking at, exactly?@§7[4/7] §2Хонип: §aУх... Куда именно я должен смотреть?
-§7[5/7] §2Pirate: §aI swear, it felt like the whole ocean was getting crazy a second ago!@§7[5/7] §2Пират: §aКлянусь, секунду назад казалось, что весь океан сошел с ума!
-§7[6/7] §2Honip: §aIf this is another one of your jokes...@§7[6/7] §2Хонип: §aЕсли это еще одна из твоих шуточек...
-§7[7/7] §2Seth: §aLOOK OUT!@§7[7/7] §2Сэт: §aОСТОРОЖНЕЕ!
-§7[1/2] §2Seth: §aWhat the hell is that??@§7[1/2] §2Сэт: §aЧто это за чертовщина??
-§7[2/2] §2Honip: §aI don't know, this wasn't planned!@§7[1/2] §2Хонип: §aЯ не знаю, это не было запланировано!
-§7[1/1] §2Honip: §aIt's working! Do that again!@§7[1/1] §2Хонип: §aЭто работает! Сделай это снова!
-§7[1/1] §2Honip: §aSoldier, now's your time to shine! Scare it off with one of your spells or somethin'!@§7[1/1] §2Хонип: §aСолдат, пришло твое время блистать! Отпугни его одним из своих заклинаний или еще чем-нибудь!
-§7[1/1] §2Honip: §aOne more...@§7[1/1] §2Хонип: §aЕще раз...
-§7[1/1] §2Seth: §aOh, that's my cannon! Pretty cool, right? I made it using a bunch of arm- Nevermind...@§7[1/1] §2Сэт: §aОх, а это моя пушка! Довольно крутая, правда? Я сделал ее, используя кучу ру- Неважно...
-§7[1/4] §2Honip: §aIt's starting to panic!@§7[1/4] §2Хонип: §aОно начинает паниковать!
-§7[2/4] §2Honip: §aThat's right, get back!@§7[2/4] §2Хонип: §aВсе верно, отходит назад!
-§7[3/4] §2Honip: §aI knew you had it in ya, haha!@§7[3/4] §2Хонип: §aЯ знал, что в тебе что-то есть, ха-ха!
-§7[4/4] §2Honip: §aWhat a show! Come, I've got some things to tell ya!@§7[4/4] §2Хонип: §aВот это шоу! Пойдем, мне нужно тебе кое-что сказать!
-§7[1/7] §2Honip: §aI don't know where that creature came from, but thanks to you it's gone.@§7[1/7] §2Хонип: §aЯ не знаю, откуда взялась эта тварь, но благодаря тебе она исчезла.
-§7[2/7] §2Honip: §aI've got somethin' else for you to tackle. It's about... the §a§lrats§a.@§7[2/7] §2Хонип: §aУ меня есть еще кое-что для тебя. Это что-то насчет... §a§lкрыс§a.
-§7[3/7] §2Honip: §aCome to the hold, I'll explain on the way.@§7[3/7] §2Хонип: §aИдем в трюм, я объясню по дороге.
-§7[4/7] §2Honip: §aI think we have quite a hellish problem on our hands.@§7[4/7] §2Хонип: §aДумаю, что у нас есть довольно адская проблема в нашем распоряжении.
-§7[5/7] §2Honip: §aI'm not sure what ya'll find there, but these are NOT normal rats.@§7[5/7] §2Хонип: §aЯ не уверен, что ты там найдешь, но это НЕ обычные крысы.
-§7[6/7] §2Honip: §aSo please, get in there... and kill everything, alright?@§7[6/7] §2Хонип: §aТак что пожалуйста, иди туда... и убей все там, хорошо?
-§7[7/7] §2Honip: §aI've got faith in ya. Here goes nothin'!@§7[7/7] §2Хонип: §aЯ верю в тебя. Была не была!
-§7[1/4] §2Honip: §a...Seth§a? Have ya seen the soldier?@§7[1/4] §2Хонип: §a...Сэт? Ты не видел нашего солдата?
-§7[2/4] §2Seth: §aNo, but they did a great job in the hold! Some gunpowder went missing though.@§7[2/4] §2Сэт: §aНет, но он отлично поработал в трюме! Хотя, там почему-то пропала часть пороха.
-§7[3/4] §2Seth: §a...@§7[3/4] §2Сэт: §a...
-§7[4/4] §2Seth: §aWait a minute.@§7[4/4] §2Сэт: §aПогоди-ка.
-§7[1/1] §2Seaskipper Captain: §a'ey there soldier! Looks like ya're in a bit of a pickle! How 'bout ya hop on?'@§7[1/1] §2Капитан Корабля: §aЭй, привет солдат! Похоже, ты попал в переделку! Как насчет того, чтобы запрыгнуть на борт?
-§7[1/7] §2Seaskipper Captain: §aWell... We're headed for Selchar, the heart of the ocean! Which is safer than wherever you were, heh!@§7[1/7] §2Капитан Корабля: §aЧто ж... Мы направляемся в Сельчар - сердце океана! Там безопаснее, чем где бы то ни было, хех!
-§7[2/7] §2Seaskipper Captain: §aI was casually takin' a scenic detour when I saw you and your shiny equipment on that island.@§7[2/7] §2Капитан Корабля: §aЯ как бы случайно делал театральный объезд, когда увидел тебя и твое блестящее обмундирование на том острове.
-§7[3/7] §2Seaskipper Captain: §aSo, ya gotta tell me what happened!@§7[3/7] §2Капитан Корабля: §aТак что, ты должен рассказать мне, что случилось!
-§7[4/7] §2Seaskipper Captain: §aOh, kidnapped by pirates I see! How unfortunate...@§7[4/7] §2Капитан Корабля: §aОх, я понял, тебя похитили пираты! Как неудачно...
-§7[5/7] §2Seaskipper Captain: §aI guess that'll show ya, tryin' to avoid using good ol' seaskipper! I'm the only trustworthy one 'round here.@§7[5/7] §2Капитан Корабля: §aДумаю, это показало тебе, что может быть, если избегать использования хорошего старого морского шкипера! Я здесь единственный, кому можно доверять.
-§7[6/7] §2Seaskipper Captain: §aWell, I hope they weren't too bad with ya! Here, I'll give you some boat passes as compensation.@§7[6/7] §2Капитан Корабля: §aЧтож, я надеюсь, что они не были слишком плохи с тобой! Вот, я дам тебе несколько билетов на лодку в качестве компенсации.
-§7[7/7] §2Seaskipper Captain: §aAnyway, I can see the shore off in the distance! Hang tight, we're almost there!@§7[7/7] §2Капитан Корабля: §aЭх, ладно, я уже вижу берег вдалеке! Держись крепче, мы почти на месте!
-§7[1/1] §2Barman: §aOh, soldier... It looks like you're underleveled. Sorry, I don't want to sell drinks to recruits, that's a policy 'round here. Come back when you're level 28.@§7[1/1] §2Бармен: §aОх, солдат... Похоже, ты еще слишком мал. Извини, я не хочу продавать выпивку новобранцам, здесь так принято. Возвращайся, когда достигнешь 28 уровня
-§7[1/1] §2Honip: §aI told you to stay back!@§7[1/1] §2Хонип: §aЯ говорил тебе держаться подальше!
-§7[1/4] §2Honip: §aSo, there's quite a few skeletons in there, and we never bothered throwin' em out!@§7[1/4] §2Хонип: §aТак вот, там довольно много скелетов, и мы никогда не утруждали себя их выбрасыванием за борт!
-§7[2/4] §2Honip: §aGo ahead, here's a sponge for the dried blood as well. Just wack the skeletons with it!@§7[2/4] §2Хонип: §aДавай, вот тебе еще ложка, чтобы оттирать засохшую кровь. Просто три скелетов вместе с ней!
-§7[3/4] §2Honip: §aIf you need me, I'll be on the deck. And, uh, don't go in the hold. We've got a §a§lBIG§a rat problem.@§7[3/4] §2Хонип: §aЕсли понадоблюсь, я буду на палубе. И ух, не заходи в трюм. У нас там §a§lБОЛЬШАЯ§a проблема с крысами.
-§7[4/4] §2Honip: §aAlso, for the sake of my crew, could you be more cooperative? I don't have an unlimited amount of these potions.@§7[4/4] §2Хонип: §aИ еще, ради моей команды, не мог бы ты быть более кооперативным? У меня нет неограниченного количества этих зелий.
-§7[1/1] §2Pirate Guard: §aSoldier? Ya already fixed that cannon, stop that.@§7[1/1] §2Пират: §aСолдат? Ты уже починил эту пушку, оставь ее.
-§7[1/4] §2Honip: §aHey there! Ya bringin' me good news?@§7[1/4] §2Хонип: §aЭй! Ты принес мне хорошие новости?
-§7[2/4] §2Honip: §aYou took care of these damn thieving rodents? A... colossal rat you say?@§7[2/4] §2Хонип: §aА, ты позаботился об этих проклятых вороватых грызунах? Эм... колоссальная крыса, говоришь?
-§7[3/4] §2Honip: §aNicely done, I knew I could count on ya! C'mere, take these!@§7[3/4] §2Хонип: §aОтлично сработано, я знал, что могу на тебя рассчитывать! Давай, возьми это!
-§7[4/4] §2Honip: §aAnyway, for now, you can go rest and do whatever you want!@§7[4/4] §2Хонип: §aА сейчас ты можешь идти отдыхать и делать все, что захочешь!
-§7[1/1] §2Honip: §a'ey soldier. Enjoying the ride?@§7[1/1] §2Хонип: §aЭй, солдат. Наслаждаешься круизом?
-§7[1/3] §2Pirate: §aHey, so you're our personal guard, huh?@§7[1/3] §2Пират: §aЭй, это ты наш персональный страж, да?
-§7[2/3] §2Pirate: §aNice to meet ya!@§7[2/3] §2Пират: §aРад встрече!
-§7[3/3] §2Pirate: §aThat ladder leads to the hold, but right now it's locked... We've got a severe case of rats.@§7[3/3] §2Пират: §aЛестница ведет в трюм, но сейчас она заперта... У нас там тяжелый случай с крысами.
-§7[1/1] §2Seth: §aI'm just goin' to... Wait here... With my cannons.@§7[1/1] §2Сэт: §aЯ просто собираюсь... Подождать здесь... С моими пушками.
-§7[1/2] §2Honip: §aHow's work?@§7[1/2] §2Хонип: §aКак работа?
-§7[2/2] §2Honip: §aDon't think we'll be done with ya once you clean all of this!@§7[2/2] §2Хонип: §aНе думай, что мы закончим с тобой, как только ты все это уберешь!
-§7[1/2] §2Pirate: §a...@§7[1/2] §2Пират: §a...
-§7[2/2] §2Pirate: §aOh my god, this is so boring...@§7[2/2] §2Пират: §aБоже, это так скучно...
-§7[1/1] §2Pirate: §aWhy did I take this job...@§7[1/1] §2Пират: §aЗачем я выбрал эту работу...
-§7[1/1] §2Pirate Guard: §aHey! What do you think you're doin'?!@§7[1/1] §2Страж Пират: §aЭй! Что это ты собрался сделать?!
-§7[1/3] §2Honip: §aSo, there's quite a few bodies in there, and we never bothered throwin' em out!@§7[1/3] §2Хонип: §aТак вот, тут довольно много тел, и мы никогда не утруждали себя выбрасыванием их за борт!
-§7[2/3] §2Honip: §aGo ahead, here's a sponge for the dried blood as well. Just wack the bodies with it!@§7[2/3] §2Хонип: §aТак что давай, вот тебе губка для засохшей крови. Просто три тела вместе с ней!
-§7[1/3] §2Pirate: §aHonip has a pet chicken, weird right?@§7[1/3] §2Пират: §aУ Хонипа есть питомец курица. Это странно, правда?
-§7[2/3] §2Pirate: §aI bet he got inspiration from that weird guy on his island...@§7[2/3] §2Пират: §aДержу пари, он черпал вдохновение у того странного парня на своем острове...
-§7[3/3] §2Pirate: §aWhat? You murdered that guy's most prized chicken? You're an odd one, soldier.@§7[3/3] §2Пират: §aЧто? Ты убил самую дорогую курицу того парня? Странный ты человек, солдат.
-§7[1/2] §2Pirate: §aThe chicken's got quite the agressive personality!@§7[1/2] §2Пират: §aЦыпленок довольно агрессивная личность!
-§7[2/2] §2Pirate: §aBut maybe you do too. I wouldn't want you near my chickens, if I had any!@§7[2/2] §2Пират: §aБыть может, и ты тоже. Я бы не хотел, чтобы ты был рядом с моими цыплятами, если бы они у меня были!
-§7[1/2] §2Pirate: §aI heard what happened, soldier!@§7[1/2] §2Пират: §aЯ слышала что произошло, солдат!
-§7[2/2] §2Pirate: §aGood job on scaring away that thing!@§7[2/2] §2Пират: §aОтличная работа по отпугиванию этой твари!
-§7[1/1] §2Pirate: §aHey, how 'bout you go talk to Honip instead of me?@§7[1/1] §2Пират: §aЭй, как насчет идти поговорить с Хонипом вместо меня?
-§7[1/1] §2Pirate: §aHuh? Why are ya talkin' to me? Just talk to Honip!@§7[1/1] §2Пират: §aА? Почему ты говоришь со мной? Иди поговори с Хонипом!
-§7[1/1] §2Pirate: §aHm? Ya want a new task? Honip probably wants to talk to you then.@§7[1/1] §2Пират: §aЭм? Хочешь новое задание? Хонип наверное хочет поговорить с тобой тогда.
-§7[1/2] §2Seth: §a'ey! How's the cleaning? Don't forget to check everywhere, ya never know what you might find!@§7[1/2] §2Сэт: §aХэй! Как там уборка? Не забудь проверить везде, никогда не знаешь, что можешь найти!
-§7[2/2] §2Seth: §aYou're done? Well good job! Honip's next to the helm if you're lookin' for him.@§7[2/2] §2Сэт: §aТы закончил? Ну и молодец! Хонип рядом со штурвалом, если ты ищешь его.
-§7[1/1] §2Pirate: §aThat was somethin'... You should go talk to Honip.@§7[1/1] §2Пират: §aЭто было что-то... Ты должен идти поговорить с Хонипом.
-§7[2/3] §2Pirate: §aYou've been running around the boat for a while now!@§7[2/3] §2Пират: §aА ты уже давно бегаешь вокруг лодки!
-§7[1/1] §2Pirate: §aThese rats... I don't think they're normal rats. Something's wrong with 'em.@§7[1/1] §2Пират: §aЭти крысы... Я не думаю, что это нормальные крысы. С ними что-то не так.
-§7[1/1] §2Barman: §aHey there soldier! Good day today, isn't it?@§7[1/1] §2Бармен: §aПривет солдат! Сегодня хороший день, не так ли?
-§7[1/3] §2Honip: §aOh, Snoo likes you!@§7[1/3] §2Хонип: §aОх, ты понравися Сну!
-§7[2/3] §2Honip: §aHe's a strong chicken alright, trust me on that one.@§7[2/3] §2Хонип: §aОн сильный цыпленок, поверь мне на слово.
-§7[3/3] §2Honip: §aAnyway, get back to work!@§7[3/3] §2Хонип: §aВ любом случае, вернись к работе!
-§7[1/4] §2Honip: §aWhat.@§7[1/4] §2Хонип: §aЧто.
-§7[2/4] §2Honip: §aWell... That's a twist.@§7[2/4] §2Хонип: §aЧто ж... Вот это поворот.
-§7[3/4] §2Honip: §aI expected you to do somethin', soldier, not him!@§7[3/4] §2Хонип: §aЯ ожидал, что ты что-то сделаешь, солдат, а не он!
-§7[4/4] §2Honip: §aAnyway, come talk to me.@§7[4/4] §2Хонип: §aВ любом случае, подойди поговорить со мной.
-§7[1/7] §2Honip: §aI have another task for you. It's about... the §a§lrats§a.@§7[1/7] §2Хонип: §aУ меня есть другая задача для тебя. Это насчет... §a§lкрыс§a.
-§7[2/7] §2Honip: §aSee, I really don't think we have your usual type of problem.@§7[2/7] §2Хонип: §aВидишь ли, я действительно не думаю, что у нас есть твой обычный тип проблемы.
-§7[4/7] §2Honip: §aWe sometimes hear unusually loud footsteps, along with some really eerie squeaking...@§7[4/7] §2Хонип: §aИногда мы слышим необычно громкие шаги, а также какой-то жуткий писк...
-§7[5/7] §2Honip: §aThat's why we're not too fond of goin' in... But our gunpowder there! We need it, as pirates!@§7[5/7] §2Хонип: §aВот почему мы не слишком любим туда заходить... Но наш порох там! И он нам нужен, как пиратам!
-§7[6/7] §2Honip: §aSo, I need you to get in... and kill everything, alright?@§7[6/7] §2Хонип: §aТак что пожалуйста, иди туда... и убей там все, хорошо?
-§7[7/7] §2Honip: §aHere goes nothing. Snoo, ya stay there!@§7[7/7] §2Хонип: §aБыла не была. Сну, ты остаешься тут!
-§7[3/4] §2Honip: §aThat sounds absolutely terrifying! And ya did that alone! You know what, her', take these.@§7[3/4] §2Хонип: §aЭто звучит абсолютно ужасно! И ты сделал это в одиночку! Знаешь что, вот, возьми это.
-§7[3/3] §2Pirate: §aAre you the one who cleared the hold? I've got some respect for ya, soldier!@§7[3/3] §2Пират: §aА, ты тот, кто освободил трюм? Я немного уважаю за это тебя, солдат!
-§7[1/3] §2Barman: §aNot thirsty? He paid for it, ya might as well take a sip!@§7[1/3] §2Бармен: §aНе хочешь выпить? Он заплатил за это, так что можешь сделать глоток.
-§7[2/3] §2Barman: §aUnless ya don't want alcohol, which would be understandable as a soldier...@§7[2/3] §2Бармен: §aЕсли только ты не пьешь алкоголь, что было бы понятно, ты ведь солдат...
-§7[3/3] §2Barman: §aThough I'd wonder why you came here in the first place then, heh!@§7[3/3] §2Бармен: §aХотя тогда мне интересно, зачем ты вообще сюда пришел, хех!
-§7[1/1] §2Honip: §aAlright, that's enough!@§7[1/1] §2Хонип: §aХорошо, этого достаточно!
-§7[1/2] §2Honip: §aWait, you're already leaving? I'm sure you're interested! I want to take you in an adventure!@§7[1/2] §2Хонип: §aПодожди, ты уже уходишь? Я уверен, что тебе это будет интересно! Я хочу взять тебя в приключение!
-§7[2/2] §2Honip: §aMeet me at the docks, I'll be waiting there!@§7[2/2] §2Хонип: §aВстретимся в доках, я буду ждать тебя там!
-§7[4/8] §2Honip: §aSo, I've seen ya around town. Ya even went to the ocean to help that chicken guy!@§7[4/8] §2Хонип: §aТак вот, я видел тебя в городе. Ты даже пошел в океан, чтобы помочь этому парню с цыпленком!
-§7[2/2] §2Seth: §aNot done yet? Well, take your time!@§7[2/2] §2Сэт: §aЕще не закончил? Ну, не торопись.
-§7[1/1] §2Honip: §aJust cast one of your fancy spells!@§7[1/1] §2Хонип: §aПросто используй одно из своих причудливых заклинаний!
-§7[1/2] §2Honip: §aHuh? You lost your sponge?@§7[1/2] §2Хонип: §aЭм? Ты потерял свою ложку?
-§7[2/2] §2Honip: §aWell, here's another one for ya'!@§7[2/2] §2Хонип: §aЧто же, вот еще одна для тебя!
-§7[1/1] §2Barman: §aI've seen lots of pirates, but this... Well, that's no pirate. It's like a child tryin' to act like one.@§7[1/1] §2Бармен: §aЯ видел много пиратов, но это..... Ну, это не пират. Это какой-то ребенок, пытающийся вести себя как пират.
-§7[3/3] §2Pirate: §aIf ya want, you can always pick up some seeds 'round here and feed the chicken.@§7[3/3] §2Пират: §aЕсли захочешь, ты всегда можешь собрать здесь семена и покормить цыпленка.
-§7[2/2] §2Pirate: §aHe ain't scared of anything, which makes him the best pirate 'round here!@§7[2/2] §2Пират: §aОн ничего не боится, что делает его лучшим пиратом в округе!
-§7[1/4] §2Honip: §aThat was... Phew... That was something.@§7[1/4] §2Хонип: §aЭто было... Фух... Это было что-то.
-§7[2/4] §2Honip: §aNow, for an even bigger surprise...@§7[2/4] §2Хонип: §aТеперь, к еще большему сюрпризу...
-§7[3/4] §2Honip: §aWhat the hell, soldier?? What don't you get in the "soldier" part of your job?@§7[3/4] §2Хонип: §aКакого черта, солдат?? Почему ты не сделал "солдатскую" часть своей работы?
-§7[4/4] §2Honip: §aCome, let's figure some things out.@§7[4/4] §2Хонип: §aПодойди, давай кое-что выясним.
-§7[1/7] §2Honip: §aYou've been a massive disappointment, y'know?@§7[1/7] §2Хонип: §aТы меня здорово разочаровал, знаешь об этом?
-§7[2/7] §2Honip: §aBut you can still redeem yourself.@§7[2/7] §2Хонип: §aНо ты все еще можешь искупить свою вину.
-§7[3/7] §2Honip: §aFollow me, I'll explain on the way.@§7[3/7] §2Хонип: §aСледуй за мной, я объясню по дороге.
-§7[4/7] §2Honip: §aI mentioned a rat problem earlier... It's, uh, not a small one.@§7[4/7] §2Хонип: §aЯ уже упоминал о проблеме с крысами... Это, эм, не маленькая проблема.
-§7[5/7] §2Honip: §aWe've got gunpowder to retrieve, so you're the one who's gonna clear the hold.@§7[5/7] §2Хонип: §aУ нас есть порох, который нужно забрать, так что ты тот, кто освободит трюм.
-§7[6/7] §2Honip: §aSo get in there... and try to kill everything, alright?@§7[6/7] §2Хонип: §aТак что иди туда... и постарайся убить всех, хорошо?
-§7[7/7] §2Honip: §aDon't be as bad as earlier. You're a soldier.@§7[7/7] §2Хонип: §aНе будь так плох, как раньше. Ты же солдат.
-§7[1/1] §2Pirate: §aAlright, I know he was like a fierce chicken or whatever, but this is just ridiculous.@§7[1/1] §2Пират: §aЛадно, я знаю, что он был похож на свирепого цыпленка или что-то в этом роде, но это просто смешно.
-§7[4/8] §2Honip: §aSo, I've seen ya around town. You've got the soul of an adventurer, don't ya?@§7[4/8] §2Хонип: §aТак что, я видел тебя в городе. У тебя душа авантюриста, не так ли?
-§7[1/3] §2Barman: §aSo, how did it go? Hold on, why does your head look... swollen?@§7[1/3] §2Бармен: §aИтак, как все прошло? Погоди, а почему твоя голова выглядит?.. опухшей?
-§7[2/3] §2Barman: §aIt did look fishy. Maybe I should've warned you.@§7[2/3] §2Бармен: §aОн действительно выглядел подозрительно. Может быть, мне следовало предупредить тебя.
-§7[3/3] §2Barman: §aWell, they're still out there aren't they? Isn't it your job to go get 'em?@§7[3/3] §2Бармен: §aНу, они все еще там, не так ли? Разве это не твоя работа - идти за ними?
-§7[1/1] §2Pirate: §aWhat's wrong Pep? Want a bone? Well too bad, we're cleanin' em!@§7[1/1] §2Пират: §aЧто случилось, Пеп? Хочешь кость? Эх жаль, мы их все отчистили!
-§7[1/1] §2Pirate: §aPep is just a treasure, ain't I right? I'm glad you're taking care of him too!@§7[1/1] §2Пират: §aПеп - это просто сокровище, не так ли? Я тоже рад, что ты заботишься о нем!
-§7[1/2] §2Pirate: §aOh, there he is! Hold on...@§7[1/2] §2Пират: §aА, вот и он! Держись...
-§7[2/2] §2Pirate: §aIsn't he the best??@§7[2/2] §2Пират: §aРазве он не лучший??
-§7[1/1] §2Pirate: §aWill these two calm down?! Jeez!@§7[1/1] §2Пират: §aУспокоятся ли эти двое?! Боже!
-§7[1/1] §2Pirate: §aEasy there Pep...@§7[1/1] §2Пират: §aПоосторожнее, Пеп...
-§7[1/1] §2Pirate: §aHuh? What did you do?? Oh well, whatever...@§7[1/1] §2Пират: §aА? Что ты сделал?? Ну ладно, неважно...
-§7[3/4] §2Honip: §aWell, shiver me timbers! You did redeem yourself, soldier!@§7[3/4] §2Хонип: §aЧтож, разрази меня гром! Ты же искупил свою вину, солдат!
-§7[1/1] §2Seth: §aHonip's probably waitin' for ya by now!@§7[1/1] §2Сэт: §aХонип вероятно ждет тебя сейчас!
-§7[1/2] §2Seth: §aWelcome back! Any progress?@§7[1/2] §2Сэт: §aДобро пожаловать обратно! Есть прогресс?
-§7[2/2] §2Pirate: §aSnoo saved us all, right? What a crazy lad, heh!@§7[2/2] §2Пират: §aСну спас нас всех, верно? Что за сумасшедший птенец, хех!
-§7[1/3] §2Honip: §aHey there fella'. So, the rat situation..?@§7[1/3] §2Хонип: §aПривет, приятель. Итак, к ситуации с крысами..?
-§7[2/3] §2Honip: §aOh, you're not done yet?@§7[2/3] §2Хонип: §aОх, ты еще не закончил?
-§7[3/3] §2Honip: §aTake it slowly if ya want, that place gives me the creeps...@§7[3/3] §2Хонип: §aДелай это медленно, если хочешь, у меня от этого места мурашки по коже...
-§7[3/3] §2Honip: §aEager, are ya? Well, that's great!@§7[3/3] §2Хонип: §aНе терпится, да? Ну, это же здорово!
-§7[2/2] §2Pirate: §aI take back what I said earlier, you might not be a chicken slaughterer.@§7[2/2] §2Пират: §aЯ беру свои слова назад, потому что ты, возможно, и не убийца цыплят.
-§7[1/1] §2Pirate: §aWait, what exactly just happened?@§7[1/1] §2Пират: §aПодожди, что именно только что произошло?
-§7[1/3] §2Barman: §aHey there soldier! Did you go on that so called adventure yet? No?@§7[1/3] §2Бармэн: §aЭй, солдат! ты уже отправилСЯ в это так называемое приключение? Нет?
-§7[2/3] §2Barman: §aWell, I'd be careful with that guy if I were you. He seems... sketchy.@§7[2/3] §2Бармэн: §aНу, я бы на твоем месте был поосторожнее с этим парнем. Кажется, он... подозрительный.
-§7[3/3] §2Barman: §aI think he's still waiting on the docks, so he seems dedicated on taking you with him.@§7[3/3] §2Бармэн: §aДумаю, он все еще ждет в доках, так что он, кажется, решил взять тебя с собой.
-§7[4/8] §2Honip: §aSo, I've seen ya around town. Helping some guy with a book, explorin' the surroundings...@§7[4/8] §2Хонип: §aТак вот, я видел тебя в городе. Как ты помогал какому-то парню с книгой, исследовал окрестности...
-§7[3/3] §2Honip: §aWell, I just hope you won't fail again.@§7[3/3] §2Хонип: §aЧто же, я просто надеюсь, что ты не потерпишь неудачу снова.
-§7[3/3] §2Honip: §aDon't count on Snoo to do the job for ya' this time!@§7[3/3] §2Хонип: §aНе рассчитывай, что Сну сделает за тебя всю работу на этот раз!
-§7[1/1] §2Pirate: §aI... can't believe what just happened, so go talk to Honip, a'ight?@§7[1/1] §2Пират: §aЯ... не могу поверить в то, что только что произошло, так что иди поговори с Хонипом, ладно?
-§7[1/1] §2Pirate: §aWell, I guess he picked the right chicken...@§7[1/1] §2Пират: §aЧтож, я думаю, он выбрал правильного цыпленка...
-§7[2/2] §2Pirate: §aYou didn't do anything to help, huh? Shame on ya'.@§7[2/2] §2Пират: §aТы ничего не сделал, чтобы помочь, да? Как тебе не стыдно.
-§7[1/2] §2Barman: §aThat's the spirit! Nothin' better than some good ol' whiskey!@§7[1/2] §2Бармэн: §aТак держать! Нет ничего лучше, чем немного хорошего старого виски!
-§7[2/2] §2Barman: §aAlso, I'd be careful with that guy if I were you. He seems... sketchy.@§7[2/2] §2Бармэн: §aКроме того, на твоем месте я был бы осторожен с этим парнем. Он кажется... подозрительным.
-
-=========================================================================================
-§7[2/7] §2Honip: §aIt doesn’t seem too difficult though, a little to the left...@§7[2/7] §2Хонип: §aХотя это не кажется слишком сложным, немного влево...
-§7[3/7] §2Honip: §aHmm, looks like we’re not the only ones out on the water today.@§7[3/7] §2Хонип: §aХм, похоже мы не единственные, кто сегодня вышел на воду.
-§7[4/7] §2Honip: §aThey are a bit too head on, don’t you think?@§7[4/7] §2Хонип: §aОни слишком прямо идут на нас, тебе не кажется?
-§7[5/7] §2Honip: §aI’m trying to steer the ship but it’s not budging...@§7[5/7] §2Хонип: §aЯ пытаюсь управлять кораблем, но он не двигается с места...
-§7[6/7] §2Honip: §aThat’s unfortunate...@§7[6/7] §2Хонип: §aК сожалению...
+﻿=====================================================================================================================================
+§7[1/8] §2Barman: §aHello there soldier! What can I get you?@§7[1/8] §2바텐더: §a어서오세요 병사! 뭘 드릴까요?
+§7[2/8] §2Honip: §aI'll take 2 Nemract Whiskeys. One for me, one for this chap.@§7[2/8] §2호닙: §a넴렉 위스키 2개. 하나는 나, 하나는 이 친구.
+§7[3/8] §2Barman: §aYou got it.@§7[3/8] §2바텐더: §a알겠습니다.
+§7[4/8] §2Honip: §aSo... I've seen ya around town. I saw how happy that guy was when you brought him some journal.@§7[4/8] §2호닙: §a그래... 마을에서 널 봤어. 네가 일기장을 가져왔을 때 난 그 남자가 얼마나 행복해 하는지 봤다고.
+§7[5/8] §2Barman: §a2 Nemract Whiskeys, coming up!@§7[5/8] §2바텐더: §a여기 넴렉 위스키 두 잔, 드시죠!
+§7[6/8] §2Honip: §aSo... Soldier. Are ya up for sailin' the ocean with me? I got a fancier boat than that seaskipper!@§7[6/8] §2호닙: §a그래서... 병사. 나와 함께 바다를 항해하지 않겠어? 난 저 씨스키퍼 보다 멋진 보트를 가지고 있다고!
+§7[7/8] §2Honip: §aI figured you'd be interested in explorin' the waters!@§7[7/8] §2호닙: §a난 자네가 바다를 탐험하는 데 관심이 있을 줄 알았어!
+§7[8/8] §2Honip: §aI'll wait for ya on the docks. Don't worry, ya can't miss the boat!@§7[8/8] §2호닙: §a부두에서 기다릴테니 걱정 마, 배 놓치지 말고!
+§7[1/3] §2Honip: §aThere you are! Ready? Follow me, the boat's over here!@§7[1/3] §2호닙: §a여기 있었군! 준비됐어? 그럼 따라와, 배는 여기 있어!
+§7[2/3] §2Honip: §aLook at this.. Magnificent! Much better than whatever the Seaskipper is using!@§7[2/3] §2호닙: §a이것 좀 봐.. 훌륭해! 씨스키퍼가 쓰는 배보다 훨씬 더 좋다고!
+§7[3/3] §2Honip: §aWell, what are you waiting for? Hop aboard!@§7[3/3] §2호닙: §a좋아, 뭘 기다리는 거야? 어서 타라고!
+§7[1/2] §2Honip: §aThen it's settled, we're goin' on an adventure!@§7[1/2] §2호닙: §a그럼 준비됐군, 우린 이제 모험을 떠나는 거야!
+§7[2/2] §2Honip: §aBuckle up, we got waves to catch.@§7[2/2] §2호닙: §a안전벨트 매, 파도가 심할거야.
+§7[1/7] §2Honip: §aSo... I should warn ya', this is actually my first time sailing...@§7[1/7] §2호닙: §a어... 경고하는데, 난 항해는 이번이 처음이야...
+§7[2/7] §2Honip: §aIt doesn't seem too difficult though, a little to the left...@§7[2/7] §2호닙: §a근데 별로 어렵지는 않은 것 같아, 왼쪽으로 조금...
+§7[3/7] §2Honip: §aHmm, looks like we're not the only ones out on the water today.@§7[3/7] §2호닙: §a오늘 우리만 바다에 나온 게 아닌 것 같은데.
+§7[4/7] §2Honip: §aThey are a bit too head on, don't you think?@§7[4/7] §2호닙: §a저 사람들 너무 앞서가고 있는데, 안그래?
+§7[5/7] §2Honip: §aI'm trying to steer the ship but it's not budging...@§7[5/7] §2호닙: §a배를 조종하려고 하는데 꿈쩍도 안 해...
+§7[6/7] §2Honip: §aThat's unfortunate...@§7[6/7] §2호닙: §a유감이야...
+§7[7/7] §2Honip: §aUnfortunate... For §a§lYOU§a!@§7[7/7] §2호닙: §a정말 유감이야... §a§l바로 너 말이야§a!
+§7[1/6] §2Honip: §aHey, you're finally awake.@§7[1/6] §2호닙: §a이봐, 너. 이제야 깨어났군.
+§7[1/1] §2Honip: §aStay back!@§7[1/1] §2호닙: §a물러서 있어!
+§7[2/6] §2Honip: §aI honestly, truly can't believe you fell for that. Let me sum it up for you...@§7[2/6] §2호닙: §a솔직히 네가 그딴 말에 속았다는 걸 믿을 수가 없어. 정리해주자면...
+§7[3/6] §2Honip: §aSome extremely suspicious §a§lpirate§a comes up, offers you a drink, and leads you to his suspicious boat.@§7[3/6] §2호닙: §a어떤 아주 의심스러운 해적이 너한테 다가와서 술을 권하고, 널 아주 의심스로운 배로 안내했다.
+§7[4/6] §2Honip: §aAny normal person would've turned back by then. But what do you do? You hop on! Well, now you're stuck with us.@§7[4/6] §2호닙: §a평범한 사람이면 그때 돌아갔겠지. 하지만 이제 어째나? 그냥 가자고! 이제 우리랑 함께하는 거야.
+§7[5/6] §2Honip: §aLet me make this quick. This boat needs renovation, and we want you to do it.@§7[5/6] §2호닙: §a빨리 끝내지. 이 보트는 개조가 필요해, 네가 해줬으면 좋겠어.
+§7[6/6] §2Honip: §aWhy? You're a soldier! All you do is take orders! Anyway, we'll need you to clean our stuff. Here, get out.@§7[6/6] §2호닙: §a왜냐고? 넌 군인이잖아! 명령에 복종해야지! 아무튼, 나가서 우리 물건들 좀 치워줬으면 좋겠어. 자, 이제 나가. 
+§7[1/3] §2Honip: §aSo, there's quite a few skeletons in there, and we never bothered throwin' em out!@§7[1/3] §2호닙: §a그래, 거기엔 꽤 많은 해골들 있어, 우린 좀 꺼림칙해서 치우려 하지도 않았다고.
+§7[2/3] §2Honip: §aGo ahead, here's a sponge for the dried blood as well. Just wack the skeletons with it!@§7[2/3] §2호닙: §a이제 가, 여기 피 닦는 스펀지도 있어. 이걸로 그 해골을 치라고!
+§7[3/3] §2Honip: §aIf you need me, I'll be on the deck. And, uh, don't go in the hold. We've got a §a§lBIG§a rat problem.@§7[3/3] §2호닙: §a내가 필요하면 불러, 갑판 위에 있을거니까. 그리고, 어, 보관함에는 들어가지 마. §a§l큰§a 쥐 때문에 문제가 생겼어.
+§7[1/2] §2Pirate: §aOh, uh... Don't worry about that, 'ay?@§7[1/2] §2해적: §a오, 어... 그래도 걱정은 하지 마, 알겠지?
+§7[2/2] §2Pirate: §aThat's our... fuel source.@§7[2/2] §2해적: §a그게 우리의... 연료 공급원이거든.
+§7[1/4] §2Honip: §aHey! The boat's lookin' real nice now!@§7[1/4] §2호닙: §a이봐! 보트가 정말 멋져 보여!
+§7[2/4] §2Honip: §aI'll probably let you rest so- hold on.@§7[2/4] §2호닙: §a좀 쉬게 해주지. 잠깐만.
+§7[3/4] §2Pirate: §aHo-Honip! One of the guys said he saw something really weird coming right for us!@§7[3/4] §2해적: §a호-호닙! 선원들 중 한 명이 지금 정말 기괴한 무언가를 봤다고 했습니다! 
+§7[4/4] §2Honip: §aWait... What? Soldier, come!@§7[4/4] §2호닙: §a잠깐... 뭐야? 병사, 이리 와봐!
+§7[1/7] §2Honip: §aWhat's happening?!@§7[1/7] §2호닙: §a무슨 일이야?!
+§7[2/7] §2Pirate: §aWe-we don't know! We can't exactly see it, but it seems huge!@§7[2/7] §2해적: §a우... 우린 잘 모르겠어요! 정확히 보지는 못했지만, 엄청 거대했다고요!
+§7[3/7] §2Honip: §aI- Let me see.@§7[3/7] §2호닙: §a어... 어디보자.
+§7[4/7] §2Honip: §aUh... Where am I supposed to be looking at, exactly?@§7[4/7] §2호닙: §a어... 정확히 어디 있다는 거야?
+§7[5/7] §2Pirate: §aI swear, it felt like the whole ocean was getting crazy a second ago!@§7[5/7] §2해적: §a진짜에요, 조금 전엔 바다 전체가 미친 것처럼 느껴졌다고요! 
+§7[6/7] §2Honip: §aIf this is another one of your jokes...@§7[6/7] §2호닙: §a이게 만약 농담하는 거라면...
+§7[7/7] §2Seth: §aLOOK OUT!@§7[7/7] §2세스: §a조심해요!
+§7[1/2] §2Seth: §aWhat the hell is that??@§7[1/2] §2세스: §a이게 대체 뭐야?
+§7[2/2] §2Honip: §aI don't know, this wasn't planned!@§7[1/2] §2호닙: §a나도 몰라, 이건 계획에 없었다고!
+§7[1/1] §2Honip: §aIt's working! Do that again!@§7[1/1] §2호닙: §a됐다! 다시 해봐!
+§7[1/1] §2Honip: §aSoldier, now's your time to shine! Scare it off with one of your spells or somethin'!@§7[1/1] §2호닙: §a병사, 네가 나설 차례야! 주문이든 뭐든 일단 겁먹게 만들어!
+§7[1/1] §2Honip: §aOne more...@§7[1/1] §2호닙: §a하나 더...
+§7[1/1] §2Seth: §aOh, that's my cannon! Pretty cool, right? I made it using a bunch of arm- Nevermind...@§7[1/1] §2세스: §a오, 그건 내 대포야! 꽤 멋지지? 그걸 만들 때- 신경쓰지마....
+§7[1/4] §2Honip: §aIt's starting to panic!@§7[1/4] §2호닙: §a공황상태에 빠지기 시작했다!
+§7[2/4] §2Honip: §aThat's right, get back!@§7[2/4] §2호닙: §a그래, 이제 돌아가!
+§7[3/4] §2Honip: §aI knew you had it in ya, haha!@§7[3/4] §2호닙: §a네가 그럴줄 다 알고 있었다고, 하하!
+§7[4/4] §2Honip: §aWhat a show! Come, I've got some things to tell ya!@§7[4/4] §2호닙: §a정말 멋진 쇼였어! 이리와, 할 얘기가 있어!
+§7[1/7] §2Honip: §aI don't know where that creature came from, but thanks to you it's gone.@§7[1/7] §2호닙: §a그 생물이 어디서 온건지 모르겠지만, 네 덕분에 놈이 사라졌어.
+§7[2/7] §2Honip: §aI've got somethin' else for you to tackle. It's about... the §a§lrats§a.@§7[2/7] §2호닙: §a네가 해줄 일이 있어. §a§l쥐§a에 관한 일이야.
+§7[3/7] §2Honip: §aCome to the hold, I'll explain on the way.@§7[3/7] §2호닙: §a화물실로 와, 가는 길에 설명해줄게.
+§7[4/7] §2Honip: §aI think we have quite a hellish problem on our hands.@§7[4/7] §2호닙: §a난 우리 배에 아주 큰 문제가 있다고 생각해.
+§7[5/7] §2Honip: §aI'm not sure what ya'll find there, but these are NOT normal rats.@§7[5/7] §2호닙: §a거기서 뭘 찾을진 모르겠지만, 그건 평범한 쥐가 아니야.
+§7[6/7] §2Honip: §aSo please, get in there... and kill everything, alright?@§7[6/7] §2호닙: §a그러니 제발, 들어가서 거기 있는 것들은 전부 죽여, 알았지?
+§7[7/7] §2Honip: §aI've got faith in ya. Here goes nothin'!@§7[7/7] §2호닙: §a난 널 믿어.
+§7[1/4] §2Honip: §a...Seth§a? Have ya seen the soldier?@§7[1/4] §2호닙: §a...세스? 그 병사 본 적 있나?
+§7[2/4] §2Seth: §aNo, but they did a great job in the hold! Some gunpowder went missing though.@§7[2/4] §2세스: §a아니, 하지만 그가 화물실에서 아주 잘 해줬어! 그런데 화약이 없어졌어.
+§7[3/4] §2Seth: §a...@§7[3/4] §2세스: §a아...
+§7[4/4] §2Seth: §aWait a minute.@§7[4/4] §2세스: §a잠깐만.
+§7[1/1] §2Seaskipper Captain: §a'ey there soldier! Looks like ya're in a bit of a pickle! How 'bout ya hop on?'@§7[1/1] §2씨스키퍼 선장: §a이보게 병사! 자네 바닷물에 완전히 절여졌군! 이 배에 타는건 어때?
+§7[1/7] §2Seaskipper Captain: §aWell... We're headed for Selchar, the heart of the ocean! Which is safer than wherever you were, heh!@§7[1/7] §2씨스키퍼 선장: §a음... 우린 지금 바다의 심장 셀쳐로 향하고 있네! 자네가 있었던 곳보다 훨씬 안전한 곳이야, 헤!
+§7[2/7] §2Seaskipper Captain: §aI was casually takin' a scenic detour when I saw you and your shiny equipment on that island.@§7[2/7] §2씨스키퍼 선장: §a그 섬에서 자네와 자네의 그 반짝거리는 장비를 봤을 때, 무심코 그쪽으로 가고 있었네.
+§7[3/7] §2Seaskipper Captain: §aSo, ya gotta tell me what happened!@§7[3/7] §2씨스키퍼 선장: §a무슨 일이 있던건지 말해주게!
+§7[4/7] §2Seaskipper Captain: §aOh, kidnapped by pirates I see! How unfortunate...@§7[4/7] §2씨스키퍼 선장: §a오, 해적에게 납치를 당했다니! 얼마나 불행한 일인가...
+§7[5/7] §2Seaskipper Captain: §aI guess that'll show ya, tryin' to avoid using good ol' seaskipper! I'm the only trustworthy one 'round here.@§7[5/7] §2씨스키퍼 선장: §a훌륭한 뱃사람을 이용하지 않으려고 하는 것 같은데! 믿을만한 사람은 나 하나라고!
+§7[6/7] §2Seaskipper Captain: §aWell, I hope they weren't too bad with ya! Here, I'll give you some boat passes as compensation.@§7[6/7] §2씨스키퍼 선장: §a음, 난 그들이 자네에게 너무 심한 짓을 하지 않았길 바라네! 여기, 위로의 선물로 배표를 좀 주겠네.
+§7[7/7] §2Seaskipper Captain: §aAnyway, I can see the shore off in the distance! Hang tight, we're almost there!@§7[7/7] §2씨스키퍼 선장: §a어쨌든, 멀리 해변이 보이네! 꽉 잡게, 거의 다 왔네!
+§7[1/1] §2Barman: §aOh, soldier... It looks like you're underleveled. Sorry, I don't want to sell drinks to recruits, that's a policy 'round here. Come back when you're level 28.@§7[1/1] §2바텐더: §a오, 병사님... 레벨이 부족한 것 같습니다. 죄송하지만, 규칙때문에 신참에겐 술을 팔지 않습니다. 28 전투 레벨에 돌아오세요.
+§7[1/1] §2Honip: §aI told you to stay back!@§7[1/1] §2호닙: §a물러서라고 했지!
+§7[1/4] §2Honip: §aSo, there's quite a few skeletons in there, and we never bothered throwin' em out!@§7[1/4] §2호닙: §a그래, 거기엔 꽤 많은 해골들 있어, 우린 좀 꺼림칙해서 치우려고 하지도 않았다고.
+§7[2/4] §2Honip: §aGo ahead, here's a sponge for the dried blood as well. Just wack the skeletons with it!@§7[2/4] §2호닙: §a이제 가, 여기 피 닦는 스펀지도 있어. 이걸로 그 해골을 치라고!
+§7[3/4] §2Honip: §aIf you need me, I'll be on the deck. And, uh, don't go in the hold. We've got a §a§lBIG§a rat problem.@§7[3/4] §2호닙: §a내가 필요하면 불러, 갑판 위에 있을거니까. 그리고, 어, 화물실에는 들어가지 마. §a§l큰§a 쥐 때문에 문제가 생겼어.
+§7[4/4] §2Honip: §aAlso, for the sake of my crew, could you be more cooperative? I don't have an unlimited amount of these potions.@§7[4/4] §2호닙: §a또, 내 선원들을 위해서 좀 더 도와줄 수 있겠나? 난 이 물약을 무한정으로 가지고 있는게 아니거든.
+§7[1/1] §2Pirate Guard: §aSoldier? Ya already fixed that cannon, stop that.@§7[1/1] §2해적: §a병사? 대포는 이미 고쳤어, 그만 만져.
+§7[1/4] §2Honip: §aHey there! Ya bringin' me good news?@§7[1/4] §2호닙: §a이봐! 좋은 소식은 좀 가져왔어?
+§7[2/4] §2Honip: §aYou took care of these damn thieving rodents? A... colossal rat you say?@§7[2/4] §2호닙: §a그 도둑 쥐새끼들 처리했어? 거대한 쥐라고?
+§7[3/4] §2Honip: §aNicely done, I knew I could count on ya! C'mere, take these!@§7[3/4] §2호닙: §a잘했어, 널 믿길 잘했어! 이것들 받아!
+§7[4/4] §2Honip: §aAnyway, for now, you can go rest and do whatever you want!@§7[4/4] §2호닙: §a어쨌든, 지금은 가서 쉬던가 마음대로 해.
+§7[1/1] §2Honip: §a'ey soldier. Enjoying the ride?@§7[1/1] §2호닙: §a이봐 병사. 항해는 즐겁나?
+§7[1/3] §2Pirate: §aHey, so you're our personal guard, huh?@§7[1/3] §2해적: §a그래, 네가 우리 개인 경호원이구나?
+§7[2/3] §2Pirate: §aNice to meet ya!@§7[2/3] §2해적: §a만나서 반가워!
+§7[3/3] §2Pirate: §aThat ladder leads to the hold, but right now it's locked... We've got a severe case of rats.@§7[3/3] §2해적: §a사다리가 화물실까지 이어져 있지만, 지금은 잠겨 있어. 쥐가 엄청 많거든.
+§7[1/1] §2Seth: §aI'm just goin' to... Wait here... With my cannons.@§7[1/1] §2세스: §a난 그냥... 여기서 기다리는거야... 내 대포랑 함께.
+§7[1/2] §2Honip: §aHow's work?@§7[1/2] §2호닙: §a일은 어때?
+§7[2/2] §2Honip: §aDon't think we'll be done with ya once you clean all of this!@§7[2/2] §2호닙: §a네가 그걸 다 치워도 그걸로 끝이라고 생각하지 마!
+§7[1/2] §2Pirate: §a...@§7[1/2] §2해적: §어...
+§7[2/2] §2Pirate: §aOh my god, this is so boring...@§7[2/2] §2해적: §a세상에, 이건 너무 지루해...
+§7[1/1] §2Pirate: §aWhy did I take this job...@§7[1/1] §2해적: §a내가 왜 이런 일을 맡은건지...
+§7[1/1] §2Pirate Guard: §aHey! What do you think you're doin'?!@§7[1/1] §2해적 경비: §a이봐! 지금 뭐 하는 거야?!
+§7[1/3] §2Honip: §aSo, there's quite a few bodies in there, and we never bothered throwin' em out!@§7[1/3] §2호닙: §a그래, 저기 시체가 꽤 많은데, 우린 그걸 치유지 않았어!
+§7[2/3] §2Honip: §aGo ahead, here's a sponge for the dried blood as well. Just wack the bodies with it!@§7[2/3] §2호닙: §a이제 가, 여기 피 닦는 스폰지도 있어. 그냥 시체들을 치워버리고 와!
+§7[1/3] §2Pirate: §aHonip has a pet chicken, weird right?@§7[1/3] §2해적: §a호닙에겐 애완용 닭이 있어, 참 이상하지?
+§7[2/3] §2Pirate: §aI bet he got inspiration from that weird guy on his island...@§7[2/3] §2해적: §a섬에 사는 그 이상한 남자한테 영향을 받았을 거야.
+§7[3/3] §2Pirate: §aWhat? You murdered that guy's most prized chicken? You're an odd one, soldier.@§7[3/3] §2해적: §a뭐? 그 남자의 닭을 죽였다고? 병사, 너도 참 이상한 놈이야.
+§7[1/2] §2Pirate: §aThe chicken's got quite the agressive personality!@§7[1/2] §2해적: §a닭은 꽤나 공격적인 성향을 띄고 있어.
+§7[2/2] §2Pirate: §aBut maybe you do too. I wouldn't want you near my chickens, if I had any!@§7[2/2] §2해적: §a하지만 너도 공격적일 수도 있지. 내 닭 근처에도 가지 마. 나한테 애완 닭이 있다면 말이야!
+§7[1/2] §2Pirate: §aI heard what happened, soldier!@§7[1/2] §2해적: §a무슨 일이 있었는지 들었어, 병사!
+§7[2/2] §2Pirate: §aGood job on scaring away that thing!@§7[2/2] §2해적: §a저걸 겁준건 아주 잘한거야!
+§7[1/1] §2Pirate: §aHey, how 'bout you go talk to Honip instead of me?@§7[1/1] §2해적: §a나 말고 호닙에게 얘기하는게 어때?
+§7[1/1] §2Pirate: §aHuh? Why are ya talkin' to me? Just talk to Honip!@§7[1/1] §2해적: §a허? 왜 나한테 말하는 거야? 그냥 호닙한테 말하라고!
+§7[1/1] §2Pirate: §aHm? Ya want a new task? Honip probably wants to talk to you then.@§7[1/1] §2해적: §a흠? 새로운 일을 원한다고? 그럼 호닙이랑 얘기해 봐.
+§7[1/2] §2Seth: §a'ey! How's the cleaning? Don't forget to check everywhere, ya never know what you might find!@§7[1/2] §2세스: §a청소는 잘 하고 있어? 구석구석 확인하는거 잊지 마, 어디서 뭐가 나올지 모르니까!
+§7[2/2] §2Seth: §aYou're done? Well good job! Honip's next to the helm if you're lookin' for him.@§7[2/2] §2세스: §a다 했다고? 잘했어! 호닙이 조타수 옆에 있으니 찾아가 봐.
+§7[1/1] §2Pirate: §aThat was somethin'... You should go talk to Honip.@§7[1/1] §2해적: §a그런건... 호닙한테 가서 얘기해봐.
+§7[2/3] §2Pirate: §aYou've been running around the boat for a while now!@§7[2/3] §2해적: §a넌 한동안 보트를 돌아다녔어.
+§7[1/1] §2Pirate: §aThese rats... I don't think they're normal rats. Something's wrong with 'em.@§7[1/1] §2해적: §a그 쥐들은... 난 그 쥐들이 평범한 쥐라고 생각하지 않아. 뭔가 이상해.
+§7[1/1] §2Barman: §aHey there soldier! Good day today, isn't it?@§7[1/1] §2바텐더: §a이봐요 병사님! 오늘도 좋은 하루죠?
+§7[1/3] §2Honip: §aOh, Snoo likes you!@§7[1/3] §2호닙: §a오, 스누가 널 좋아하나 봐!
+§7[2/3] §2Honip: §aHe's a strong chicken alright, trust me on that one.@§7[2/3] §2호닙: §a그는 강한 닭이야, 날 믿으라고.
+§7[3/3] §2Honip: §aAnyway, get back to work!@§7[3/3] §2호닙: §a어쨌든, 다시 일하러 가!
+§7[1/4] §2Honip: §aWhat.@§7[1/4] §2호닙: §a뭐.
+§7[2/4] §2Honip: §aWell... That's a twist.@§7[2/4] §2호닙: §a음... 그건 반전이군.
+§7[3/4] §2Honip: §aI expected you to do somethin', soldier, not him!@§7[3/4] §2호닙: §a네가 뭔가 해낼 줄 알았어, 그가 아니라!
+§7[4/4] §2Honip: §aAnyway, come talk to me.@§7[4/4] §2호닙: §a어쨌든, 와서 말 좀 해봐.
+§7[1/7] §2Honip: §aI have another task for you. It's about... the §a§lrats§a.@§7[1/7] §2호닙: §a너에게 또 다른 일이 있어. 그건... §a§l쥐§a야.
+§7[2/7] §2Honip: §aSee, I really don't think we have your usual type of problem.@§7[2/7] §2호닙: §a봐, 난 우리가 너의 방식의 문제가 있다고 생각하지 않아.
+§7[4/7] §2Honip: §aWe sometimes hear unusually loud footsteps, along with some really eerie squeaking...@§7[4/7] §2호닙: §a가끔은 이상한 발소리와 함께 섬뜩한 비명소리가 들려...
+§7[5/7] §2Honip: §aThat's why we're not too fond of goin' in... But our gunpowder there! We need it, as pirates!@§7[5/7] §2호닙: §a그래서 우리가 거기 들어가는걸 싫어하는 거야. 하지만 화약이 거기 있어! 우린 그게 필요해, 해적처럼 말이야!
+§7[6/7] §2Honip: §aSo, I need you to get in... and kill everything, alright?@§7[6/7] §2호닙: §a그러니, 네가 들어가서 모조리 죽여야 해, 알았지?
+§7[7/7] §2Honip: §aHere goes nothing. Snoo, ya stay there!@§7[7/7] §2호닙: §a아무 것도 안 가. 스누, 거기 있어!
+§7[3/4] §2Honip: §aThat sounds absolutely terrifying! And ya did that alone! You know what, her', take these.@§7[3/4] §2호닙: §a정말 끔찍하게 들리는군! 그리고 너 혼자 그런거잖아! 이거 가져가.
+§7[3/3] §2Pirate: §aAre you the one who cleared the hold? I've got some respect for ya, soldier!@§7[3/3] §2해적: §a네가 화물실을 정리한 사람이야? 정말 존경스러워 병사!
+§7[1/3] §2Barman: §aNot thirsty? He paid for it, ya might as well take a sip!@§7[1/3] §2바텐더: §a목마르지 않습니까? 그가 돈을 냈으니 한 모금 마시는게 좋을 겁니다.
+§7[2/3] §2Barman: §aUnless ya don't want alcohol, which would be understandable as a soldier...@§7[2/3] §2바텐더: §a술이 필요 없는거라면 군인으로서는 이해할 수 있는 일이죠.
+§7[3/3] §2Barman: §aThough I'd wonder why you came here in the first place then, heh!@§7[3/3] §2바텐더: §a에초에 여기 왜 오셨는지 궁금하긴 하지만요, 허!
+§7[1/1] §2Honip: §aAlright, that's enough!@§7[1/1] §2호닙: §a좋아, 이제 그만!
+§7[1/2] §2Honip: §aWait, you're already leaving? I'm sure you're interested! I want to take you in an adventure!@§7[1/2] §2호닙: §a잠깐, 벌써 떠나려고? 분명 흥미로울거야! 난 널 모험에 데려가고 싶다고!
+§7[2/2] §2Honip: §aMeet me at the docks, I'll be waiting there!@§7[2/2] §2호닙: §a부두에서 만나자, 거기서 기다릴게!
+§7[4/8] §2Honip: §aSo, I've seen ya around town. Ya even went to the ocean to help that chicken guy!@§7[4/8] §2호닙: §a그래, 마을 근처에서 널 봤어. 심지어 그 닭에 미친 남자를 도우러 바다로 가는 것도 봤다고!
+§7[2/2] §2Seth: §aNot done yet? Well, take your time!@§7[2/2] §2세스: §a아직 안 끝났어? 천천히 하라고!
+§7[1/1] §2Honip: §aJust cast one of your fancy spells!@§7[1/1] §2호닙: §a그냥 너의 멋진 주문을 써보라고!
+§7[1/2] §2Honip: §aHuh? You lost your sponge?@§7[1/2] §2호닙: §a허? 스펀지를 잃어버렸어?
+§7[2/2] §2Honip: §aWell, here's another one for ya'!@§7[2/2] §2호닙: §a그럼 하나 더 받아!
+§7[1/1] §2Barman: §aI've seen lots of pirates, but this... Well, that's no pirate. It's like a child tryin' to act like one.@§7[1/1] §2바텐더: §a아주 많은 해적을 봤지만... 음, 저들은 해적은 아니에요. 마치 꼬마가 해적 놀이를 하는 것 같아요.
+§7[3/3] §2Pirate: §aIf ya want, you can always pick up some seeds 'round here and feed the chicken.@§7[3/3] §2해적: §a원하기만 한다면, 여기서 씨앗을 집어서 닭에게 먹이를 줄 수 있어.
+§7[2/2] §2Pirate: §aHe ain't scared of anything, which makes him the best pirate 'round here!@§7[2/2] §2해적: §a그는 그 무엇도 두려워하지 않아, 그래서 그는 이 배 최고의 해적이야!
+§7[1/4] §2Honip: §aThat was... Phew... That was something.@§7[1/4] §2호닙: §a그게... 휴... 뭔가 있었어.
+§7[2/4] §2Honip: §aNow, for an even bigger surprise...@§7[2/4] §2호닙: §a더 큰 놀라운게 말이야.
+§7[3/4] §2Honip: §aWhat the hell, soldier?? What don't you get in the "soldier" part of your job?@§7[3/4] §2호닙: §a대체 뭐야, 병사?? '군인' 스러운 일은 어디간거지?
+§7[4/4] §2Honip: §aCome, let's figure some things out.@§7[4/4] §2호닙: §a자, 이제 몇가지 생각해 보자고.
+§7[1/7] §2Honip: §aYou've been a massive disappointment, y'know?@§7[1/7] §2호닙: §a정말 실망스러웠어, 너도 알지?
+§7[2/7] §2Honip: §aBut you can still redeem yourself.@§7[2/7] §2호닙: §a하지만 넌 여전히 속죄할 수 있어.
+§7[3/7] §2Honip: §aFollow me, I'll explain on the way.@§7[3/7] §2호닙: §a따라와, 가는 길에 설명해줄게.
+§7[4/7] §2Honip: §aI mentioned a rat problem earlier... It's, uh, not a small one.@§7[4/7] §2호닙: §a쥐 문제가 있다고 전에 말했는데... 그게, 작은 문제가 아니야.
+§7[5/7] §2Honip: §aWe've got gunpowder to retrieve, so you're the one who's gonna clear the hold.@§7[5/7] §2호닙: §a화약을 회수해야 하니까, 네가 화물실로 가야해.
+§7[6/7] §2Honip: §aSo get in there... and try to kill everything, alright?@§7[6/7] §2호닙: §a그러니까, 화물실로 들어가서... 전부 죽여, 알았지?
+§7[7/7] §2Honip: §aDon't be as bad as earlier. You're a soldier.@§7[7/7] §2호닙: §a아까처럼 이상하게 굴지 마. 넌 병사잖아.
+§7[1/1] §2Pirate: §aAlright, I know he was like a fierce chicken or whatever, but this is just ridiculous.@§7[1/1] §2해적: §a좋아, 난 그가 사나운 닭 같았다는 건 알지만, 이건 말도 안 돼.
+§7[4/8] §2Honip: §aSo, I've seen ya around town. You've got the soul of an adventurer, don't ya?@§7[4/8] §2호닙: §a그래, 널 시내에서 봤어. 넌 모험가의 영혼을 가졌어, 그렇지? 
+§7[1/3] §2Barman: §aSo, how did it go? Hold on, why does your head look... swollen?@§7[1/3] §2바텐더: §a그래서, 어떻게 됐습니까? 잠깐만, 왜 머리가... 부어있습니까?
+§7[2/3] §2Barman: §aIt did look fishy. Maybe I should've warned you.@§7[2/3] §2바텐더: §a그건 좀 수상해 보이긴 했어요. 제가 경고했어야 했는데.
+§7[3/3] §2Barman: §aWell, they're still out there aren't they? Isn't it your job to go get 'em?@§7[3/3] §2바텐더: §a녀석들은 아직 밖에 있죠, 안 그런가요? 가서 데려오는게 당신 일 아닙니까?
+§7[1/1] §2Pirate: §aWhat's wrong Pep? Want a bone? Well too bad, we're cleanin' em!@§7[1/1] §2해적: §a오 그래, 펩? 뼈다귀 줄까? 정말 안됐네, 우리가 지금 청소하고 있거든!
+§7[1/1] §2Pirate: §aPep is just a treasure, ain't I right? I'm glad you're taking care of him too!@§7[1/1] §2해적: §a펩은 그냥 보물일 뿐이야, 안 그래? 네가 펩을 돌봐줘서 기뻐!
+§7[1/2] §2Pirate: §aOh, there he is! Hold on...@§7[1/2] §2해적: §a오 저기 있다! 잠깐만...
+§7[2/2] §2Pirate: §aIsn't he the best??@§7[2/2] §2해적: §a최고 아니야?
+§7[1/1] §2Pirate: §aWill these two calm down?! Jeez!@§7[1/1] §2해적: §a이 두 사람이 진정할까?! 이크!
+§7[1/1] §2Pirate: §aEasy there Pep...@§7[1/1] §2해적: §a진정해 펩...
+§7[1/1] §2Pirate: §aHuh? What did you do?? Oh well, whatever...@§7[1/1] §2해적: §a어? 무슨 짓을 한 거야? 뭐, 아무튼
+§7[3/4] §2Honip: §aWell, shiver me timbers! You did redeem yourself, soldier!@§7[3/4] §2호닙: §a음, 아주 떨려! 너 스스로를 구한거야, 병사!
+§7[1/1] §2Seth: §aHonip's probably waitin' for ya by now!@§7[1/1] §2세스: §a지금쯤 호닙이 널 기다리고 있을 거야!
+§7[1/2] §2Seth: §aWelcome back! Any progress?@§7[1/2] §2세스: §a잘 돌아왔어! 진전은 있었어?
+§7[2/2] §2Pirate: §aSnoo saved us all, right? What a crazy lad, heh!@§7[2/2] §2해적: §a스누가 우리 모두를 구했어, 그렇지? 정말 미친녀석이야, 헉!
+§7[1/3] §2Honip: §aHey there fella'. So, the rat situation..?@§7[1/3] §2호닙: §a이봐 친구, 쥐새끼들 상황이...?
+§7[2/3] §2Honip: §aOh, you're not done yet?@§7[2/3] §2호닙: §a아직 안 끝난거야?
+§7[3/3] §2Honip: §aTake it slowly if ya want, that place gives me the creeps...@§7[3/3] §2호닙: §a원한다면 천천히 해, 그 장소가 날 소름끼치게 하거든.
+§7[3/3] §2Honip: §aEager, are ya? Well, that's great!@§7[3/3] §2호닙: §a야유하는거야? 그거 잘됐네!
+§7[2/2] §2Pirate: §aI take back what I said earlier, you might not be a chicken slaughterer.@§7[2/2] §2해적: §a아까 내가 한 말을 취소하지, 넌 닭 도살자가 아닐지도 몰라.

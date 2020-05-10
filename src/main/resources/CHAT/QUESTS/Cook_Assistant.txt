@@ -1,19 +1,18 @@
-§7[1/4] §2The Cook: §aI can't believe what is happening to me!@§7[1/4] §2Повар: §aНе могу поверить, что это случилось со мной!
-§7[2/4] §2The Cook: §aThe King ordered me to bake cakes for all those new recruits!@§7[2/4] §2Повар: §aКороль приказал мне испечь торты для всех новых новобранцев!
-§7[3/4] §2The Cook: §aUnfortunately I don't have the ingredients to make them, and nobody sells those items in the fort!@§7[3/4] §2Повар: §aК сожалению, у меня нет ингредиентов чтобы сделать их, и никто не продает их в нашем городе!
-§7[4/4] §2The Cook: §aYou think you could get me §3[2 Egg]§a, §3[1 Bucket of Milk]§a and §3[3 Wheat Grains]§a really quickly?@§7[4/4] §2Повар: §aКак думаешь, ты сможешь принести мне §3[2 Яйца]§a, §3[1 Ведро молока]§a и §3[3 Пшеничного Зерна]§a очень быстро?
-§7[4/4] §2The Cook: §aYou think you could get me §3[2 Eggs]§a, §3[1 Bucket of Milk]§a and §3[3 Wheat Grains]§a really quickly?@§7[4/4] §2Повар: §aКак думаешь, ты сможешь принести мне §3[2 Яйца]§a, §3[1 Ведро молока]§a и §3[3 Пшеничного Зерна]§a очень быстро?
-§7[1/5] §2The Cook: §aGreat! You got all the ingredients!@§7[1/5] §2Повар: §aОтлично! Ты принес все ингредиенты!
-§7[2/5] §2The Cook: §aI can't thank you enough! Here, take these emeralds for all your trouble.@§7[2/5] §2Повар: §aОчень тебе признателен! Вот, возьми эти эмеральды за все твои проблемы.
-§7[3/5] §2The Cook: §aAlso, have a small slice of the cake too. Don't tell anyone about it though!@§7[3/5] §2Повар: §aКроме того, у меня есть небольшой кусочек торта. Только никому об этом не говори!
-§7[4/5] §2The Cook: §aIt's an §3ingredient§a, you can use it in your recipes to make them powerful and delicious!@§7[4/5] §2Повар: §aЭто ингредиент, который ты можешь использовать в своих рецептах, чтобы сделать их мощными и вкусными!
-§7[5/5] §2The Cook: §aYou know how to craft items right? Cooking works the same way, you should use it before it goes bad.@§7[5/5] §2Повар: §aТы же знаешь, как создавать предметы, верно? Приготовление пищи работает так же. Ты должен использовать его, прежде чем он испортится.
+﻿============================================================================================================================
+§7[1/4] §2The Cook: §aI can't believe what is happening to me!@§7[1/4] §2요리사: §a나한테 무슨 일이 일어나고 있는지 믿을 수가 없군!
+§7[2/4] §2The Cook: §aThe King ordered me to bake cakes for all those new recruits!@§7[2/4] §2요리사: §a폐하께서 나에게 모든 신참을 위한 케이크를 구우라고 명하셨는데...
+§7[3/4] §2The Cook: §aUnfortunately I don't have the ingredients to make them, and nobody sells those items in the fort!@§7[3/4] §2요리사: §a불행히도 케이크를 만들 재료도 없고, 요즘은 사람들이 재료를 팔지도 않아!
+§7[4/4] §2The Cook: §aYou think you could get me §3[2 Eggs]§a, §3[1 Bucket of Milk]§a and §3[3 Wheat Grains]§a really quickly?@§7[4/4] §2요리사: §3[2 계란]§a 과 §3[1 우유 양동이]§a 그리고 §3[3 밀 곡물]§a 을 가져다 줘.
+§7[1/5] §2The Cook: §aGreat! You got all the ingredients!@§7[1/5] §2요리사: §a잘했어! 재료를 다 구했왔군!
+§7[2/5] §2The Cook: §aI can't thank you enough! Here, take these emeralds for all your trouble.@§7[2/5] §2요리사: §a이거 고마워서 어쩌나! 자, 이 에메랄드를 좀 가져가.
+§7[3/5] §2The Cook: §aAlso, have a small slice of the cake too. Don't tell anyone about it though!@§7[3/5] §2요리사: §a그리고 이 케이크 좀 먹어. 아무한테도 말하지 말고!
+§7[4/5] §2The Cook: §aIt's an §3ingredient§a, you can use it in your recipes to make them powerful and delicious!@§7[4/5] §2요리사: §a이건 §3재료§a야. 네가 그걸 조리법에 맞게 사용하면 강력하고 맛있게 만들 수 있을거야!
+§7[5/5] §2The Cook: §aYou know how to craft items right? Cooking works the same way, you should use it before it goes bad.@§7[5/5] §2요리사: §a물건 만드는 법은 알지? 요리도 똑같아, 상하기 전에 써야해.
 
-§7[1/1] §2The Cook: §aYou should practice your cooking, maybe one day you'll become a master chef like myself!@§7[1/1] §2Повар: §aТы должен практиковать свое искусство кулинарии; быть может, в один прекрасный день ты станешь таким же шеф-поваром, как я!
-§7[1/2] §2The Cook: §aI urgently need help! But you aren't experienced enough to help me, yet.@§7[1/2] §2Повар: §aМне срочно нужна помощь! Но у тебя еще недостаточно опыта, чтобы помочь мне.
-§7[2/2] §2The Cook: §aCome back as soon as you reach level 4.@§7[2/2] §2Повар: §aВозвращайся, как только достигнешь 4 уровня.
-§7[1/4] §2The Cook: §aI still need §3[2 Eggs]§a, §3[1 Milk]§a and §3[3 Wheat Grains]§a.@§7[1/4] §2Повар: §aМне все еще нужны §3[2 Яйца]§a, §3[1 Молоко]§a и §3[3 Пшеничного Зерна]§a.
-§7[1/4] §2The Cook: §aI still need §3[2 Eggs]§a, §3[1 Bucket of Milk]§a and §3[3 Wheat Grains]§a.@§7[1/4] §2Повар: §aМне все еще нужны §3[2 Яйца]§a, §3[1 Молоко]§a и §3[3 Пшеничного Зерна]§a.
-§7[2/4] §2The Cook: §aYou can get eggs at the ranch north of Ragni, by killing some chickens.@§7[2/4] §2Повар: §aТы можешь получить яйца на ранчо к северу от Рагни, убив несколько куриц.
-§7[3/4] §2The Cook: §aYou can get milk by buying it from a merchant there as well.@§7[3/4] §2Повар: §aМолоко можешь получить, купив его у торговца там же.
-§7[4/4] §2The Cook: §aYou can get wheat grains by farming some from the fields close to Ragni's north entrance.@§7[4/4] §2Повар: §aТы можешь получить пшеничные зерна, собрав ее с полей рядом с северным входом в Рагни.
+§7[1/1] §2The Cook: §aYou should practice your cooking, maybe one day you'll become a master chef like myself!@§7[1/1] §2요리사: §a요리를 열심히 연습하면, 언젠간 나처럼 뛰어난 요리사가 될지도 모르지!
+§7[1/2] §2The Cook: §aI urgently need help! But you aren't experienced enough to help me, yet.@§7[1/2] §2요리사: §a난 도움이 필요해! 하지만 넌 날 도와줄 만큼 경험이 많진 않군.
+§7[2/2] §2The Cook: §aCome back as soon as you reach level 4.@§7[2/2] §2요리사: §a전투 레벨 4를 달성하면 다시 오라고.
+§7[1/4] §2The Cook: §aI still need §3[2 Eggs]§a, §3[1 Bucket of Milk]§a and §3[3 Wheat Grains]§a.@§7[1/4] §2요리사: §a나는 §3[2 계란]§a 과 §3[1 우유 양동이]§a 그리고 §3[3 밀 곡물]§a 이 필요해.
+§7[2/4] §2The Cook: §aYou can get eggs at the ranch north of Ragni, by killing some chickens.@§7[2/4] §2요리사: §a라그니 북쪽 목장에서 닭 몇 마리를 죽이면 달걀을 구할 수 있을거야.
+§7[3/4] §2The Cook: §aYou can get milk by buying it from a merchant there as well.@§7[3/4] §2요리사: §a그리고 그 목장에 있는 상인에게서 우유를 구매해.
+§7[4/4] §2The Cook: §aYou can get wheat grains by farming some from the fields close to Ragni's north entrance.@§7[4/4] §2요리사: §a또 라그니 북쪽 입구 쪽에 있는 밭 일부를 경작하면 밀 곡물을 얻을 수 있어.

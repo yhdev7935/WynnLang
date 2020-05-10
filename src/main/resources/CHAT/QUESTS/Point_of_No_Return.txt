@@ -1,27 +1,28 @@
-§7[1/5] §2Lutho Citizen: §aWait… It can’t be. Look me in the eyes. You are human, like me.@§7[1/5] §2Житель Луто: §aПодожди ... этого не может быть. Посмотри мне в глаза. Ты человек, как и я.
-§7[2/5] §2Lutho Citizen: §aWell, maybe not anymore. Look around you. These people are barely alive.@§7[2/5] §2Житель Луто: §aЧтож, возможно, уже нет. Посмотри вокруг себя. Эти люди едва живы.
-§7[3/5] §2Lutho Citizen: §aI have kept my eyes because I chose to keep them.@§7[3/5] §2Житель Луто: §aЯ сохранил свои глаза, потому что я решил оставить их.
-§7[4/5] §2Lutho Citizen: §aNow you are here you will have to make that same decision. Just remember this:@§7[4/5] §2Житель Луто: §aРаз уж ты здесь, тебе придется принять то же самое решение. Просто запомни одно:
-§7[5/5] §2Lutho Citizen: §aNo Matter what, you §a§lMUST KEEP GOING§a.@§7[5/5] §2Житель Луто: §aНесмотря ни на что, ты §a§lДОЛЖЕН ПРОДОЛЖАТЬ ДВИГАТЬСЯ§a.
-§7[1/5] §2Lutho Citizen: §aAhh.. A newcomer! Welcome, welcome!@§7[1/5] §2Житель Луто: §aАхх. Новичок! Приветствую, добро пожаловать!
-§7[2/5] §2Lutho Citizen: §aDon't worry, you are safe here. The Obelisk protects.@§7[2/5] §2Житель Луто: §aНе волнуйся, здесь ты в безопасности. Обелиск защищает.
-§7[3/5] §2Lutho Citizen: §aIt arrived here.. Uhm. Hm. You know, I can't remember when.@§7[3/5] §2Житель Луто: §aОн появился здесь.. Хм. Хм. Ты знаешь, я не могу вспомнить когда.
-§7[4/5] §2Lutho Citizen: §aIt's been here a while.@§7[4/5] §2Житель Луто: §aОн здесь уже давно.
-§7[5/5] §2Lutho Citizen: §aAnyway, feel free to look around.@§7[5/5] §2Житель Луто: §aЛадно, не стесняйся, можешь осмотреться.
-§7[1/4] §2Lutho Citizen: §aI can't see why anyone would choose to stay there.@§7[1/4] §2Житель Луто: §aЯ не понимаю, почему кто-то решил остаться там.
-§7[2/4] §2Lutho Citizen: §aI don't blame you for being here.@§7[2/4] §2Житель Луто: §aЯ не виню тебя за то, что ты здесь.
-§7[3/4] §2Lutho Citizen: §aWe all chose this, in the end. There wasn't much of an alternative.@§7[3/4] §2Житель Луто: §aВсе мы выбрали это, в конце концов. Альтернативы не было никакой.
-§7[4/4] §2Lutho Citizen: §aThank Grook that the obelisk is here to help us.@§7[4/4] §2Житель Луто: §aСлава груку, что обелиск здесь помогает нам.
-§7[1/4] §2Lutho Citizen: §aIt's been quite some time since a new face has shown up here.@§7[1/4] §2Житель Луто: §aПрошло довольно много времени с тех пор, как здесь появилось новое лицо.
-§7[2/4] §2Lutho Citizen: §aDon't be fooled, everything you see is very real.@§7[2/4] §2Житель Луто: §aНе обманывай себя, все, что ты видишь здесь очень реально.
-§7[3/4] §2Lutho Citizen: §aAt least, in a sense that matters. The Obelisk protects us.@§7[3/4] §2Житель Луто: §aПо крайней мере, в том смысле, что это имеет значение. Обелиск защищает нас.
-§7[4/4] §2Lutho Citizen: §aYou should go and take a closer look at it.@§7[4/4] §2Житель Луто: §aТы должен пойти и взглянуть на него поближе.
-§7[1/5] §2Lutho Citizen: §aYou- you chose to come back. I saw your eyes disappear, briefly.@§7[1/5] §2Житель Луто: §aТы - ты решил вернуться. Я видел, как твои глаза исчезли, ненадолго.
-§7[2/5] §2Lutho Citizen: §aAs you can see... Everyone in this town chose to stay there.@§7[2/5] §2Житель Луто: §aКак видишь... Все в этом городе решили остаться там.
-§7[3/5] §2Lutho Citizen: §aIt started as just one or two.. But over the years more and more people chose to stay.@§7[3/5] §2Житель Луто: §aВсе началось с одного или двух.. Но с годами все больше и больше людей решали остаться там.
-§7[4/5] §2Lutho Citizen: §aNow the shells are kept functioning by some blessing or curse of the obelisk.@§7[4/5] §2Житель Луто: §aТеперь их тела продолжают функционировать благодаря какому-то благословению или проклятию обелиска.
-§7[5/5] §2Lutho Citizen: §aI’m the last one to choose reality.. Although I wonder if it might just be easier to...@§7[5/5] §2Житель Луто: §aЯ последний, кто выбрал реальность.. Хотя мне интересно, может быть, это было бы проще...
+﻿=================================================================================================================================================
+§7[1/5] §2Lutho Citizen: §aWait… It can’t be. Look me in the eyes. You are human, like me.@§7[1/5] §2루스오 주민: §a잠시만... 그럴 리가 없어. 날 똑바로 쳐다봐봐, 너도 나처럼 인간이네.
+§7[2/5] §2Lutho Citizen: §aWell, maybe not anymore. Look around you. These people are barely alive.@§7[2/5] §2루스오 주민: §a글쎄, 더 이상은 아닐 거야. 네 주변을 봐봐. 이 사람들은 살아있는게 아니야.
+§7[3/5] §2Lutho Citizen: §aI have kept my eyes because I chose to keep them.@§7[3/5] §2루스오 주민: §a난 저들을 지키기 위해 쭉 지켜봐왔어.
+§7[4/5] §2Lutho Citizen: §aNow you are here you will have to make that same decision. Just remember this:@§7[4/5] §2루스오 주민: §a이제 너도 여기 있으니 같은 결정을 해야 해. 단지 이것만 기억해:
+§7[5/5] §2Lutho Citizen: §aNo Matter what, you §a§lMUST KEEP GOING§a.@§7[5/5] §2루스오 주민: §a무슨 일이 있어도, 넌 §a§l계속 가야만 해§a.
+§7[1/5] §2Lutho Citizen: §aAhh.. A newcomer! Welcome, welcome!@§7[1/5] §2루스오 주민: §a아.. 신참! 어서와, 어서와!
+§7[2/5] §2Lutho Citizen: §aDon't worry, you are safe here. The Obelisk protects.@§7[2/5] §2루스오 주민: §a걱정 마, 여기선 안전해. 오벨리스크가 지켜줘.
+§7[3/5] §2Lutho Citizen: §aIt arrived here.. Uhm. Hm. You know, I can't remember when.@§7[3/5] §2루스오 주민: §a이것이 여기에 다다르고.. 흐음. 언제인지 기억이 안 나.
+§7[4/5] §2Lutho Citizen: §aIt's been here a while.@§7[4/5] §2루스오 주민: §a꽤 오래됐어.
+§7[5/5] §2Lutho Citizen: §aAnyway, feel free to look around.@§7[5/5] §2루스오 주민: §a어쨌든, 자유롭게 둘러봐.
+§7[1/4] §2Lutho Citizen: §aI can't see why anyone would choose to stay there.@§7[1/4] §2루스오 주민: §a나는 왜 사람들이 여기 머물기를 결정했는지 알 수 없어.
+§7[2/4] §2Lutho Citizen: §aI don't blame you for being here.@§7[2/4] §2루스오 주민: §a난 네가 여기 있다고 탓하지 않아.
+§7[3/4] §2Lutho Citizen: §aWe all chose this, in the end. There wasn't much of an alternative.@§7[3/4] §2루스오 주민: §a우리 모두 결국은 이걸 선택했어. 대안이 별로 없었어.
+§7[4/4] §2Lutho Citizen: §aThank Grook that the obelisk is here to help us.@§7[4/4] §2루스오 주민: §a오벨리스크가 여기 있어 우리를 도와줘서 다행이야.
+§7[1/4] §2Lutho Citizen: §aIt's been quite some time since a new face has shown up here.@§7[1/4] §2루스오 주민: §a여기 새로운 얼굴이 나타난 건 오랜만이네.
+§7[2/4] §2Lutho Citizen: §aDon't be fooled, everything you see is very real.@§7[2/4] §2루스오 주민: §a속지 마, 네가 보는 건 모두 진짜야.
+§7[3/4] §2Lutho Citizen: §aAt least, in a sense that matters. The Obelisk protects us.@§7[3/4] §2루스오 주민: §a최소한, 어떤 의미에서는 중요해. 오벨리스크는 우리를 보호해줘.
+§7[4/4] §2Lutho Citizen: §aYou should go and take a closer look at it.@§7[4/4] §2루스오 주민: §a너는 가서 자세히 봐야 해.
+§7[1/5] §2Lutho Citizen: §aYou- you chose to come back. I saw your eyes disappear, briefly.@§7[1/5] §2루스오 주민: §a너- 넌 돌아오기로 결정했구나. 잠시 너의 눈이 사라지는 걸 봤었어.
+§7[2/5] §2Lutho Citizen: §aAs you can see... Everyone in this town chose to stay there.@§7[2/5] §2루스오 주민: §a너도 봤다시피... 이 마을 사람들은 여기 머무르기로 했어.
+§7[3/5] §2Lutho Citizen: §aIt started as just one or two.. But over the years more and more people chose to stay.@§7[3/5] §2루스오 주민: §a처음엔 한 명 두 명이었지만.. 몇 년이 지나고 점점 더 많은 사람들이 머무르기로 했어.
+§7[4/5] §2Lutho Citizen: §aNow the shells are kept functioning by some blessing or curse of the obelisk.@§7[4/5] §2루스오 주민: §a현재 그들의 몸은 오벨리스크의 축복 혹은 저주에 의해 계속 기능하고 있어.
+§7[5/5] §2Lutho Citizen: §aI’m the last one to choose reality.. Although I wonder if it might just be easier to...@§7[5/5] §2루스오 주민: §a난 현실을 선택한 마지막 사람이야.. 비록 저 안에 들어가는게 더 편할지 몰라도...
 
-§7[1/1] §2Lutho Guard: §aI don’t think you want to leave here.@§7[1/1] §2Житель Луто: §aЯ не думаю, что ты хочешь уйти отсюда.
-§7[1/1] §2Lutho Guard: §aIf you really want to leave, no one is stopping you. Except maybe yourself.@§7[1/1] §2Житель Луто: §aЕсли ты действительно хочешь уйти, никто тебя не остановит. Кроме разве что себя самого.
-§7[1/1] §2Nothing Folk: §aWait… It can’t be. Look me in the eyes. You are human! But wait, you should really come back when you're level 102.@§7[1/1] §2Обычный Человек: §aПодожди... этого не может быть. Посмотри мне в глаза. Ты же человек! Но подожди, ты действительно должен вернуться, когда достигнешь 102 уровня.
+§7[1/1] §2Lutho Guard: §aI don’t think you want to leave here.@§7[1/1] §2루스오 경비: §a난 당신이 여길 떠나길 원한다고 생각하지 않아.
+§7[1/1] §2Lutho Guard: §aIf you really want to leave, no one is stopping you. Except maybe yourself.@§7[1/1] §2루스오 경비: §a정말 떠나고 싶다면, 그 누구도 널 막지 않을 거야. 너 자신만 빼고는.
+§7[1/1] §2Nothing Folk: §aWait… It can’t be. Look me in the eyes. You are human! But wait, you should really come back when you're level 102.@§7[1/1] §2루스오 주민: §a잠시만... 그럴 리가 없어. 날 똑바로 쳐다봐봐. 너 인간이네! 하지만 잠시만. 전투 레벨 102가 되면 돌아와.

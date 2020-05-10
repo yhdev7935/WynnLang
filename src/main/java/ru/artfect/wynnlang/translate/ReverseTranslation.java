@@ -35,7 +35,7 @@ public class ReverseTranslation {
 
         boolean pressed;
         int key = Reference.keyBindings[0].getKeyCode();
-        pressed = hey < 0 ? ouse.isButtonDown(key + 100) : Keyboard.isKeyDown(key)''
+        pressed = key < 0 ? Mouse.isButtonDown(key + 100) : Keyboard.isKeyDown(key);
 
         if (pressed && !enabled) {
             enabled = true;
@@ -53,7 +53,7 @@ public class ReverseTranslation {
                 translated.put(tClass, translated.get(tClass).inverse());
             }
         } catch (InstantiationException | IllegalAccessException e) {
-            WynnLang.sendMessage("§4Не удалось восстановить оригинальные строки");
+            WynnLang.sendMessage("§4원래 메시지를 복원하지 못했습니다.");
         }
     }
 }

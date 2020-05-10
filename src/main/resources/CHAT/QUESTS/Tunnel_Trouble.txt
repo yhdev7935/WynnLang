@@ -1,57 +1,58 @@
-§7[1/5] §2Captain Fenor: §aAh! You must be a new recruit! Well, I've got a mission for you.@§7[1/5] §2Капитан Фенор: §aТы должно быть новый солдат! Хорошо, у меня есть для тебя миссия.
-§7[2/5] §2Captain Fenor: §aThere's an old cave behind me. It was used in the Corruption Wars...@§7[2/5] §2Капитан Фенор: §aПозади меня есть старая пещера. Она использовалась нами на войне с порчей...
-§7[3/5] §2Captain Fenor: §aWe used it for quick and easy travel between Detlas and Ragni. It’s been abandoned for years.@§7[3/5] §2Капитан Фенор: §aМы использовали её для быстрого перехода между городами Детлас и Рагни. Она заброшена уже много лет
-§7[4/5] §2Captain Fenor: §aThis cave could prove to be very useful for future recruits who need to travel between Detlas and Ragni.@§7[4/5] §2Капитан Фенор: §aЭта пещера может оказаться очень полезной для будущих новобранцев, которым необходимо путешествовать между Детласом и Рагни.
-§7[5/5] §2Captain Fenor: §aNow, here's where you come in- I need you to clear out that cave route so we can use it once more! Good luck, soldier!@§7[5/5] §2Капитан Фенор: §aТеперь вот что мне нужно - чтобы ты очистил этот путь в пещере, чтобы мы могли использовать его еще раз. Удачи, солдат!
-§7[1/3] §2Miner Linton: §aAh, recruit! You must be the one Cap'n Fenor sent!@§7[1/3] §2Шахтер Линтон: §aАх, новобранец! Ты, должно быть, тот, кого послал Кэп Фенор!
-§7[2/3] §2Miner Linton: §aWell, let’s get started then!@§7[2/3] §2Шахтер Линтон: §aНу, давай начнем!
-§7[3/3] §2Miner Linton: §aHelp me clear this debris. Just walk up to it and give it a good shove for me!@§7[3/3] §2Шахтер Линтон: §aПомоги мне очистить этот мусор. Просто подойди к нему и дай ему хорошего пинка ради меня!
-§7[1/1] §2Miner Linton: §aNice job! Let's move cautiously, We don't really know what's down here...@§7[1/1] §2Шахтер Линтон: §aХорошая работа! Давай двигаться осторожно, мы ведь не знаем, что здесь нас ждет...
-§7[1/1] §2Miner Linton: §aWait... Do you hear that? Ah, monsters! Do your job soldier!@§7[1/1] §2Шахтер Линтон: §aПодожди ... Ты слышишь это? Ах, монстры! Делай свою работу, солдат!
-§7[1/2] §2Miner Linton: §aWha?!@§7[1/2] §2Шахтер Линтон: §aЧто?!
-§7[2/2] §2Miner Linton: §aAh, that cave-in just blocked the path! Defend me while I try and make a hole!@§7[2/2] §2Шахтер Линтон: §aАх, камни заблокировали путь! Защити меня, пока я пытаюсь сделать дыру!
-§7[1/1] §2Miner Linton: §aKeep it up! I think I'm half way there!@§7[1/1] §2Шахтер Линтон: §aПродолжай! Кажется, я на половине пути!
-§7[1/1] §2Miner Linton: §aAha! I can see the other side! Just a little more...@§7[1/1] §2Шахтер Линтон: §aАга! Я вижу другую сторону! Еще немного ...
-§7[1/1] §2Miner Linton: §aGot it, I made a hole! Quickly, let's go before we're overrun!@§7[1/1] §2Шахтер Линтон: §aПолучилось, я сделал дыру! Быстро, пойдем, прежде чем нас настигнут!
-§7[1/5] §2Miner Linton: §aThis cave barely seems worth the trouble to me...@§7[1/5] §2Шахтер Линтон: §aЭта пещера будет проблемой для меня ...
-§7[2/5] §2Miner Linton: §aThis wall of debris is much too big for us to be able to move. What do we do now?@§7[2/5] §2Шахтер Линтон: §aЭта стена мусора слишком велика, чтобы мы могли двигаться вперед. Что же нам теперь делать?
-§7[3/5] §2Miner Linton: §ahmm... Maybe if we- wait, what's happening to the wall to the right?@§7[3/5] §2Шахтер Линтон: §aХм ... Может быть, если мы ... подожди, что происходит со стеной справа?
-§7[4/5] §2???: §aOh, uh... Hi... Well, this is a little awkward... I'll just... Go.@§7[4/5] §2???: §aО, ух ... Привет ... Что ж, это немного неловко ... Я, пожалуй, просто ... Пойду.
-§7[5/5] §2Miner Linton: §a...Who§a in the world was that? You can go check that hole out if you want, but I'll stay here and try to think of a solution to this debris.@§7[5/5] §2Шахтер Линтон: §a... Кто это еще был? Ты можешь пойти проверить эту дыру, если хочешь, но я останусь здесь и попытаюсь подумать о решении этой проблемы с мусором.
-§7[1/4] §2Drale: §aOh... Didn't expect you to follow me... Well, um... Hi! This will sound mad but...@§7[1/4] §2Дрэйл: §aО ... Не ожидал, что ты пойдешь за мной ... Ну, мм ... Привет! Это будет звучать безумно, но...
-§7[2/4] §2Drale: §aI'm Drale, and I'm on a mission to free these cows from the enslavement of Katoa Ranch.@§7[2/4] §2Дрэйл: §aМеня зовут Дрэйл, и я нахожусь на задании, чтобы освободить этих коров от порабощения на ранчо Катоа.
-§7[3/4] §2Drale: §aThose farmers stole those cows. They are sacred animals. Now they're about to turn them into steak! If you were to help me, maybe I could help you...@§7[3/4] §2Дрэйл: §aЭти фермеры похитили этих коров. Они священные животные. Теперь они собираются превратить их в стейк! Если бы ты помог мне, возможно, я мог бы помочь и тебе...
-§7[4/4] §2Drale: §aGo free those innocent cows from enslavement! Gosh I wish I was a cow.@§7[4/4] §2Дрэйл: §aОсвободи этих невинных коров от порабощения! Боже, хотел бы я быть коровой.
-§7[1/1] §2Bylvis: §aAh, good to see my cows are all in tip-top shape! Welp, time to feed the townsfolk again!@§7[1/1] §2Билвис: §aАх, приятно видеть, что все мои коровы в хорошей форме! Что ж, пришло время снова кормить горожан!
-§7[1/2] §2Drale: §aThank you so much, but we're not done yet. We need to get these cows out the province.@§7[1/2] §2Дрэйл: §aБольшое тебе спасибо, но мы еще не закончили. Нам нужно вывести этих коров из провинции.
-§7[2/2] §2Drale: §aThere's a small opening behind me. Go through it and help me get these cows on a raft to Gavel!@§7[2/2] §2Дрэйл: §aЗдесь небольшое отверстие позади меня. Пройди через него и помоги мне отправить этих коров на плоту в Гавел!
-§7[1/1] §2Drale: §aThere's the raft! Help me push it for the cows!@§7[1/1] §2Дрэйл: §aТам плот! Помоги мне подтолкнуть его, ради коров!
-§7[1/2] §2Drale: §aAnd, that should do it! Be free, my friends! A new life awaits!@§7[1/2] §2Дрэйл: §aИ это случилось! Будьте свободны, друзья мои! Живите новой жизнью!
-§7[2/2] §2Drale: §aAgain, thank you so much for what you have done this day. These cows deserve a better life than being farm animals.@§7[2/2] §2Дрэйл: §aЕще раз большое спасибо за то, что ты сделал в этот день. Эти коровы заслуживают лучшей жизни, чем просто животные на ферме.
-§7[1/11] §2Miner Linton: §aRecruit, what took you so long? I've been waiting for an hour! What were you doing?@§7[1/11] §2Шахтер Линтон: §aРекрут, почему ты так долго? Я ждал целый час! Что ты делал?
-§7[2/11] §2Miner Linton: §a...You§a helped some crazy cow-obsessed lunatic steal cows from the local farm? Recruit, that's against the law you know...@§7[2/11] §2Шахтер Линтон: §a... Ты помогал какому-то одержимому коровами сумасшедшему красть коров с местной фермы? Рекрут, это против закона, ты в курсе ...
-§7[3/11] §2Miner Linton: §aOh, what do I care? Silly Bovemists.@§7[3/11] §2Шахтер Линтон: §aО, какая мне разница? Глупые бовемисты.
-§7[4/11] §2Miner Linton: §aEither way, we still don't have any means to get rid of this giant pile of rubble...@§7[4/11] §2Шахтер Линтон: §aВ любом случае, у нас все еще нет средств, чтобы избавиться от этой гигантской кучи булыжника ...
-§7[5/11] §2Drale: §aHello again, friend! Did I hear you needed help? Well, have no fear! Cows, to me!@§7[5/11] §2Дрэйл: §aСнова привет, друг! Я слышал, что вам нужна помощь? Что ж, не бойся! Коровы, ко мне!
-§7[6/11] §2Miner Linton: §aWhat in the world?@§7[6/11] §2Шахтер Линтон: §aЧто за?
-§7[7/11] §2Drale: §aSince you helped me with my problem, I thought I should repay that favor by helping you!@§7[7/11] §2Дрэйл: §aПоскольку ты помог мне с моей проблемой, я подумал, что я должен отблагодарить тебя, помогая вам!
-§7[8/11] §2Drale: §aWelp, see ya! Oh, and nice to meet you, miner! Now, let's get going my cows!@§7[8/11] §2Дрэйл: §aХорошо, увидимся! Ох, и приятно познакомиться с тобой тоже, шахтер! Теперь уходим, коровы!
-§7[9/11] §2Miner Linton: §a...What§a just happened? Am I seeing things? You know what, I don't want to know.@§7[9/11] §2Шахтер Линтон: §a... Что только что произошло? Что я видел? Хотя знаешь что, я не хочу это знать.
-§7[10/11] §2Miner Linton: §aAnyway, why don't you go on ahead? I'll be here guarding this passage so nothing else bad happens to it.@§7[10/11] §2Шахтер Линтон: §aВо всяком случае, почему бы тебе не пойти дальше? Я буду здесь охранять этот проход, чтобы с ним ничего плохого не произошло.
-§7[11/11] §2Miner Linton: §aIt was an honor to adventure with you, recruit!@§7[11/11] §2Шахтер Линтон: §aЭто была честь путешествовать с тобой, рекрут!
-§7[1/2] §2Sergeant Klafson: §aRecruit, Captain Fenor told me to meet you here, said if you came out on this side of that tunnel then you completed your mission!@§7[1/2] §2Сержант Клафсон: §aРекрут, Капитан Фенор приказал мне встретиться с тобой здесь. Сказал, что если ты выйдешь на этой стороне этого туннеля, то значит, ты выполнил свою миссию!
-§7[2/2] §2Sergeant Klafson: §aYou did a great deed today, soldier! We can now use this cave to travel easily between Ragni and Detlas! Great job!@§7[2/2] §2Сержант Клафсон: §aСегодня ты сделал великий поступок, солдат! Теперь мы можем использовать эту пещеру, чтобы легко путешествовать между Рагни и Детласом! Отличная работа!
-§7[1/2] §2Bylvis: §aHuh? Hey!@§7[1/2] §2Билвис: §aЭмм? Эй!
-§7[2/2] §2Bylvis: §aWhat do you think you're doing down here? This is private property, you know!@§7[2/2] §2Билвис: §aТы что здесь делаешь? Это частная собственность, знаешь ли!
+﻿===========================================================================================================================
+§7[1/5] §2Captain Fenor: §aAh! You must be a new recruit! Well, I've got a mission for you.@§7[1/5] §2페놀 대위: §a아! 신참이로군! 자넬 위한 임무가 있네.
+§7[2/5] §2Captain Fenor: §aThere's an old cave behind me. It was used in the Corruption Wars...@§7[2/5] §2페놀 대위: §a내 뒤에 오래된 동굴이 있네. 부패와의 전쟁에서 사용되었지...
+§7[3/5] §2Captain Fenor: §aWe used it for quick and easy travel between Detlas and Ragni. It’s been abandoned for years.@§7[3/5] §2페놀 대위: §a우리는 이 동굴을 데틀라스와 라그니 사이를 빠르고 쉽게 통과하기 위해 사용했지만. 이 동굴은 몇 년 동안 버려져 있었어.
+§7[4/5] §2Captain Fenor: §aThis cave could prove to be very useful for future recruits who need to travel between Detlas and Ragni.@§7[4/5] §2페놀 대위: §a이 동굴은 데틀라스와 라그니 사이를 여행해야하는 미래의 신병들에게 매우 유용하게 사용 될 수 있을거야.
+§7[5/5] §2Captain Fenor: §aNow, here's where you come in- I need you to clear out that cave route so we can use it once more! Good luck, soldier!@§7[5/5] §2페놀 대위: §a내가 원하는건 이 동굴로 들어간 다음 동굴의 길을 비워서 다시 사용할 수 있도록 하는 걸세. 그럼 병사, 행운을 비네! 
+§7[1/3] §2Miner Linton: §aAh, recruit! You must be the one Cap'n Fenor sent!@§7[1/3] §2광부 린톤: §a아, 신참! 페놀 대위님이 보낸 사람이 자네로군!
+§7[2/3] §2Miner Linton: §aWell, let’s get started then!@§7[2/3] §2광부 린톤: §a좋아, 그럼 시작하지!
+§7[3/3] §2Miner Linton: §aHelp me clear this debris. Just walk up to it and give it a good shove for me!@§7[3/3] §2광부 린톤: §a이 잔해들을 치우는 것 좀 도와주게. 그냥 다가가서 힘껏 밀쳐!
+§7[1/1] §2Miner Linton: §aNice job! Let's move cautiously, We don't really know what's down here...@§7[1/1] §2광부 린톤: §a잘했네! 이제 조심해서 움직이지, 여기 뭐가 있을지 아무도 모르니...
+§7[1/1] §2Miner Linton: §aWait... Do you hear that? Ah, monsters! Do your job soldier!@§7[1/1] §2광부 린톤: §a잠깐... 이 소리 들었나? 아! 몬스터들이야! 자네가 해야 할 일을 하게 병사!
+§7[1/2] §2Miner Linton: §aWha?!@§7[1/2] §2광부 린톤: §a와!
+§7[2/2] §2Miner Linton: §aAh, that cave-in just blocked the path! Defend me while I try and make a hole!@§7[2/2] §2광부 린톤: §a아, 길이 막혔네! 내가 구멍을 뚫을 동안 날 지켜주게!
+§7[1/1] §2Miner Linton: §aKeep it up! I think I'm half way there!@§7[1/1] §2광부 린톤: §a계속 하게! 반쯤 한 것 같으니!
+§7[1/1] §2Miner Linton: §aAha! I can see the other side! Just a little more...@§7[1/1] §2광부 린톤: §a아하! 반대 쪽이 보이는군! 조금만 더...
+§7[1/1] §2Miner Linton: §aGot it, I made a hole! Quickly, let's go before we're overrun!@§7[1/1] §2광부 린톤: §a좋아, 내가 구멍을 냈어! 당하기 전에 빨리 가지!
+§7[1/5] §2Miner Linton: §aThis cave barely seems worth the trouble to me...@§7[1/5] §2광부 린톤: §a이 동굴은 나에겐 거의 가치 없어 보이는군...
+§7[2/5] §2Miner Linton: §aThis wall of debris is much too big for us to be able to move. What do we do now?@§7[2/5] §2광부 린톤: §a이 잔해의 벽은 우리가 움직일 수 없을 정도로 너무 거대해. 이제 어쩌지?
+§7[3/5] §2Miner Linton: §ahmm... Maybe if we- wait, what's happening to the wall to the right?@§7[3/5] §2광부 린톤: §a음... 아마도 우리가- 잠깐, 오른쪽 벽에서 무슨 일이 일어나는 거야?
+§7[4/5] §2???: §aOh, uh... Hi... Well, this is a little awkward... I'll just... Go.@§7[4/5] §2???: §a오, 어... 안녕... 음, 이거 좀 어색한데... 난 그냥... 갈게.
+§7[5/5] §2Miner Linton: §a...Who§a in the world was that? You can go check that hole out if you want, but I'll stay here and try to think of a solution to this debris.@§7[5/5] §2광부 린톤: §a... 대체 누구였지? 원한다면 그 구멍을 확인해도 되겠지만, 난 여기 남아서 이 잔해들에 대한 해결책을 생각해 보겠네.
+§7[1/4] §2Drale: §aOh... Didn't expect you to follow me... Well, um... Hi! This will sound mad but...@§7[1/4] §2드라일: §a오... 날 따라올 줄은 몰랐는데... 음... 안녕! 미친 소리처럼 들리겠지만...
+§7[2/4] §2Drale: §aI'm Drale, and I'm on a mission to free these cows from the enslavement of Katoa Ranch.@§7[2/4] §2드라일: §a난 드라일이야, 카토아 목장의 노예화 된 소들을 해방시키는 임무를 맡고 있지.
+§7[3/4] §2Drale: §aThose farmers stole those cows. They are sacred animals. Now they're about to turn them into steak! If you were to help me, maybe I could help you...@§7[3/4] §2드라일: §a저 농부들이 소들을 훔쳐갔어. 그들은 신성한 동물이야. 그런데 그들이 이젠 소들을 스테이크로 만들려고 해! 날 도와준다면, 다음엔 내가 널 도울 수 있을지도 몰라.
+§7[4/4] §2Drale: §aGo free those innocent cows from enslavement! Gosh I wish I was a cow.@§7[4/4] §2드라일: §a저 죄 없는 소들을 풀어줘! 난 내가 소였으면 좋겠어.
+§7[1/1] §2Bylvis: §aAh, good to see my cows are all in tip-top shape! Welp, time to feed the townsfolk again!@§7[1/1] §2빌비스: §a아, 이 소들이 전부 최상급인 걸 보니 기분이 좋군! 좋아, 마을 사람들을 먹여 살릴 시간이야!
+§7[1/2] §2Drale: §aThank you so much, but we're not done yet. We need to get these cows out the province.@§7[1/2] §2드라일: §a정말 고맙지만 아직 다 안 끝났어. 우린 이 소들을 윈 지방 밖으로 내보내야 해.
+§7[2/2] §2Drale: §aThere's a small opening behind me. Go through it and help me get these cows on a raft to Gavel!@§7[2/2] §2드라일: §a내 뒤에 작은 구멍이 하나 있어. 구멍을 통과해서 이 소들을 뗏목에 태워 가벨로 보내는 걸 도와줘!
+§7[1/1] §2Drale: §aThere's the raft! Help me push it for the cows!@§7[1/1] §2드라일: §a저기 뗏목이 있어! 소를 위해 뗏목을 밀어주는 것 좀 도와줘!
+§7[1/2] §2Drale: §aAnd, that should do it! Be free, my friends! A new life awaits!@§7[1/2] §2드라일: §a자유로워져야 해, 친구들이여! 새 삶이 기다리고 있다!
+§7[2/2] §2Drale: §aAgain, thank you so much for what you have done this day. These cows deserve a better life than being farm animals.@§7[2/2] §2드라일: §a다시 말하지만, 네가 오늘 한 일에 대해 정말 고맙군. 이 소들은 농장에서 사는 것 보다 더 나은 삶을 살 자격이 있어.
+§7[1/11] §2Miner Linton: §aRecruit, what took you so long? I've been waiting for an hour! What were you doing?@§7[1/11] §2광부 린톤: §a신참, 왜 이렇게 오래 걸렸나? 한 시간이나 기다렸다고! 뭘 하고 있던건가?
+§7[2/11] §2Miner Linton: §a...You§a helped some crazy cow-obsessed lunatic steal cows from the local farm? Recruit, that's against the law you know...@§7[2/11] §2광부 린톤: §a... 소에 집착하는 미친놈이 동네 농장에서 소를 훔치는 걸 도운 거야? 이봐 신참, 그건 법에 어긋나는 일이야. 
+§7[3/11] §2Miner Linton: §aOh, what do I care? Silly Bovemists.@§7[3/11] §2광부 린톤: §a아무튼 그건 나와 상관없는 일이지. 멍청한 보베미스트 놈들.
+§7[4/11] §2Miner Linton: §aEither way, we still don't have any means to get rid of this giant pile of rubble...@§7[4/11] §2광부 린톤: §a아무튼, 우리는 여전히 이 거대한 잔해를 제거할 방법이 없네.
+§7[5/11] §2Drale: §aHello again, friend! Did I hear you needed help? Well, have no fear! Cows, to me!@§7[5/11] §2드라일: §a또 만나는군 친구! 도움이 필요한가? 두려워 하지 마라! 가자 소들아!
+§7[6/11] §2Miner Linton: §aWhat in the world?@§7[6/11] §2광부 린톤: §a대체 무슨 일이야?
+§7[7/11] §2Drale: §aSince you helped me with my problem, I thought I should repay that favor by helping you!@§7[7/11] §2드라일: §a네가 내 문제를 해결해 줬으니, 나도 널 도와야 한다고 생각했지!
+§7[8/11] §2Drale: §aWelp, see ya! Oh, and nice to meet you, miner! Now, let's get going my cows!@§7[8/11] §2드라일: §a좋아, 또 보자! 광부! 만나서 반가워, 이제 가자 나의 소들이여!
+§7[9/11] §2Miner Linton: §a...What§a just happened? Am I seeing things? You know what, I don't want to know.@§7[9/11] §2광부 린톤: §a... 방금 무슨 일이 있었던 거지? 내가 뭘 본 거야? 아냐, 알고 싶지 않아.
+§7[10/11] §2Miner Linton: §aAnyway, why don't you go on ahead? I'll be here guarding this passage so nothing else bad happens to it.@§7[10/11] §2광부 린톤: §a어쨌든, 먼저 가보는게 어떤가? 이 통로를 지키고 있으면 이것보다 나쁜 일은 없겠지.
+§7[11/11] §2Miner Linton: §aIt was an honor to adventure with you, recruit!@§7[11/11] §2광부 린톤: §a신참! 자네의 모험에 함께 할 수 있어서 영광이었네!
+§7[1/2] §2Sergeant Klafson: §aRecruit, Captain Fenor told me to meet you here, said if you came out on this side of that tunnel then you completed your mission!@§7[1/2] §2중사 클라프손: §a신참, 페놀 대위님이 여기서 만나자고 하셨어. 이쪽으로 나오면 임무를 완수한거라고!
+§7[2/2] §2Sergeant Klafson: §aYou did a great deed today, soldier! We can now use this cave to travel easily between Ragni and Detlas! Great job!@§7[2/2] §2중사 클라프손: §a오늘 아주 대단한 일을 했군! 이제 이 동굴을 통해서 라그니와 데틀라스를 쉽게 여행할 수 있겠어! 아주 잘했네!
+§7[1/2] §2Bylvis: §aHuh? Hey!@§7[1/2] §2빌비스: §a허? 이봐!
+§7[2/2] §2Bylvis: §aWhat do you think you're doing down here? This is private property, you know!@§7[2/2] §2빌비스: §a여기서 뭐 하는 거지? 여긴 사유지라고!
 
-§7[1/1] §2Drale: §aStay off of the boat! It's for the cows! Wish I was a cow... §7[Right-Click the boat to push it]@§7[1/1] §2Дрэйл: §aДержись подальше от лодки! Это для коров! Хотел бы я быть коровой... §7[Правый-Клик по лодке, чтобы толкнуть]
-§7[1/1] §2Captain Fenor: §aHey, don't go down there! it's full of many dangers!@§7[1/1] §2Капитан Фенор: §aЭй, не ходи туда! Там полно опасностей!
-§7[1/1] §2Sergeant Klafson: §aI'm sorry, recruit, but that passage is blocked. We used to use it, but not anymore...@§7[1/1] §2Сержант Клафсон: §aИзвини, рекрут, но этот проход заблокирован. Мы использовали его раньше, но это было давно...
-§7[1/1] §2Captain Fenor: §aWelcome back, soldier! Great job clearing out that cave, we can finally use it for great things now!@§7[1/1] §2Капитан Фенор: §aС возвращением, солдат! Отличная работа по очистке этой пещеры, мы можем, наконец, использовать ее сейчас для великих целей!
-§7[1/1] §2Drale: §aWhere are you going? Come here and talk to me first.@§7[1/1] §2Дрэйл: §aКуда ты идешь? Иди сюда и сначала поговори со мной.
-§7[1/1] §2Sergeant Klafson: §aHalt! You cannot go down this cave, it is blocked.@§7[1/1] §2Сержант Клафсон: §aСтоять! Ты не можешь спуститься в эту пещеру, она заблокирована.
-§7[1/1] §2Captain Fenor: §aYou have your orders, recruit. Carry them out!@§7[1/1] §2Капитан Фенор: §aТы получил свой приказ, рекрут. Выполняй!
-§7[1/1] §2Drale: §aGo free those cows from the farmers before they're taken to the slaughterhouse! Oh man, the slaughterhouse...@§7[1/1] §2Дрэйл: §aОсвободи этих коров от фермера, прежде чем их заберут на бойню! О боже, скотобойня...
-§7[1/1] §2Sergeant Klafson: §aHello again, soldier! Doing great things around the province, I presume?@§7[1/1] §2Сержант Клафсон: §aСнова привет, солдат! Делаешь хорошие дела по всей провинции, я полагаю?
-§7[1/1] §2Drale: §aQuickly, go through the hole behind me and help me get these cows to safety!@§7[1/1] §2Дрэйл: §aБыстро, пройди через дыру позади меня и помоги мне доставить этих коров в безопасное место!
-§7[1/1] §2Captain Fenor: §aHello, recruit! I would ask you for a hand with something, but you seem too weak. Maybe when you're level 5...@§7[1/1] §2Капитан Фенор: §aПривет, новобранец! Я бы попросил тебя помочь мне кое с чем, но ты кажешься слишком слабым. Может быть, когда ты достигнешь 5 уровня...
+§7[1/1] §2Drale: §aStay off of the boat! It's for the cows! Wish I was a cow... §7[Right-Click the boat to push it]@§7[1/1] §2드라일: §a보트에서 떨어져! 이건 모두 소들을 위한 일이야! §7[보트를 오른쪽 클릭]§a 으로 밀어내
+§7[1/1] §2Captain Fenor: §aHey, don't go down there! it's full of many dangers!@§7[1/1] §2페놀 대위: §a거기로 내려가지 말게! 위험 요소가 너무 많아!
+§7[1/1] §2Sergeant Klafson: §aI'm sorry, recruit, but that passage is blocked. We used to use it, but not anymore...@§7[1/1] §2중사 클라프손: §a신참, 미안하지만 그 통로는 막혀있네. 예전에는 사용했지만, 지금은...
+§7[1/1] §2Captain Fenor: §aWelcome back, soldier! Great job clearing out that cave, we can finally use it for great things now!@§7[1/1] §2페놀 대위: §a돌아온 걸 환영하네, 병사! 매우 잘 했어. 이제 큰 일에 이 동굴을 쓸 수 있다네!
+§7[1/1] §2Drale: §aWhere are you going? Come here and talk to me first.@§7[1/1] §2드라일: §a어디로 가는 거야? 이리 와서 나한테 먼저 말하라고.
+§7[1/1] §2Sergeant Klafson: §aHalt! You cannot go down this cave, it is blocked.@§7[1/1] §2중사 클라프손: §a정지! 이 동굴은 막혀있으니 내려가지 말게!
+§7[1/1] §2Captain Fenor: §aYou have your orders, recruit. Carry them out!@§7[1/1] §2페놀 대위: §a명령을 받았잖나, 빨리 수행하게!
+§7[1/1] §2Drale: §aGo free those cows from the farmers before they're taken to the slaughterhouse! Oh man, the slaughterhouse...@§7[1/1] §2드라일: §a소들이 도살장으로 끌려가기 전에 저 소들을 풀어줘! 오, 이런, 도살장이라니...
+§7[1/1] §2Sergeant Klafson: §aHello again, soldier! Doing great things around the province, I presume?@§7[1/1] §2중사 클라프손: §a또 보는군 병사! 윈에서 대단한 일을 하고 있나?
+§7[1/1] §2Drale: §aQuickly, go through the hole behind me and help me get these cows to safety!@§7[1/1] §2드라일: §a빨리, 내 뒤에 있는 구멍으로 들어가서, 이 소들을 안전하게 만드는 것을 도와줘!
+§7[1/1] §2Captain Fenor: §aHello, recruit! I would ask you for a hand with something, but you seem too weak. Maybe when you're level 5...@§7[1/1] §2페놀 대위: §a반갑군 신참! 도와달라고 하고 싶지만, 자넨 너무 약해보이는군. 전투 레벨 5가 되면 오게!

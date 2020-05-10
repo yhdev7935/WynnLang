@@ -32,7 +32,7 @@ public class RuCommand implements ICommand {
             Reference.ruChat.sendMessage("m:" + message);
         } else {
             RuChat.defaultChat = !RuChat.defaultChat;
-            WynnLang.sendMessage("§rЧат по умолчанию " + (RuChat.defaultChat ? "§aвключен" : "§cвыключен") + "§r");
+            WynnLang.sendMessage("§r기본 채팅 " + (RuChat.defaultChat ? "§a사용함" : "§c사용 안함") + "§r");
         }
     }
 

@@ -1,26 +1,27 @@
-§7[1/9] §2Omango: §aHi, my name is Omango. I am a resident of the Maltic village, on top of the hill.@§7[1/9] §2Оманго: §aПривет, меня зовут Оманго. Я житель деревни Малтик, что на вершине холма.
-§7[2/9] §2Omango: §aAs you may know, our people came to your land years ago, and this is the ship they used.@§7[2/9] §2Оманго: §aКак ты знаешь, наши люди приплыли сюда на кораблях много лет назад.
-§7[3/9] §2Omango: §aThey brought lots of luxurious goods with them. Most of them got lost in the wreck.@§7[3/9] §2Оманго: §aОни привезли много роскошных богатств с собой. Но многие из них были потеряны при кораблекрушении
-§7[4/9] §2Omango: §aBut recently, this hole you can see has been opened. It is believed that fortune is hidden beneath the waves.@§7[4/9] §2Оманго: §aОднако недавно эта дыра, как видишь, открылась. Считается, что удача скрывается под волнами.
-§7[5/9] §2Omango: §aUnfortunately, nobody has been able to explore this hole. It is too deep, no creature can survive underwater that long!@§7[5/9] §2Оманго: §aК сожалению, никто из нас не может исследовать эту дыру. Она слишком глубокая! Нет никого, кто может продержаться под водой так долго!
-§7[6/9] §2Omango: §aMy old friend Sayrr is a fisherman, and I know that he has a very special helmet...@§7[6/9] §2Оманго: §aМой старый друг Сайар - рыбак, и я знаю, что у него есть специальный шлем...
-§7[7/9] §2Omango: §aIf you can get your hand on this helmet, and find the treasure, I'll give you a part of it!@§7[7/9] §2Оманго: §aЕсли ты достанешь этот шлем, и найдешь сокровища, то я дам тебе часть от них!
-§7[8/9] §2Omango: §aSayrr is probably fishing close by, on his boat. Talk to him, he can help us. He's not short of a kind heart!@§7[8/9] §2Оманго: §aСайар рыбачит где-то рядом, на своей лодке. Поговори с ним, он может нам помочь. У него доброе сердце!
-§7[9/9] §2Omango: §aWhen you finally have the helmet, explore the ship and bring me back §3[4 Ancient Treasure]§a. Good luck.@§7[9/9] §2Оманго: §aКогда достанешь шлем, исследуй корабль и принеси мне §3[4 древних сокровища]§a. Удачи!
-§7[1/6] §2Sayrr: §aWhy ya looking at me like that? Is that because I'm small, eh? I'll let you know that I caught fish that were twice your size!@§7[1/6] §2Сайар: §aПочему ты так смотришь на меня? Это потому что я маленький, да? Чтоб ты знал – я ловил рыбу, которая в 2 раза больше тебя!
-§7[2/6] §2Sayrr: §aBut... why did you hop on my boat, stranger?@§7[2/6] §2Сайар: §aНо... чего тебе надо на моей лодке, незнакомец?
-§7[3/6] §2Sayrr: §aAhah! Yes, I still have that useless breathing helmet. You want it? You'll have to do something for me first.@§7[3/6] §2Сайар: §aАга! У меня есть этот бесполезный шлем для дыхания. Он нужен тебе? Ты должен сделать для меня кое-что сначала.
-§7[4/6] §2Sayrr: §aYou see, I've been fishing for the last three days, and it is going so well, I don't want to go back to Nemract to buy food.@§7[4/6] §2Сайар: §aКак видишь, я рыбачил здесь последние 3 дня, и дела идут хорошо, так что я не хочу возвращаться в Немракт, чтобы купить еды.
-§7[5/6] §2Sayrr: §aGet me something to eat and drink, §3[3 Pigman's Meat]§a and §3[1 Milk]§a will suffice. I'm a growing man! I need sustenance!@§7[5/6] §2Сайар: §aПринеси мне что нибудь выпить и поесть, §3[3 мяса пигмена]§a и §3[1 молока]§a будет достаточно. Я растущий человек! Мне нужно питаться!
-§7[6/6] §2Sayrr: §aThe helmet will be all yours after that.@§7[6/6] §2Сайар: §aЯ дам тебе шлем после этого.
-§7[1/2] §2Sayrr: §aAh! Welcome back! Have you got the food and drink?@§7[1/2] §2Сайар: §aАх! ты вернулся! Принес еду и выпивку?
-§7[2/2] §2Sayrr: §aGreat. Here's your helmet, have fun with that.@§7[2/2] §2Сайар: §aОтлично. Вот твой шлем. Наслаждайся.
-§7[1/2] §2Omango: §aYou got it! You found the treasure!@§7[1/2] §2Оманго: §aТы сделал это! Ты добыл сокровища!
-§7[2/2] §2Omango: §aAs promised, here's your part of the loot.@§7[2/2] §2Оманго: §aКак и обещал, вот твоя доля.
+﻿==========================================================================================================================================
+§7[1/9] §2Omango: §aHi, my name is Omango. I am a resident of the Maltic village, on top of the hill.@§7[1/9] §2오망고: §a반가워, 내 이름은 오망고야. 나는 언덕 꼭대기에 있는 멜틱 마을의 주민이야.
+§7[2/9] §2Omango: §aAs you may know, our people came to your land years ago, and this is the ship they used.@§7[2/9] §2오망고: §a너도 알듯이, 우리 민족은 몇 년 전에 이 땅에 왔고, 이건 그들이 사용하던 배야.
+§7[3/9] §2Omango: §aThey brought lots of luxurious goods with them. Most of them got lost in the wreck.@§7[3/9] §2오망고: §a그들은 많은 사치품들을 가지고 왔지. 하지만 그것 대부분은 이 배가 난파 당하면서 잃어버렸어.
+§7[4/9] §2Omango: §aBut recently, this hole you can see has been opened. It is believed that fortune is hidden beneath the waves.@§7[4/9] §2오망고: §a하지만 최근에 너희가 볼 수 있듯이, 이 구멍이 뚫렸어. 파도 밑에는 행운이 숨어 있을거야.
+§7[5/9] §2Omango: §aUnfortunately, nobody has been able to explore this hole. It is too deep, no creature can survive underwater that long!@§7[5/9] §2오망고: §a불행이도 누구도 이 구멍을 탐험할 수 없었어. 너무 깊거든, 이 깊은 물 속에서는 어떤 생명도 그렇게 오래 있을 수 없어!
+§7[6/9] §2Omango: §aMy old friend Sayrr is a fisherman, and I know that he has a very special helmet...@§7[6/9] §2오망고: §a내 오랜 친구인 세이르는 어부야, 그리고 나는 그가 아주 특별한 모자을 가지고 있다는 걸 알고 있지.
+§7[7/9] §2Omango: §aIf you can get your hand on this helmet, and find the treasure, I'll give you a part of it!@§7[7/9] §2오망고: §a그 헬멧을 손에 넣고 보물을 찾을 수 있다면, 그 일부를 너에게 줄 게!
+§7[8/9] §2Omango: §aSayrr is probably fishing close by, on his boat. Talk to him, he can help us. He's not short of a kind heart!@§7[8/9] §2오망고: §a세이르는 아마 근처 보트에서 낚시를 하고 있을 거야. 그에게 말해 봐, 그가 우릴 도와줄 수 있을거야. 그리 친절한 마음씨를 가진 사람은 아니지만!
+§7[9/9] §2Omango: §aWhen you finally have the helmet, explore the ship and bring me back §3[4 Ancient Treasure]§a. Good luck.@§7[9/9] §2오망고: §a헬멧을 구한다면 배를 탐사하고 §3[4 고대의 보물]§a 을 가져다 줘. 그럼 행운을 빌지.
+§7[1/6] §2Sayrr: §aWhy ya looking at me like that? Is that because I'm small, eh? I'll let you know that I caught fish that were twice your size!@§7[1/6] §2세이르: §a뭘 그렇게 쳐다봐? 내가 작아서 그런가, 응? 난 너보다 두 배나 큰 물고기를 잡은 적이 있다고!
+§7[2/6] §2Sayrr: §aBut... why did you hop on my boat, stranger?@§7[2/6] §2세이르: §a그런데... 왜 내 배에 올라탄거야, 낯선 사람?
+§7[3/6] §2Sayrr: §aAhah! Yes, I still have that useless breathing helmet. You want it? You'll have to do something for me first.@§7[3/6] §2세이르: §a아하! 그래, 내가 아직도 쓸모없는 호흡용 모자를 가지고 있긴 하지. 이걸 줄까? 그러면 우선 날 위해 뭔가를 해줘야 할 거야.
+§7[4/6] §2Sayrr: §aYou see, I've been fishing for the last three days, and it is going so well, I don't want to go back to Nemract to buy food.@§7[4/6] §2세이르: §a지난 3일 동안 낚시를 하고 있는데, 너무 상황이 좋아. 지금 당장은 식량을 사러 넴렉으로 돌아가고 싶지 않아.
+§7[5/6] §2Sayrr: §aGet me something to eat and drink, §3[3 Pigman's Meat]§a and §3[1 Milk]§a will suffice. I'm a growing man! I need sustenance!@§7[5/6] §2세이르: §a먹고 마실 것 좀 갖다 줘, §3[3 피그맨 고기]§a 와 §3[1 우유]§a 면 충분할 거야. 난 성장기야! 먹을게 더 필요해!
+§7[6/6] §2Sayrr: §aThe helmet will be all yours after that.@§7[6/6] §2세이르: §a그렇게 해준다면 헬멧은 네 거야.
+§7[1/2] §2Sayrr: §aAh! Welcome back! Have you got the food and drink?@§7[1/2] §2세이르: §a오! 잘 돌아왔어! 음식이랑 마실 것은 가져왔어?
+§7[2/2] §2Sayrr: §aGreat. Here's your helmet, have fun with that.@§7[2/2] §2세이르: §a좋아, 헬멧은 여기 있어, 재밌게 즐기라고.
+§7[1/2] §2Omango: §aYou got it! You found the treasure!@§7[1/2] §2오망고: §a해냈군! 보물을 찾았잖아!
+§7[2/2] §2Omango: §aAs promised, here's your part of the loot.@§7[2/2] §2오망고: §a약속대로, 여기 네가 가져온 것들의 일부야.
 
-§7[1/1] §2Sayrr: §aIf you want the helmet, bring me §3[3 Pigman's Meat]§a and §3[1 Milk]§a. What are you waiting for? I'm a growing man!@§7[1/1] §2Сайар: §aЕсли ты хочешь шлем, принеси мне §3[3 Мяса Пигмена]§a и §3[1 Молоко]§a. Чего ждешь? Я растущий человек!
-§7[1/1] §2Omango: §aYou are too low level to help me, yet. Come back when you are level 8.@§7[1/1] §2Оманго: §aТы пока слишком низкого уровня, чтобы помочь мне. Вернись, когда достигнешь 8 уровня.
-§7[1/1] §2Omango: §aFind my friend Sayrr, he can give you the helmet. After that, explore the ship and bring me §3[4 Ancient Treasure]§a.@§7[1/1] §2Оманго: §aНайди моего друга Сайара, он может дать тебе шлем. После этого исследуй корабль и принеси мне §3[4 Древнего Сокровища]§a
-§7[1/1] §2Omango: §aGlad to see you again!@§7[1/1] §2Оманго: §aРад снова тебя видеть!
-§7[1/1] §2Sayrr: §aThanks again for the food! I think I may have grown an inch already!@§7[1/1] §2Сайар: §aСпасибо за еду! Думаю, я уже подрос на пару сантиметров!
-§7[1/1] §2Omango: §aIt would be madness to explore this hole without a breathing helmet!@§7[1/1] §2Оманго: §aБыло бы безумием исследовать эту дыру без шлема для дыхания!
+§7[1/1] §2Sayrr: §aIf you want the helmet, bring me §3[3 Pigman's Meat]§a and §3[1 Milk]§a. What are you waiting for? I'm a growing man!@§7[1/1] §2세이르: §a네가 헬멧을 원한다면, §3[3 피그맨 고기]§a 와 §3[1 우유]§a 를 가져와. 뭘 기다리는거야? 난 성장기라고!
+§7[1/1] §2Omango: §aYou are too low level to help me, yet. Come back when you are level 8.@§7[1/1] §2오망고: §a나를 돕기엔 아직 레벨이 너무 낮아. 전투 레벨 8에 돌아오라고. 
+§7[1/1] §2Omango: §aFind my friend Sayrr, he can give you the helmet. After that, explore the ship and bring me §3[4 Ancient Treasure]§a.@§7[1/1] §2오망고: §a내 친구 세이르를 찾아, 그가 너에게 모자을 줄 수 있어. 그 뒤에, 배를 탐험하고 나에게 §3[4 고대의 보물]§a 을 가져다 줘.
+§7[1/1] §2Omango: §aGlad to see you again!@§7[1/1] §2오망고: §a다시 만나 반갑군!
+§7[1/1] §2Sayrr: §aThanks again for the food! I think I may have grown an inch already!@§7[1/1] §2세이르: §a음식 고마워! 벌써 1인치나 자랐을 지도 몰라!
+§7[1/1] §2Omango: §aIt would be madness to explore this hole without a breathing helmet!@§7[1/1] §2오망고: §a호흡용 모자 없이 이 구멍을 탐험하는 것은 미친 짓이야!

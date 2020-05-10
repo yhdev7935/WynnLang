@@ -1,28 +1,29 @@
-§7[1/3] §2Wirt: §aNot so fast, you!@§7[1/3] §2Вирт: §aНе так быстро, ты!
-§7[2/3] §2Wirt: §aMy dad said I can't let any strangers through this passage!@§7[2/3] §2Вирт: §aМой отец сказал не пускать посторонних в этот проход!
-§7[3/3] §2Wirt: §aIf you want access, talk to him, he's the recruiter of the town! His name is Ildan. He's just southwest of here.@§7[3/3] §2Вирт: §aЕсли хочешь пройти, поговори с ним, он наниматель в этом городе! Его зовут Илдан. Он находится к юго-западу отсюда.
-§7[1/10] §2Ildan: §aOh! So you want to become a member of this town?@§7[1/10] §2Илдан: §aОх! Значит ты хочешь стать жителем города?
-§7[2/10] §2Ildan: §aYou will have to help us first, of course!@§7[2/10] §2Илдан: §aТы должен помочь нам, для начала!
-§7[3/10] §2Ildan: §aI'm sure you've noticed, but there is a tribe camp not far from here.@§7[3/10] §2Илдан: §aДумаю ты заметил, что недалеко от нас есть лагерь одного племени.
-§7[4/10] §2Ildan: §aThey used to have a powerful chief, but he eventually died in battle.@§7[4/10] §2Илдан: §aУ них был мощный вожак, но недавно он погиб во время битвы.
-§7[5/10] §2Ildan: §aThe tribe couldn't bear the fact that he was dead. They performed some unethical necromancy spell on him.@§7[5/10] §2Илдан: §aПлемя не смогло смириться с его утратой. И они решили воскресить его с помощью черной магии.
-§7[6/10] §2Ildan: §aThey quickly realised that it was a bad idea, so they locked him in a tomb.@§7[6/10] §2Илдан: §aНо быстро осознав, что это было большой ошибкой, они запечатали его в гробнице.
-§7[7/10] §2Ildan: §aHe keeps reviving his minions and it's causing quite some problems to our army.@§7[7/10] §2Илдан: §aОн продолжает призывать своих миньонов, и они создают проблемы для нашей армии.
-§7[8/10] §2Ildan: §aYou can access the tomb from a sacrificial shrine, I've heard, but I'm not sure how. There are probably hints nearby the shrine.@§7[8/10] §2Илдан: §aГоворят, что к нему можно попасть в гробницу через храм жертвоприношений, но я не знаю как. Возможно, ты найдешь подсказки возле самого алтаря.
-§7[9/10] §2Ildan: §aBring me back §3[1 Antic Bead] §aas a proof of its death, and I will let you become a citizen.@§7[9/10] §2Илдан: §aПринеси мне §3[1 Древние бусы]§a в качестве доказательства его смерти, и тогда я позволю тебе стать жителем города.
-§7[10/10] §2Ildan: §aI've marked the direction to the shrine in your book. Remember, there should be hints right nearby the shrine. Good luck.@§7[10/10] §2Илдан: §aЯ написал координаты в твоей квестовой книге. Помни, что подсказки должны быть прямо рядом со святыней. Удачи.
-§7[1/8] §2Ildan: §aImpressive! You got the bead!@§7[1/8] §2Илдан: §aВеликолепно, ты принес бусы!
-§7[2/8] §2Ildan: §aWell, welcome to this town, adventurer! You are now officially a citizen.@§7[2/8] §2Илдан: §aЧто ж, добро пожаловать в наш город! Ты теперь официально наш житель.
-§7[3/8] §2Ildan: §aOh, but before you go! I do have a few things to say. First, about the beads here.@§7[3/8] §2Илдан: §aАх да, прежде чем уйдешь, мне нужно сказать тебе кое-что. Во-первых, по поводу бус.
-§7[4/8] §2Ildan: §aThe tribesmen accept these as currency, so if you collect enough, I've heard they can offer you powerful masks.@§7[4/8] §2Илдан: §aТе жители племени принимают их как оплату, и если соберешь достаточно много, то за них можно купить неплохую маску.
-§7[5/8] §2Ildan: §aSecond, about the shrine. Now, this is just a rumor, but apparently that tomb is not unique.@§7[5/8] §2Илдан: §aВо-вторых, по поводу алтаря. По слухам, это не единственный такой алтарь в провинции.
-§7[6/8] §2Ildan: §aThere are supposed to be a bunch of these altars scattered around the province, even in Gavel too!@§7[6/8] §2Илдан: §aГоворят, что их много раскидано по всей провинции, и в провинции Гавел тоже!
-§7[7/8] §2Ildan: §aIf true, you should look for them. While the fights will be tough, I would imagine great rewards could be gotten from them!@§7[7/8] §2Илдан: §aЕсли это правда, то ты должен проверить это. Если они действительно настолько сложные, то страшно представить, какие могущественные награды за них тебя ждут!
-§7[8/8] §2Ildan: §aAnyway, I've talked enough. I'm proud to have such a powerful fighter join our town! I wish you luck, friend!@§7[8/8] §2Илдан: §aХотя, довольно болтовни. Я рад видеть такого грозного воина в нашем городе. Желаю тебе удачи, друг!
+===================================================================================================
+§7[1/3] §2Wirt: §aNot so fast, you!@§7[1/3] §2윌트: §a잠깐만, 너
+§7[2/3] §2Wirt: §aMy dad said I can't let any strangers through this passage!@§7[2/3] §2윌트: §a우리 아빠가 이 통로를 낯선 사림이 지나가지 못 하도록 하라고 시켰어!
+§7[3/3] §2Wirt: §aIf you want access, talk to him, he's the recruiter of the town! His name is Ildan. He's just southwest of here.@§7[3/3] §2윌트: §a지나가고 싶어? 그럼 내 아빠와 얘기해 봐. 아빠의 이름은 일단이야. 마을의 신병 모집 담당을 하고 있어.
+§7[1/10] §2Ildan: §aOh! So you want to become a member of this town?@§7[1/10] §2일단: §a오! 그래서 이 마을의 시민이 되고 싶다는 거지?
+§7[2/10] §2Ildan: §aYou will have to help us first, of course!@§7[2/10] §2일단: §a그럼 우릴 먼저 도와야 해!
+§7[3/10] §2Ildan: §aI'm sure you've noticed, but there is a tribe camp not far from here.@§7[3/10] §2일단: §a알고 있을지는 모르겠는데, 여기 주위에 어떤 한 부족이 있어.
+§7[4/10] §2Ildan: §aThey used to have a powerful chief, but he eventually died in battle.@§7[4/10] §2일단: §a그 부족의 부족장은 강한 전사였는데, 죽음을 이길 순 없었지.
+§7[5/10] §2Ildan: §aThe tribe couldn't bear the fact that he was dead. They performed some unethical necromancy spell on him.@§7[5/10] §2일단: §a그런데 그 부족은 그가 죽었다는 것을 믿지 못하고, 그에게 사령술을 썼어.
+§7[6/10] §2Ildan: §aThey quickly realised that it was a bad idea, so they locked him in a tomb.@§7[6/10] §2일단: §a그러고 나서 상황이 안 좋다는걸 깨닫자, 그를 다시 무덤에 가둬버렸지.
+§7[7/10] §2Ildan: §aHe keeps reviving his minions and it's causing quite some problems to our army.@§7[7/10] §2일단: §a그 언데드 부족장은 날마다 자기 수하들을 부활시키고 있고, 그게 우리 트롬즈에 악영향을 끼치기 시작했어.
+§7[8/10] §2Ildan: §aYou can access the tomb from a sacrificial shrine, I've heard, but I'm not sure how. There are probably hints nearby the shrine.@§7[8/10] §2일단: §a주술에 사용된 제단에서 무덤으로 들어갈 수 있다고 하는데, 어떻게 작동시키는 지 몰라. 아마 제단 주위에 힌트가 있을거야.
+§7[9/10] §2Ildan: §aBring me back §3[1 Antic Bead] §aas a proof of its death, and I will let you become a citizen.@§7[9/10] §2일단: §a그를 죽인 증거로 §3[1 괴상한 구슬]§a 을 가져다 줘. 그럼 넌 이제 우리 시민이야.
+§7[10/10] §2Ildan: §aI've marked the direction to the shrine in your book. Remember, there should be hints right nearby the shrine. Good luck.@§7[10/10] §2일단: §a내가 그 제단의 위치를 네 책에다가 표시해 놨어. 기억해, 제단 주위에 힌트가 있을거야. 행운을 빌어.
+§7[1/8] §2Ildan: §aImpressive! You got the bead!@§7[1/8] §2일단: §a진짜? 진짜로 그를 물리치고 구슬을 가져온거야?
+§7[2/8] §2Ildan: §aWell, welcome to this town, adventurer! You are now officially a citizen.@§7[2/8] §2일단: §a그렇다면, 마을에 온 걸 환영해! 넌 이제 우리의 공식적 시민이야.
+§7[3/8] §2Ildan: §aOh, but before you go! I do have a few things to say. First, about the beads here.@§7[3/8] §2일단: §a아! 잠깐! 말해줄 게 있어. 첫번째로, 이 구슬에 대한 것들이야.
+§7[4/8] §2Ildan: §aThe tribesmen accept these as currency, so if you collect enough, I've heard they can offer you powerful masks.@§7[4/8] §2일단: §a그 부족은 이 구슬을 화폐로 사용한다는 것을 들었어. 그러니 이 구슬을 충분히 모아가면, 강력한 가면들로 바꿀 수 있을거야.
+§7[5/8] §2Ildan: §aSecond, about the shrine. Now, this is just a rumor, but apparently that tomb is not unique.@§7[5/8] §2일단: §a두번째로, 제단에 관련된 건데... 소문으로 들은거야. 저런 제단이 하나가 아니라더군!
+§7[6/8] §2Ildan: §aThere are supposed to be a bunch of these altars scattered around the province, even in Gavel too!@§7[6/8] §2일단: §a이 제단들은 윈 지방뿐만 아니라, 가벨 지방에도 있다고 들었어.
+§7[7/8] §2Ildan: §aIf true, you should look for them. While the fights will be tough, I would imagine great rewards could be gotten from them!@§7[7/8] §2일단: §a만약, 이게 사실이라면 한 번 도전해 보는걸 추천해. 그 제단을 돌파한다면, 엄청난 보상을 준다고 하더군!
+§7[8/8] §2Ildan: §aAnyway, I've talked enough. I'm proud to have such a powerful fighter join our town! I wish you luck, friend!@§7[8/8] §2일단: §a무튼, 내가 할 말은 이게 끝이야. 너같이 강력한 병사가 트롬즈에 오다니! 행운을 빌어!
 
-§7[1/1] §2Ildan: §aHave you found the shrine yet? I've heard that throwing something as tribute to it could do the trick... There should be clues about what it might be near the shrine.@§7[1/1] §2Илдан: §aТы уже нашел гробницу? Я слышал, что бросание чего-то в качестве дани ему может помочь... Там должны быть подсказки о том, что это может быть, рядом с гробницей.
-§7[1/1] §2Wirt: §aYou can't enter this passage! You are way too weak to be a member of this town. Come back when you will be level 57.@§7[1/1] §2Вирт: §aТы не можешь войти в этот проход! Ты слишком слаб, чтобы быть жителем этого города. Вернись, когда будешь 57-го уровня.
-§7[1/1] §2Ildan: §aWhat a great day we are having!@§7[1/1] §2Илдан: §aКакой у нас замечательный день!
-§7[1/1] §2Wirt: §aWell... I'm glad it worked out for you.@§7[1/1] §2Вирт: §aЧто ж... Я рад, что у тебя все получилось.
-§7[1/1] §2Passage Guard: §aOnly citizen of Troms can enter the passage! §7[Quest Req: The Passage]@§7[1/1] §2Страж Прохода: §aТолько жители Тромсa могут войти в проход §7[Пройти квест: The Passage]
-§7[1/1] §2Ildan: §aGlad to see you, citizen!@§7[1/1] §2Илдан: §aРад видеть тебя, горожанин!
+§7[1/1] §2Ildan: §aHave you found the shrine yet? I've heard that throwing something as tribute to it could do the trick... There should be clues about what it might be near the shrine.@§7[1/1] §2일단: §a제단을 아직 못 찾았니? 그 제단을 작동 시키려면 무언가가 필요하다고 들었어... 그 근처에서 무언갈 얻어서 작동했던 것 같아.
+§7[1/1] §2Wirt: §aYou can't enter this passage! You are way too weak to be a member of this town. Come back when you will be level 57.@§7[1/1] §2윌트: §a안 돼! 이 통행로를 쓸 수 없어! 아빠에게 소개시켜 주기도 너무 약해 보여. 전투 레벨 57이 되면 다시 와!
+§7[1/1] §2Ildan: §aWhat a great day we are having!@§7[1/1] §2일단: §a얼마나 멋진 날인가!
+§7[1/1] §2Wirt: §aWell... I'm glad it worked out for you.@§7[1/1] §2윌트: §a음... 너가 우리들의 일을 해줘서 정말 좋아. 언제든지 이 통행로를 사용해.
+§7[1/1] §2Passage Guard: §aOnly citizen of Troms can enter the passage! §7[Quest Req: The Passage]@§7[1/1] §2통행로 경비병: §a트롬즈의 시민만 이 통행로를 사용할 수 있습니다! §7[퀘스트 필요: The Passage]
+§7[1/1] §2Ildan: §aGlad to see you, citizen!@§7[1/1] §2일단: §a다시 만나서 반갑군, 병사!

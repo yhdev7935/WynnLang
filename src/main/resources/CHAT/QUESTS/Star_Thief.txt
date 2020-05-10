@@ -1,13 +1,16 @@
-§7[1/5] §2Agent: §aHey you! Human. What are you doing here?@§7[1/5] §2Агент: §aЭй, ты! Человек. Что ты здесь делаешь?
-§7[2/5] §2Agent: §aUnder Villager law any extra terrestrial or extra voidal entities are prohibited and owned by the state.@§7[2/5] §2Агент: §aВ соответствии с законом жителей любые внеземные или пустотные объекты запрещены и принадлежат государству.
-§7[3/5] §2Agent: §aSeeing as you are new to the land, I can't see you being prosecuted, especially a Ragni Guard. @§7[3/5] §2Агент: §aПохоже, что ты новенький в этих землях, и я не вижу, чтоб тебя преследовали, особенно стража Рагни.
-§7[4/5] §2Agent: §aThis meteor is different to what we've seen before. We suspect that direct contact with the meteor is dangerous.@§7[4/5] §2Агент: §aЭтот метеор отличается от тех, что мы видели до этого. Мы подозреваем, что прямой контакт с метеором опасен.
-§7[5/5] §2Agent: §aThe magical radiation doesn't seem to be affecting you at all though. Do you not feel anything? Perhaps you could help me locate it.@§7[5/5] §2Агент: §aНо похоже, что магическая радиация совсем не влияет на тебя. Ты что-нибудь чувствуешь? Похоже, ты сможешь мне помочь разобраться.
-§7[1/1] §2???: §aIt's... mine.@§7[1/1] §2???: §aЭто... мое.
-§7[1/1]§2 Thief:§a§k .... §aI can't control myself...§a§kfjfjfj§a This rock...@§7[1/1]§2 Вор: §a§k ....§aЯ не могу контролировать себя...§kfjfjfj§a Этот камень...
-§7[1/2] §2Thief: §aWhat is... this feeling… No I won't listen.. @§7[1/2] §2Вор: §aЧто это... за чувство... Нет, я не буду слушать...
-§7[2/2] §2Thief: §aI can't... control... my mind... §a§kend me.@§7[2/2] §2Вор: §aЯ... не могу... контролировать свой разум...§kprikonchi menya.
-§7[1/4] §2Agent: §aHello again. Did you find the meteor down there? Why on earth are you holding some?!@§7[1/4] §2Агент: §aПривет, еще раз. Ты нашел там внизу метеор? Почему ты держишь его кусок?!
-§7[2/4] §2Agent: §aI see. This material is incredibly rare and magically powerful. Meteors fall all over Gavel and come in a variety of colours and potency.@§7[2/4] §2Агент: §aПонятно. Этот материал невероятно редкий и очень могущественный. Метеоры падают по всему Гавелу, разных цветов и пропорций.
-§7[3/4] §2Agent: §aWe don't fully understand them, but we know they are dangerous. Every scientist who has studied them has lost their minds.@§7[3/4] §2Агент: §aМы не понимаем их полностью, но мы точно знаем, что они опасны. Даже ученый, который начинал их изучать, сошел с ума.
-§7[4/4] §2Agent: §aThe meteors hold many secrets and powers, maybe the ones we need to end your war. Thank you, here's a small reward for helping us.@§7[4/4] §2Агент: §aМетеоры содержат в себе много секретов и силы, возможно даже ту, которая поможет нам, чтобы закончить твою войну. Спасибо тебе, вот небольшая награда за помощь.
+﻿=====================================================================================
+§7[1/5] §2Agent: §aHey you! Human. What are you doing here?@§7[1/5] §2요원: §a어이 거기! 인간! 너 거기서 뭐하고 있어?
+§7[2/5] §2Agent: §aUnder Villager law any extra terrestrial or extra voidal entities are prohibited and owned by the state.@§7[2/5] §2요원: §a빌리저의 법에 따르면 지구의 것이 아니거나 법적 효력이 없는 물건은 소지를 금지하고 국가에 의해 구속된다고.
+§7[3/5] §2Agent: §aSeeing as you are new to the land, I can't see you being prosecuted, especially a Ragni Guard. @§7[3/5] §2요원: §a보아하니 넌 이 땅에 처음 온 것 같은데, 난 네가 기소되는 것을 볼 수 없어, 특히 라그니 경비대에게 말이야.
+§7[4/5] §2Agent: §aThis meteor is different to what we've seen before. We suspect that direct contact with the meteor is dangerous.@§7[4/5] §2요원: §a이 운석은 우리가 전에 봤던것 과는 달라 보여. 그래서 우리는 운석과 직접 접촉하는 것이 위험할 것 같다고 의심하고 있어.
+§7[5/5] §2Agent: §aThe magical radiation doesn't seem to be affecting you at all though. Do you not feel anything? Perhaps you could help me locate it.@§7[5/5] §2요원: §a하지만 마법의 방사선이 너에겐 아무 영향을 주지 않는 것 같아. 너 지금 아무 느낌도 안나지? 아마도 네가 나에게 운석을 찾도록 도와줄 수 있을 것 같아.
+
+§7[1/1] §2???: §aIt's... mine.@§7[1/1] §2???: §a그건... 내꺼야.
+§7[1/1]§2 Thief:§a§k .... §aI can't control myself...§a§kfjfjfj§a This rock...@§7[1/1] §2도둑: §a§k .... §a난 나 자신을 통제할 수 없어...§a§k크아악§a 이 돌...
+§7[1/2] §2Thief: §aWhat is... this feeling… No I won't listen.. @§7[1/2] §2도둑: §a대체... 이 느낌은… 아니 난 듣지 않을 거야...
+§7[2/2] §2Thief: §aI can't... control... my mind... §a§kend me.@§7[2/2] §2도둑: §a내... 정신을... 통제할 수 없어... §a§k날 끝내줘.
+§7[1/4] §2Agent: §aHello again. Did you find the meteor down there? Why on earth are you holding some?!@§7[1/4] §2요원: §a또 만났네. 저 밑에서 운석을 찾았니? 도대체 어떻게 네가 그것을 들고 있는 거야?!
+§7[2/4] §2Agent: §aI see. This material is incredibly rare and magically powerful. Meteors fall all over Gavel and come in a variety of colours and potency.@§7[2/4] §2요원: §a이 유성을 알 것 같아. 이 물체는 믿기 힘들 만큼 귀하고 매혹적으로 강력해. 운석들은 가벨 전체에 걸쳐 떨어졌고 다양한 색깔들과 잠재력을 가지고 있어.
+§7[3/4] §2Agent: §aWe don't fully understand them, but we know they are dangerous. Every scientist who has studied them has lost their minds.@§7[3/4] §2요원: §a우리는 그것들을 완전히 이해하지 않아, 하지만 그것들이 위험하다는 것은 알고 있지. 그것들을 연구한 과학자들은 정신을 잃어버렸어.
+§7[4/4] §2Agent: §aThe meteors hold many secrets and powers, maybe the ones we need to end your war. Thank you, here's a small reward for helping us.@§7[4/4] §2요원: §a운석들은 많은 비밀과 힘들을 가지고 있어, 어쩌면 이것이 너희들의 전쟁을 끝내는데 필요할지 몰라. 고마워, 우리를 도와준 것에 대한 작은 답례야.
+

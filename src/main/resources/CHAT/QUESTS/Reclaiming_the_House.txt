@@ -1,24 +1,23 @@
-§7[1/7] §2Ahmas: §aAh, a Wynn soldier! You came just in time, recruit!@§7[1/7] §2Ахмас: §aОх, солдат из провинции Винн! Ты пришел как раз вовремя, рекрут!
-§7[2/7] §2Ahmas: §aListen closely, I know you Wynn folk aren't too good at paying attention to detail.@§7[2/7] §2Ахмас: §aСлушай внимательно. Я знаю, что народец из Винн не часто уделяет внимание деталям.
-§7[3/7] §2Ahmas: §aWe used to have two outposts in this vicinity, and now we don't.@§7[3/7] §2Ахмас: §aРаньше у нас было 2 форпоста в этой местности, но теперь их нет.
-§7[4/7] §2Ahmas: §aWhy? Those no good trolls have over run the place and are using it for god knows what!@§7[4/7] §2Ахмас: §aПочему? Эти плохие тролли захватили их, и теперь творят там черт знает что!
-§7[5/7] §2Ahmas: §aYour job, should you take it, is to sneak in, kill the leader and disband the group.@§7[5/7] §2Ахмас: §aТвоя работа, если возьмешься за нее - незаметно проникнуть на форпост, убить лидера и распустить группу.
-§7[6/7] §2Ahmas: §aBut first, you need to do some scouting around, plan a route. Standard procedure for military types such as yourself.@§7[6/7] §2Ахмас: §aНо сперва, ты должен сходить на разведку, спланировать маршрут. Стандартная процедура для военных, вроде тебя.
-§7[7/7] §2Ahmas: §aThere's a watch tower not too far from here, climb up there and look for a route!@§7[7/7] §2Ахмас: §aЗдесь недалеко обзорная башня, поднимись на нее и проложи маршрут!
-§7[1/4] §2Ahmas: §aAs you probably just saw, private, there is an underground entrance into the basement of the outpost.@§7[1/4] §2Ахмас: §aКак ты мог заметить, рядовой, там есть подземный проход в подвале под форпостом.
-§7[2/4] §2Ahmas: §aWe feel that the best way to tackle this task is to sneak in through there.@§7[2/4] §2Ахмас: §aМы думаем, что это лучший способ чтобы проникнуть туда скрытно.
-§7[3/4] §2Ahmas: §aTake a stroll down the river and under the outpost and see about killing their leader. Trolls are completely lost without their “Gurg”!@§7[3/4] §2Ахмас: §aПройдись по реке и проникни под форпост, затем убей их лидера. Тролли разбегутся без своего лидера “Гурга”!
-§7[4/4] §2Ahmas: §aBring me back the §3[Head of the Gurg]§a, or what the trolls call their leader, and we’ll pay you the bounty reward!@§7[4/4] §2Ахмас: §aПринеси мне его §3[Голову Гурга]§a, или как там тролли зовут своего лидера, и ты получишь награду!
-§7[1/3] §2Ahmas: §aGood job, private!@§7[1/3] §2Ахмас: §aОтличная работа, рядовой!
-§7[2/3] §2Ahmas: §aNow we can continue our endless, but rather fruitless purge of the green skins.@§7[2/3] §2Ахмас: §aТеперь мы можем продолжить очищать наши земли от этих зеленокожих.
-§7[3/3] §2Ahmas: §aThere is still a lot to be done, but with the help of you Wynn heroes, we will make it.@§7[3/3] §2Ахмас: §aВпереди еще многое предстоит сделать, но с твоей помощью, герой Винн, мы сделаем это.
+﻿================================================================================================================================
+§7[1/7] §2Ahmas: §aAh, a Wynn soldier! You came just in time, recruit!@§7[1/7] §2아마스: §a아, 윈의 병사로군! 신참, 딱 맞춰서 왔군! 
+§7[2/7] §2Ahmas: §aListen closely, I know you Wynn folk aren't too good at paying attention to detail.@§7[2/7] §2아마스: §a잘 듣게. 윈의 사람들이 세세한 부분까지 신경 쓰지 않는다는 걸 아네.
+§7[3/7] §2Ahmas: §aWe used to have two outposts in this vicinity, and now we don't.@§7[3/7] §2아마스: §a이 근처에 전초기지가 두 개 있었는데 지금은 없어.
+§7[4/7] §2Ahmas: §aWhy? Those no good trolls have over run the place and are using it for god knows what!@§7[4/7] §2아마스: §a왜냐? 트롤들이 그 곳을 점령한 후 자기들의 신을 위해 사용하고 있기 때문이지.
+§7[5/7] §2Ahmas: §aYour job, should you take it, is to sneak in, kill the leader and disband the group.@§7[5/7] §2아마스: §a자네가 해야 할 일은 그곳에 몰래 들어가서, 리더를 죽이고 놈들을 해체하는 걸세.
+§7[6/7] §2Ahmas: §aBut first, you need to do some scouting around, plan a route. Standard procedure for military types such as yourself.@§7[6/7] §2아마스: §a하지만, 먼저 정찰을 좀 하고 계획을 해야 해. 자네 같은 군인을 위한 표준 절차지.
+§7[7/7] §2Ahmas: §aThere's a watch tower not too far from here, climb up there and look for a route!@§7[7/7] §2아마스: §a여기서 그리 멀지 않은 곳에 감시탑이 있네. 저 위로 올라가서 길을 찾아보게!
+§7[1/4] §2Ahmas: §aAs you probably just saw, private, there is an underground entrance into the basement of the outpost.@§7[1/4] §2아마스: §a아마 방금 봤겠지만, 전초기지의 지하로 들어가는 입구가 있네.
+§7[2/4] §2Ahmas: §aWe feel that the best way to tackle this task is to sneak in through there.@§7[2/4] §2아마스: §a우린 이 일을 해결하기 가장 좋은 방법은 지하로 몰래 들어가는 거라고 생각하네.
+§7[3/4] §2Ahmas: §aTake a stroll down the river and under the outpost and see about killing their leader. Trolls are completely lost without their “Gurg”!@§7[3/4] §2아마스: §a강을 따라 걸어가서 전초기지 밑으로 들어간 뒤 놈들의 우두머리를 죽이는 방법을 알아보게.  트롤들은 “그러그” 없이는 아무 것도 할 수 없으니!
+§7[4/4] §2Ahmas: §aBring me back the §3[Head of the Gurg]§a, or what the trolls call their leader, and we’ll pay you the bounty reward!@§7[4/4] §2아마스: §a족장 거그, 아니 트롤들이 우두머리라고 불리는 자에게서 §3[그러그의 머리]§a 을 나에게 가져오게. 그러면 보수를 주겠네!
+§7[1/3] §2Ahmas: §aGood job, private!@§7[1/3] §2아마스: §a잘했네, 병사!
+§7[2/3] §2Ahmas: §aNow we can continue our endless, but rather fruitless purge of the green skins.@§7[2/3] §2아마스: §a이제 우리는 끝없이, 하지만 성과는 없는 그 녹색 피부 놈들을 계속 처형할 수 있네.
+§7[3/3] §2Ahmas: §aThere is still a lot to be done, but with the help of you Wynn heroes, we will make it.@§7[3/3] §2아마스: §a아직 해야 할 일은 많지만, 윈의 영웅들의 도움이 있으니 우린 해낼 수 있을 걸세.
 
 
-§7[1/3] §2Ahmas: §aAh, a Wynn soldier!@§7[1/3] §2Ахмас: §aАх, солдат из Винн!
-§7[2/3] §2Ahmas: §aHold on just a minute, I don't think you're ready just yet.@§7[2/3] §2Ахмас: §aПодожди минутку, я не думаю, что ты уже готов.
-§7[3/3] §2Ahmas: §aPerhaps if you train until you are level 61, you will be able to help.@§7[3/3] §2Ахмас: §aВозможно, если ты будешь тренироваться до 61-го уровня, то сможешь помочь.
-§7[1/1] §2Ahmas: §aWhat are ya standing around for! I wrote your orders in your book private!@§7[1/1] §2Ахмас: §aЧего ты тут стоишь! Я записал приказы в твою книгу, рядовой!
-§7[1/2] §2Ahmas: §aGood work soldier, but don't spend too long celebrating!@§7[1/2] §2Ахмас: §aХорошая работа солдат, но не трать слишком много времени на празднование!
-§7[2/2] §2Ahmas: §aYou have many tasks ahead of you, young recruit!@§7[2/2] §2Ахмас: §aУ тебя впереди еще много задач, молодой рекрут!
-§7[1/2] §2Ahmas: §aStop slacking around, private! Go infiltrate the base!@§7[1/2] §2Ахмас: §aХватит бездельничать, рядовой! Иди и проникни на базу!
-§7[2/2] §2Ahmas: §aYou can access it through the tunnel leading into the basement, under the hill!@§7[2/2] §2Ахмас: §aТы можешь попасть туда через тоннель, ведущий в подвал, под холмом!
+§7[1/3] §2Ahmas: §aAh, a Wynn soldier!@§7[1/3] §2아마스: §a아, 윈의 병사로군!
+§7[2/3] §2Ahmas: §aHold on just a minute, I don't think you're ready just yet.@§7[2/3] §2아마스: §a잠깐, 자넨 아직 준비가 안 된 것 같네.
+§7[3/3] §2Ahmas: §aPerhaps if you train until you are level 61, you will be able to help.@§7[3/3] §2아마스: §a아마 61 전투 레벨까지 훈련하면 날 도와줄 수 있을 걸세.
+§7[1/1] §2Ahmas: §aWhat are ya standing around for! I wrote your orders in your book private!@§7[1/1] §2아마스: §a왜 서 있는 건가! 난 자네의 임무를 퀘스트 북에 적어 놨네!
+§7[1/2] §2Ahmas: §aGood work soldier, but don't spend too long celebrating!@§7[1/2] §2아마스: §a잘했네 병사. 하지만 축하하는데 너무 많은 시간을 허비하지 말게!
+§7[2/2] §2Ahmas: §aYou have many tasks ahead of you, young recruit!@§7[2/2] §2아마스: §a앞으로 해야 할 일이 많으니, 젊은 신참!

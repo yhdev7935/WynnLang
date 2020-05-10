@@ -1,77 +1,79 @@
-§l§6[>] Select This Character@§l§6[>] Выбрать Этого Персонажа
-§6§lDiscoveries@§6§lОткрытия
-§b§lQuests@§b§lКвесты
-§b§lSecret Discoveries@§b§lСекретные Открытия
-§f§lMini-Quests@§f§lМини-Квесты
-§cPotion of Healing§4 [3/3]@§cЗелье Лечения §4 [3/3]
-§cPotion of Healing§4 [2/3]@§cЗелье Лечения §4 [2/3]
-§cPotion of Healing§4 [1/3]@§cЗелье Лечения §4 [1/3]
-§cPotion of Healing§4 [3/3]À@§cЗелье Лечения §4 [3/3]
-§cPotion of Healing§4 [1/3]À@§cЗелье Лечения §4 [1/3]
-§cPotion of Healing§4 [2/3]À@§cЗелье Лечения §4 [2/3]
+§l§6[>] Select This Character@§l§6[>] 이 캐릭터 선택
+§6§lDiscoveries@§6§l발견
+§b§lQuests@§b§l퀘스트
+§b§lSecret Discoveries@§b§l숨겨진 비밀
+§f§lMini-Quests@§f§l미니 퀘스트
+§cPotion of Healing§4 [3/3]@§c회복 포션 §4 [3/3]
+§cPotion of Healing§4 [2/3]@§c회복 포션 §4 [2/3]
+§cPotion of Healing§4 [1/3]@§c회복 포션 §4 [1/3]
+§cPotion of Healing§4 [3/3]À@§c회복 포션 §4 [3/3]
+§cPotion of Healing§4 [1/3]À@§c회복 포션 §4 [1/3]
+§cPotion of Healing§4 [2/3]À@§c회복 포션 §4 [2/3]
 
 ##############################UNIDENTIFIED ITEMS##############################
-§eUnidentified Wand@§eНеидентифицированный Посох
-§dUnidentified Wand@§dНеидентифицированный Посох
-§bUnidentified Wand@§bНеидентифицированный Посох
-§aUnidentified Wand@§aНеидентифицированный Посох
-§cUnidentified Wand@§cНеидентифицированный Посох
-§5Unidentified Wand@§5Неидентифицированный Посох
-§5Unidentified Dagger@§5Неидентифицированный Кинжал
-§eUnidentified Dagger@§eНеидентифицированный Кинжал
-§dUnidentified Dagger@§dНеидентифицированный Кинжал
-§bUnidentified Dagger@§bНеидентифицированный Кинжал
-§aUnidentified Dagger@§aНеидентифицированный Кинжал
-§eUnidentified Bow@§eНеидентифицированный Лук
-§dUnidentified Bow@§dНеидентифицированный Лук
-§bUnidentified Bow@§bНеидентифицированный Лук
-§aUnidentified Bow@§aНеидентифицированный Лук
-§cUnidentified Bow@§cНеидентифицированный Лук
-§5Unidentified Bow@§5Неидентифицированный Лук
-§eUnidentified Spear@§eНеидентифицированное Копье
-§dUnidentified Spear@§dНеидентифицированное Копье
-§bUnidentified Spear@§bНеидентифицированное Копье
-§aUnidentified Spear@§aНеидентифицированное Копье
-§5Unidentified Spear@§5Неидентифицированное Копье
-§eUnidentified Helmet@§eНеидентифицированный Шлем
-§dUnidentified Helmet@§dНеидентифицированный Шлем
-§bUnidentified Helmet@§bНеидентифицированный Шлем
-§aUnidentified Helmet@§aНеидентифицированный Шлем
-§cUnidentified Helmet@§cНеидентифицированный Шлем
-§fUnidentified Helmet@§fНеидентифицированный Шлем
-§eUnidentified Chestplate@§eНеидентифицированный Нагрудник
-§dUnidentified Chestplate@§dНеидентифицированный Нагрудник
-§bUnidentified Chestplate@§bНеидентифицированный Нагрудник
-§aUnidentified Chestplate@§aНеидентифицированный Нагрудник
-§cUnidentified Chestplate@§cНеидентифицированный Нагрудник
-§5Unidentified Chestplate@§5Неидентифицированный Нагрудник
-§eUnidentified Leggings@§eНеидентифицированные Штаны
-§dUnidentified Leggings@§dНеидентифицированные Штаны
-§bUnidentified Leggings@§bНеидентифицированные Штаны
-§aUnidentified Leggings@§aНеидентифицированные Штаны
-§cUnidentified Leggings@§cНеидентифицированные Штаны
-§eUnidentified Boots@§eНеидентифицированные Ботинки
-§dUnidentified Boots@§dНеидентифицированные Ботинки
-§bUnidentified Boots@§bНеидентифицированные Ботинки
-§aUnidentified Boots@§aНеидентифицированные Ботинки
-§cUnidentified Boots@§cНеидентифицированные Ботинки
-§5Unidentified Boots@§5Неидентифицированные Ботинки
-§eUnidentified Ring@§eНеидентифицированное Кольцо
-§dUnidentified Ring@§dНеидентифицированное Кольцо
-§bUnidentified Ring@§bНеидентифицированное Кольцо
-§aUnidentified Ring@§aНеидентифицированное Кольцо
-§cUnidentified Ring@§cНеидентифицированное Кольцо
-§eUnidentified Bracelet@§eНеидентифицированный Браслет
-§dUnidentified Bracelet@§dНеидентифицированный Браслет
-§bUnidentified Bracelet@§bНеидентифицированный Браслет
-§aUnidentified Bracelet@§aНеидентифицированный Браслет
-§cUnidentified Bracelet@§cНеидентифицированный Браслет
-§eUnidentified Necklace@§eНеидентифицированный Амулет
-§dUnidentified Necklace@§dНеидентифицированный Амулет
-§bUnidentified Necklace@§bНеидентифицированный Амулет
-§aUnidentified Necklace@§aНеидентифицированный Амулет
-§cUnidentified Necklace@§cНеидентифицированный Амулет
-§dUnidentified Relik@§dНеидентифицированный Релик
-§eUnidentified Relik@§eНеидентифицированный Релик
-§bUnidentified Relik@§bНеидентифицированный Релик
-§5Unidentified Relik@§5Неидентифицированный Релик
+§5Unidentified Wand@§5감정되지 않은 완드
+§eUnidentified Wand@§e감정되지 않은 완드
+§dUnidentified Wand@§d감정되지 않은 완드
+§bUnidentified Wand@§b감정되지 않은 완드
+§aUnidentified Wand@§a감정되지 않은 완드
+§cUnidentified Wand@§c감정되지 않은 완드
+§5Unidentified Dagger@§5감정되지 않은 단검
+§eUnidentified Dagger@§e감정되지 않은 단검
+§dUnidentified Dagger@§d감정되지 않은 단검
+§bUnidentified Dagger@§b감정되지 않은 단검
+§aUnidentified Dagger@§a감정되지 않은 단검
+§cUnidentified Dagger@§c감정되지 않은 단검
+§5Unidentified Bow@§5감정되지 않은 활
+§eUnidentified Bow@§e감정되지 않은 활
+§dUnidentified Bow@§d감정되지 않은 활
+§bUnidentified Bow@§b감정되지 않은 활
+§cUnidentified Bow@§c감정되지 않은 활
+§aUnidentified Bow@§a감정되지 않은 활
+§5Unidentified Spear@§5감정되지 않은 창
+§eUnidentified Spear@§e감정되지 않은 창
+§dUnidentified Spear@§d감정되지 않은 창
+§bUnidentified Spear@§b감정되지 않은 창
+§cUnidentified Spear@§c감정되지 않은 창
+§aUnidentified Spear@§a감정되지 않은 창
+§eUnidentified Helmet@§e감정되지 않은 투구
+§dUnidentified Helmet@§d감정되지 않은 투구
+§bUnidentified Helmet@§b감정되지 않은 투구
+§aUnidentified Helmet@§a감정되지 않은 투구
+§cUnidentified Helmet@§c감정되지 않은 투구
+§fUnidentified Helmet@§f감정되지 않은 투구
+§5Unidentified Chestplate@§5감정되지 않은 흉갑
+§eUnidentified Chestplate@§e감정되지 않은 흉갑
+§dUnidentified Chestplate@§d감정되지 않은 흉갑
+§bUnidentified Chestplate@§b감정되지 않은 흉갑
+§aUnidentified Chestplate@§a감정되지 않은 흉갑
+§cUnidentified Chestplate@§c감정되지 않은 흉갑
+§eUnidentified Leggings@§e감정되지 않은 바지
+§dUnidentified Leggings@§d감정되지 않은 바지
+§bUnidentified Leggings@§b감정되지 않은 바지
+§aUnidentified Leggings@§a감정되지 않은 바지
+§cUnidentified Leggings@§c감정되지 않은 바지
+§5Unidentified Boots@§5감정되지 않은 신발
+§eUnidentified Boots@§e감정되지 않은 신발
+§dUnidentified Boots@§d감정되지 않은 신발
+§bUnidentified Boots@§b감정되지 않은 신발
+§aUnidentified Boots@§a감정되지 않은 신발
+§cUnidentified Boots@§c감정되지 않은 신발
+§eUnidentified Ring@§e감정되지 않은 반지
+§dUnidentified Ring@§d감정되지 않은 반지
+§bUnidentified Ring@§b감정되지 않은 반지
+§aUnidentified Ring@§a감정되지 않은 반지
+§cUnidentified Ring@§c감정되지 않은 반지
+§eUnidentified Bracelet@§e감정되지 않은 팔찌
+§dUnidentified Bracelet@§d감정되지 않은 팔찌
+§bUnidentified Bracelet@§b감정되지 않은 팔찌
+§aUnidentified Bracelet@§a감정되지 않은 팔찌
+§cUnidentified Bracelet@§c감정되지 않은 팔찌
+§eUnidentified Necklace@§e감정되지 않은 목걸이
+§dUnidentified Necklace@§d감정되지 않은 목걸이
+§bUnidentified Necklace@§b감정되지 않은 목걸이
+§aUnidentified Necklace@§a감정되지 않은 목걸이
+§cUnidentified Necklace@§c감정되지 않은 목걸이
+§dUnidentified Relik@§d감정되지 않은 렐릭
+§eUnidentified Relik@§e감정되지 않은 렐릭
+§bUnidentified Relik@§b감정되지 않은 렐릭
+§5Unidentified Relik@§5감정되지 않은 렐릭

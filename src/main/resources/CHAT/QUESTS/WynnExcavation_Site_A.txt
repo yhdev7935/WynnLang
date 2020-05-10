@@ -1,30 +1,31 @@
-§7[1/4] §2Vade: §aOh, hey kid. Wanna make some money?@§7[1/4] §2Вейд: §aОх, привет мальчуган. Не хочешь подзаработать?
-§7[2/4] §2Vade: §aI need you to translate this ancient text.@§7[2/4] §2Вейд: §aМне нужен ты, чтобы помочь перевести древний текст.
-§7[3/4] §2Vade: §aJust run it down to the lab assistant, Tesha.@§7[3/4] §2Вейд: §aПросто сбегай в палатку-лабораторию моего ассистента, его зовут Теша.
-§7[4/4] §2Vade: §aI'd take it myself, but I'm far too important for grunt work! The lab is up there in the tent, and don't you dare damage the translation!@§7[4/4] §2Вейд: §aЯ бы сам сходил, но занят здесь раскопками! Его лаборатория наверху в палатке, и смотри не повреди текст!
-§7[1/8] §2Tesha: §aHello, welcome to WynnExcavation Labs!@§7[1/8] §2Теша: §aПривет и добро пожаловать в лабораторию ВиннЭкскавейшен!
-§7[2/8] §2Tesha: §aOh Vade sent you?@§7[2/8] §2Теша: §aОх, Вейд прислал тебя?
-§7[3/8] §2Tesha: §aOh yes, the tablet I was waiting for!@§7[3/8] §2Теша: §aАх да, дощечка, которую я ждал!
-§7[4/8] §2Tesha: §a...@§7[4/8] §2Теша: §a...
-§7[5/8] §2Tesha: §aOh my! This is quite interesting..@§7[5/8] §2Теша: §aОго! Это должно быть интересно..
-§7[6/8] §2Tesha: §aHere let me finish this up...@§7[6/8] §2Теша: §aТак, дай-ка я закончу...
-§7[7/8] §2Tesha: §a..and there you are!@§7[7/8] §2Теша: §a...и готово!
-§7[8/8] §2Tesha: §aOne tablet complete! Return it to Vade. Oh and don't read it!@§7[8/8] §2Теша: §aОдна дощечка готова! Отдай ее Вейду. Ох, и смотри не читай!
-§7[1/6] §2Vade: §aWho are you?@§7[1/6] §2Вейд: §aТы кто?
-§7[2/6] §2Vade: §aOh right, you're that kid I sent out!@§7[2/6] §2Вейд: §aОх, точно, ты тот мальчуган, которого я отправлял!
-§7[3/6] §2Vade: §aWell do you have the translated text or not?@§7[3/6] §2Вейд: §aТак перевод у тебя или нет?
-§7[4/6] §2Vade: §aYou do! Brilliant! Let's take a look at that...@§7[4/6] §2Вейд: §aАга! Великолепно! Дай-ка мне взглянуть...
-§7[5/6] §2Vade: §a"Throw tribute an item to the wood that stands out, the right angle will open the way"@§7[5/6] §2Вейд: §a"Брось ценный предмет на деревянную плиту, правильный угол откроет путь"
-§7[6/6] §2Vade: §aI wonder if it is talking about inside the temple... Oh, uh, I forgot you were here. Stay out of this kid, it's grown up business!@§7[6/6] §2Вейд: §aМне кажется, что речь идёт о чём-то внутри храма...Ох, ух, я и забыл что ты тут. Держись от этого подальше, мальчуган, это опасный бизнес!
-§7[1/4] §2Vade: §aHey kid, did you just come from the tomb?@§7[1/4] §2Вейд: §aЭй, мальчуган, ты что, вернулся из гробницы?
-§7[2/4] §2Vade: §aI knew I shouldn't have been so lazy and got someone else to do the leg work!@§7[2/4] §2Вейд: §aЯ знаю, что не должен быть ленивым и ждать, что кто-то сделает мою работу!
-§7[3/4] §2Vade: §aGosh, I can't tell my boss about this, he'll have my head! Literally! Wynn Excavation is not a group you want to betray, they are more powerful than you will ever know.@§7[3/4] §2Вейд: §aЧёрт, босс не должен узнать об этом, пока я еще ношу голову на плечах! Буквально! ВиннЭкскавейшен это тебе не кучка болванов! Мы намного сильнее, чем ты думаешь.
-§7[4/4] §2Vade: §aYOU'D BETTER NOT HAVE TAKEN ANYTHING! THAT IS OFFICIAL WYNNEXCAVATION PROPERTY!@§7[4/4] §2Вейд: §aТЕБЕ ЛУЧШЕ УБИРАТЬСЯ ОТСЮДА! ЭТО ОФИЦИАЛЬНАЯ СОБСТВЕННОСТЬ КОМПАНИИ ВИННЭКСКАВЕЙШЕН!
+================================================================================================
+§7[1/4] §2Vade: §aOh, hey kid. Wanna make some money?@§7[1/4] §2바데: §a어, 이봐 애송이. 돈 좀 벌고 싶나?
+§7[2/4] §2Vade: §aI need you to translate this ancient text.@§7[2/4] §2바데: §a네가 이 고대 문자를 번역해 줬으면 해.
+§7[3/4] §2Vade: §aJust run it down to the lab assistant, Tesha.@§7[3/4] §2바데: §a실험실 조수인 테샤한테 전해줘.
+§7[4/4] §2Vade: §aI'd take it myself, but I'm far too important for grunt work! The lab is up there in the tent, and don't you dare damage the translation!@§7[4/4] §2바데: §a내가 직접 가야 하지만, 이 힘든 일 때문에 너무 바빠! 실험실은 저기 천막 안에 있어. 그리고 번역에 지장을 주지 않도록 조심해!
+§7[1/8] §2Tesha: §aHello, welcome to WynnExcavation Labs!@§7[1/8] §2테샤: §a안녕, 윈 발굴현장 실험실에 온 걸 환영해!
+§7[2/8] §2Tesha: §aOh Vade sent you?@§7[2/8] §2테샤: §a바데가 널 보냈구나?
+§7[3/8] §2Tesha: §aOh yes, the tablet I was waiting for!@§7[3/8] §2테샤: §a오 그래, 내가 기다리고 있던 석판이야!
+§7[4/8] §2Tesha: §a...@§7[4/8] §2테샤: §a...
+§7[5/8] §2Tesha: §aOh my! This is quite interesting..@§7[5/8] §2테샤: §a세상에! 이거 꽤 흥미로운걸...
+§7[6/8] §2Tesha: §aHere let me finish this up...@§7[6/8] §2테샤: §a내가 번역을 끝내보지.
+§7[7/8] §2Tesha: §a..and there you are!@§7[7/8] §2테샤: §a그... 자 여기!
+§7[8/8] §2Tesha: §aOne tablet complete! Return it to Vade. Oh and don't read it!@§7[8/8] §2테샤: §a다 됐어! 바데에게 돌려줘. 아 그리고 읽으면 안 돼!
+§7[1/6] §2Vade: §aWho are you?@§7[1/6] §2바데: §a누구야?
+§7[2/6] §2Vade: §aOh right, you're that kid I sent out!@§7[2/6] §2바데: §a아 맞다. 내가 보냈던 놈이었구먼.
+§7[3/6] §2Vade: §aWell do you have the translated text or not?@§7[3/6] §2바데: §a그래서, 번역본은 가지고 왔니?
+§7[4/6] §2Vade: §aYou do! Brilliant! Let's take a look at that...@§7[4/6] §2바데: §a좋아! 잘했어! 어디 한번 볼까...
+§7[5/6] §2Vade: §a"Throw tribute an item to the wood that stands out, the right angle will open the way"@§7[5/6] §2바데: §a"눈에 띄는 나무에 귀중한 물건을 던져라, 그 모퉁이가 길을 열 것이다."
+§7[6/6] §2Vade: §aI wonder if it is talking about inside the temple... Oh, uh, I forgot you were here. Stay out of this kid, it's grown up business!@§7[6/6] §2바데: §a이게 신전 안에 대해 말하고 있는 건지 궁금한걸... 아, 어, 네가 여기 있었는지 까먹고 있었네. 여기서 이제 꺼져, 꼬맹이. 일이 커졌다고!
+§7[1/4] §2Vade: §aHey kid, did you just come from the tomb?@§7[1/4] §2바데: §a너, 설마 방금 무덤에서 나온거니?
+§7[2/4] §2Vade: §aI knew I shouldn't have been so lazy and got someone else to do the leg work!@§7[2/4] §2바데: §a다른 사람한테 이 일을 시켜선 안된다는 걸 알고 있었는데! 왜 이리 게을렀지?
+§7[3/4] §2Vade: §aGosh, I can't tell my boss about this, he'll have my head! Literally! Wynn Excavation is not a group you want to betray, they are more powerful than you will ever know.@§7[3/4] §2바데: §a이런, 사장에게 이 일이 흘러들어가선 안 돼. 그가 내 머리통을 날려버릴 거야! 말 그대로! 윈 발굴회사는 네가 만만하게 볼 회사가 아니야. 그들은 네가 아는 것보다 훨씬 강력해.
+§7[4/4] §2Vade: §aYOU'D BETTER NOT HAVE TAKEN ANYTHING! THAT IS OFFICIAL WYNNEXCAVATION PROPERTY!@§7[4/4] §2바데: §a아무것도 가져가지 마! 그건 엄밀히 윈 발굴회사의 소유물이야!
 
-§7[1/1] §2Vade: §aHey, did you get the writing for me? I need the §3[Ancient Writing]§a!@§7[1/1] §2Вейд: §aЭй, ты достал для меня письмена? Мне нужны §3[Древние Письмена]§a!
-§7[1/1] §2Tesha: §aOh hey it's you! Wynn Excavation has its eye on you.@§7[1/1] §2Теша: §aО, привет, это ты! ВиннЭкскавейшен следит за тобой.
-§7[1/1] §2Vade: §aHey kid, can't you see I'm busy here? Come back when you're level 35.@§7[1/1] §2Вейд: §aЭй, парень, разве ты не видишь я занят? Возвращайся, когда достигнешь 35 уровня.
-§7[1/1] §2Tesha: §aTake that to Vade, and don't read it!@§7[1/1] §2Теша: §aОтнеси это Вейду, и не читай!
-§7[1/1] §2Vade: §aWhat are you still doing over here? Go finish your assignment! It's written in your quest book.@§7[1/1] §2Вейд: §aПочему ты все еще здесь? Иди заканчивай свое задание! Оно написано в твоей квестовой книге.
-§7[1/1] §2Vade: §aWell, I figured it out soon after you got back. We possess the crystal, don't go looking for Wynn Excavation again, all is not what it seems. Take that as a friendly warning.@§7[1/1] §2Вейд: §aЧто ж, я все понял вскоре после твоего возвращения. Мы завладели кристаллом, не пытайся мешать ВиннЭкскавейшен снова; все не так, как кажется. Прими это как дружеское предупреждение.
-§7[1/1] §2Tesha: §aTake that to vade, and don't read it!@§7[1/1] §2Теша: §aОтнеси это Вейду, и не читай!
+§7[1/1] §2Vade: §aHey, did you get the writing for me? I need the §3[Ancient Writing]§a!@§7[1/1] §2바데: §a이봐, 그 글은 가져왔어? 나는 §3[고대의 글]§a 이 필요해!
+§7[1/1] §2Tesha: §aOh hey it's you! Wynn Excavation has its eye on you.@§7[1/1] §2테샤: §a오 그래 너구나! 윈 발굴회사는 널 주시하고 있어.
+§7[1/1] §2Vade: §aHey kid, can't you see I'm busy here? Come back when you're level 35.@§7[1/1] §2바데: §a이봐 애송아, 나 바쁜 거 안 보여? 35 전투 레벨이 되면 오도록 해.
+§7[1/1] §2Tesha: §aTake that to Vade, and don't read it!@§7[1/1] §2테샤: §a그걸 바데한테 전해줘. 그리고 읽으면 안 돼!
+§7[1/1] §2Vade: §aWhat are you still doing over here? Go finish your assignment! It's written in your quest book.@§7[1/1] §2바데: §a아직도 여기서 뭐해? 가서 네 임무를 끝내! 너의 퀘스트 북에 적혀있어.
+§7[1/1] §2Vade: §aWell, I figured it out soon after you got back. We possess the crystal, don't go looking for Wynn Excavation again, all is not what it seems. Take that as a friendly warning.@§7[1/1] §2바데: §a음, 네가 돌아오기 전 무언가를 알아냈지. 너 크리스탈을 챙겼지? 다시는 윈 발굴현장을 찾아가지 마. 모든 게 보이는 것과는 달라. 친절한 경고로 받아들여.
+§7[1/1] §2Tesha: §aTake that to vade, and don't read it!@§7[1/1] §2테샤: §a그걸 바데한테 전해줘, 그리고 읽으면 안 돼!

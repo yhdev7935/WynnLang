@@ -1,0 +1,121 @@
+{
+  "ru/artfect/wynnlang/Multithreading$1": {
+    "name": "ru/artfect/wynnlang/Multithreading$1",
+    "interfaces": [
+      "java/util/concurrent/ThreadFactory"
+    ]
+  },
+  "ru/artfect/wynnlang/Multithreading$2": {
+    "name": "ru/artfect/wynnlang/Multithreading$2",
+    "interfaces": [
+      "java/util/concurrent/ThreadFactory"
+    ]
+  },
+  "ru/artfect/wynnlang/Network": {
+    "name": "ru/artfect/wynnlang/Network",
+    "annotations": [
+      {
+        "type": "METHOD",
+        "name": "Lnet/minecraftforge/fml/common/eventhandler/SubscribeEvent;",
+        "target": "joinServer(Lnet/minecraftforge/fml/common/network/FMLNetworkEvent$ClientConnectedToServerEvent;)V"
+      },
+      {
+        "type": "METHOD",
+        "name": "Lnet/minecraftforge/fml/common/eventhandler/SubscribeEvent;",
+        "target": "onDisc(Lnet/minecraftforge/fml/common/network/FMLNetworkEvent$ClientDisconnectionFromServerEvent;)V"
+      }
+    ]
+  },
+  "ru/artfect/wynnlang/RuChat": {
+    "name": "ru/artfect/wynnlang/RuChat",
+    "annotations": [
+      {
+        "type": "METHOD",
+        "name": "Lnet/minecraftforge/fml/common/eventhandler/SubscribeEvent;",
+        "target": "sendToDefaultChat(Lnet/minecraftforge/client/event/ClientChatEvent;)V"
+      }
+    ]
+  },
+  "ru/artfect/wynnlang/UpdateManager": {
+    "name": "ru/artfect/wynnlang/UpdateManager",
+    "annotations": [
+      {
+        "type": "METHOD",
+        "name": "Lnet/minecraftforge/fml/common/eventhandler/SubscribeEvent;",
+        "target": "onWynnCraftJoin(Lnet/minecraftforge/fml/common/network/FMLNetworkEvent$ClientConnectedToServerEvent;)V",
+        "values": {
+          "priority": {
+            "type": "ENUM",
+            "value": "Lnet/minecraftforge/fml/common/eventhandler/EventPriority;/LOW"
+          }
+        }
+      }
+    ]
+  },
+  "ru/artfect/wynnlang/WynnLang": {
+    "name": "ru/artfect/wynnlang/WynnLang",
+    "annotations": [
+      {
+        "type": "CLASS",
+        "name": "Lnet/minecraftforge/fml/common/Mod;",
+        "target": "ru/artfect/wynnlang/WynnLang",
+        "values": {
+          "acceptedMinecraftVersions": {
+            "value": "[1.12.2]"
+          },
+          "modid": {
+            "value": "wynnlang"
+          },
+          "name": {
+            "value": "WynnLang"
+          },
+          "version": {
+            "value": "2.2.1"
+          }
+        }
+      },
+      {
+        "type": "METHOD",
+        "name": "Lnet/minecraftforge/fml/common/Mod$EventHandler;",
+        "target": "preinit(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V"
+      },
+      {
+        "type": "METHOD",
+        "name": "Lnet/minecraftforge/fml/common/Mod$EventHandler;",
+        "target": "init(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V"
+      }
+    ]
+  },
+  "ru/artfect/wynnlang/command/RuCommand": {
+    "name": "ru/artfect/wynnlang/command/RuCommand",
+    "interfaces": [
+      "net/minecraft/command/ICommand"
+    ]
+  },
+  "ru/artfect/wynnlang/command/WynnLangCommand": {
+    "name": "ru/artfect/wynnlang/command/WynnLangCommand",
+    "interfaces": [
+      "net/minecraft/command/ICommand"
+    ]
+  },
+  "ru/artfect/wynnlang/translate/MessageHandler": {
+    "name": "ru/artfect/wynnlang/translate/MessageHandler",
+    "annotations": [
+      {
+        "type": "METHOD",
+        "name": "Lnet/minecraftforge/fml/common/eventhandler/SubscribeEvent;",
+        "target": "onMessage(Lnet/minecraftforge/client/event/ClientChatReceivedEvent;)V"
+      }
+    ]
+  },
+  "ru/artfect/wynnlang/translate/ReverseTranslation": {
+    "name": "ru/artfect/wynnlang/translate/ReverseTranslation",
+    "annotations": [
+      {
+        "type": "METHOD",
+        "name": "Lnet/minecraftforge/fml/common/eventhandler/SubscribeEvent;",
+        "target": "tick(Lnet/minecraftforge/fml/common/gameevent/TickEvent$ClientTickEvent;)V"
+      }
+    ]
+  }
+}

@@ -1,58 +1,58 @@
 ########################Tribal Sanctuary#######################
-§7[1/2]§2 Tribe Zombie Chieftain: §aOutsiders! Kill the outsiders!@§7[1/2]§2 Tribe Zombie Chieftain: §aЧужак! Убейте чужака!
-§7[2/2]§2 Tribe Zombies: §aKill the outsiders!@§7[2/2]§2 Tribe Zombies: §aУбить чужака!
+§7[1/2]§2 Tribe Zombie Chieftain: §aOutsiders! Kill the outsiders!@§7[1/2]§2 좀비 부족 족장: §a칩입자! 칩입자를 죽여라!
+§7[2/2]§2 Tribe Zombies: §aKill the outsiders!@§7[2/2]§2 좀비 부족원: §a침입자를 죽여라!
 
 #########################Bovine Barn############################
-§7[1/1]§2 Durum Protector:§a You will not be allowed to defile this sanctum of nature!@§7[1/1]§2 Durum Protector:§a §aТебе не позволено осквернять это святилище природы!
+§7[1/1]§2 Durum Protector:§a You will not be allowed to defile this sanctum of nature!@§7[1/1]§2 듀럼 수호자:§a §a이 자연의 신성함을 더럽히는 걸 허락하지 않겠다!
 
 ######################Arena of the Legends########################
-§7[1/2]§2 Legend Trainers:§a Aha, someone is arriving to test their might!@§7[1/2]§2 Legend Trainers:§a §aАга, кто-то прибыл, чтобы проверить свою мощь! 
-§7[2/2]§2 Grand Magus:§a If you wish to take up your place among the legends, prove yourself! Defeat us!@§7[2/2]§2 Grand Magus:§a §aЕсли ты хочешь занять свое место среди легенд, покажи себя! Победи нас!
+§7[1/2]§2 Legend Trainers:§a Aha, someone is arriving to test their might!@§7[1/2]§2 전설의 사원 트레이너:§a §a아, 누군가가 도전하기 위에 왔습니다!
+§7[2/2]§2 Grand Magus:§a If you wish to take up your place among the legends, prove yourself! Defeat us!@§7[2/2]§2 대마법사:§a §a전설들의 자리에 이름을 올리고 싶다면 그걸 증명하게. 우리를 쓰러드려 보게나!
 
 ##########################Rotten Passage#########################
-§7[1/4] §2Haros: §aCome on, we've nearly broken through to Saint's Row! Detonate it already!@§7[1/4] §2Haros: §aДавайте, мы уже почти прорвались к кладбищу Saint's Row! Взорвите его уже!
-§7[2/4] §2Haros: §aTheir east side is undefended. We will overrun the town! Charon will regret banishing us all!@§7[2/4] §2Haros: §aИх восточная сторона не защищена. Мы захватим город! Charon пожалеет, что изгнал нас всех!
-§7[3/4] §2Haros: §aWHAT! A human?! How did they find out about our plans?!@§7[3/4] §2Haros: §aЧТО! Человек?! Как он узнал о наших планах?!
-§7[4/4] §2Haros: §aSoldiers! Destroy the interloper! We cannot let them keep us from our goal!@§7[4/4] §2Haros: §aСолдаты! Уничтожьте нарушителя! Мы не можем позволить ему помешать нашей цели!
+§7[1/4] §2Haros: §aCome on, we've nearly broken through to Saint's Row! Detonate it already!@§7[1/4] §2하로스: §a어서! 세인츠 로우를 거의 다 부쉈어! 폭발물을 준비해!
+§7[2/4] §2Haros: §aTheir east side is undefended. We will overrun the town! Charon will regret banishing us all!@§7[2/4] §2하로스: §a동쪽은 무방비하지. 마을을 점령해! 카론이 우리를 추방한 것을 후회하게 해주겠어!
+§7[3/4] §2Haros: §aWHAT! A human?! How did they find out about our plans?!@§7[3/4] §2하로스: §a뭐야! 인간?! 저놈이 우리의 계획을 어떻게 알아낸거지?!
+§7[4/4] §2Haros: §aSoldiers! Destroy the interloper! We cannot let them keep us from our goal!@§7[4/4] §2하로스: §a병사들이여! 침입자를 처치해라! 우리의 목표가 코 앞이다!
 
 #############################Sunrise Canyon##################
-§7[1/2]§2 Rymek Luke:§a I hope you know yer trespassin' on private property. Either you get on out of here right now or draw.@§7[1/2]§2 Rymek Luke:§aНадеюсь, ты знаешь, что вторгся на частную собственность. Либо ты уходишь отсюда прямо сейчас, либо сдаешься. 
-§7[2/2]§2 Rymek Luke:§a And if you draw... You ain't leaving this here canyon alive!@§7[2/2]§2 Rymek Luke:§aИ если ты сдаешься... То все равно не покинешь этот каньон живым!
+§7[1/2]§2 Rymek Luke:§a I hope you know yer trespassin' on private property. Either you get on out of here right now or draw.@§7[1/2]§2 리멕 루크:§a사유지에 무단침입한 것을 알고있나? 여기서 당장 나가. 아니면 끌어내겠어.
+§7[2/2]§2 Rymek Luke:§a And if you draw... You ain't leaving this here canyon alive!@§7[2/2]§2 리멕 루크:§a만약 내가 널 끌어내게 한다면... 그건 네 시체가 될거다!
 
 ###########################Geyser Pit###########################
-§7[1/1] §2Mining Mech TERA-4M: §aINTRUDER DETECTED. OBJECTIVE: REMOVE FOREIGN PRESENCE FROM MINING OPERATION.@§7[1/1] §2Mining Mech TERA-4M: §aНАРУШИТЕЛЬ ОБНАРУЖЕН. ЦЕЛЬ: ИСКЛЮЧИТЬ ЧУЖОЕ ПРИСУТСТВИЕ НА ГОРНОДОБЫВАЮЩИХ РАБОТАХ.
+§7[1/1] §2Mining Mech TERA-4M: §aINTRUDER DETECTED. OBJECTIVE: REMOVE FOREIGN PRESENCE FROM MINING OPERATION.@§7[1/1] §2광질 기계 ㅌㅔ라-4M: §a침입자 발견. 목표: 침입자를 이 장소에서 제거할 것.
 
 ###########################Wybel Altar######################
-§7[1/4] §2????: §aOh... Looks like you found me out. I had been expecting you not to find this place. Ah awell!@§7[1/4] §2????: §aОх... Похоже, ты меня нашел. Я ожидал, что ты не сможешь найти это место. Ну что ж!
-§7[2/4] §2????: §aYou know, I'll give you a chance to leave. Just turn around. We can just forget this ever happened.@§7[2/4] §2????: §aЗнаешь, я просто дам тебе шанс уйти. Просто развернись. Мы можем просто забыть об этом.
-§7[3/4] §2????: §aIf you come into my room, I won't hesitate to kill you. Are you really gonna throw away your life just to see me?@§7[3/4] §2????: §aЕсли ты войдешь в мою комнату, я без колебаний убью тебя. Ты правда собираешься расстаться со своей жизнью, чтобы увидеть меня?
-§7[4/4] §2????: §aThis is your last chance, I'm telling you. Turn right back around the way you came, or I can't be held responsible for what happens next.@§7[4/4] §2????: §aЭто твой последний шанс. Говорю же тебе. Поверни назад, откуда пришел, или я не отвечаю за то, что будет дальше.
+§7[1/4] §2????: §aOh... Looks like you found me out. I had been expecting you not to find this place. Ah awell!@§7[1/4] §2????: §a어... 날 찾아낸 거 같네. 네가 여길 못 찾을 줄 알았는데.
+§7[2/4] §2????: §aYou know, I'll give you a chance to leave. Just turn around. We can just forget this ever happened.@§7[2/4] §2????: §a아무튼, 내가 너에게 도망칠 기회를 주겠어. 그대로 돌아가. 우리 모두 평화롭게 해결할 수 있어.
+§7[3/4] §2????: §aIf you come into my room, I won't hesitate to kill you. Are you really gonna throw away your life just to see me?@§7[3/4] §2????: §a만약 네가 내 방에 온다면, 난 널 끔찍하게 죽일꺼야. 네 목숨을 던져가면서 날 보고 싶어?
+§7[4/4] §2????: §aThis is your last chance, I'm telling you. Turn right back around the way you came, or I can't be held responsible for what happens next.@§7[4/4] §2????: §a이건 마지막 기회야, 난 말했어. 네가 온 곳으로 돌아가. 안그러면 끔찍한 시간을 보내게 될거야.
 
 #############################Prison of Souls#########################
-§7[1/2]§2 The Beast: §aEscape...so close...need power...@§7[1/2]§2 The Beast: §aПобег...так близко...нужна сила...
-§7[2/2]§2 The Beast: §aMore power...you...T§a§kA§aKE YO§a§kU§aRS!@§7[2/2]§2 The Beast: §aБольше силы... ты... ЗА§a§kBRA§aТЬ ТВ§a§kO§aЮ!
+§7[1/2]§2 The Beast: §aEscape...so close...need power...@§7[1/2]§2 괴수: §a탈출... 곧... 힘이 필요해...
+§7[2/2]§2 The Beast: §aMore power...you...T§a§kA§aKE YO§a§kU§aRS!@§7[2/2]§2 괴수: §a힘이... 너에게서... 너§a§kBRA§a을 가§a§kO§a가마!
 
 ######################Plague Laboratory##########################
-§7[1/2]§2 Olux Plague Doctor:§a Hm? Aha, so the noises I heard were an uninvited guest rummaging about my laboratory...@§7[1/2]§2 Olux Plague Doctor:§a Хм? Ага, значит, шум, который я слышал, был незваным гостем, рывшимся в моей лаборатории...
-§7[2/2]§2 Olux Plague Doctor:§a Well, I do suppose it would be rude to hide the fruits of my study from you. Perhaps you will even provide just what I need to complete my next experiment!@§7[2/2]§2 Olux Plague Doctor:§a Что ж, полагаю, было бы невежливо скрывать от тебя плоды моего исследования. Возможно, ты даже дашь мне именно то, что нужно для завершения моего следующего эксперимента!
+§7[1/2]§2 Olux Plague Doctor:§a Hm? Aha, so the noises I heard were an uninvited guest rummaging about my laboratory...@§7[1/2]§2 올렉스 역병 의사:§a 음? 그 소리는 역시 불청객이 내 연구실에 왔다는 의미였군...
+§7[2/2]§2 Olux Plague Doctor:§a Well, I do suppose it would be rude to hide the fruits of my study from you. Perhaps you will even provide just what I need to complete my next experiment!@§7[2/2]§2 올렉스 역병 의사:§a 아무튼, 내 연구의 결실을 너에게 보여주지. 그리고 넌 내 새로운 실험체가 될거야!
 
 ###################Aerie of the Recluse#############################
-§7[1/2] §2Adamastor: §aWhy must you humans always try to intervene in matters that aren't your own?@§7[1/2] §2Adamastor: §aПочему вы, люди, всегда пытаетесь вмешаться не в свои дела? 
-§7[2/2] §2Adamastor: §aLeave, now... Or we will bring your death. And we will ensure that there will be no one to bring you back, either.@§7[2/2] §2Adamastor: §aУходи, сейчас же... Или мы заберем твою жизнь. И позаботимся о том, чтобы никто не смог тебе ее вернуть.
+§7[1/2] §2Adamastor: §aWhy must you humans always try to intervene in matters that aren't your own?@§7[1/2] §2애더마스터: §a왜 너희 인간들은 자신의 일이 아닌것에 사사곳곳 시비를 털고 다닐까?
+§7[2/2] §2Adamastor: §aLeave, now... Or we will bring your death. And we will ensure that there will be no one to bring you back, either.@§7[2/2] §2애더마스터: §a당장 나가, 아니면... 여기서 죽여주마. 그리고 널 찾으러 온 사람도 똑같이 만들어주지.
 
 ########################Altar of Sanctification#########################
-§7[1/12] §2§kSkien§2: §a...@ 
-§7[2/12] §2§kSkien§2: §a... I... Who... W§a§khe§are am... Who are...§4you§a?@§7[2/12] §2§kSkien§2: §a... Я... Кто... Г§a§kd§aе я... Кто...§4ты§a?
-§7[3/12] §2§kSkien§2: §aYou are... §a§kYou §aare... I can feel §4magic§a from you... §4§kT§4he§4§ki§4r §amagic...@§7[3/12] §2§kSkien§2: §aТыы... §a§kEto §aты... Я чувствую §4магию§a от тебя... §4И§4§kh §aмагию...
-§7[4/12] §2§kSkien§2: §aBut you are h§a§ku§aman...@§7[4/12] §2§kSkien§2: §a§aНо ты ведь ч§a§kel§aовек...
-§7[5/12] §2§kSkien§2: §aTraitor...@§7[5/12] §2§kSkien§2: §aПредатель...
-§7[6/12] §2§kSkien§2: §4TRAITOR!!!@§7[6/12] §2§kSkien§2: §4ПРЕДАТЕЛЬ!!!
-§7[7/12] §2§kSkien§2: §4TRAITOR §c§kNO NO §4NO WE HAVE LOST §4§kWE A§4RE FALLEN I §4HAVE FAI§4§kLED@§7[7/12] §2§kSkien§2: §4ПРЕДАТЕЛЬ §c§kNET NET §4НЕТ МЫ ПРОИГРАЛИ §4§kMI §4ПАЛИ  Я §4НЕ СПРАВ§4§kILSA
-§7[8/12] §2§kSkien§2: §4TR§c§kAIT§4OR WHY YOU §4§lV§4§l§kILLAGER§4S DA§c§kMN§4ED MAGIC USERS §c§lNO N§c§l§kO NO I §4§lMUST K§4§l§kILL THE §4§lTRAITOR@§7[8/12] §2§kSkien§2: §4ПР§c§kEDAT§4ЕЛЬ ЗАЧЕМ §4§lЖ§4§l§kITEL§4И ЧЕР§c§kTO§4ВЫ ПОЛЬЗОВАТЕЛИ МАГИИ §c§lНЕТ НЕ§c§l§kT НЕТ Я §4§lДОЛЖЕН У§4§l§kBITA §4§lПРЕДАТЕЛЯ
-§7[9/12] §2§kSkien§2: §4§kMUST §c§lKILL §4THE T§4§kRAITOR@§7[9/12] §2§kSkien§2: §4§kDOLZEN §c§lУБИТЬ ПР§4§kEDATELA
-§7[10/12] §2§kSkien§2: §4T§4§kHE §4TRAI§4§kT§4OR MUST §4§l§oDIE@§7[10/12] §2§kSkien§2: §4ПРЕД§4§kA§4ТЕЛЬ ДОЛЖЕН §4§l§oУМЕРЕТЬ
-§7[11/12] §2§kSkien§2: §4DIE D§4§kI§4E DIE D§4§kIE@§7[11/12] §2§kSkien§2: §4УМРИ У§4§kMR§4И УМРИ У§4§kMRI
-§7[12/12] §2§kSkien§2: §4§lDIE D§4§l§kIE DIE DIE §4DI§4§kE DIE §c§l§oDIE §4§kDIE DIE DIE D§4I§4§kE DIE@§7[12/12] §2§kSkien§2: §4§lУМРИ У§4§l§kMRI UMRI UMRI §4УМ§4§kRI UMRI §c§l§oУМРИ §4§kUMRI UMRI UMRI U§4М§4§kRI UMRI
+§7[1/12] §2§kSkien§2: §a...@
+§7[2/12] §2§kSkien§2: §a... I... Who... W§a§khe§are am... Who are...§4you§a?@§7[2/12] §2§kSkien§2: §a... 나... 누구... 여§a§kd§a어 디... 넌...§4누구§a?
+§7[3/12] §2§kSkien§2: §aYou are... §a§kYou §aare... I can feel §4magic§a from you... §4§kT§4he§4§ki§4r §amagic...@§7[3/12] §2§kSkien§2: §a넌... §a§kYou §a... §4마법§a이 너에게 느껴져... §4그§4§kh §a들의 마법...
+§7[4/12] §2§kSkien§2: §aBut you are h§a§ku§aman...@§7[4/12] §2§kSkien§2: §a§a하지만 넌§a§kel§a간 인데...
+§7[5/12] §2§kSkien§2: §aTraitor...@§7[5/12] §2§kSkien§2: §a배신자...
+§7[6/12] §2§kSkien§2: §4TRAITOR!!!@§7[6/12] §2§kSkien§2: §4배신자!!!
+§7[7/12] §2§kSkien§2: §4TRAITOR §c§kNO NO §4NO WE HAVE LOST §4§kWE A§4RE FALLEN I §4HAVE FAI§4§kLED@§7[7/12] §2§kSkien§2: §4배신자 §c§kNO NO §4우린 패배했다! §4§kWE §4는 타락했다!  나 또한 §4타락§4§kLED
+§7[8/12] §2§kSkien§2: §4TR§c§kAIT§4OR WHY YOU §4§lV§4§l§kILLAGER§4S DA§c§kMN§4ED MAGIC USERS §c§lNO N§c§l§kO NO I §4§lMUST K§4§l§kILL THE §4§lTRAITOR@§7[8/12] §2§kSkien§2: §4배§c§kATIOR§4왜 넌 §4§l이상한§4§l §kITEL§4같은 §c§kTO§4마법을 사용했지? §c§l안 돼§c§l§kO NO I §4§l배신자§4§l§k KILL§4§l 죽인다
+§7[9/12] §2§kSkien§2: §4§kMUST §c§lKILL §4THE T§4§kRAITOR@§7[9/12] §2§kSkien§2: §4§kMUST §c§l배신자 죽§4§kKILLYOU
+§7[10/12] §2§kSkien§2: §4T§4§kHE §4TRAI§4§kT§4OR MUST §4§l§oDIE@§7[10/12] §2§kSkien§2: §4배§4§kR§4자 반드시 §4§l§o죽인다
+§7[11/12] §2§kSkien§2: §4DIE D§4§kI§4E DIE D§4§kIE@§7[11/12] §2§kSkien§2: §4죽어 죽§4§kE§4죽어 §4§kDIE
+§7[12/12] §2§kSkien§2: §4§lDIE D§4§l§kIE DIE DIE §4DI§4§kE DIE §c§l§oDIE §4§kDIE DIE DIE D§4I§4§kE DIE@§7[12/12] §2§kSkien§2: §4§l죽어 죽§4§l§kIE DIE DIE §4죽§4§kIE §c§l§o죽어 §4§kDIE DIE DIE D§4어§4§kDIE DIE
 
 #######################Challenge of the Blades#####################
-§7[1/1] §2Blade of Shade: §aAha...you'll be a very interesting quarry to catch, human...@§7[1/1] §2Blade of Shade: §aАга...Ты будешь очень интересной пойманной жертвой, человек...
+§7[1/1] §2Blade of Shade: §aAha...you'll be a very interesting quarry to catch, human...@§7[1/1] §2그림자의 검: §a아... 넌 매우 흥미로운 사냥감이야, 인간...

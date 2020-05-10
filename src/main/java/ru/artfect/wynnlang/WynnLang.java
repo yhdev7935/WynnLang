@@ -19,6 +19,7 @@ import ru.artfect.wynnlang.translate.ReverseTranslation;
 
 import java.io.IOException;
 import java.util.HashMap;
+import java.util.Map;
 import java.util.regex.Pattern;
 
 @Mod(modid = Reference.MOD_ID, name = Reference.NAME, version = Reference.VERSION)
@@ -28,7 +29,7 @@ public class WynnLang {
 
     @EventHandler
     public void preinit(FMLPreInitializationEvent event) {
-        Reference.keyBindings[0] = new KeyBinding("Показ оригинальных строк", Keyboard.KEY_F8, "WynnLang");
+        Reference.keyBindings[0] = new KeyBinding("원문 표시", Keyboard.KEY_F8, "WynnLang");
         ClientRegistry.registerKeyBinding(Reference.keyBindings[0]);
 
         Reference.modFile = event.getSourceFile();

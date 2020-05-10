@@ -1,61 +1,62 @@
-§e(.*)'s friends \((.*)\): (.*)@§eдрузья (r1) ((r2)): (r3)
-§6#(\d+)§f ([a-zA-Z0-9_]{1,16})§8 - §7(\d+) XP§8 - §7(\d+)²§8 - §7Joined (.*)@§6#(r1)§f (r2)§8 - §7(r3) XP§8 - §7(r4)²§8 - §7Принят (r5)
-§cThe server is restarting in (\d+) seconds.@§cСервер перезагрузится через (r1) секунд
-§cThe server is restarting in (\d+) minutes.@§cСервер перезагрузится через (r1) минут
-(.*) for (.*) seconds\]@(r1) на (r2) секунд]
-§b(.*)§7 gave you §c\[\+(.*)\].@§b(r1)§7 дал тебе §c[+(r2)].
-§b(.*)§7 gave you §b\+3 minutes§7 speed boost.@§b(r1)§7 дал тебе §b+3 минуты§7 буста скорости.
-§c\[(.*)\] §bCleared §7all potion effects §bRemoved §7all fire.@§c[(r1)] §bОчищены §7все эффекты зелий §bУбран §7весь огонь.
-§c\[(.*)\] §bRemoved §7all fire.@§c[(r1)] §bУбран §7весь огонь.
-§c\[(.*)\] §bCleared §7all potion effects.@§c[(r1)] §bОчищены §7все эффекты зелий.
-§b([a-zA-Z0-9_]{1,16})§7 has given you §b(\d+)% resistance§7.@§b(r1)§7 дал тебе §b(r2)% защиты§7.
-([a-zA-Z0-9_]{1,16}) has given you §b20% resistance§7 and§b 10% strength§7.@§b(r1) §7дал тебе §b20% к сопротивлению§7 и §b10% к силе§7.
-§4You still have (\d+) unused skill points! Click with your compass to use them!@§4У тебя есть (r1) неиспользованных очков умений! Нажми на свой компас, чтобы использовать их!
-§6(.*)is now level (\d+) in §fⒹ§6 Jeweling@§6(r1) достиг (r2) уровня в §fⒹ§6Изготовлении Аксессуаров
-§6(.*)is now level (\d+) in §fⒾ§6 Woodworking@§6(r1) достиг (r2) уровня в §fⒾ§6Деревообработке
-§6(.*)is now level (\d+) in §fⒷ§6 Mining@§6(r1) достиг (r2) уровня в §fⒷ§6Добыче Руды
-§6(.*)is now level (\d+) in §fⒿ§6 Farming@§6(r1) достиг (r2) уровня в §fⒿ§6Земледелии
-§6(.*)is now level (\d+) in §fⒸ§6 Woodcutting@§6(r1) достиг (r2) уровня в §fⒸ§6Лесорубстве
-§6(.*)is now level (\d+) in §fⓁ§6 Alchemism@§6(r1) достиг (r2) уровня в §fⓁ§6Алхимии
-§6(.*)is now level (\d+) in §fⓀ§6 Fishing@§6(r1) достиг (r2) уровня в §fⓀ§6Рыбалке
-§6(.*)is now level (\d+) in §fⒽ§6 Armouring@§6(r1) достиг (r2) уровня в §fⒽ§6Изготовлении Брони
-§6(.*)is now level (\d+) in §fⒼ§6 Weaponsmithing@§6(r1) достиг (r2) уровня в §fⒼ§6Оружейном Деле
-§6(.*)is now level (\d+) in §fⒶ§6 Cooking@§6(r1) достиг (r2) уровня в §fⒶ§6Кулинарии
-§6(.*)is now level (\d+) in §fⒻ§6 Tailoring@§6(r1) достиг (r2) уровня в §fⒻ§6Портняжном Деле
-§6(.*)is now level (\d+) in §fⒺ§6 Scribing@§6(r1) достиг (r2) уровня в §fⒺ§6Изготовлении Свитков
-§4This potion is for Combat Lv. (\d+)\+ only.@§4Это зелье только для (r1)+ Комбат Уровня.
-§4This item is for Combat Lv. (.*)\+ only.@§4Этот предмет только для Комбат Ур. (r1)+.
-(.*) is for combat level (.*) only.@(r1) §4только для уровней (r2)
-§c(.*)§4 requires your defence skill to be at least §c(\d+).@§c(r1)§4 нужно, чтобы твое умение Защита было не менее §c(r2).
-§c(.*)§4 requires your strength skill to be at least §c(\d+).@§c(r1)§4 нужно, чтобы твое умение Сила было не менее §c(r2).
-§c(.*)§4 requires your dexterity skill to be at least §c(\d+).@§c(r1)§4 нужно, чтобы твое умение Точность было не менее §c(r2).
-§c(.*)§4 requires your intelligence skill to be at least §c(\d+).@§c(r1)§4 нужно, чтобы твое умение Интеллект было не менее §c(r2).
-§c(.*)§4 requires your agility skill to be at least §c(\d+).@§c(r1)§4 нужно, чтобы твое умение Ловкость было не менее §c(r2).
-§4This item requires your defence skill to be at least §c(\d+).@§4Этот предмет требует, чтобы твое умение Защита было не менее §c(r2).
-§4This item requires your strength skill to be at least §c(\d+).@§4Этот предмет требует, чтобы твое умение Сила было не менее §c(r2).
-§4This item requires your dexterity skill to be at least §c(\d+).@§4Этот предмет требует, чтобы твое умение Точность было не менее §c(r2).
-§4This item requires your intelligence skill to be at least §c(\d+).@§4Этот предмет требует, чтобы твое умение Интеллект было не менее §c(r2).
-§4This item requires your agility skill to be at least §c(\d+).@§4Этот предмет требует, чтобы твое умение Ловкость было не менее §c(r2).
-§7\[New Quest Started: (.*)\]@§7[Начат новый квест: (r1)]
-§5Blacksmith: §dYou sold me: (.*) for a total of §e(\d+)§d emeralds. It was a pleasure doing business with you.@§5Кузнец: §dТы продал мне (r1) за §e(r2)§d эмеральдов. Было приятно иметь с тобой дело.
-§5Blacksmith: §dYou scrapped: (.*) for a total of §e(.*)§d scrap. It was a pleasure doing business with you.@§5Кузнец: §dТы утилизировал: (r1) в общей сумме на §e(r2)§d скрапа. Было приятно иметь с тобой дело.
-§5Blacksmith: §dYou scrapped: (.*) and (.*) for a total of §e(.*)§d scrap. It was a pleasure doing business with you.@§5Кузнец: §dТы утилизировал: (r1) и (r2) в общей сумме на §e(r3)§d скрапа. Было приятно иметь с тобой дело.
-§5(.*): §dThank you for your business. Come again!@§5(r1): §dБыло приятно иметь с тобой дело. Приходи еще!
-§5(.*): §dI'm afraid you cannot afford that item.@§5(r1): §dБоюсь, ты не можешь позволить себе этот предмет.
-§5(.*): §dI'm afraid you don't have enough space in your inventory to buy that.@§5(r1): §dБоюсь, что у тебя недостаточно места в инвентаре, чтобы купить это.
-(.*) has just logged in!@(r1) только что зашел!
-(.*) has logged into server (.*) as §(b|a)a Warrior@(r1) зашел на сервер (r2) классом §(r3)Воин
-(.*) has logged into server (.*) as §(b|a)a Knight@(r1) зашел на сервер (r2) классом §(r3)Рыцарь
-(.*) has logged into server (.*) as §(b|a)an Archer@(r1) зашел на сервер (r2) классом §(r3)Лучник
-(.*) has logged into server (.*) as §(b|a)a Dark Wizard@(r1) зашел на сервер (r2) классом §(r3)Темный Волшебник
-(.*) has logged into server (.*) as §(b|a)a Mage@(r1) зашел на сервер (r2) классом §(r3)Маг
-(.*) has logged into server (.*) as §(b|a)an Assassin@(r1) зашел на сервер (r2) классом §(r3)Ассасин
-(.*) has logged into server (.*) as §(b|a)a Hunter@(r1) зашел на сервер (r2) классом §(r3)Охотник
-(.*) has logged into server (.*) as §(b|a)a Ninja@(r1) зашел на сервер (r2) классом §(r3)Ниндзя
-(.*) has logged into server (.*) as §(b|a)a Shaman@(r1) зашел на сервер (r2) классом §(r3)Шаман
-(.*) has logged into server (.*) as §(b|a)a Skyseer@(r1) зашел на сервер (r2) классом §(r3)Провидец
-§(e|a)([a-zA-Z0-9_]{1,16}) left the game.@§(r1)(r2) покинул игру.
-§9([a-zA-Z0-9_]{1,16}) would like to duel! Type §6(.*)§9 to accept.@§b(r1) хочет дуэли с тобой! Напиши §6(r2)§9 для принятия.
-§5([a-zA-Z0-9_]{1,16}) would like to trade! Type §6\/trade ([a-zA-Z0-9_]{1,16})§5 to accept.@§5(r1) хотел бы поторговать с тобой! Напиши §6/trade (r2) §5для принятия.
-§eType the command §6\/party join (.*)§e to join!@§eНапиши команду §6/party join (r1)§e чтобы присоединиться!
-§3You have been invited to join §b(.*)§3 by §b(.*)§3! Type §b/guild join (.*)§3 to accept!@§3Ты получил приглашение от §b(r2)§3 присоединиться к §b(r1)§3! Напиши §b/guild join (r3)§3 для принятия!
+§e(.*) friends \((.*)\): (.*)@§e(r1) 친구 ((r2)): (r3)
+§6#(\d+)§f ([a-zA-Z0-9_]{1,16})§8 - §7(\d+) XP§8 - §7(\d+)²§8 - §7Joined (.*)@§6#(r1)§f (r2)§8 - §7(r3) XP§8 - §7(r4)²§8 - §7참가했습니다.(r5)
+§cThe server is restarting in (\d+) seconds.@§c서버가 (r1)초 후에 재시작됩니다.
+§cThe server is restarting in (\d+) minutes.@§c서버가 (r1)분 후에 재시작됩니다.
+(.*) for (.*) seconds\]@(r1) 효과를 (r2)초만큼 발동]
+§b(.*)§7 gave you §c\[\+(.*)\].@§b(r1)§7이(가) §c[+(r2)]§7을 주었습니다.
+§b(.*)§7 gave you §b\+3 minutes§7 speed boost.@§b(r1)§7이(가) §b+3 분동안§7 이동 속도 버프를 주었습니다.
+§b(.*)§7 gave you §c\[\+(.*)\] §bCleared §7all potion effects.@§b(r1)§7이(가) §c[+(r2)]§7와 모든 포션 효과를 §b없앴습니다§7.
+§c\[(.*)\] §bCleared §7all potion effects §bRemoved §7all fire.@§c[(r1)] §7모든 포션 효과를 §b없애고§7 모든 화상을 §b치유했습니다§7.
+§c\[(.*)\] §bRemoved §7all fire.@§c[(r1)] §7모든 화상을 §b치유했습니다§7.
+§c\[(.*)\] §bCleared §7all potion effects.@§c[(r1)] §b모든 포션 효과§7를 없앴습니다.
+§b(.*)§7 has given you §b(.*)% resistance§7.@§b(r1)§7이(가) §b(r2)% 방어력§7을 주었습니다.
+(.*) has given you §b20% resistance§7 and§b 10% strength§7.@(r1)이(가) §b20% 방어력§7과 §b10% 공격력§7 버프를 주었습니다.
+§4You still have (\d+) unused skill points! Click with your compass to use them!@§4아직 사용하지 않은 (r1) 스킬 포인트가 있습니다! 나침반을 눌러 사용하세요!
+§6(.*) is now level (\d+) in (.*)@§6(r1)의 (r3) 레벨이 §6(r2)이 되었습니다.
+§4This potion is for Combat Lv. (\d+)\+ only.@§4이 포션은 (r1)+ 전투 레벨부터 사용할 수 있습니다.
+§4This item is for Combat Lv. (.*)\+ only.@§4이 아이템은 (r1)+ 전투 레벨부터 사용할 수 있습니다.
+(.*) is for combat level (.*) only.@(r1)은(는) (r2) 전투 레벨부터 사용할 수 있습니다..
+§c(.*)§4 requires your defence skill to be at least §c(\d+).@§c(r1)§4 아이템은 방어 스킬을 §c(r2)§4만큼 요구합니다.
+§c(.*)§4 requires your strength skill to be at least §c(\d+).@§c(r1)§4 아이템은 힘 스킬을 §c(r2)§4만큼 요구합니다.
+§c(.*)§4 requires your dexterity skill to be at least §c(\d+).@§c(r1)§4 아이템은 치명 스킬을 §c(r2)§4만큼 요구합니다.
+§c(.*)§4 requires your intelligence skill to be at least §c(\d+).@§c(r1)§4 아이템은 지능 스킬을 §c(r2)§4만큼 요구합니다.
+§c(.*)§4 requires your agility skill to be at least §c(\d+).@§c(r1)§4 아이템은 민첩 스킬을 §c(r2)§4만큼 요구합니다.
+§4This item requires your defence skill to be at least §c(\d+).@§4이 아이템은 방어 스킬을 §c(r2)§4만큼 요구합니다.
+§4This item requires your strength skill to be at least §c(\d+).@§4이 아이템은 힘 스킬을 §c(r2)§4만큼 요구합니다.
+§4This item requires your dexterity skill to be at least §c(\d+).@§4이 아이템은 치명 스킬을§c(r2)§4만큼 요구합니다.
+§4This item requires your intelligence skill to be at least §c(\d+).@§4이 아이템은 지능 스킬을 §c(r2)§4만큼 요구합니다.
+§4This item requires your agility skill to be at least §c(\d+).@§4이 아이템은 민첩 스킬을§c(r2)§4만큼 요구합니다.
+§7\[New Quest Started: (.*)\]@§7[새 퀘스트 시작: (r1)]
+§5Blacksmith: §dYou sold me: (.*) for a total of §e(\d+)§d emeralds. It was a pleasure doing business with you.@§5대장장이: (r1) 아이템을 §e(r2)§d 에메랄드에 매입했네. 만족스러운 거래로군. 다음에 또 오라고 모험가. 
+§5Blacksmith: §dYou scrapped: (.*) for a total of §e(.*)§d scrap. It was a pleasure doing business with you.@§5대장장이: (r1) 아이템을 §e(r2)§d 스크랩으로 만들었다네. 만족스러운 거래로군. 다음에 또 오라고 모험가.
+§5Blacksmith: §dYou scrapped: (.*) and (.*) for a total of §e(.*)§d scrap. It was a pleasure doing business with you.@§5대장장이: (r1) 아이템들을 총합 §e(r2)§d 스크랩으로 만들었다네. 만족스러운 거래로군. 다음에 또 오라고 모험가.
+§5(.*): §dThank you for your business. Come again!@§5(r1): §d이용해 주셔서 감사합니다. 다음에 또 오세요!
+§5(.*): §dI'm afraid you cannot afford that item.@§5(r1): §d이 아이템을 거래하기엔 부족해보이네요.
+§5(.*): §dI'm afraid you don't have enough space in your inventory to buy that.@§5(r1): §d인벤토리가 꽉 차서 거래를 할 수 없어요.
+(.*) has just logged in!@(r1)이(가) 접속했습니다!
+§a(.*)§2 has logged into server §a(.*)§2 as §aa Warrior@§a(r1)§2이(가) 서버 §a(r2)§2에 §a워리어§2로 접속했습니다.
+§a(.*)§2 has logged into server §a(.*)§2 as §aa Knight@§a(r1)§2이(가) 서버 §a(r2)§2에 §a나이트§2로 접속했습니다.
+§a(.*)§2 has logged into server §a(.*)§2 as §aan Archer@§a(r1)§2이(가) 서버 §a(r2)§2에 §a아쳐§2로 접속했습니다.
+§a(.*)§2 has logged into server §a(.*)§2 as §aa Dark Wizard@§a(r1)§2이(가) 서버 §a(r2)§2에 §a다크 위자드§2로 접속했습니다.
+§a(.*)§2 has logged into server §a(.*)§2 as §aa Mage@§a(r1)§2이(가) 서버 §a(r2)§2에 §a메이지§2로 접속했습니다.
+§a(.*)§2 has logged into server §a(.*)§2 as §aan Assassin@§a(r1)§2이(가) 서버 §a(r2)§2에 §a어쌔신§2으로 접속했습니다.
+§a(.*)§2 has logged into server §a(.*)§2 as §aa Hunter@§a(r1)§2이(가) 서버 §a(r2)§2에 §a헌터§2로 접속했습니다.
+§a(.*)§2 has logged into server §a(.*)§2 as §aa Ninja@§a(r1)§2이(가) 서버 §a(r2)§2에 §a닌자§2로 접속했습니다.
+§a(.*)§2 has logged into server §a(.*)§2 as §aa Shaman@§a(r1)§2이(가) 서버 §a(r2)§2에 §a샤먼§2으로 접속했습니다.
+§a(.*)§2 has logged into server §a(.*)§2 as §aa Skyseer@§a(r1)§2이(가) 서버 §a(r2)§2에 §a스카이시어§2로 접속했습니다.
+§b(.*)§3 has logged into server §b(.*)§3 as §ba Warrior@§b(r1)§3이(가) 서버 §b(r2)§3에 §b워리어§3로 접속했습니다.
+§b(.*)§3 has logged into server §b(.*)§3 as §ba Knight@§b(r1)§3이(가) 서버 §b(r2)§3에 §b나이트§3로 접속했습니다.
+§b(.*)§3 has logged into server §b(.*)§3 as §ban Archer@§b(r1)§3이(가) 서버 §b(r2)§3에 §b아쳐§3로 접속했습니다.
+§b(.*)§3 has logged into server §b(.*)§3 as §ba Dark Wizard@§b(r1)§3이(가) 서버 §b(r2)§3에 §b다크 위자드§3로 접속했습니다.
+§b(.*)§3 has logged into server §b(.*)§3 as §ba Mage@§b(r1)§3이(가) 서버 §b(r2)§3에 §b메이지§3로 접속했습니다.
+§b(.*)§3 has logged into server §b(.*)§3 as §ban Assassin@§b(r1)§3이(가) 서버 §b(r2)§3에 §b어쌔신§3으로 접속했습니다.
+§b(.*)§3 has logged into server §b(.*)§3 as §ba Hunter@§b(r1)§3이(가) 서버 §b(r2)§3에 §b헌터§3로 접속했습니다.
+§b(.*)§3 has logged into server §b(.*)§3 as §ba Ninja@§b(r1)§3이(가) 서버 §b(r2)§3에 §b닌자§3로 접속했습니다.
+§b(.*)§3 has logged into server §b(.*)§3 as §ba Shaman@§b(r1)§3이(가) 서버 §b(r2)§3에 §b샤먼§3으로 접속했습니다.
+§b(.*)§3 has logged into server §b(.*)§3 as §ba Skyseer@§b(r1)§3이(가) 서버 §b(r2)§3에 §b스카이시어§3로 접속했습니다.
+§(e|a)([a-zA-Z0-9_]{1,16}) left the game.@§(r1)(r2)이(가) 게임을 나갔습니다.
+
+§9([a-zA-Z0-9_]{1,16}) would like to duel! Type §6(.*)§9 to accept.@§b(r1)§9 이(가) 결투를 신청했습니다! §6(r2)§9 을 입력해 결투를 받아들이세요.
+§5([a-zA-Z0-9_]{1,16}) would like to trade! Type §6\/trade ([a-zA-Z0-9_]{1,16})§5 to accept.@§5(r1) 이(가) 거래를 원합니다! §6/trade (r2) §5를 입력해 수락할 수 있습니다.
+§eType the command §6\/party join (.*)§e to join!@§e§6/party join (r1)§e 을 입력해 파티에 참가하세요!
+§3You have been invited to join §b(.*)§3 by §b(.*)§3! Type §b/guild join (.*)§3 to accept!@§3당신을 §b(r1)§3 길드에 §b(r2)§3 가 초대했습니다! §b/guild join (r3)§3 을 입력해 길드에 가입할 수 있습니다!

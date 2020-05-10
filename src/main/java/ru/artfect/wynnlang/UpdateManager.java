@@ -34,7 +34,7 @@ public class UpdateManager {
     public void checkUpdate() {
         Multithreading.runAsync(() -> {
             try {
-                URLConnection st = new URL("https://api.github.com/repos/ArtFect/WynnLang/releases/latest").openConnection();
+                URLConnection st = new URL("https://api.github.com/repos/yhdev7935/WynnLang/releases/latest").openConnection();
                 st.setConnectTimeout(16000);
                 st.setReadTimeout(16000);
                 JsonObject json = new JsonParser().parse(IOUtils.toString(st.getInputStream())).getAsJsonObject();
@@ -52,20 +52,20 @@ public class UpdateManager {
 
     public void update() {
         if (!needUpdate) {
-            WynnLang.sendMessage("§cОбновление не требуется");
+            WynnLang.sendMessage("§c업데이트가 필요하지 않습니다.");
         } else if (!updating) {
             updating = true;
-            WynnLang.sendMessage("§aНовая версия скачивается...");
+            WynnLang.sendMessage("§a새 버전이 다운로드 중입니다.");
             Multithreading.runAsync(() -> {
                 try {
                     FileUtils.copyURLToFile(new URL(downloadLink), Reference.modFile, 16000, 60000);
                 } catch (IOException e) {
                     updating = false;
-                    WynnLang.sendMessage("§cНе удалось скачать обновление");
+                    WynnLang.sendMessage("§c업데이트를 다운로드하지 못했습니다.");
                 }
                 needUpdate = false;
                 updating = false;
-                WynnLang.sendMessage("§aНовая версия скачана. Пожалуйста перезагрузите Minecraft для применения обновления");
+                WynnLang.sendMessage("§a새 버전이 다운로드 되었습니다. 마인크래프트를 다시 껐다 켜주세요.");
             });
         }
     }
@@ -80,7 +80,7 @@ public class UpdateManager {
 
                     }
                 }
-                ITextComponent msg = new TextComponentString("§2Доступна новая версия §6§l" + newVer + "§2 для мода §6§lWynnlang§2. Нажмите на данное сообщение для скачивания");
+                ITextComponent msg = new TextComponentString("§aWynnLang 모드의 새 버전을 사용할 수 있습니다. 이 메시지를 클릭하여 다운로드하십시오.");
                 msg.getStyle().setClickEvent(new ClickEvent(ClickEvent.Action.RUN_COMMAND, "/WynnLang update"));
                 Minecraft.getMinecraft().player.sendMessage(msg);
             });

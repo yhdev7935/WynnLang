@@ -35,13 +35,13 @@ public class WynnLangCommand implements ICommand {
             switch (args[0]) {
                 case "toggle":
                     Reference.modEnabled = !Reference.modEnabled;
-                    WynnLang.sendMessage("§rМод " + (Reference.modEnabled ? "§aвключен" : "§cвыключен") + "§r");
+                    WynnLang.sendMessage("§r모드가 " + (Reference.modEnabled ? "§a활성화되었습니다!" : "§c비활성화되었습니다!") + "§r");
                     ReverseTranslation.reverse();
                     Config.setBoolean("Options", "Enabled", true, Reference.modEnabled);
                     break;
                 case "log":
                     Log.enabled = !Log.enabled;
-                    WynnLang.sendMessage("§rОтправка " + (Log.enabled ? "§aвключена" : "§cвыключена") + "§r");
+                    WynnLang.sendMessage("§r채팅 로그 " + (Log.enabled ? "§a활성화" : "§c비활성화") + "§r");
                     Config.setBoolean("Options", "Logging", true, Log.enabled);
                     break;
                 case "update":
@@ -59,21 +59,21 @@ public class WynnLangCommand implements ICommand {
                             e.printStackTrace();
                         }
                     }
-                    WynnLang.sendMessage("§rWynnLang чат " + (RuChat.enabled ? "§aвключен" : "§cвыключен") + "§r");
+                    WynnLang.sendMessage("§rWynnLang 채팅이 " + (RuChat.enabled ? "§a활성화되었습니다!" : "§c비활성화되었습니다!") + "§r");
                     Config.setBoolean("Chat", "Enabled", true, RuChat.enabled);
                     break;
                 case "mute":
                     if (args.length == 2) {
                         RuChat.mutePlayer(args[1]);
                     } else {
-                        WynnLang.sendMessage("§cУкажите от какого игрока вы не хотите получать сообщения");
+                        WynnLang.sendMessage("§c메시지를 차단하고 싶은 유저의 닉네임을 입력해주세요!");
                     }
                     break;
                 case "info":
-                    String online = Reference.ruChat.isAlive() ? String.valueOf(RuChat.online) : "неизвестно";
-                    String chatConnection = Reference.ruChat.isAlive() ? "Связь с сервером чата §aустановлена" : "Связь с сервером чата §cотсутствует";
-                    String playersOnline = "§rКоличество онлайн игроков: §6" + online;
-                    WynnLang.sendMessage("Инфо: \n" + chatConnection + "\n" + playersOnline);
+                    String online = Reference.ruChat.isAlive() ? String.valueOf(RuChat.online) : "알 수 없음";
+                    String chatConnection = Reference.ruChat.isAlive() ? "채팅 서버와의 연결이 완료되었습니다!" : "채팅 서버와의 연결이 존재하지 않습니다!";
+                    String playersOnline = "§r온라인 플레이어들: §6" + online;
+                    WynnLang.sendMessage("정보: \n" + chatConnection + "\n" + playersOnline);
                     break;
                 default:
                     sendHelpMessage();
@@ -85,13 +85,13 @@ public class WynnLangCommand implements ICommand {
     }
 
     private static void sendHelpMessage() {
-        WynnLang.sendMessage("Помощь\n - /wl toggle - включить/отключить мод" +
-                "\n - /wl log - включить/отключить отправку непереведенных строк" +
-                "\n - /wl chat - Включение/отключение общего мод чата" +
-                "\n - /wl mute [ник] - Мут сообщений от отдельного игрока" +
-                "\n - /wl info - Просмотр информации о моде" +
-                "\n - /ru [сообщение] - Отправить сообщение в русский чат" +
-                "\n - /ru - Включить чат по умолчанию. Все набранные вами сообщения отправляются сразу в русский чат.");
+        WynnLang.sendMessage("명령어\n - /wl toggle - 토글 끄기/켜기" +
+                "\n - /wl log - 채팅 로그 활성화 / 비활성화" +
+                "\n - /wl chat - 일반 채팅 모드 활성화 / 비활성화" +
+                "\n - /wl mute [닉네임] - 개별 플레이어의 메시지 음소거" +
+                "\n - /wl info - 정보 보기" +
+                "\n - /ru [메시지] - 러시아쪽으로 메시지 보내기" +
+                "\n - /ru - 기본 시계? 사용하기 당신이 수집한 모든 메시지가 러시아 채팅으로 바로 보내집니다.");
     }
 
     @Override

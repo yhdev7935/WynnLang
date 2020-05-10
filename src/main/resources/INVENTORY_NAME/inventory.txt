@@ -1,176 +1,174 @@
-§c1§4 skill point remaining@§c1§4 очко умений осталось
-Search Results@Результаты Поиска
-[Pg. 1] Search Results@[Стр. 1] Результаты Поиска
-[Pg. 2] Search Results@[Стр. 2] Результаты Поиска
-[Pg. 3] Search Results@[Стр. 3] Результаты Поиска
-[Pg. 4] Search Results@[Стр. 4] Результаты Поиска
-[Pg. 5] Search Results@[Стр. 5] Результаты Поиска
-Loot Chest III@Сундук с Лутом III
-Loot Chest I@Сундук с Лутом I
-Loot Chest II@Сундук с Лутом II
-Loot Chest IV@Сундук с Лутом IV
-[Pg. 1] Marketplace §8[All]@[Стр. 1] Рынок §8[Все]
-[Pg. 2] Marketplace §8[All]@[Стр. 2] Рынок §8[Все]
-[Pg. 3] Marketplace §8[All]@[Стр. 3] Рынок §8[Все]
-[Pg. 4] Marketplace §8[All]@[Стр. 4] Рынок §8[Все]
-[Pg. 5] Marketplace §8[All]@[Стр. 5] Рынок §8[Все]
-[Pg. 6] Marketplace §8[All]@[Стр. 6] Рынок §8[Все]
-[Pg. 7] Marketplace §8[All]@[Стр. 7] Рынок §8[Все]
-[Pg. 8] Marketplace §8[All]@[Стр. 8] Рынок §8[Все]
-[Pg. 9] Marketplace §8[All]@[Стр. 9] Рынок §8[Все]
-What would you like to repair?@Что ты хочешь починить?
-What would you like to scrap?@Что ты хочешь утилизировать?
-What would you like to sell?@Что ты хочешь продать?
-What would you like to reveal?@Что ты хочешь раскрыть?
-What would you like to buy?@Что ты хочешь купить?
-Blacksmith@Кузнец
-Daily Rewards@Ежедневная Награда
-Wynncraft Servers: Page 1@Wynncraft Сервера: 1 Страница
-Wynncraft Servers: Page 2@Wynncraft Сервера: 2 Страница
-§8§lEdit a Class@§8§lРедактирование Класса
-§8§lDelete Confirmation@§8§lПодтверждение Удаления
-§8§lCancel Class Deletion@§8§lОтмена Удаления Класса
-§8§lCreate Your Character@§8§lСоздание Персонажа
-Item Identifier@Идентификатор Предметов
-Manage Crates@Управление Контейнерами
-Open Crates@Открытие Контейнеров
-Use Menu@Меню Использований
-Attack Effect Menu@Меню Эффектов Атаки
-Pet Menu@Меню Питомцев
-Scrap Menu@Меню Утилизации
-Player Effect Menu@Меню Эффектов Игрока
-Powder Master@Мастер Порошков
-Add Powders@Добавление Порошков
-Trade Overview@Обзор Сделок
-Objective Rewards@Награды за Цель
-Disguise Menu@Меню Маскировок
-Upgrade Powders@Апгрейд Порошков
-Remove Powders@Удаление Порошков
-Gear Skin Menu@Меню Скинов для Оружий
-Mob Totem Menu@Меню Моб Тотемов
-Bomb Menu@Меню Бомб
-Chest@Сундук
-Anvil@Наковальня
-Crafting Table@Верстак
-Buy a new pet@Покупка нового питомца
-Brewing Stand@Стойка Зельеварения
-§0§lBase Colour@§0§lБазовый Цвет
+§c1§4 skill point remaining@§c1§4 스킬 포인트 남았습니다
+Search Results@검색 결과
+[Pg. 1] Search Results@[페이지. 1] 검색 결과
+[Pg. 2] Search Results@[페이지. 2] 검색 결과
+[Pg. 3] Search Results@[페이지. 3] 검색 결과
+[Pg. 4] Search Results@[페이지. 4] 검색 결과
+[Pg. 5] Search Results@[페이지. 5] 검색 결과
+Loot Chest III@전리품 상자 III
+Loot Chest I@전리품 상자 I
+Loot Chest II@전리품 상자 II
+Loot Chest IV@전리품 상자 IV
+[Pg. 1] Marketplace §8[All]@[Pg. 1] 마켓플레이스 §8[전체]
+[Pg. 2] Marketplace §8[All]@[Pg. 2] 마켓플레이스 §8[전체]
+[Pg. 3] Marketplace §8[All]@[Pg. 3] 마켓플레이스 §8[전체]
+[Pg. 4] Marketplace §8[All]@[Pg. 4] 마켓플레이스 §8[전체]
+[Pg. 5] Marketplace §8[All]@[Pg. 5] 마켓플레이스 §8[전체]
+[Pg. 6] Marketplace §8[All]@[Pg. 6] 마켓플레이스 §8[전체]
+[Pg. 7] Marketplace §8[All]@[Pg. 7] 마켓플레이스 §8[전체]
+[Pg. 8] Marketplace §8[All]@[Pg. 8] 마켓플레이스 §8[전체]
+[Pg. 9] Marketplace §8[All]@[Pg. 9] 마켓플레이스 §8[전체]
+What would you like to repair?@무엇을 수리할까요?
+What would you like to scrap?@무엇을 스크랩화할까요?
+What would you like to sell?@무엇을 팔까요?
+What would you like to reveal?@무엇을 확인할까요?
+What would you like to buy?@무엇을 구입할까요?
+Blacksmith@대장장이
+Daily Rewards@일일 보상
+Wynncraft Servers: Page 1@Wynncraft 서버: 1 페이지
+Wynncraft Servers: Page 2@Wynncraft 서버: 2 페이지
+§8§lEdit a Class@§8§l클래스 수정
+§8§lSelect a Class@§8§l클래스 선택
+§8§lDelete Confirmation@§8§l삭제 확인
+§8§lCancel Class Deletion@§8§l클래스 삭제 취소
+§8§lCreate Your Character@§8§l캐릭터 생성
+Item Identifier@아이템 감정사
+Manage Crates@상자 관리
+Open Crates@상자 열기
+Use Menu@사용 메뉴
+Attack Effect Menu@공격 이펙트
+Pet Menu@펫 메뉴
+Scrap Menu@스크랩 메뉴
+Player Effect Menu@플레이어 이펙트 메뉴
+Powder Master@파우더 마스터
+Add Powders@파우더 추가
+Trade Overview@거래 개요
+Objective Rewards@일일 퀘스트 보상
+Disguise Menu@변신 메뉴
+Upgrade Powders@파우더 업그레이드
+Remove Powders@파우더 제거
+Gear Skin Menu@장비 스킨 메뉴
+Mob Totem Menu@몹 토템 메뉴
+Bomb Menu@밤 메뉴
+Chest@상자
+Anvil@모루
+Crafting Table@제작대
+Buy a new pet@새로운 펫을 구입하세요
+Brewing Stand@양조기
 
 ###############################PROFESSIONS#############################
-Fish Refinery@Переработка Рыбы
-Wood Refinery@Переработка Древесины
-Crop Refinery@Переработка Урожая
-Ore Refinery@Переработка Руды
-Tailoring@Портняжное Дело
-Armouring@Изготовление Брони
-Weaponsmithing@Оружейное Дело
-Woodworking@Деревообработка
-Alchemism@Алхимия
-Scribing@Изготовление Свитков
-Cooking@Кулинария
-Jeweling@Изготовление Свитков
+Fish Refinery@물고기 정제소
+Wood Refinery@나무 정제소
+Crop Refinery@작물 정제소
+Ore Refinery@광석 정제소
+Tailoring@재단
+Armouring@갑옷 제작
+Weaponsmithing@무기 제작
+Woodworking@목공
+Alchemism@연금술
+Scribing@주문서 제작
+Cooking@요리
+Jeweling@장신구 제작
 
 ##############################SHOP##############################
-Siegfried Fan Item Shop@Магазин Фан Предметов Зигфрида
-Emerald Shop@Магазин Эмеральдов
-Armour Shop@Магазин Брони
-Seasail Shop@Магазин Морских Билетов
-Tool Shop@Магазин Инструментов
-Scroll Shop@Магазин Свитков
-Stiba, the Weapon Shop@Оружейный Магазин Стиба
-Suri, the Study Shop@Магазин Исследований Сури
-Accessory Shop@Магазин Аксессуаров
-Liquid Shop@Магазин Жидких Эмеральдов
-Potion Shop@Магазин Зелий
-Dungeon Shop@Магазин Данжа
-Bucket Shop@Магазин Ведер
-Horse Shop@Магазин Лошадей
-Egg Shop@Магазин Яиц
-Dungeon Scroll Shop@Магазин Данж Свитков
-Ticket Shop@Магазин Билетов
-Squid Shop@Магазин Кальмара
-Treasure Shop@Магазин Сокровищ
-Fabrics Shop@Магазин Тканей
-Feather Shop@Магазин Перьев
-Potato Shop@Магазин Картошки
-Apple Shop@Магазин Яблок
-Water Shop@Магазин Воды
-Fish Shop@Магазин Рыбы
-Weapon Shop@Магазин Оружия
-Pink Wool Shop@Магазин Розовой Шерсти
-Mask Shop@Магазин Масок
-Seaskipper Shop@Магазин Морского Шкипера
-Bowl Shop@Магазин Мисок
-Key Forge Shop@Магазин Ключника
-Wynnter 2016 Shop@Магазин Wynnter 2016
-Wynnter 2017 Shop@Магазин Wynnter 2017
-Tribal Shop@Магазин Племени
-Exchange Shop@Обменник
-Powder Shop@Магазин Порошков
-Art Shop@Магазин Искусства
-Cobblestone Shop@Магазин Булыжника
-Zhight Brew Shop@Магазин Жигт Зелий
-Rymek Dealer Shop@Магазин Римек Дилера
-Golden Fish Shop@Магазин Золотой Рыбы
-Mushroom Shop@Магазин Грибов
-Zhight Exchange Shop@Жигт Обменник
-Brew-it-Yourself Shop@Магазин Свари-ка Сам
-Treasure Prize Shop@Магазин Наградных Призов
-Tour Pass Shop@Магазин Тур Пропусков
-Explosives Shop@Магазин Взрывчатки
-Reset Scroll Shop@Магазин Свитков Сброса
-Master Weapon Shop@Магазин Мастер Оружия
-Transmutation Shop@Магазин Трансмутации
-Master Trinket Shop@Магазин Мастер Безделушек
-King's Shop@Магазин Короля
-Charmcrafter Shop@Магазин Чародея
-Artefact Shop@Магазин Артефактов
-Glassblowing Shop@Магазин Стеклодува
-Master Armour Shop@Магазин Мастер Брони
-Hive Thunder Shop@Гром Магазин Улья
-Hive Air Shop@Воздух Магазин Улья
-Hive Earth Shop@Земля Магазин Улья
-Hive Water Shop@Вода Магазин Улья
-Hive Fire Shop@Огонь Магазин Улья
-Ingredient Shop@Магазин Ингредиентов
-Legendary Shop@Легендарный Магазин
-Bronze Rewards Shop@Магазин Бронзовых Наград
-Gold Rewards Shop@Магазин Золотых Наград
-Diamond Rewards Shop@Магазин Алмазных Наград
-Silver Rewards Shop@Магазин Серебрянных Наград
-Hook Shop@Магазин Крюков
-Collector Shop@Магазин Коллекционера
-Musical Shop@Музыкальный Магазин 
-Exotic Potions Shop@Магазин Экзотических Зелий
-Tribal Weapon Shop@Магазин Оружия Племени
-Tribal Armour Shop@Магазин Брони Племени
-Banned Items Shop@Магазин Запрещенных Предметов
-Consumables Shop@Магазин Расходников
-Craftmas Shop@Рождественнский Магазин 
-Shifty Shop@Магазин Хитреца
-Melon Shop@Магазин Арбузов
-Necromancy Shop@Магазин Некромантии
-Black Market Shop@Магазин Черного Рынка
-Gift Shop@Магазин Подарков
-Void Shop@Пустотный Магазин
-Recipe Shop@Магазин Рецептов
-Wig Shop@Магазин Париков
-Literature Shop@Литературный Магазин
-Gert Shop@Магазин Гертов
-Gold Dealer Shop@Магазин Торговца Золотом
-Book Shop@Магазин Книг
-Quartz Shop@Магазин Кварца
-Souvenir Shop@Магазин Сувениров
-Clock Shop@Магазин Часов
-Wand Shop@Магазин Палочек
-Magical Book Shop@Магазин Магических Книг
-Cauldron Shop@Магазин Котлов
-Candy Shop@Магазин Конфет
-Mysterious Shop@Загадочный Магазин
-Pig Puck Shop@Пиг Пак Магазин
-Cosmetic Shop@Косметический Магазин
-Tree Shop@Магазин Деревьев
-Armor Shop@Магазин Брони
-Cookie Shop@Магазин Печенья
-Boat Shop@Магазин Лодок
-Miner Pass Shop@Магазин Пропусков
+Siegfried Fan Item Shop@지그프리트 팬 물품 상점
+Emerald Shop@은행원
+Armour Shop@갑옷 상점
+Seasail Shop@선박 상점
+Tool Shop@도구 상점
+Scroll Shop@주문서 상점
+Stiba, the Weapon Shop@스티바, 무기 상점
+Suri, the Study Shop@수리, 연구물 상점
+Accessory Shop@장신구 상점
+Liquid Shop@액화 교환원
+Potion Shop@포션 상점
+Dungeon Shop@던전 상점
+Bucket Shop@양동이 상점
+Horse Shop@말 상점
+Egg Shop@달걀 상점
+Dungeon Scroll Shop@던전 텔레포트 주문서 상점
+Ticket Shop@티켓 상점
+Squid Shop@오징어 상점
+Treasure Shop@보물 상점
+Fabrics Shop@직물 상점
+Feather Shop@깃털 상점
+Potato Shop@감자 상점
+Apple Shop@사과 상점
+Water Shop@물 상점
+Fish Shop@물고기 상점
+Weapon Shop@무기 상점
+Pink Wool Shop@분홍색 양털 상점
+Mask Shop@가면 상점
+Seaskipper Shop@항해 상점
+Bowl Shop@그릇 상점
+Key Forge Shop@열쇠 제련소
+Wynnter 2016 Shop@Wynnter 2016 상점
+Wynnter 2017 Shop@Wynnter 2017 상점
+Tribal Shop@부족 상점
+Exchange Shop@교환원
+Powder Shop@파우더 상점
+Art Shop@미술 상점
+Cobblestone Shop@조약돌 상점
+Zhight Brew Shop@자이트 양조 상점
+Rymek Dealer Shop@리멕 상인 상점
+Golden Fish Shop@황금 물고기 상점
+Mushroom Shop@버섯 상점
+Zhight Exchange Shop@자이트 교환 상점
+Brew-it-Yourself Shop@스스로 양조 상점
+Treasure Prize Shop@보물 상품 상점
+Tour Pass Shop@투어 패스 상점
+Explosives Shop@폭발물 상점
+Reset Scroll Shop@초기화 주문서 상점
+Master Weapon Shop@마스터 하이브 무기 갑옷
+Transmutation Shop@하이브 보증서 교환 상점
+Master Trinket Shop@마스터 하이브 장신구 상점
+King's Shop@왕의 교환원
+Charmcrafter Shop@부적제작가 상점
+Artefact Shop@유물 상점
+Glassblowing Shop@유리공예 상점
+Master Armour Shop@마스터 하이브 갑옷 상점
+Hive Thunder Shop@하이브 번개 상점
+Hive Air Shop@하이브 공기 상점
+Hive Earth Shop@하이브 땅 상점
+Hive Water Shop@하이브 물 상점
+Hive Fire Shop@하이브 불 상점
+Ingredient Shop@재료 상점
+Legendary Shop@레전더리 상점
+Bronze Rewards Shop@브론즈 보상 상점
+Gold Rewards Shop@골드 보상 상점
+Diamond Rewards Shop@다이아몬드 보상 상점
+Silver Rewards Shop@실버 보상 상점
+Hook Shop@갈고리 상점
+Collector Shop@수집가
+Musical Shop@음악 상점
+Exotic Potions Shop@영 좋지않은 포션 상점
+Tribal Weapon Shop@부족민 무기 상점
+Tribal Armour Shop@부족민 갑옷 상점
+Banned Items Shop@금지된 아이템 상점
+Consumables Shop@소모품 상점
+Craftmas Shop@Craftmas 상점
+Shifty Shop@사기꾼
+Melon Shop@수박 상점
+Necromancy Shop@심령 상점
+Black Market Shop@암시장
+Gift Shop@선물 상점
+Void Shop@공허 상점
+Recipe Shop@제작법 상점
+Wig Shop@가발 상점
+Literature Shop@문학 상점
+Gert Shop@거트 상점
+Gold Dealer Shop@리멕 금 교환원
+Book Shop@책 상점
+Quartz Shop@석영 상점
+Souvenir Shop@기념품 상점
+Clock Shop@시계 상점 
+Wand Shop@지팡이 상점
+Magical Book Shop@마법의 책 상점
+Cauldron Shop@가마솥 상점
+Candy Shop@사탕 상점
+Mysterious Shop@수수께끼 상점
+Pig Puck Shop@돼지 하키 상점
+Cosmetic Shop@치장품 상점
+Tree Shop@나무 상점
+Armor Shop@갑옷 상점
+Cookie Shop@쿠키 상점

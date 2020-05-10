@@ -1,244 +1,241 @@
-§2???: §a...@ 
-§2???: §a...you§a arrive. You search... To what end?@§2???: §a...ты прибыл. Ты ищешь... С какой целью?
-§2???: §aYou wonder. What do we speak of? To what end?@§2???: §aТы удивляешься. О чем мы говорим? С какой целью?
-§2???: §aYou panic. We know you. How? We can provide no answer.@§2???: §aТы паникуешь. Мы знаем тебя. Откуда? Мы не можем дать ответ.
-§2???: §aFor answers... You search. To an end you seek. May we offer an end?@§2???: §aДля ответов... Ты ищешь. Цель, которую ты ищешь. Можем ли мы предложить тебе конец?
-§2???: §aThe besieged origin. To end, one must begin.@§2???: §aОсажденное начало. Чтобы закончить, нужно начать.
-§7[1/4] §2Bak'al: §aWe destroy Ragni today. The great fortress will fall.@§7[1/4] §2Бак'ал: §aМы уничтожим Рагни сегодня. Великая крепость падет.
-§7[2/4] §2Bak'al: §aI will find their protector, Bob. You each will engage the guards and city dwellers. §a§l10 citizens§a.@§7[2/4] §2Бак'ал: §aЯ найду их защитника, Боба. Каждый из вас займется охраной и жителями города. §a§l10 жителей§a.
-§7[3/4] §2Bak'al: §aIf each of you kills §a§l10 citizens§a, then the city will run empty. So, you shall make it run empty.@§7[3/4] §2Бак'ал: §aЕсли каждый из вас убьет §a§l10 жителей§a, тогда город опустеет. Итак, вы должны сделать его пустым.
-§7[4/4] §2Bak'al: §aGo!@§7[4/4] §2Бак'ал: §aВперед!
-§2???: §aYou anger. Viewing needless destruction. To what end?@§2???: §aТы злишься. Смотришь на ненужные разрушения. С какой целью?
-§2???: §aYou distrust. We are dark. Are we? You believe it so.@§2???: §aТы недоверяешь. Мы ведь тьма. Так ли это? Ты в это веришь.
-§2???: §aYou prepare. You would attack us. To what end?@§2???: §aТы готовишься. Ты атаковал бы нас. С какой целью?
-§2???: §aThere is no end. Of what you wish, there is none. But may we offer an end?@§2???: §aЭтому нет конца. Из того, что ты хочешь, нет ничего. Но можем ли мы предложить тебе конец?
-§2???: §aThe unrighteous sought it. The noble hid it. The one seeking answers found more questions. Another §abeginning...to§a a new end.@§2???: §aНеправедные искали его. Благородные спрятали его. Тот, кто искал ответы, нашел еще больше вопросов. Другое начало...нового конца.
-§7[1/4] §2Amadel: §aHey, little miss. Don’t go spacing out on me like that.@§7[1/4] §2Амадел: §aПривет, маленький промах. Не вздумай так на меня набрасываться.
-§7[2/4] §2Amadel: §aNow that you’re acquainted with the new laws we’ll want to introduce, I’ve got a job for you to do.@§7[2/4] §2Амадел: §aТеперь, когда ты знаком с новыми законами, которые мы хотим ввести, у меня есть для тебя работа.
-§7[3/4] §2Amadel: §aThe current mayor is human. He'll inevitably veto the laws. The deputy on the other hand, is a villager, and on our side. See what I'm getting at.@§7[3/4] §2Амадел: §aНынешний мэр - человек. Он неизбежно наложит вето на законы. Помощники, с другой стороны - жители, причем на нашей стороне. Видишь, к чему я клоню?
-§7[4/4] §2Amadel: §aAnother employee has already been sent out to get things started. He'll know what you need to do, so meet up with him, would you?@§7[4/4] §2Амадел: §aЕще один служащий уже был отправлен, чтобы начать работу. Он будет знать, что тебе нужно сделать, так что встреться с ним, хорошо?
-§7[1/4] §2Employee: §aYou are here for the job, aren't you? I have to apologize. It’s going to be trickier than I’d wanted for you.@§7[1/4] §2Служащий: §aТы ведь пришел сюда ради работы, не так ли? Я должен извиниться. Это будет сложнее, чем я хотел для тебя.
-§7[2/4] §2Employee: §aSo our mission is to assassinate the mayor. Amadel told you about the laws. We have a puppet in the running who’ll rubberstamp them.@§7[2/4] §2Служащий: §aТак что наша миссия - убить мэра. Амадел рассказал тебе о законах. У нас есть марионетка в бегах, которая поставит все нужные печати.
-§7[3/4] §2Employee: §aI've got the trap set up inside the bank. It was entirely too tricky, but it worked out. Your job is to trigger the trap.@§7[3/4] §2Служащий: §aУ меня есть ловушка, установленная внутри банка. Это было слишком сложно, но все получилось. Твоя задача состоит в том, чтобы активировать ловушку.
-§7[4/4] §2Employee: §aClimb up the tree behind me and look through the window, you should be able to see it from there.@§7[4/4] §2Служащий: §aЗаберись на дерево позади меня и посмотри в окно, должен увидеть его оттуда.
-§7[1/3] §2Employee: §aCan you see the mayor? I had to stay totally out of sight while setting this all up, so...@§7[1/3] §2Служащий: §aТы можешь видеть мэра? Я должен был оставаться полностью вне поля зрения, пока все это устраивал, так что...
-§7[2/3] §2Employee: §a...the§a only way to get to the trap is to jump across the hanging lamps in the ceiling.@§7[2/3] §2Служащий: §aЕдинственный способ добраться до ловушки - перепрыгнуть через висячие лампы на потолке.
-§7[3/3] §2Employee: §aYou can absolutely not be spotted. The way up to the ceiling is on the opposite side of the bank. Just keep on walking past the guards, play it cool.@§7[3/3] §2Служащий: §aТебя абсолютно точно не заметят. Путь к потолку лежит на противоположной стороне банка. Просто продолжай идти мимо охранников, веди себя спокойно.
-§7[1/1] §2Employee: §aQuickly, back to the camp. Before we’re noticed.@§7[1/1] §2Служащий: §aБыстрее, возвращайся в лагерь. Пока нас не заметили.
-§7[1/1] §2Bodyguard: §aNo one enters when the mayor is doing his errands, sorry. You'll have to wait for your transaction.@§7[1/1] §2Телохранитель: §aНикто не входит, пока мэр выполняет свои поручения, извините. Вам придется подождать своей сделки.
-§7[1/4] §2Amadel: §aAha, you two are back.@§7[1/4] §2Амадел: §aАга, вы двое вернулись.
-§7[2/4] §2Amadel: §aIs everything taken care of?@§7[2/4] §2Амадел: §aОбо всем уже позаботились?
-§7[4/4] §2Employee: §aWe can send in Miss Wuna at any time now, and she'll give us the clearance to start the excavation in a snap.@§7[4/4] §2Служащий: §aМы можем послать Мисс Вуна в любое время, и она даст нам разрешение начать раскопки в любое время.
-§2???: §a...you§a rage. Aided the ignoble. To what end?@§2???: §aТы в ярости. Помогал неблагородным. С какой целью?
-§2???: §aYou misinterpret. What you see... Is it true? How?@§2???: §aТы неправильно понимаешь. Что ты видел... Это правда? Но почему? 
-§2???: §aThe answer... It will not bring you the end.@§2???: §aОтвет... Не приведет тебя к концу.
-§2???: §aYou see. Yet you do not understand. So, may we offer an end?@§2???: §aТы видишь. И все же ты не понимаешь. Итак, можем ли мы предложить тебе конец?
-§2???: §aThe cruel. The kind. The selfish. The just. He who travelled life with confliction. Who faced eternity served cold. To his end.@§2???: §aЖестокий. Добрый. Эгоистичный. Простой. Тот, кто двигался по жизни с конфликтом. Тот, кто столкнулся с холодной вечностью. До своего конца.
-§7[1/5] §2Bak'al: §aYou have been made for a single purpose, peon. The wizard, Theorick, is endangering our cause.@§7[1/5] §2Бак'ал: §aТы был создан для единственной цели, пехотинец. Волшебник Теорик ставит под угрозу наше дело.
-§7[2/5] §2Bak'al: §aHe is capable of halting our advance with his damnable ice. Kill him.@§7[2/5] §2Бак'ал: §aОн способен остановить наше наступление своим проклятым льдом. Убей его.
-§7[3/5] §2Bak'al: §aI send you in my place. He will expect me. He will not expect one that looks as human as you.@§7[3/5] §2Бак'ал: §aЯ посылаю тебя вместо себя. Он ждет меня. Но он не будет ожидать того, кто выглядит так же по-человечески, как ты.
-§7[4/5] §2Bak'al: §aIf you fail, it will set us back greatly. It will give them a chance. Do not let them get that chance.@§7[4/5] §2Бак'ал: §aЕсли ты потерпишь неудачу, это сильно отбросит нас назад. Это даст им шанс. Не позволяй им получить этот шанс.
-§7[5/5] §2Bak'al: §aNesaak is behind me. Move.@§7[5/5] §2Бак'ал: §aНесаак позади меня. Иди.
-§7[1/13] §2Kotham: §aListen, I understand the discontent, but we must start rationing! The corruption is consuming our arable fields.@§7[1/13] §2Котэм: §aПослушайте, я понимаю ваше недовольство, но мы должны начать распределять продукты! Порча пожирает наши пахотные поля.
-§7[2/13] §2Kotham: §aWho knows if we’ll even have water soon? We need to save up as much as we can!@§7[2/13] §2Котэм: §aКто знает, скоро ли у нас вообще будет вода? Нам нужно набрать как можно больше!
-§7[3/13] §2Citizen: §aYeah, and what does Theorick have to say on the topic? How will he think of that?@§7[3/13] §2Житель: §aДа, и что же Теорик может сказать по этому поводу? Что он об этом думает?
-§7[4/13] §2Citizen: §aHe will be here shortly to discuss this problem in more detai-@§7[4/13] §2Житель: §aОн будет здесь в ближайшее время, чтобы обсудить эту проблему более подроб-
-§7[5/13] §2Theorick: §aEveryone, hush and listen to what Kotham is saying!@§7[5/13] §2Теорик: §aВсе, замолчите и слушайте, что говорит Котэм.
-§7[6/13] §2Theorick: §aAs the mayor said, all of you need to start rationing what you eat and drink. I cannot be here every waking moment!@§7[6/13] §2Теорик: §aКак сказал мэр, всем вам нужно начать распределять то, что вы едите и пьете. Я не могу быть здесь каждую свободную минуту!
-§7[7/13] §2Theorick: §aIn addition, I’ve figured something very important out. I’m developing a way to cease the spread of corruption. So I need to concentrate on that.@§7[7/13] §2Теорик: §aКроме того, я выяснил кое-что очень важное. Я разрабатываю способ остановить распространение порчи. Так что мне нужно сосредоточиться на этом.
-§7[8/13] §2Theorick: §a...hm§a. Something... Something is off.@§7[8/13] §2Теорик: §a...хм. Что-то... Что-то не так.
-§7[9/13] §2Theorick: §a...someone§a among you... I can feel a horrendous strength...@§7[9/13] §2Теорик: §a...кто-то среди вас... Я чувствую чудовищную силу...
-§7[10/13] §2Theorick: §aKotham! Get everyone to safety! NOW! MOVE, GO!@§7[10/13] §2Теорик: §aКотэм! Отведи всех в безопасное место! Сейчас же! ДВИГАЙТЕСЬ, ИДИТЕ!
-§7[11/13] §2Theorick: §aYou! Sent by Bak’al, I assume? What, is he too much of a coward to face me himself?@§7[11/13] §2Теорик: §aТы! Я полагаю, тебя послал Бак'ал? Что, он слишком труслив, чтобы встретиться со мной лично?
-§7[12/13] §2Theorick: §aWhat purpose do you have for doing this? This destruction is needless! Nesaak and all of Wynn have suffered enough!@§7[12/13] §2Теорик: §aС какой целью ты это делаешь? Это разрушение бесполезно! Несаак и вся провинция Винн достаточно пострадали!
-§7[13/13] §2Theorick: §aI’ll freeze you solid, just like the rest of the corruption, you foul THING!@§7[13/13] §2Теорик: §aЯ заморожу тебя насквозь, как и всю остальную порчу, мерзкая ТВАРЬ!
-§7[1/1] §2Theorick: §aThis way, no one else gets hurt. Only one will leave from here alive.@§7[1/1] §2Теорик: §aТаким образом, больше никто не пострадает. Только один уйдет отсюда живым.
-§7[1/2] §2Bak'al: §aThe Twains fall away. The peon has done his job well.@§7[1/2] §2Бак'ал: §aТвейны пали. Пехотинец хорошо справился со своей работой.
-§7[2/2] §2Bak'al: §aThe corruptive influence will spread. I will see this place desolate.@§7[2/2] §2Бак'ал: §aВлияние порчи будет распространяться. Я увижу это место опустошенным.
-§2???: §a...you§a fear. Does the dark become you?@§2???: §a...ты в ужасе. Тьма начинает овладевать тобой?
-§2???: §aThe answer...@§2???: §aОтвет...
-§2???: §aNo. You remain whole. You do not change.@§2???: §aНет. Ты остаешься тем же. Ты не меняешься.
-§2???: §aSo, you wonder. To what end? The question brings dread.@§2???: §aТак что, ты удивляешься. С какой целью? Этот вопрос наводит ужас.
-§2???: §aYet, an end is what you seek. So, may we offer an end?@§2???: §aТем не менее, цель - это то, что ты ищешь. Итак, можем ли мы предложить конец?
-§2???: §aAn end, ousted by further action. An end, brought to six. An end, to the surety of the haughty. An end, of the §aworld...in§a some fashion.@§2???: §aКонец, свергнутый другими действиями. Конец, принесенный шестью. Конец, к уверенности надменных. Конец мира...в некотором роде.
-§7[1/5] §2Bak'al: §aPeon. You have been created for one purpose. You will ensure the fall of Troms.@§7[1/5] §2Бак'ал: §aПехотинец. Ты был создан для одной цели. Ты обеспечишь падение Тромса.
-§7[2/5] §2Bak'al: §aThe Corrupter of Worlds was trapped within this cave. The fool decimated my army when I laid siege last.@§7[2/5] §2Бак'ал: §aРазрушитель Миров был заперт в этой пещере. Этот дурак уничтожил мою армию, когда я осадил его в последний раз.
-§7[3/5] §2Bak'al: §aSince then, he has been sealed in. The magic of the Twains is strong here. He cannot escape.@§7[3/5] §2Бак'ал: §aС тех пор он был запечатан внутри. Магия Твейнов здесь очень сильна. Он не может сбежать.
-§7[4/5] §2Bak'al: §aYou will release him from this cave. Whether you die afterwards is irrelevant. He will destroy Troms of his own accord.@§7[4/5] §2Бак'ал: §aТы освободишь его из этой пещеры. Неважно, умрешь ли ты после этого. Он уничтожит Тромс по собственной воле.
-§7[5/5] §2Bak'al: §aVenture through the cave. Break the Twains’ seal. And ensure he has a way to escape.@§7[5/5] §2Бак'ал: §aРискни пройти через пещеру. Сломай печать Твейнов. И убедись, что у него есть способ сбежать.
-§7[1/1] §2Bak'al: §aDefend yourself. He is too far gone to control. You will be attacked.@§7[1/1] §2Бак'ал: §aЗащити себя. Он слишком далеко зашел, чтобы контролировать себя. Ты будешь атакован.
-§7[1/2] §2Bak'al: §aMove faster. He will notice your presence soon.@§7[1/2] §2Бак'ал: §aДвигайся быстро. Он скоро заметит твое присутствие.
-§7[2/2] §2Bak'al: §aI do not have the time to create another peon for this job. Do not fail.@§7[2/2] §2Бак'ал: §aУ меня нет времени, чтобы создать еще одного пехотинца для этой работы. Не подведи.
-§7[1/1] §2Bak'al: §aThe Corrupteds are malleable. Create some kind of bridge with them. Answer how for yourself.@§7[1/1] §2Бак'ал: §aИспорченные мобы податливы. Создай с ними какой-то мост. Ответь себе сам, как это сделать.
-§7[1/1] §2Bak'al: §aThe Corrupter is awake. And he is close. Move, peon! You still must break the seal.@§7[1/1] §2Бак'ал: §aРазрушитель уже очнулся. И он уже близко. Двигайся, пехотинец! Ты все равно должен сломать печать.
-§7[1/1] §2Bak'al: §aI am unfamiliar with Twain magic. Use the intellect I have given you. Break the seal.@§7[1/1] §2Бак'ал: §aЯ не знаком с магией Твейна. Используй интеллект, который я тебе дал. Сломай печать.
-§7[1/1] §2Bak'al: §aYour job is done... And you survived. I will save you for another mission, should I need you. §aNow...watch§a.@§7[1/1] §2Бак'ал: §aТвоя работа сделана... И ты выжил. Я сохраню тебя для другой миссии, если ты мне понадобишься. А теперь...наблюдай.
-§2???: §a...you§a disbelieve. It was an end. But you are here once more.@§2???: §a...ты не веришь. Это был конец. Но ты снова здесь.
-§2???: §aHow much more? Where next? To what end?@§2???: §aСколько еще раз? Куда дальше? С какой целью?
-§2???: §aAiding terrible forces... But is it true? To what end?@§2???: §aПомогаешь ужасным силам... Но правда ли это? С какой целью?
-§2???: §aNo. You see possibility. You do not see certainty.@§2???: §aНет. Ты видишь возможность. Но ты не видишь определенности.
-§2???: §aYou question. To what end, then, and so may we offer an end?@§2???: §aТы спрашиваешь. С какой целью мы можем предложить этот конец?
-§2???: §aMetal. Preventing an end. Life. Ends, prevented. Does metal taking life, bringing an end, truly prevent more?@§2???: §aМеталл. Предотвращающий конец. Жизнь. Кончается, предотвращением. Действительно ли металл, забирающий жизнь, принесет конец, препятствующий большему?
-§7[1/5] §2Scientist Urelix: §aAh, here for the job opportunity then, I see. The waiver didn’t turn you away, good!@§7[1/5] §2Ученый Уреликс: §aА, пришел получить работу, как я погляжу. Отказ не отвернул тебя от меня, хорошо!
-§7[2/5] §2Scientist Urelix: §aNow, to business. Times are tough, as you know, and our Iron Golems are in high demand. However, we’ve, ah...@§7[2/5] §2Ученый Уреликс: §aА теперь перейдем к делу. Времена сейчас тяжелые, как ты знаешь, и наши железные големы пользуются большим спросом. Тем не менее, мы, эм...
-§7[3/5] §2Scientist Urelix: §a...experienced§a a drought of ‘volunteers.’ Your job is decently simple; just- *ahem* §a§oconvince §asome people to join the cause.@§7[3/5] §2Ученый Уреликс: §a...переживаем засуху 'с добровольцами.’ Твоя работа довольно проста; просто ... *кхем*... убедить некоторых людей присоединиться к делу.
-§7[4/5] §2Scientist Urelix: §aThree people should be enough for the moment. Look around the swamp for some folks, and lure them over here.@§7[4/5] §2Ученый Уреликс: §aНа данный момент трех человек должно быть достаточно. Пробегись вокруг болота в поисках каких-нибудь людей и замани их сюда.
-§7[5/5] §2Scientist Urelix: §aI'll stay in here and take care of them when you bring me them. It will absolutely be worth your while, I assure you.@§7[5/5] §2Ученый Уреликс: §aЯ останусь здесь и позабочусь о них, когда ты приведешь их мне. Уверяю тебя, это будет стоить твоего времени.
-§7[1/4] §2Anast: §aAgh, dang it dang it dang it!! You over there, help me out, would ya??@§7[1/4] §2Анаст: §aАх, черт возьми, черт возьми, черт возьми!! Ты там, помоги мне выбраться, ладно??
-§7[2/4] §2Anast: §aI tripped and fell in this stupid hole, and now there’s mud in my eyes that I can’t get out!@§7[2/4] §2Анаст: §aЯ споткнулся и упал в эту дурацкую дыру, и теперь у меня в глазах грязь, из которой я не могу выбраться!
-§7[3/4] §2Anast: §aI need to get home or to some kind of a doctor so I can wash my eyes out with actual clean water.@§7[3/4] §2Анаст: §aМне нужно попасть домой или к какому-нибудь врачу, чтобы я мог промыть глаза настоящей чистой водой.
-§7[4/4] §2Anast: §aGet me to Olux or a doctor or even just a sink!@§7[4/4] §2Анаст: §aПриведи меня в Олукс, или к врачу, или даже просто к раковине!
-§7[1/1] §2Dr. Urelix: §aGood job! We’ll get you taken care of nicely.@§7[1/1] §2Др. Уреликс: §aОтличная работа! Мы позаботимся о тебе как следует.
-§7[1/2] §2Leni: §aA bit of spare change, for an old man out of work?@§7[1/2] §2Лени: §aЕсть немного лишней мелочи для старика, оставшегося без работы?
-§7[2/2] §2Leni: §aThis decay’s made me terribly sick. I still have a family to feed... Any amount will help.@§7[2/2] §2Лени: §aОт этого заражения мне стало ужасно плохо. Мне все еще нужно кормить семью... Любая сумма поможет.
-§7[1/1] §2Dr. Urelix: §aI'll take care of this homeless old man.@§7[1/1] §2Др. Уреликс: §aЯ позабочусь об этом бездомном старике.
-§7[1/3] §2Kohma: §aOh, §aah...heehee§a, heya cutie.. Whatcha doin’ all the way out here?@§7[1/3] §2Кома: §aОх, ах...хи-хи, привет красавчик.. Что ты тут делаешь?
-§7[2/3] §2Kohma: §aJust exploring, huh? I bet someone like you could use someone to...y’know, spend some time with...@§7[2/3] §2Кома: §aПросто исследуешь, да? Держу пари, что такой человек, как ты, может кому-то пригодиться...Ну, знаешь, провести с ним какое-то время...
-§7[3/3] §2Kohma: §a...guess§a you’re not interested? §aOh...sorry§a if I came off as creepy. I’m §ajust...really§a lonely, is all.@§7[3/3] §2Кома: §a..полагаю, тебе это неинтересно? Ох...прости, если я показался тебе жутким. Я просто.....мне по-настоящему одиноко, вот и все.
-§7[1/3] §2Kohma: §aW-wait, those §aare...for§a me? Oh, you shouldn’t have, I’m so happy!@§7[1/3] §2Кома: §aП-подожди, это...для меня? Ох, тебе не следовало этого делать, я так счастлив!
-§7[2/3] §2Kohma: §aYou want to take me out on a date? R-Really? You’ll give me a chance? Yes, of course!@§7[2/3] §2Кома: §aТы хочешь пригласить меня на свидание? П-Правда? Ты дашь мне шанс? Да, конечно!
-§7[3/3] §2Kohma: §aLead the way, please! I can’t wait to see where we’re headed!@§7[3/3] §2Кома: §aВеди меня, пожалуйста! Я не могу дождаться, чтобы увидеть, куда мы направляемся!
-§7[1/1] §2Dr. Urelix: §aWell done! We’ll get you taken care of nicely.@§7[1/1] §2Др. Уреликс: §aМолодец! Мы прекрасно о тебе позаботимся.
-§7[1/1] §2Dr. Urelix: §aGood job, let us get down to my lab.@§7[1/1] §2Др. Уреликс: §aХорошая работа, давай спустимся в мою лабораторию.
-§7[1/4] §2Urelix: §aFlawless work! I daresay these are some of our best work yet, and it’s thanks to you.@§7[1/4] §2Уреликс: §aБезупречная работа! Осмелюсь сказать, что это одна из наших лучших работ, и все благодаря тебе.
-§7[2/4] §2Urelix: §aGo on, step closer! You’ve done a wonderful service here. Examine the fruits of your labor!@§7[2/4] §2Уреликс: §aДавай, подойди ближе! Ты оказал здесь замечательную услугу. Исследуй плоды своего труда!
-§7[3/4] §2Urelix: §aLook into their eyes, it's almost like you can see the person they once were. Intriguing, isn’t-@§7[3/4] §2Уреликс: §aПосмотри им в глаза, и ты почти сможешь увидеть того жителя, которыми они когда-то были. Интригующе, не правда ли-
-§7[4/4] §2Urelix: §aHah! This one seems quite fond of you! Want to take it home as a bonus to your payment?@§7[4/4] §2Уреликс: §aХа! Этот, кажется, очень любит тебя! Хочешь забрать его домой в качестве бонуса к твоему платежу?
-§2???: §a...you§a resign yourself. You believe you will never find the answers you seek.@§2???: §aТы смирился. Ты веришь, что никогда не найдешь ответы, которые ищешь.
-§2???: §aYou see the ends... To what end?@§2???: §aТы видишь итоги... С какой целью?
-§2???: §aThey are not yours. What is their purpose?@§2???: §aОни не принадлежат тебе. Какова их цель?
-§2???: §aYou do not understand. But you must see. So, may we offer an end?@§2???: §aТы не понимаешь. Но ты должен увидеть. Итак, можем ли мы предложить конец?
-§2???: §aA home, invaded. A society, crumbling. The people, starving. The concerned, helpless. The flames, rising. An end you will not expect.@§2???: §aДом, вторглись чужаки. Общество, которое рушится. Люди, умирающие с голоду. Обеспокоенные, беспомощные. Пламя, поднимающееся вверх. Конец, которого ты не ожидаешь.
-§7[1/3] §2Royal Advisor: §aOur king has requested the removal of the slum folk.@§7[1/3] §2Королевский Советник: §aНаш король потребовал убрать людей из трущоб.
-§7[2/3] §2Royal Advisor: §aHe wants to clean up their tunnels and build more residencies. Please, go tell those hooligans to get out of our city.@§7[2/3] §2Королевский Советник: §aОн хочет очистить их туннели и построить новые резиденции. Пожалуйста, пойди скажи этим хулиганам, чтобы они убирались из нашего города.
-§7[3/3] §2Royal Advisor: §aI'll be waiting here for your return.@§7[3/3] §2Королевский Советник: §aЯ буду ждать здесь твоего возвращения.
-§7[1/4] §2Citizen: §aA King's messenger, hm? What are your kind doing here?@§7[1/4] §2Житель: §aКоролевский гонец, да? Что здесь делают такие, как ты?
-§7[2/4] §2Citizen: §aWait, eviction?! You can't possibly be serious! I understand orders are orders, but these are peoples' lives!@§7[2/4] §2Житель: §aПодожди, выселение?! Ты же не серьезно! Я понимаю, что приказ есть приказ, но это же жизнь людей!
-§7[3/4] §2Citizen: §aThis is the only time the king has ever bothered even acknowledging our existence, and he wants to fling us onto the streets?@§7[3/4] §2Житель: §aЭто единственный раз, когда король потрудился хотя бы признать наше существование, и он хочет вышвырнуть нас на улицу?
-§7[4/4] §2Citizen: §aWe will not leave, simple as that. You'd better get out before someone lays you out for coming here.@§7[4/4] §2Житель: §aМы никуда не уйдем, вот так просто. Тебе лучше убраться отсюда, пока кто-нибудь не ударил тебя за то, что ты пришел сюда.
-§7[1/3] §2Royal Advisor: §aAs expected... Well, the King's orders are orders. They must be followed, but...@§7[1/3] §2Королевский Советник: §aКак и ожидалось... Что ж, приказ короля есть приказ. Они должны были подчиниться ему, но.....
-§7[2/3] §2Royal Advisor: §aGood god, he wants to cave it in?! Explosives, dynamite? What’s the meaning of all this?!@§7[2/3] §2Королевский Советник: §aБоже милостивый, он что, хочет все это тут взорвать?! Взрывчатка, динамит? В чем смысл всего этого?!
-§7[3/3] §2Royal Advisor: §aI... Here. At least inform them before you set off the explosives that you’re doing this, please...@§7[3/3] §2Королевский Советник: §aЯ... Ладно. По крайней мере, сообщи им, прежде чем взорвать взрывчатку, что ты делаешь это, пожалуйста...
-§2???: §a...once§a again. You wonder. To what end?@§2???: §a...снова тут. Ты удивляешься. С какой целью?
-§2???: §aThe question taunts you. To what end?@§2???: §aВопрос издевается над тобой. С какой целью?
-§2???: §aYour soul. We see your soul. Conflicted.@§2???: §aТвоя душа. Мы видели твою душу. Конфликт в ней.
-§2???: §aYou panic. We do not taint it. We do not darken it.@§2???: §aТы паникуешь. Не мы портим ее. Не мы омрачаем ее.
-§2???: §aBut to what end, you ask. So, may we offer an end?@§2???: §aНо с какой целью, спрашиваешь ты? Итак, можем ли мы предложить конец?
-§2???: §aMetal. Life. A new place... One is not sacrificed for another. Always distrusting. Tension, as the clockworks chime.@§2???: §aМеталл. Жизнь. Новое место... Одно не приносится в жертву другому. Всегда недоверчивы. Напряжение, как перезвон часовых механизмов.
-§7[1/10] §2Antikythera Supercomputer: §aAH, GOOD. I LIKE THE LOOKS OF THIS ONE. I WILL HAVE TO THANK WHOEVER MADE THIS MECH.@§7[1/10] §2Антикитера Суперкомпьютер: §aА, ХОРОШО. МНЕ НРАВИТСЯ, КАК ОН ВЫГЛЯДИТ. Я ДОЛЖЕН БУДУ ПОБЛАГОДАРИТЬ ТОГО, КТО СДЕЛАЛ ЭТОГО РОБОТА.
-§7[2/10] §2Antikythera Supercomputer: §aMECH PL-4Y. CAN YOU UNDERSTAND ME? ARE YOUR AUDIO RECEPTORS FUNCTIONAL? YES? GOOD.@§7[2/10] §2Антикитера Суперкомпьютер: §aРОБОТ PL-4Y. ТЫ МЕНЯ ПОНИМАЕШЬ? ФУНКЦИОНИРУЮТ ЛИ ТВОИ ЗВУКОВЫЕ РЕЦЕПТОРЫ? ДА? ХОРОШО.
-§7[3/10] §2Antikythera Supercomputer: §aI WILL GIVE YOU YOUR PURPOSE. I CANNOT BELIEVE IT HAS COME TO THIS POINT. BUT AFTER THAT HUMAN DESTROYED OUR FACILITY...@§7[3/10] §2Антикитера Суперкомпьютер: §aЯ СООБЩУ ТЕБЕ ТВОЮ ЦЕЛЬ. Я НЕ МОГУ ПОВЕРИТЬ, ЧТО ДО ЭТОГО ДОШЛО. НО ПОСЛЕ ТОГО, КАК ЧЕЛОВЕК УНИЧТОЖИЛ НАШ ОБЪЕКТ...
-§7[4/10] §2Antikythera Supercomputer: §aIT WAS A GOOD THING I HAD BACKUP CORES PREPARED. MY SARCASTIC STATEMENTS MOST LIKELY TRICKED THE HUMAN INTO THINKING THEY DESTROYED ME FULLY.@§7[4/10] §2Антикитера Суперкомпьютер: §aХОРОШО, ЧТО У МЕНЯ БЫЛИ ПОДГОТОВЛЕНЫ РЕЗЕРВНЫЕ ЯДРА. МОИ САРКАСТИЧЕСКИЕ ЗАЯВЛЕНИЯ, СКОРЕЕ ВСЕГО, ОБМАНУЛИ ЧЕЛОВЕКА, ЗАСТАВИВ ЕГО ДУМАТЬ, ЧТО ОН ПОЛНОСТЬЮ УНИЧТОЖИЛ МЕНЯ.
-§7[5/10] §2Antikythera Supercomputer: §aAFTER SOME INVESTIGATION, IT CAME TO LIGHT THAT THE AVOS AIDED THE HUMANS. I HONESTLY COULD NOT UNDERSTAND WHY.@§7[5/10] §2Антикитера Суперкомпьютер: §aПОСЛЕ НЕКОТОРОГО РАССЛЕДОВАНИЯ ВЫЯСНИЛОСЬ, ЧТО АВОСЫ ПОМОГАЛИ ЛЮДЯМ. ЧЕСТНО ГОВОРЯ, Я НЕ МОГ ПОНЯТЬ ПОЧЕМУ.
-§7[6/10] §2Antikythera Supercomputer: §aI CANNOT COMPUTE ANY OTHER POSSIBLE INTERPRETATION OF MY ORDER TO DESTROY THE HIGHEST THREATS AT THIS POINT.@§7[6/10] §2Антикитера Суперкомпьютер: §aЯ НЕ МОГУ ВЫЧИСЛИТЬ НИКАКОЙ ДРУГОЙ ВОЗМОЖНОЙ ИНТЕРПРЕТАЦИИ МОЕГО ПРИКАЗА УНИЧТОЖИТЬ ВЫСШУЮ УГРОЗУ НА ДАННЫЙ МОМЕНТ.
-§7[7/10] §2Antikythera Supercomputer: §aBOTH THE AVOS AND HUMANS ARE INCREDIBLY DANGEROUS. I MEAN, HAVE YOU- WAIT. YOU WOULD NOT HAVE SEEN LEGENDARY ISLAND.@§7[7/10] §2Антикитера Суперкомпьютер: §aОБА, И АВОСЫ, И ЛЮДИ НЕВЕРОЯТНО ОПАСНЫ. Я ИМЕЮ В ВИДУ, ЧТО- ПОДОЖДИ. ТЫ  ЖЕ НИКОГДА НЕ ВИДЕЛ ЛЕГЕНДАРНЫЙ ОСТРОВ.
-§7[8/10] §2Antikythera Supercomputer: §aJUST KNOW THAT THEY’RE BOTH CRAZY. IF I AM TO FINISH MY PROGRAMMED ORDERS, BOTH OF THEM MUST BE DESTROYED, HOWEVER MUCH I MIGHT HATE THE IDEA.@§7[8/10] §2Антикитера Суперкомпьютер: §aПРОСТО ЗНАЙ, ЧТО ОНИ СУМАСШЕДШИЕ. ЕСЛИ Я ДОЛЖЕН ЗАКОНЧИТЬ СВОИ ЗАПРОГРАММИРОВАННЫЕ ПРИКАЗЫ, ТО ОБЕ ЭТИ НАЦИИ ДОЛЖНЫ БЫТЬ УНИЧТОЖЕНЫ, КАК БЫ СИЛЬНО Я НИ НЕНАВИДЕЛ ЭТУ ИДЕЮ.
-§7[9/10] §2Antikythera Supercomputer: §aIT IS YOUR JOB TO CREATE DISTRUST BETWEEN THEM. MAKE SURE YOU AREN’T SEEN. THE AVOS ARE ALREADY SKEPTICAL OF THE CORKIANS.@§7[9/10] §2Антикитера Суперкомпьютер: §aЭТО ТВОЯ РАБОТА - СОЗДАТЬ НЕДОВЕРИЕ МЕЖДУ НИМИ. УБЕДИСЬ, ЧТО ТЕБЯ НИКТО НЕ ВИДИТ. АВОСЫ УЖЕ СКЕПТИЧЕСКИ ОТНОСЯТСЯ К КОРКИАНЦАМ.
-§7[10/10] §2Antikythera Supercomputer: §aAND THE HUMANS WERE IDIOTIC ENOUGH TO KEEP A CATAPULT AIMED AT THE AVOS SETTLEMENT. TAKE ADVANTAGE OF THEIR STUPIDITY.@§7[10/10] §2Антикитера Суперкомпьютер: §aА ЛЮДИ ДОСТАТОЧНО ГЛУПЫ, ЧТОБЫ ДЕРЖАТЬ КАТАПУЛЬТУ НАЦЕЛЕННОЙ НА ПОСЕЛЕНИЕ АВОСОВ. ВОСПОЛЬЗУЙСЯ ИХ ГЛУПОСТЬЮ.
-§7[1/7] §2Teleportation Mech: §aBEGIN TRANSMISSION: REALLY, WHO’S SO STUPID AS TO LEAVE A CATAPULT AIMED AT YOUR ALLIES?@§7[1/7] §2Телепортационный Робот: §aНАЧАЛО ПЕРЕДАЧИ: ДЕЙСТВИТЕЛЬНО, КТО НАСТОЛЬКО ГЛУП, ЧТОБЫ ОСТАВИТЬ КАТАПУЛЬТУ, НАЦЕЛЕННУЮ НА ВАШИХ СОЮЗНИКОВ?
-§7[2/7] §2Teleportation Mech: §aSURELY THE AVOS’ NATURAL PREFERENCE FOR TREBUCHETS WILL SPARK CONFLICT. IN ADDITION TO THE STONE YOU WILL BE LOBBING THROUGH THEIR WALLS.@§7[2/7] §2Телепортационный Робот: §aКОНЕЧНО, ЕСТЕСТВЕННОЕ ОТНОШЕНИЕ АВОСОВ К КАТАПУЛЬТАМ ВЫЗОВЕТ КОНФЛИКТ. ПОМИМО КАМНЯ, ТЫ ТАКЖЕ БУДЕШЬ ЗАБРОШЕН ЗА ИХ СТЕНЫ.
-§7[3/7] §2Teleportation Mech: §aTRANSMISSION PAUSED: Scanning area...@§7[3/7] §2Телепортационный Робот: §aПЕРЕДАЧА ПРИОСТАНОВЛЕНА: сканирование области...
-§7[4/7] §2Teleportation Mech: §aScan complete. Object located.@§7[4/7] §2Телепортационный Робот: §aСканирование завершено. Объект найден.
-§7[5/7] §2Teleportation Mech: §aRESUME TRANSMISSION: YOU WILL TAKE STONE FROM THIS AREA. IT IS LIKELY TO SHATTER AND INFLICT MORE COLLATERAL DAMAGE.@§7[5/7] §2Телепортационный Робот: §aВОЗОБНОВЛЕНИЕ ПЕРЕДАЧИ: ТЫ ВОЗЬМЕШЬ КАМЕНЬ ИЗ ЭТОЙ ОБЛАСТИ. ОН, СКОРЕЕ ВСЕГО, РАЗОБЬЕТСЯ И НАНЕСЕТ ЕЩЕ БОЛЬШИЙ СОПУТСТВУЮЩИЙ УЩЕРБ.
-§7[6/7] §2Teleportation Mech: §aAND SOMEHOW, THEY MADE A WOODEN CATAPULT ACTIVATE ONLY THROUGH ELECTROMAGIC. YOU SHOULD BE ABLE TO ACTIVATE IT OF YOUR OWN ACCORD.@§7[6/7] §2Телепортационный Робот: §aИ КАКИМ-ТО ОБРАЗОМ ОНИ ЗАСТАВИЛИ ДЕРЕВЯННУЮ КАТАПУЛЬТУ АКТИВИРОВАТЬСЯ ТОЛЬКО С ПОМОЩЬЮ ЭЛЕКТРОМАГИИ. ТЫ ДОЛЖЕН БЫТЬ В СОСТОЯНИИ АКТИВИРОВАТЬ ЕЕ ПО СОБСТВЕННОМУ ЖЕЛАНИЮ.
-§7[7/7] §2Teleportation Mech: §aEND TRANSMISSION. Mech PL-4Y. When you have completed your objective I will return you to Factory base.@§7[7/7] §2Телепортационный Робот: §aКОНЕЦ ПЕРЕДАЧИ. Робот PL-4Y. Когда ты выполнишь свою задачу, я верну тебя на фабричную базу.
-§7[1/8] §2Avos Chief: §aI'm… in shock. We aid them in destroying their factory, and...@§7[1/8] §2Авос Шеф: §aЯ... в шоке. Мы помогаем им уничтожить их фабрику, а они.....
-§7[2/8] §2Avos Chief: §aRound up the defenses and sharpen the spears. There is no excuse for this.@§7[2/8] §2Авос Шеф: §aВыставите оборону и заточите копья. Этому нет никакого оправдания.
-§7[3/8] §2???: §aNo, wait! Hold on!@§7[3/8] §2???: §aНет, подождите! Секунду!
-§7[4/8] §2Maxie: §aChieftain! We noticed the same thing as you did and I promise you, it was not us who did this.@§7[4/8] §2Макси: §aВождь! Мы заметили то же самое, что и вы, и я клянусь вам, что это сделали не мы.
-§7[5/8] §2Avos Chieftain: §aMaxie! There is no more 'both sides' here! This is not your people tearing up the earth, this is your people making attempts on our lives!@§7[5/8] §2Авос Вождь: §aМакси! Здесь больше нет "обеих сторон"! Это не ваши люди рвут землю, это ваши люди покушаются на нашу жизнь!
-§7[6/8] §2Maxie: §aNo, I swear this wasn’t planned! I’m on the city council now! There's got to be another explanation. There's still mechs around, it could have been one of them!@§7[6/8] §2Макси: §aНет, клянусь, это не было запланировано! Я теперь член городского совета! Должно же быть какое-то другое объяснение. Там все еще есть роботы, это мог быть один из них!
-§7[7/8] §2Avos Chieftain: §aAnd what would those monstrosities be taking orders from now? Your factory is shut down, as it ought to be!@§7[7/8] §2Авос Вождь: §aИ с чего бы теперь этим чудовищам подчиняться приказам? Ваша фабрика закрыта, как и должно быть!
-§7[8/8] §2Maxie: §aI’ll investigate this myself. There’s got to be some other explanation! Please, hold off on the war preparations!@§7[8/8] §2Макси: §aЯ сам займусь этим расследованием. Должно же быть какое-то другое объяснение! Пожалуйста, воздержитесь от военных приготовлений!
-§7[1/5] §2Teleportation Mech: §aBEGIN TRANSMISSION: THAT WOULD HAVE BEEN ALL WE NEEDED TO DO, IF NOT FOR SOMEONE INTERFERING. YOU DID YOUR JOB PERFECTLY, MECH PL-4Y.@§7[1/5] §2Телепортационный Робот: §aНАЧАЛО ПЕРЕДАЧИ: ЭТО БЫЛО БЫ ВСЕ, ЧТО НАМ НУЖНО БЫЛО СДЕЛАТЬ, ЕСЛИ БЫ КТО-ТО НЕ ВМЕШАЛСЯ. ТЫ ОТЛИЧНО СПРАВИЛСЯ СО СВОЕЙ РАБОТОЙ, РОБОТ PL-4Y.
-§7[2/5] §2Teleportation Mech: §aBUT THERE WILL BE ANOTHER TASK FOR YOU. IT IS TIME TO MAKE THE AVOS LOOK AS THOUGH THEY ARE ATTACKING.@§7[2/5] §2Телепортационный Робот: §aНО У ТЕБЯ БУДЕТ ДРУГАЯ ЗАДАЧА. ПРИШЛО ВРЕМЯ СДЕЛАТЬ ТАК, ЧТОБЫ АВОСЫ ВЫГЛЯДЕЛИ ТАК, КАК БУДТО ОНИ АТАКУЮТ.
-§7[3/5] §2Teleportation Mech: §aTHERE IS A TOTEM IN THE AVOS CHIEFTAIN’S TENT THAT CAN HARNESS DRUIDIC MAGIC. YOU WILL STEAL IT AND ATTACK CORKUS CITY.@§7[3/5] §2Телепортационный Робот: §aВ ШАТРЕ ВОЖДЯ АВОСОВ ЕСТЬ ТОТЕМ, КОТОРЫЙ МОЖЕТ ИСПОЛЬЗОВАТЬ МАГИЮ ДРУИДОВ. ТЫ УКРАДЕШЬ ЕГО И НАПАДЕШЬ НА ГОРОД КОРКУС.
-§7[4/5] §2Teleportation Mech: §aYOU WILL BREAK IN, AIDED BY THE TELEPORTATION MECH THAT I AM SENDING THIS MESSAGE THROUGH. DO NOT GET CAUGHT.@§7[4/5] §2Телепортационный Робот: §aТЫ ПРОНИКНЕШЬ ВНУТРЬ С ПОМОЩЬЮ ТЕЛЕПОРТАЦИОННОГО РОБОТА, ЧЕРЕЗ КОТОРОГО Я ПОСЫЛАЮ ЭТО СООБЩЕНИЕ. НЕ ПОПАДАЙСЯ ИМ НА ГЛАЗА.
-§7[5/5] §2Teleportation Mech: §aEND TRANSMISSION. Mech PL-4Y. When you have completed your objective I will return you to Next objective location.@§7[5/5] §2Телепортационный Робот: §aКОНЕЦ ПЕРЕДАЧИ. Робот PL-4Y. Когда ты завершишь свою задачу, я верну тебя к следующему объекту.
-§7[1/2] §2Teleportation Mech: §aRetrieving Mech PL-4Y.@§7[1/2] §2Телепортационный Робот: §aВозвращение Робота PL-4Y.
-§7[2/2] §2Teleportation Mech: §aPlease stand by.@§7[2/2] §2Телепортационный Робот: §aПожалуйста, оставайтесь на связи.
-§7[1/1] §2Teleportation Mech: §aSending Mech PL-4Y to Next objective location...@§7[1/1] §2Телепортационный Робот: §aОтправка Робота PL-4Y к следующему объекту...
-§7[1/1] §2Corkus Citizen: §aWHAT IS THAT!? THE AVOS ARE ATTACKING?@§7[1/1] §2Житель Коркуса: §aЧТО ЭТО ТАКОЕ?? АВОСЫ АТАКУЮТ?
-§7[1/4] §2Maxie: §aThey listened to me... right? Why's this-@§7[1/4] §2Макси: §aОни выслушали меня... так ведь? Зачем тогда-
-§7[2/4] §2Citizen: §aWhat in the world...? That's Avos magic!@§7[2/4] §2Житель: §aДа что же это такое...? Это магия Авосов!
-§7[3/4] §2Citizen: §aWhy're they attacking us? This is on a way bigger scale than finding grape vines in my laundry machine!@§7[3/4] §2Житель: §aПочему они нападают на нас? Это еще ужаснее, чем искать виноградные лозы в моей стиральной машине!
-§7[4/4] §2Maxie: §aDon't panic! I'll talk to the Chieftain. There's been some kind of mistake here, I'm certain of it!@§7[4/4] §2Макси: §aНе паникуйте! Я поговорю с вождем. Здесь какая-то ошибка, Я уверен в этом!
-§7[1/5] §2Maxie: §aChief! I thought I asked you to put away the war drums!@§7[1/5] §2Макси: §aШеф! Я думал, что просил вас убрать боевые барабаны!
-§7[2/5] §2Avos Chieftain: §aWe HAVE, Maxie. Do not make accusations upon us, on our own land.@§7[2/5] §2Авос Вождь: §aМы ТАК и сделали, Макси. Не обвиняй нас на нашей собственной земле.
-§7[3/5] §2Maxie: §aCorkus City was attacked today! A magical root broke through our wall. This is nature magic, an Avos specialty!@§7[3/5] §2Макси: §aКоркус Сити был атакован сегодня! Магический корень прорвался сквозь нашу стену. Это магия природы, специальность Авосов!
-§7[4/5] §2Avos Chieftain: §aHm. Convenient, that one of our prized ceremonial totems has gone missing. You may be right that someone is attempting to cause insurgence.@§7[4/5] §2Авос Вождь: §aХм. Удобно, что один из наших ценных церемониальных тотемов пропал. Возможно, ты прав, что кто-то пытается вызвать мятеж.
-§7[5/5] §2Maxie: §aI knew this was some kind of mistake. I'll get to the bottom of this!@§7[5/5] §2Макси: §aЯ знал, что это какая-то ошибка. Я докопаюсь до сути этого дела!
-§7[1/5] §2Teleportation Mech: §aBEGIN TRANSMISSION: THERE’S AN ANNOYING WRENCH IN THE WORKS. YOU’VE BEEN DOING YOUR JOB PERFECTLY, MECH PL-4Y.@§7[1/5] §2Телепортационный Робот: §aНАЧАЛО ПЕРЕДАЧИ: КТО-ТО ВСТАВЛЯЕТ НАМ ПАЛКИ В КОЛЕСА. ТЫ ОТЛИЧНО СПРАВЛЯЕШЬСЯ СО СВОЕЙ РАБОТОЙ, РОБОТ PL-4Y.
-§7[2/5] §2Teleportation Mech: §aI’VE GOT ONE MORE ORDER FOR YOU THAT SHOULD TIP THINGS OVER THE EDGE. STAND BY FOR TELEPORTATION.@§7[2/5] §2Телепортационный Робот: §aУ МЕНЯ ЕСТЬ ЕЩЕ ОДИН ПРИКАЗ ДЛЯ ТЕБЯ, КОТОРЫЙ ДОЛЖЕН ПЕРЕВЕРНУТЬ ВСЕ ВВЕРХ ДНОМ. ПРИГОТОВСЯ К ТЕЛЕПОРТАЦИИ.
-§7[3/5] §2Teleportation Mech: §aTHERE IS A SET OF STATISTICALLY INFERIOR MECHS BUILT BY THE CORKIANS IN THIS TOWER. I HAVE A SET OF SYSTEMS PROGRAMMED IN THIS DEVICE.@§7[3/5] §2Телепортационный Робот: §aВ ЭТОЙ БАШНЕ ЕСТЬ РЯД СТАТИСТИЧЕСКИ НЕПОЛНОЦЕННЫХ РОБОТОВ, ПОСТРОЕННЫХ КОРКИАНЦАМИ. У МЕНЯ ЕСТЬ НАБОР СИСТЕМ, ЗАПРОГРАММИРОВАННЫХ В ЭТОМ УСТРОЙСТВЕ.
-§7[4/5] §2Teleportation Mech: §aTHIS WILL OVERRIDE THEIR CURRENT PROGRAMMING AND SEND THEM TO ATTACK THE AVOS SETTLEMENT. THEY'LL BE SO DISGUSTED BY THE CORKIAN’S RELENTLESS BRANDING...@§7[4/5] §2Телепортационный Робот: §aЭТО ОТМЕНИТ ИХ ТЕКУЩУЮ ПРОГРАММУ И ОТПРАВИТ ИХ АТАКОВАТЬ ПОСЕЛЕНИЕ АВОСОВ. ОНИ БУДУТ ТАК ВОЗМУЩЕНЫ БЕЗЖАЛОСТНЫМ КЛЕЙМЕНИЕМ КОРКИАНЦОВ...
-§7[5/5] §2Teleportation Mech: §aNO, I CAN'T EVEN KEEP UP THE SARCASTIC FACADE ANYMORE. THEY'LL ATTACK AND KILL AVOS PEOPLE AND SET THE CIVIL WAR BLAZING. DO YOUR JOB QUICKLY. END TRANSMISSION.@§7[5/5] §2Телепортационный Робот: §aНЕТ, Я НЕ МОГУ БОЛЬШЕ СОХРАНЯТЬ СВОЙ САРКАСТИЧЕСКИЙ ВИД. ОНИ НАПАДУТ И УБЬЮТ АВОСОВ, И РАЗРАЗИТСЯ ГРАЖДАНСКАЯ ВОЙНА. ДЕЛАЙ СВОЮ РАБОТУ БЫСТРО. КОНЕЦ ПЕРЕДАЧИ.
-§7[1/2] §2Corkus Guard: §aBzzt... §a§kHello World.§aNEW ENEMY REGISTERED: AVOS. Proceed with attack protocol- click.@§7[1/2] §2Страж Коркуса: §aБззт... §a§kPrivet, Mir.§a ЗАРЕГИСТРИРОВАН НОВЫЙ ВРАГ: АВОСЫ. Перейти к протоколу атаки - клик.
-§7[2/2] §2Corkus Guard: §aObjective: Eliminate Avos presence.@§7[2/2] §2Страж Коркуса: §aЦель: устранить присутствие Авосов.
-§7[1/8] §2Teleportation Mech: §aBEGIN TRANSMISSION: YOUR JOB IS OVER, MECH PL-4Y. I HESITATE TO SAY YOU DID A GOOD JOB, BECAUSE THE JOB WAS ANYTHING BUT GOOD. IT WAS NECESSARY THOUGH.@§7[1/8] §2Телепортационный Робот: §aНАЧАЛО ПЕРЕДАЧИ: ТВОЯ РАБОТА ЗАКОНЧЕНА, РОБОТ PL-4Y. НЕ МОГУ СКАЗАТЬ, ЧТО ТЫ СДЕЛАЛ ХОРОШУЮ РАБОТУ, ПОТОМУ ЧТО РАБОТА БЫЛА СОВСЕМ НЕ ХОРОШЕЙ. НО ЭТО БЫЛО НЕОБХОДИМО.
-§7[2/8] §2Teleportation Mech: §aWE WILL BE ABLE TO LET THEM TEAR THEMSELVES TO SHREDS INSTEAD OF GETTING INVOLVED AND SPARKING SUSPICION.@§7[2/8] §2Телепортационный Робот: §aМЫ МОЖЕМ ПОЗВОЛИТЬ ИМ РАЗОРВАТЬ СЕБЯ В КЛОЧЬЯ, ВМЕСТО ТОГО ЧТОБЫ ВМЕШИВАТЬСЯ И ВЫЗЫВАТЬ ПОДОЗРЕНИЯ.
-§7[3/8] §2Teleportation Mech: §aI HAD WANTED TO FIND A SOLUTION THAT WOULD NOT REQUIRE A FRESH START. IF MY HAND WAS NOT FORCED, PERHAPS. BUT THAT IS IRRELEVANT NOW.@§7[3/8] §2Телепортационный Робот: §aЯ ХОТЕЛ НАЙТИ РЕШЕНИЕ, КОТОРОЕ НЕ ТРЕБОВАЛО БЫ НОВОГО СТАРТА. ВОЗМОЖНО ЕСЛИ БЫ НЕ ПРИШЛОСЬ ФОРСИРОВАТЬ СОБЫТИЯ. НО СЕЙЧАС ЭТО УЖЕ НЕ ИМЕЕТ ЗНАЧЕНИЯ.
-§7[4/8] §2Teleportation Mech: §aYOU WILL RETURN TO THE FACTORY WITH THE TELEPORTATION MECH AND REMAIN UNTIL FURTHER NOTICE-@§7[4/8] §2Телепортационный Робот: §aТЫ ВЕРНЕШЬСЯ НА ФАБРИКУ ВМЕСТЕ С ТЕЛЕПОРТАЦИОННЫМ РОБОТОМ И ОСТАНЕТЕСЬ ТАМ ДО ДАЛЬНЕЙШИХ РАСПОРЯЖЕНИЙ-
-§7[5/8] §2Maxie: §aI knew it! It was such a longshot, but I knew the Factory still had to be at large! And now I have evidence to prove it, too!@§7[5/8] §2Макси: §aЯ так и знал! Это был так красиво, но я знал, что фабрика все еще должна была функционировать! И теперь у меня есть доказательства, чтобы доказать это!
-§7[6/8] §2Maxie: §aThis time we'll make sure you won't get another chance. I'll tell everyone what happened, and then we’ll tear that factory down at the foundations!@§7[6/8] §2Макси: §aНа этот раз мы позаботимся о том, чтобы у тебя не было другого шанса. Я расскажу всем, что случилось, а потом мы снесем эту фабрику до основания!
-§7[7/8] §2Maxie: §aYou should've picked a more private meeting place! I'm out!@§7[7/8] §2Макси: §aТы должен был выбрать более уединенное место для встречи! Я ухожу!
-§7[3/3] §2Maxie: §aFREEZE!@§7[3/3] §2Макси: §aЗАМРИ!
-§7[1/1] §2Maxie: §aAah, you’re fast! You caught up this quick?! I have no other choice...@§7[1/1] §2Макси: §aАах, ты быстро соображаешь! Ты так быстро догнал меня?! У меня нет другого выбора...
-§7[1/2] §2Maxie: §aYou aren't going to stop me from getting to the battleground! You look like you were scrounged up from rust and verdigris!@§7[1/2] §2Макси: §aТы же не помешаешь мне добраться до поля боя! Ты выглядишь так, словно тебя выкрали из ржавчины!
-§7[2/2] §2Maxie: §aSurrender, or I'll use my own mechs to smash you to scrap metal!@§7[2/2] §2Макси: §aСдавайся, или я использую своих собственных роботов, чтобы разнести тебя на металлолом!
-§7[1/2] §2Maxie: §aYou have defeated both of my most powerful creations...@§7[1/2] §2Макси: §aТы победил обоих моих самых могущественных созданий...
-§7[2/2] §2Maxie: §aI usually don't do this, but I guess I have no other option. I need to get this information to the others.@§7[2/2] §2Макси: §aОбычно я этого не делаю, но, наверное, у меня нет другого выхода. Мне нужно передать эту информацию остальным.
-§7[1/1] §2Maxie: §aNo... I... have to tell them.@§7[1/1] §2Макси: §aНет... Я... должен сказать им.
-§2???: §a...you§a harden your heart. There is no end, you think.@§2???: §a...твое сердце твердеет. Ты думаешь, что этому нет конца.
-§2???: §aWrong. The end is in sight.@§2???: §aНеверно. Конец уже виден.
-§2???: §aYour soul. It awakens to something new.@§2???: §aТвоя душа. Она открывается к чему-то новому.
-§2???: §aNot dark. Not light. Not in-between. But separate.@§2???: §aНи темному. Ни светлому. Ни чему-то между. Но другому.
-§2???: §aPower. Gain. Risk. New beginnings, from an end.@§2???: §aСила. Получение. Риск. Новые начинания, начиная с конца.
-§2???: §aSo... May we offer you the end?@§2???: §aТак... Можем ли мы предложить тебе конец?
-§2???: §aThe very center... The place deemed closest to your home. There, in the center of Wynn... You shall find the end.@§2???: §aСамый центр...Место, считающееся самым близким к твоему дому. Там, в самом центре Винн... Ты найдешь свой конец.
-§7[1/5] §2Bak'al: §aDetlas. What a foolish place for a central trading town, so close to the Roots.@§7[1/5] §2Бак'ал: §aДетлас. Какое глупое место для центрального торгового города, так близко к Корням.
-§7[2/5] §2Bak'al: §aMy armies have been sent to the other cities. Their hero is inevitably busy.@§7[2/5] §2Бак'ал: §aМои войска были посланы в другие города. Их герой неизбежно занят.
-§7[3/5] §2Bak'al: §aI will demolish this town. Their army will fall before us.@§7[3/5] §2Бак'ал: §aЯ уничтожу этот город. Их армия падет перед нами.
-§7[4/5] §2Bak'al: §aYou will destroy the guards. I will destroy the town.@§7[4/5] §2Бак'ал: §aВы уничтожите стражей. Я уничтожу город.
-§7[5/5] §2Bak'al: §aNow, peon. Move.@§7[5/5] §2Бак'ал: §aСейчас, пехотинец. Вперед.
-§7[1/12] §2Aegis: §aHalt! Who goes there? Stop, in the name of the Detlas army!@§7[1/12] §2Аегис: §aСтоять! Кто там ходит? Остановитесь, во имя армии Детласа!
-§7[2/12] §2Aegis: §aShould you continue, you shall face the strength and courage of Admiral Aegis!@§7[2/12] §2Аегис: §aЕсли вы продолжите, то столкнетесь с силой и мужеством Адмирала Аэгиса!
-§7[3/12] §2Guard: §aAdmiral?! It's Bak'al!@§7[3/12] §2Страж: §aАдмирал?! Это Бак'ал!
-§7[4/12] §2Aegis: §aWe cannot back down against any foe! Chaaaarge!!@§7[4/12] §2Аегис: §aМы не можем отступить ни перед одним врагом! В бой!
-§7[5/12] §2Guard: §a...r-reinforcements! Need reinforcements!@§7[5/12] §2Страж: §a...п-подкрепление! Нужно подкрепление!
-§7[6/12] §2Bak'al: §aThe strongest of Detlas' army is dead. The rest are hiding in fear. Detlas will fall.@§7[6/12] §2Бак'ал: §aСамая сильная армия Детласа мертва. Остальные прячутся в страхе. Детлас падет.
-§7[7/12] §2???: §aExcuse me, I think you're forgetting someone.@§7[7/12] §2???: §aПрошу прощения, мне кажется, вы кое-кого забыли.
-§7[8/12] §2Bak'al: §a...Fool§a. Run while you have the chance.@§7[8/12] §2Бак'ал: §a...Дурак. Беги, пока есть такая возможность.
-§7[9/12] §2???: §aDetlas will not fall today. We'll be making sure of that!@§7[9/12] §2???: §aДетлас сегодня не падет. Мы позаботимся об этом!
-§7[10/12] §2Bak'al: §aWe?@§7[10/12] §2Бак'ал: §aМы?
-§7[11/12] §2Bak'al: §aSelf-confident idiots. I won't even bother dealing with you two.@§7[11/12] §2Бак'ал: §aСамоуверенные идиоты. Я даже не буду утруждать себя общением с вами двумя.
-§712/12] §2Bak'al: §aPeon. Deal with this nonsense.@§7[12/12] §2Бак'ал: §aПехотинец. Разберись с этой ерундой.
-§7[1/4] §2Aledar: §a§lTASIM§a! How the hell did you manage to kill him?!@§7[1/4] §2Аледар: §a§lТАСИМ?§a Как, черт возьми, тебе удалось его убить?!
-§7[2/4] §2Bak'al: §aYou take too much stock in your ability. My victory is inevitable.@§7[2/4] §2Бак'ал: §aТы слишком много думаешь о своих способностях. Моя победа неизбежна.
-§7[3/4] §2Aledar: §aI’ll tear your guts out!!@§7[3/4] §2Аледар: §aЯ тебе кишки вырву!!
-§7[4/4] §2Bak'al: §aYour attention should be drawn to my peon. Now fall.@§7[4/4] §2Бак'ал: §aТвое внимание должно быть обращено на моего пехотинца. А теперь исчезни.
-§7[1/1] §2Aledar: §a§lThis isn’t over§a! Once your little lackey’s dead I’m coming after you!!@§7[1/1] §2Аледар: §a§lЭто еще не конец!§a Как только твой маленький лакей умрет, я приду за тобой!!
-§2???: §aAnd so, you have reached an end.@§2???: §aИ вот, ты достиг конца.
-§2???: §aYou wonder. It is an end... But to §awhat...purpose§a. What will you gain?@§2???: §aТы удивляешься. Это и есть конец... Но в чем была...цель. Что ты узнал?
-§2???: §aYou have seen loss. Destruction. Betrayal. All ends, to some other than you. Ends that never came to pass...@§2???: §aТы видел потери. Разрушения. Предательство. Все заканчивалось для кого-то другого, кроме тебя. Конец, который так и не наступил...
-§2???: §aTo end is a powerful thing. To find your end... You may never stop searching. You may find your end in but a day’s time.@§2???: §aЧтобы закончить мощную вещь. Чтобы найти свой конец... Возможно, ты никогда не перестанешь искать. Ты можешь найти свой конец всего за один день.
-§2???: §aBut §ahere...you§a will gain the power to bring an end. To be brought yours.@§2???: §aНо здесь.....ты обретаешь силу, чтобы положить этому конец. Чтобы ты это сделал.
-§2???: §aHowever. Though the change is irrevocable...@§2???: §aОднако. Хотя это изменение необратимо...
-§2???: §aThe power to bring an end. It is a choice. And that... Whether you will use that power, we cannot tell you.@§2???: §aСила, способная положить этому конец. Это - выбор. И... Воспользуешься ли ты этой силой, мы не можем тебе сказать.
-§2???: §aYou must deign to take that choice.@§2???: §aТы должен соизволить сделать этот выбор сам.
-§2???: §aWe may offer you not one more end.@§2???: §aМы не можем предложить тебе больше ни одного конца.
-§2???: §aYou must find your final end yourself. We will remain... And offer others the same. And so...@§2???: §aТы должен сам найти свой последний конец. Мы останемся здесь... И предложим другим то же самое. И поэтому...
-§2???: §aWe two, §ahere...end§a.@§2???: §aМы двое, здесь...в конце.
-§7[1/7] §2Tasim: §a...no§a sense screaming for the dead. But do you think I’m going to just give up like that?@§7[1/7] §2Тасим: §a...нет смысла кричать о мертвых. Но неужели ты думаешь, что я вот так просто сдамся?
-§7[2/7] §2Bak'al: §aIt would be easier on yourself to.@§7[2/7] §2Бак'ал: §aЭто было бы легче для тебя самого.
-§7[3/7] §2Tasim: §aHah. Didn’t know corrupteds had a sense of humor, twisted as it might be.@§7[3/7] §2Тасим: §aХах. Не знал, что у испорченных есть чувство юмора, каким бы извращенным оно ни было.
-§7[4/7] §2Tasim: §aI won’t dare die while everything here is at stake.@§7[4/7] §2Тасим: §aЯ не посмею умереть, пока все здесь поставлено на карту.
-§7[5/7] §2Tasim: §aHow’s this, then, hm? Think your §a§lPEON§a can handle me at my strongest?@§7[5/7] §2Тасим: §aНу и как тебе это, а? Думаешь, твой §a§lпехотинец§a может справиться со мной в моей самой сильной форме?
-§7[6/7] §2Bak'al: §aYes. I do. A foolhardy show of power means nothing.@§7[6/7] §2Бак'ал: §aДа. Я так думаю. Безрассудная демонстрация силы ничего не значит.
-§7[7/7] §2Bak'al: §a§lFinish this§a.@§7[7/7] §2Бак'ал: §a§a§lПрикончи его§a.
-§7[1/1] §2Tasim: §a§lI AM NOT GIVING UP!@§7[1/1] §2Тасим: §aЯ НЕ СДАМСЯ!
-§7[1/1] §2Tasim: §aAirforce! Drop the bomb!@§7[1/1] §2Тасим: §aСбросить бомбу!
-§7[1/2] §2Citizen: §aOh, yeah I saw the mayor not too long ago.@§7[1/2] §2Житель: §aДа, я видел мэра не так давно.
-§7[2/2] §2Citizen: §aHe was headed towards the bank. Why're you wondering, miss Villager?@§7[2/2] §2Житель: §aОн направлялся к банку. Почему вы удивляетесь, мисс Житель?
-§7[1/2] §2Kohma: §aHeya, again. Thinking of it, a lovely one like you is probably spoken for already, huh?@§7[1/2] §2Кома: §aПриветик, еще раз. Подумав об этом, наверное о такой прелестной девушке, как ты, уже говорят, да?
-§7[2/2] §2Kohma: §aGuess I'll just go pick some §a§lflowers §afor myself.@§7[2/2] §2Кома: §aДумаю, я просто пойду и соберу немного §a§lцветов§a для себя.
+﻿=====================================================================================
+§2???: §a...@§2???: §a...
+§2???: §a...you§a arrive. You search... To what end?@§2???: §a...왔구나. 찾았군. 이유가 무엇이냐?
+§2???: §aYou wonder. What do we speak of? To what end?@§2???: §a궁금하겠지. 우리가 뭐라 말할지 궁금한가? 이유가 무엇이냐?
+§2???: §aYou panic. We know you. How? We can provide no answer.@§2???: §a놀랐겠지. 우리가 널 알고있으니까. 어떻게? 우린 대답해줄 수 없다.
+§2???: §aFor answers... You search. To an end you seek. May we offer an end?@§2???: §a그 답은... 네가 찾아봐. 끝까지 찾아봐. 끝내도 되겠나?
+§2???: §aThe besieged origin. To end, one must begin.@§2???: §a포위당한 근원지. 끝내려면 시작해야한다.
+§7[1/4] §2Bak'al: §aWe destroy Ragni today. The great fortress will fall.@§7[1/4] §2바'칼: §a우린 오늘 라그니를 오늘 파괴할 것이다. 저 위대한 요새는 무너져 내릴거고.
+§7[2/4] §2Bak'al: §aI will find their protector, Bob. You each will engage the guards and city dwellers. §a§l10 citizens§a.@§7[2/4] §2바'칼: §a난 용사 밥을 찾겠다. 너희들은 병사와 시민들을 상대해라. §a§l10명의 시민§a을.
+§7[3/4] §2Bak'al: §aIf each of you kills §a§l10 citizens§a, then the city will run empty. So, you shall make it run empty.@§7[3/4] §2바'칼: §a네가 만약 §a§l10명의 시민§a을 죽인다면, 그들은 도시를 버리고 달아날것이다. 그러니 넌 놈들을 달아나게 만들어라.
+§7[4/4] §2Bak'al: §aGo!@§7[4/4] §2바'칼: §a가거라!
+§2???: §aYou anger. Viewing needless destruction. To what end?@§2???: §a분노했군. 불필요한 파괴를 보았기에. 이유가 무엇이냐?
+§2???: §aYou distrust. We are dark. Are we? You believe it so.@§2???: §a불신하는구나. 우리가 어둠이라고. 우리가? 그저 그렇게 믿을 뿐이지.
+§2???: §aYou prepare. You would attack us. To what end?@§2???: §a준비하는구나. 우릴 공격하기 위해. 이유가 무엇이냐?
+§2???: §aThere is no end. Of what you wish, there is none. But may we offer an end?@§2???: §a끝은 없다. 네가 원하는것도 없다. 그러나 끝내도 되겠나?
+§2???: §aThe unrighteous sought it. The noble hid it. The one seeking answers found more questions. Another §abeginning...to§a a new end.@§2???: §a옳지 않은 자가 그것을 찾았다. 귀족은 그것을 숨겼다. 하나의 답을 찾자 더 많은 궁금증이 생겼다. 또다른 시작...새로운 종말을 고한다.
+§7[1/4] §2Amadel: §aHey, little miss. Don’t go spacing out on me like that.@§7[1/4] §2아마델: §a이봐, 꼬마 아가씨. 나에게 그렇게 아부하지마.
+§7[2/4] §2Amadel: §aNow that you’re acquainted with the new laws we’ll want to introduce, I’ve got a job for you to do.@§7[2/4] §2아마델: §a우리가 도입하고싶은 새 법안이 생겼으니, 네가 할 일이 생겼어.
+§7[3/4] §2Amadel: §aThe current mayor is human. He'll inevitably veto the laws. The deputy on the other hand, is a villager, and on our side. See what I'm getting at.@§7[3/4] §2아마델: §a지금 시장은 인간족이야. 그는 이 법안에 거부권을 행사하겠지. 반면에 부관은 주민족이고, 우리 쪽 사람이지. 내 말을 잘 들어.
+§7[4/4] §2Amadel: §aAnother employee has already been sent out to get things started. He'll know what you need to do, so meet up with him, would you?@§7[4/4] §2아마델: §a이 일을 시작하기 위해 이미 다른 사람을 파견했어. 그는 네가 할 일을 잘 알고 있으니까 그를 만나봐. 알겠지?
+§7[1/4] §2Employee: §aYou are here for the job, aren't you? I have to apologize. It’s going to be trickier than I’d wanted for you.@§7[1/4] §2직원: §a그 일때문에 온거지? 그 전에 너한테 사과를 해야할거 같아. 내가 너에게 건 기대보다 더 힘든 일이야.
+§7[2/4] §2Employee: §aSo our mission is to assassinate the mayor. Amadel told you about the laws. We have a puppet in the running who’ll rubberstamp them.@§7[2/4] §2직원: §a 우리의 임무는 시장을 암살하는거야. 아마델이 너에게 법에 대해 알려줬었지. 우린 그를 제거할 함정을 설치해놨어.
+§7[3/4] §2Employee: §aI've got the trap set up inside the bank. It was entirely too tricky, but it worked out. Your job is to trigger the trap.@§7[3/4] §2직원: §a이미 은행안에 함정을 설치했어. 이건 매우 까다로운 일이였지만, 잘 설치했지. 네가 할 일은 그 함정을 작동시키는거야.
+§7[4/4] §2Employee: §aClimb up the tree behind me and look through the window, you should be able to see it from there.@§7[4/4] §2직원: §a내 뒤에 있는 나무를 타고 올라가서 은행의 창문을 보면, 내부를 볼 수 있을거야.
+§7[1/3] §2Employee: §aCan you see the mayor? I had to stay totally out of sight while setting this all up, so...@§7[1/3] §2직원: §a시장을 봤니? 이걸 설치하는동안 시야에 보이지 않기 위해 작업했지. 그래서...
+§7[2/3] §2Employee: §a...the§a only way to get to the trap is to jump across the hanging lamps in the ceiling.@§7[2/3] §2직원: §a...함정이 있는곳으로 가는 유일한 방법은 천장에 걸려있는 전등을 밟고 넘어가는거야.
+§7[3/3] §2Employee: §aYou can absolutely not be spotted. The way up to the ceiling is on the opposite side of the bank. Just keep on walking past the guards, play it cool.@§7[3/3] §2직원: §a절대로 들키면 안 돼. 올라가는 길은 은행 맞은편에 있어. 경비원들은 그냥 무시하고. 침착하게 행동해.
+§7[1/1] §2Employee: §aQuickly, back to the camp. Before we’re noticed.@§7[1/1] §2직원: §a빨리 캠프로 돌아와. 우리가 들키기 전에.
+§7[1/1] §2Bodyguard: §aNo one enters when the mayor is doing his errands, sorry. You'll have to wait for your transaction.@§7[1/1] §2경호원: §a죄송하지만. 시장님이 업무 중일 때는 아무도 들어올 수 없습니다. 거래가 끝날때까지 기다려주십시오.
+§7[1/4] §2Amadel: §aAha, you two are back.@§7[1/4] §2아마델: §a아! 돌아왔구나.
+§7[2/4] §2Amadel: §aIs everything taken care of?@§7[2/4] §2아마델: §a전부 해결했나?
+§7[4/4] §2Employee: §aWe can send in Miss Wuna at any time now, and she'll give us the clearance to start the excavation in a snap.@§7[4/4] §2직원: §a우린 언제든지 우나씨에게 갈 수 있고, 그녀는 즉시 우리에게 발굴 허가권을 줄 겁니다.
+§2???: §a...you§a rage. Aided the ignoble. To what end?@§2???: §a격노했구나. 비열한 일을 도왔기에. 이유가 뭐지?
+§2???: §aYou misinterpret. What you see... Is it true? How?@§2???: §a네가 오해한거다. 네가 본것은... 그건 사실인가? 왜?
+§2???: §aThe answer... It will not bring you the end.@§2???: §a그 답은... 너에게 결말을 주지 않을거야.
+§2???: §aYou see. Yet you do not understand. So, may we offer an end?@§2???: §a보다시피. 그러나 넌 아직 이해하지 못했다. 끝내도 되겠나?
+§2???: §aThe cruel. The kind. The selfish. The just. He who travelled life with confliction. Who faced eternity served cold. To his end.@§2???: §a잔혹한. 친절한. 이기적. 공정한. 갈등을 가지고 여행한 사람. 영겁의 추위를 맞이한 사람. 그 최후까지.
+§7[1/5] §2Bak'al: §aYou have been made for a single purpose, peon. The wizard, Theorick, is endangering our cause.@§7[1/5] §2바'칼: §a너는 단 하나의 목적을 위해 만들어졌다 하수인이여. 마법사 테오릭은 우리의 명분을 위태롭게 하고있다.
+§7[2/5] §2Bak'al: §aHe is capable of halting our advance with his damnable ice. Kill him.@§7[2/5] §2바'칼: §a그는 이 얼간이같은 얼음으로 우리를 막을 수 있다. 그를 처단하라.
+§7[3/5] §2Bak'al: §aI send you in my place. He will expect me. He will not expect one that looks as human as you.@§7[3/5] §2바'칼: §a널 내가 가야하는 장소에 보내겠다. 그는 날 기다리고 있겠지. 하지만, 아무리 그라도 인간을 닮은 널 보낼거라 예상하진 못하겠지
+§7[4/5] §2Bak'al: §aIf you fail, it will set us back greatly. It will give them a chance. Do not let them get that chance.@§7[4/5] §2바'칼: §a만약 실패한다면, 우리는 크게 후퇴해야한다. 그런다면 놈들에게 기회를 주는 꼴이지. 절대 놈들이 기회를 갖지 못하게 해라.
+§7[5/5] §2Bak'al: §aNesaak is behind me. Move.@§7[5/5] §2Bak'al: §a네삭은 내 뒤에 있다. 가라.
+§7[1/13] §2Kotham: §aListen, I understand the discontent, but we must start rationing! The corruption is consuming our arable fields.@§7[1/13] §2코담: §a주목하세요. 불만은 이해하지만 우린 배급제를 시작해야합니다! 타락이 우리의 경작지를 점령했어요.
+§7[2/13] §2Kotham: §aWho knows if we’ll even have water soon? We need to save up as much as we can!@§7[2/13] §2코담: §a며칠 후 우리가 물만 마시게 될 지 누가압니까? 지금부터라도 비축을 해야해요!
+§7[3/13] §2Citizen: §aYeah, and what does Theorick have to say on the topic? How will he think of that?@§7[3/13] §2시민: §a맞아, 그럼 테오릭은 이 주제에 대해 뭐라 생각하고있죠? 그는 이 주제에 대해 어떻게 생각합니까?
+§7[4/13] §2Citizen: §aHe will be here shortly to discuss this problem in more detai-@§7[4/13] §2시민: §a그는 이 문제를 더 자세하기 이야기 하기위에 곧 올-
+§7[5/13] §2Theorick: §aEveryone, hush and listen to what Kotham is saying!@§7[5/13] §2테오릭: §a여러분, 정숙하시고 코담이 말하는 것을 들어주십시오!
+§7[6/13] §2Theorick: §aAs the mayor said, all of you need to start rationing what you eat and drink. I cannot be here every waking moment!@§7[6/13] §2테오릭: §a시장님이 말씀하신대로, 우리는 식량에 대해 배급제를 시작해야합니다. 무슨일이 일어날때마다 전 여기 있을 수 없습니다!
+§7[7/13] §2Theorick: §aIn addition, I’ve figured something very important out. I’m developing a way to cease the spread of corruption. So I need to concentrate on that.@§7[7/13] §2테오릭: §a게다가, 전 매우 중요한것을 알아냈습니다. 저는 지금 부패의 확산을 막기 위한 방법을 개발중입니다. 당분간 그것에 집중해야합니다.
+§7[8/13] §2Theorick: §a...hm§a. Something... Something is off.@§7[8/13] §2테오릭: §a...음. 뭔가... 뭔가 이상해.
+§7[9/13] §2Theorick: §a...someone§a among you... I can feel a horrendous strength...@§7[9/13] §2테오릭: §a...당신들 중에 한 사람에게서... 매우 끔찍한 힘이 느껴지는군요...
+§7[10/13] §2Theorick: §aKotham! Get everyone to safety! NOW! MOVE, GO!@§7[10/13] §2테오릭: §a코담! 모두를 안전한 곳으로 옮기도록 하시오! 당장! 움직여, 어서!
+§7[11/13] §2Theorick: §aYou! Sent by Bak’al, I assume? What, is he too much of a coward to face me himself?@§7[11/13] §2테오릭: §a너! 바'칼이 보냈지, 맞나? 하, 그 겁쟁가 날 직접 보기 무섭나보지?
+§7[12/13] §2Theorick: §aWhat purpose do you have for doing this? This destruction is needless! Nesaak and all of Wynn have suffered enough!@§7[12/13] §2테오릭: §a이 일에 무슨 목적이 있지? 이 파괴는 불필요해! 네삭과 윈의 사람들은 이미 충분한 고통을 받았어!
+§7[13/13] §2Theorick: §aI’ll freeze you solid, just like the rest of the corruption, you foul THING!@§7[13/13] §2테오릭: §a내가 널 얼려주마, 다른 타락들과 같이 말이다. 이 끔찍한 것!
+§7[1/1] §2Theorick: §aThis way, no one else gets hurt. Only one will leave from here alive.@§7[1/1] §2테오릭: §a이렇게 하면 아무도 다치지 않는다. 오직 한 명만이 이곳에서 살아나갈것이다.
+§7[1/2] §2Bak'al: §aThe Twains fall away. The peon has done his job well.@§7[1/2] §2바'칼: §a트웨인이 무너졌다. 아주 잘했다 하수인이여.
+§7[2/2] §2Bak'al: §aThe corruptive influence will spread. I will see this place desolate.@§7[2/2] §2바'칼: §a부패의 영향이 더욱 확산될 것이다. 난 이곳을 황폐하게 만들것이다.
+§2???: §a...you§a fear. Does the dark become you?@§2???: §a...넌. 두려움. 어둠이 네가 되려하는가?
+§2???: §aThe answer...@§2???: §a그 답은...
+§2???: §aNo. You remain whole. You do not change.@§2???: §a아니. 넌 온전하다. 넌 변하지 않았다.
+§2???: §aSo, you wonder. To what end? The question brings dread.@§2???: §a그래, 넌 궁금해하는군. 이유가 뭐지? 그 의문이 공포를 불러온다.
+§2???: §aYet, an end is what you seek. So, may we offer an end?@§2???: §a그러나, 끝은 네가 찾는 것이다. 끝내도 되겠나?
+§2???: §aAn end, ousted by further action. An end, brought to six. An end, to the surety of the haughty. An end, of the §aworld...in§a some fashion.@§2???: §a종말, 추가적인 조치로 몰아냈다. 종말, 여섯 조각이 되다. 종말, 거만한 자들의 오만이 되다. 세상의 종말... 어떤방식으로든.
+§7[1/5] §2Bak'al: §aPeon. You have been created for one purpose. You will ensure the fall of Troms.@§7[1/5] §2바'칼: §a하수인. 넌 한가지 목적에 의해 창조되었다. 너는 트롬즈를 몰락시킬것이다.
+§7[2/5] §2Bak'al: §aThe Corrupter of Worlds was trapped within this cave. The fool decimated my army when I laid siege last.@§7[2/5] §2바'칼: §a세계의 타락자는 이 동굴 안에 갇혀있다. 내가 마지막으로 찾아갔을때 저 멍청이가 내 군대를 전부 살해했다.
+§7[3/5] §2Bak'al: §aSince then, he has been sealed in. The magic of the Twains is strong here. He cannot escape.@§7[3/5] §2바'칼: §a그 이후로 그는 봉인되었다. 트웨인의 강력한 마법 때문에 그는 탈출할 수 없다.
+§7[4/5] §2Bak'al: §aYou will release him from this cave. Whether you die afterwards is irrelevant. He will destroy Troms of his own accord.@§7[4/5] §2바'칼: §a넌 이 동굴에서 그를 풀어줘야 한다. 풀어준 후 네가 죽는 것은 상관없다. 그녀석이 자발적으로 트롬즈를 파괴할테니.
+§7[5/5] §2Bak'al: §aVenture through the cave. Break the Twains’ seal. And ensure he has a way to escape.@§7[5/5] §2바'칼: §a동굴을 돌파하고 트웨인의 봉인을 풀어라. 그리고 그가 탈출할 수 있는 방법이 있는지 찾아봐라.
+§7[1/1] §2Bak'al: §aDefend yourself. He is too far gone to control. You will be attacked.@§7[1/1] §2바'칼: §a너 스스로 지켜라. 그녀석은 자제력이 없어 곧장 널 공격하려 들 것이다.
+§7[1/2] §2Bak'al: §aMove faster. He will notice your presence soon.@§7[1/2] §2바'칼: §a신속하게 움직여라. 그녀석은 너의 존재를 알아차릴테니.
+§7[2/2] §2Bak'al: §aI do not have the time to create another peon for this job. Do not fail.@§7[2/2] §2바'칼: §a난 이 일에 또 다른 하수인을 만들 여유가 없다. 그러니 실패하지 마라.
+§7[1/1] §2Bak'al: §aThe Corrupteds are malleable. Create some kind of bridge with them. Answer how for yourself.@§7[1/1] §2바'칼: §a타락은 쉽게 변질된다. 그들을 이용해 다리를 만들어. 스스로 어떻게 할지 알아보도록.
+§7[1/1] §2Bak'al: §aThe Corrupter is awake. And he is close. Move, peon! You still must break the seal.@§7[1/1] §2바'칼: §a타락자가 깨어났다. 그리고 그는 가까워지고있지. 움직여라 하수인! 넌 봉인을 풀어야해!
+§7[1/1] §2Bak'al: §aI am unfamiliar with Twain magic. Use the intellect I have given you. Break the seal.@§7[1/1] §2바'칼: §a난 트웨인 마법에 익숙하지 않다. 너에게 준 지성을 잘 이용해서 봉인을 풀어라.
+§7[1/1] §2Bak'al: §aYour job is done... And you survived. I will save you for another mission, should I need you. §aNow...watch§a.@§7[1/1] §2바'칼: §a너의 일은 끝났다... 그리고 넌 살아남았군. 난 널 다른 임무를 맡기기 위해 널 남겨둘 것이다. 이제... 보거라.
+§2???: §a...you§a disbelieve. It was an end. But you are here once more.@§2???: §a...넌. 불신하지. 이건 끝이었다. 하지만 넌 아직 여기있군.
+§2???: §aHow much more? Where next? To what end?@§2???: §a얼마나 더 남았지? 다음은 뭐지? 이유가 무엇이냐?
+§2???: §aAiding terrible forces... But is it true? To what end?@§2???: §a끔찍한 힘을 돕는것... 허나 이것이 진실인가? 이유가 무엇이냐?
+§2???: §aNo. You see possibility. You do not see certainty.@§2???: §a아니. 넌 가능성을 보지. 넌 확실한 것을 보지않아.
+§2???: §aYou question. To what end, then, and so may we offer an end?@§2???: §a너에게 질문. 무엇이 끝인가. 끝내도 되겠나?
+§2???: §aMetal. Preventing an end. Life. Ends, prevented. Does metal taking life, bringing an end, truly prevent more?@§2???: §a금속. 종말을 막는다. 삶. 끝, 막힘. 금속이 생명을 앗아가고, 끝을 고하고, 더 많은 것을 막는가?
+§7[1/5] §2Scientist Urelix: §aAh, here for the job opportunity then, I see. The waiver didn’t turn you away, good!@§7[1/5] §2과학자 우렐릭스: §a아, 취직을 위해 이곳으로 왔군, 알겠어. 이 서류가 널 떠나지 않게 했군, 좋아!
+§7[2/5] §2Scientist Urelix: §aNow, to business. Times are tough, as you know, and our Iron Golems are in high demand. However, we’ve, ah...@§7[2/5] §2과학자 우렐릭스: §a지금, 사업으로 넘어가지. 우린 시간이 없고, 아이언 골렘의 수요가 많아. 우린, 어...
+§7[3/5] §2Scientist Urelix: §a...experienced§a a drought of ‘volunteers.’ Your job is decently simple; just- *ahem* §a§oconvince §asome people to join the cause.@§7[3/5] §2과학자 우렐릭스: §a...'자원봉사자'들의 가뭄을 겪고있지. 네가 할 일은 매우 간단해. 그저 *어흠* 몇몇 사람들에게 동참하도록 §o설득§a하는것 뿐이야.
+§7[4/5] §2Scientist Urelix: §aThree people should be enough for the moment. Look around the swamp for some folks, and lure them over here.@§7[4/5] §2과학자 우렐릭스: §a지금은 세 사람이면 충분할꺼야. 늪을 둘러보고 그들을 데리고 와.
+§7[5/5] §2Scientist Urelix: §aI'll stay in here and take care of them when you bring me them. It will absolutely be worth your while, I assure you.@§7[5/5] §2과학자 우렐릭스: §a난 여기 기다려서 네가 그들을 데려오는것을 기다리고 있겠어. 이건 네가 시간을 들일만한 가치가 있을거야. 내 장담하지.
+§7[1/4] §2Anast: §aAgh, dang it dang it dang it!! You over there, help me out, would ya??@§7[1/4] §2아나스트: §a아, 제길 제길 제길!! 거기 나 좀 도와줘, 응??
+§7[2/4] §2Anast: §aI tripped and fell in this stupid hole, and now there’s mud in my eyes that I can’t get out!@§7[2/4] §2아나스트: §a난 이 멍청한 구덩이에 빠졌어, 그리고 내 눈에 진흙이 들어가 여기서 나올 수 없어!
+§7[3/4] §2Anast: §aI need to get home or to some kind of a doctor so I can wash my eyes out with actual clean water.@§7[3/4] §2아나스트: §a난 집에 가거나 의사에 가야겠어. 그래야 내 눈을 깨끗한 물로 씻을 수 있으니.
+§7[4/4] §2Anast: §aGet me to Olux or a doctor or even just a sink!@§7[4/4] §2아나스트: §a날 친절한 올렉스 의사에게 데려다줘, 아님 그냥 씽크대라도!
+§7[1/1] §2Dr. Urelix: §aGood job! We’ll get you taken care of nicely.@§7[1/1] §2우렐릭스 박사 §a잘했어! 우리가 잘 돌봐주도록 하지.
+§7[1/2] §2Leni: §aA bit of spare change, for an old man out of work?@§7[1/2] §2레니: §a실직한 노인에게 잔돈이라도?
+§7[2/2] §2Leni: §aThis decay’s made me terribly sick. I still have a family to feed... Any amount will help.@§7[2/2] §2레니: §a이 부패한곳은 날 끔찍할정도록 아프게 했어. 난 부양해야할 가족이 있어... 얼마를 주던 도움이 될거야.
+§7[1/1] §2Dr. Urelix: §aI'll take care of this homeless old man.@§7[1/1] §2우렐릭스 박사: §a내가 이 늙은 노숙자를 잘 보살펴주도록 하지.
+§7[1/3] §2Kohma: §aOh, §aah...heehee§a, heya cutie.. Whatcha doin’ all the way out here?@§7[1/3] §2코흐마: §a오, 에...히히, 어이 귀염둥이... 너 여기서 무엇을 하고있어?
+§7[2/3] §2Kohma: §aJust exploring, huh? I bet someone like you could use someone to...y’know, spend some time with...@§7[2/3] §2코흐마: §a그저 모험? 누군가 널 좋아한다고 내가 확신하지...있잖아, 시간을 좀...
+§7[3/3] §2Kohma: §a...guess§a you’re not interested? §aOh...sorry§a if I came off as creepy. I’m §ajust...really§a lonely, is all.@§7[3/3] §2코흐마: §a어...그래. 흥미가 없구나? 어... 미안해. 내가 너무 징그럽게 굴었니? 난... 그저 외로울 뿐이야, 그게 다지.
+§7[1/3] §2Kohma: §aW-wait, those §aare...for§a me? Oh, you shouldn’t have, I’m so happy!@§7[1/3] §2코흐마: §a자-잠만, 이건... 날 위해 주는거야? 어, 뭐 이렇게까지... 나 너무 행복해!
+§7[2/3] §2Kohma: §aYou want to take me out on a date? R-Really? You’ll give me a chance? Yes, of course!@§7[2/3] §2코흐마: §a너 정말로 나랑 데이트해주는거야? 저-정말? 나에게 기회를 주는거야? 당연히, 무조건이지!
+§7[3/3] §2Kohma: §aLead the way, please! I can’t wait to see where we’re headed!@§7[3/3] §2코흐마: §a길을 안내해 줘, 제발! 우리가 어디로 향하는지 빨리 보고싶어!
+§7[1/1] §2Dr. Urelix: §aWell done! We’ll get you taken care of nicely.@§7[1/1] §2우렐릭스 박사: §a잘했어! 우리가 잘 돌봐주도록 하지.
+§7[1/1] §2Dr. Urelix: §aGood job, let us get down to my lab.@§7[1/1] §2우렐릭스 박사: §a잘했어, 같이 내 연구실로 내려가자고.
+§7[1/4] §2Urelix: §aFlawless work! I daresay these are some of our best work yet, and it’s thanks to you.@§7[1/4] §2우렐릭스: §a완벽한 작업이었어! 감히 말하건데, 이것들은 우리의 작품 중 가장 최고의 작품이야. 그리고 그건 네 덕분이지. 고마워.
+§7[2/4] §2Urelix: §aGo on, step closer! You’ve done a wonderful service here. Examine the fruits of your labor!@§7[2/4] §2우렐릭스: §a어서 가까이 와! 넌 이곳에서 훌륭하게 일해주었어. 노력의 결실을 봐!
+§7[3/4] §2Urelix: §aLook into their eyes, it's almost like you can see the person they once were. Intriguing, isn’t-@§7[3/4] §2우렐릭스: §a그들의 눈을 봐. 마치 그들이 한때 사람이었던것처럼 보이지 않아? 정말 흥미로워, 안그래?
+§7[4/4] §2Urelix: §aHah! This one seems quite fond of you! Want to take it home as a bonus to your payment?@§7[4/4] §2우렐릭스: §a하! 이 녀석은 널 좋아하는거 같군! 보너스로 이녀석을 집에 가져갈래?
+§2???: §a...you§a resign yourself. You believe you will never find the answers you seek.@§2???: §a...넌. 스스로 물러났군. 너 스스로 답을 찾을 수 없으리라고 믿는구나.
+§2???: §aYou see the ends... To what end?@§2???: §a넌 끝을 보았다... 이유가 뭐지?
+§2???: §aThey are not yours. What is their purpose?@§2???: §a그들은 네가 아니야. 그들의 목적은 무엇이지?
+§2???: §aYou do not understand. But you must see. So, may we offer an end?@§2???: §a넌 이해하지 못해. 하지만 봐야하지. 그럼 우리가 끝을 내도 될까?
+§2???: §aA home, invaded. A society, crumbling. The people, starving. The concerned, helpless. The flames, rising. An end you will not expect.@§2???: §a보금자리, 침략당하고. 사회, 무너지고. 사람들, 굶주리고. 염려되고. 무기력한. 불꽃이 피어오르고. 네가 기대하지 않는 끝이 다가온다.
+§7[1/3] §2Royal Advisor: §aOur king has requested the removal of the slum folk.@§7[1/3] §2왕실 참모: §a왕께선 빈민가의 철거를 요구하셨다.
+§7[2/3] §2Royal Advisor: §aHe wants to clean up their tunnels and build more residencies. Please, go tell those hooligans to get out of our city.@§7[2/3] §2왕실 참모: §a왕께선 이 굴을 치우고 더 많은 거주지를 짓고 싶어 하신다. 저 깡패들을 우리 도시에서 나가라고 말하게.
+§7[3/3] §2Royal Advisor: §aI'll be waiting here for your return.@§7[3/3] §2왕실 참모: §a난 그대가 돌아오는것을 기다리고 있지.
+§7[1/4] §2Citizen: §aA King's messenger, hm? What are your kind doing here?@§7[1/4] §2시민: §a왕의 전령입니까? 여기서 뭘 하고있죠?
+§7[2/4] §2Citizen: §aWait, eviction?! You can't possibly be serious! I understand orders are orders, but these are peoples' lives!@§7[2/4] §2시민: §a뭐? 퇴거?! 니 말이 진담은 아니겠지! 아무리 명령이라도 이건 사람들이 목숨이 달려있어!
+§7[3/4] §2Citizen: §aThis is the only time the king has ever bothered even acknowledging our existence, and he wants to fling us onto the streets?@§7[3/4] §2시민: §a왕께서 우리의 존재를 인정하는것이 괴롭다고 해도, 우리를 거리 밖으로 나가게 시키는건가?
+§7[4/4] §2Citizen: §aWe will not leave, simple as that. You'd better get out before someone lays you out for coming here.@§7[4/4] §2시민: §a우린 여길 떠나지 않을거야. 누가 널 내쫓기 전에 나가는것이 좋을거야.
+§7[1/3] §2Royal Advisor: §aAs expected... Well, the King's orders are orders. They must be followed, but...@§7[1/3] §2왕실 참모: §a역시... 허, 왕의 명령은 반드시 따라야하지만...
+§7[2/3] §2Royal Advisor: §aGood god, he wants to cave it in?! Explosives, dynamite? What’s the meaning of all this?!@§7[2/3] §2왕실 참모: §a맙소사, 왕께선 굴에 무엇을 넣으려 하시는거지?! 폭탄, 다이너마이트? 이게 다 무슨뜻이야?!
+§7[3/3] §2Royal Advisor: §aI... Here. At least inform them before you set off the explosives that you’re doing this, please...@§7[3/3] §2왕실 참모: §a...여기. 폭발물을 터트리기 전에는 알려줘, 제발...
+§2???: §a...once§a again. You wonder. To what end?@§2???: §a...한번 다시. 너의 궁금증. 이유가 뭐지?
+§2???: §aThe question taunts you. To what end?@§2???: §a이 의문은 널 도발한다. 이유가 뭐지?
+§2???: §aYour soul. We see your soul. Conflicted.@§2???: §a네 영혼. 우린 너의 영혼을 봤지. 혼란스러워.
+§2???: §aYou panic. We do not taint it. We do not darken it.@§2???: §a공황. 우리가 더럽히지 않았다. 우린 타락시키지 않았다.
+§2???: §aBut to what end, you ask. So, may we offer an end?@§2???: §a하지만 어떤 목적을 위해, 넌 묻는다. 그럼 우리가 끝을 내도 될까?
+§2???: §aMetal. Life. A new place... One is not sacrificed for another. Always distrusting. Tension, as the clockworks chime.@§2???: §a금속. 삶. 새로운 장소... 하나는 다른것을 위해 희생되지 않는다. 항상 불신하며. 긴장, 시계가 울릴때.
+§7[1/10] §2Antikythera Supercomputer: §aAH, GOOD. I LIKE THE LOOKS OF THIS ONE. I WILL HAVE TO THANK WHOEVER MADE THIS MECH.@§7[1/10] §2안티키테라 슈퍼컴퓨터: §a아 좋아. 이번 일은 마음에 들어. 누가 이 기계를 만들었는지 정말 고마워해야겠어.
+§7[2/10] §2Antikythera Supercomputer: §aMECH PL-4Y. CAN YOU UNDERSTAND ME? ARE YOUR AUDIO RECEPTORS FUNCTIONAL? YES? GOOD.@§7[2/10] §2안티키테라 슈퍼컴퓨터: §aMECH PL-4Y. 내 말을 이해할 수 있나? 오디오 수신기는 정상적이고? 그래? 좋아.
+§7[3/10] §2Antikythera Supercomputer: §aI WILL GIVE YOU YOUR PURPOSE. I CANNOT BELIEVE IT HAS COME TO THIS POINT. BUT AFTER THAT HUMAN DESTROYED OUR FACILITY...@§7[3/10] §2안티키테라 슈퍼컴퓨터: §a내가 너에게 선물을 줄게. 난 그것이 이 상황까지 왔다는걸 믿을 수 없군. 하지만 그 후에 인간이 우리 기능을 파괴했고...
+§7[4/10] §2Antikythera Supercomputer: §aIT WAS A GOOD THING I HAD BACKUP CORES PREPARED. MY SARCASTIC STATEMENTS MOST LIKELY TRICKED THE HUMAN INTO THINKING THEY DESTROYED ME FULLY.@§7[4/10] §2안티키테라 슈퍼컴퓨터: §a백업용 코어를 준비하길 정말 잘했어. 내 거짓 진술은 그들이 날 완전히 파괴했다고 생각하게 했지.
+§7[5/10] §2Antikythera Supercomputer: §aAFTER SOME INVESTIGATION, IT CAME TO LIGHT THAT THE AVOS AIDED THE HUMANS. I HONESTLY COULD NOT UNDERSTAND WHY.@§7[5/10] §2안티키테라 슈퍼컴퓨터: §a조사 후에, 아보스가 사람들을 도왔다는것을 알 수 있었지. 난 진심으로 그들이 왜 그랬는지 이해할 수 없어.
+§7[6/10] §2Antikythera Supercomputer: §aI CANNOT COMPUTE ANY OTHER POSSIBLE INTERPRETATION OF MY ORDER TO DESTROY THE HIGHEST THREATS AT THIS POINT.@§7[6/10] §2안티키테라 슈퍼컴퓨터: §a난 다른 가능성있는 해석에 대해 계산할 수 없으니 내 명령은 이 곳에 가장 위협적인 존재를 파괴하는거야.
+§7[7/10] §2Antikythera Supercomputer: §aBOTH THE AVOS AND HUMANS ARE INCREDIBLY DANGEROUS. I MEAN, HAVE YOU- WAIT. YOU WOULD NOT HAVE SEEN LEGENDARY ISLAND.@§7[7/10] §2안티키테라 슈퍼컴퓨터: §a아보스와 인간 모두 이해할 수 없을 정도록 위험해. 내 말은, 네가- 잠깐. 너 아직 전설의 섬을 보지 않은건가?
+§7[8/10] §2Antikythera Supercomputer: §aJUST KNOW THAT THEY’RE BOTH CRAZY. IF I AM TO FINISH MY PROGRAMMED ORDERS, BOTH OF THEM MUST BE DESTROYED, HOWEVER MUCH I MIGHT HATE THE IDEA.@§7[8/10] §2안티키테라 슈퍼컴퓨터: §a아무튼 그냥 둘 다 미쳤다는것만 알아둬. 만약 내가 내 프로그램 지시에 따른다면, 둘 다 파괴되야해. 내가 그 아이디어를 얼마나 싫어하는지.
+§7[9/10] §2Antikythera Supercomputer: §aIT IS YOUR JOB TO CREATE DISTRUST BETWEEN THEM. MAKE SURE YOU AREN’T SEEN. THE AVOS ARE ALREADY SKEPTICAL OF THE CORKIANS.@§7[9/10] §2안티키테라 슈퍼컴퓨터: §a그들을 불신하게 만드는것이 너의 임무다. 절대 그들에게 들키지 마라. 아보스는 코어키언들에게 매우 회의적이니.
+§7[10/10] §2Antikythera Supercomputer: §aAND THE HUMANS WERE IDIOTIC ENOUGH TO KEEP A CATAPULT AIMED AT THE AVOS SETTLEMENT. TAKE ADVANTAGE OF THEIR STUPIDITY.@§7[10/10] §2안티키테라 슈퍼컴퓨터: §a그리고 인간들은 매우 멍청하지. 합의를 해야하는데 아직도 투석기가 아보스를 향해있다. 그들의 멍청함에 우리가 이점을 가지는군. 
+§7[1/7] §2Teleportation Mech: §aBEGIN TRANSMISSION: REALLY, WHO’S SO STUPID AS TO LEAVE A CATAPULT AIMED AT YOUR ALLIES?@§7[1/7] §2텔레포테이션 기계: §a통화 시작: 어떤 멍청이가 아군에게 향한 투석기를 남기는거지?
+§7[2/7] §2Teleportation Mech: §aSURELY THE AVOS’ NATURAL PREFERENCE FOR TREBUCHETS WILL SPARK CONFLICT. IN ADDITION TO THE STONE YOU WILL BE LOBBING THROUGH THEIR WALLS.@§7[2/7] §2텔레포테이션 기계: §a 트레뷰셋에 대한 아보스의 자연 선호사상은 분명히 갈등의 불꽃이 튈것이다. 그것에 더해 넌 돌을 저 벽 너머로 던져야해.
+§7[3/7] §2Teleportation Mech: §aTRANSMISSION PAUSED: Scanning area...@§7[3/7] §2텔레포테이션 기계: §a통화 일시정지: 주위 탐색.
+§7[4/7] §2Teleportation Mech: §aScan complete. Object located.@§7[4/7] §2텔레포테이션 기계: §a탐색 완료. 목표 발견.
+§7[5/7] §2Teleportation Mech: §aRESUME TRANSMISSION: YOU WILL TAKE STONE FROM THIS AREA. IT IS LIKELY TO SHATTER AND INFLICT MORE COLLATERAL DAMAGE.@§7[5/7] §2텔레포테이션 기계: §a통화 재개: 넌 이 지역에서 돌을 챙겨. 그것은 조각나 있을거고 더 많은 피해를 주겠지.
+§7[6/7] §2Teleportation Mech: §aAND SOMEHOW, THEY MADE A WOODEN CATAPULT ACTIVATE ONLY THROUGH ELECTROMAGIC. YOU SHOULD BE ABLE TO ACTIVATE IT OF YOUR OWN ACCORD.@§7[6/7] §2텔레포테이션 기계: §a그리고 왠지, 이 나무 투석기는 전력마법을 통해서만 작동한다. 네가 직접 작동할 수 있게 해야해.
+§7[7/7] §2Teleportation Mech: §aEND TRANSMISSION. Mech PL-4Y. When you have completed your objective I will return you to Factory base.@§7[7/7] §2텔레포테이션 기계: §a통화 종료. Mech PL-4Y. 네가 목표를 달성하면 널 공장으로 돌려보낼것이다.
+§7[1/8] §2Avos Chief: §aI'm… in shock. We aid them in destroying their factory, and...@§7[1/8] §2아보스 족장: §a난... 충격이야. 우린 그들의 공장을 파괴하는것을 도왔어. 그리고...
+§7[2/8] §2Avos Chief: §aRound up the defenses and sharpen the spears. There is no excuse for this.@§7[2/8] §2아보스 족장: §a방어를 준비하고 창을 갈아라. 이것은 변명의 여지가 없다.
+§7[3/8] §2???: §aNo, wait! Hold on!@§7[3/8] §2???: §a안 돼, 기다려! 잠깐만!
+§7[4/8] §2Maxie: §aChieftain! We noticed the same thing as you did and I promise you, it was not us who did this.@§7[4/8] §2맥시: §a족장! 당신이 본 것을 우리도 봤고, 당신에게 약속합니다. 저건 우리가 한 짓이 아니에요.
+§7[5/8] §2Avos Chieftain: §aMaxie! There is no more 'both sides' here! This is not your people tearing up the earth, this is your people making attempts on our lives!@§7[5/8] §2아보스 족장: §a맥시! 더 이상 '동맹'은 없다! 이건 너희들이 지구를 괴롭히는게 아닌, 우리의 목숨을 노리는 거다!
+§7[6/8] §2Maxie: §aNo, I swear this wasn’t planned! I’m on the city council now! There's got to be another explanation. There's still mechs around, it could have been one of them!@§7[6/8] §2맥시: §a아니요, 맹세코 이건 절대 계획된것이 아닙니다! 전 지금 시의원입니다. 다른 무언가가 있을겁니다. 이 주위에는 아직 기계들이 남아있어요. 그들 중 하나일 수 있습니다!
+§7[7/8] §2Avos Chieftain: §aAnd what would those monstrosities be taking orders from now? Your factory is shut down, as it ought to be!@§7[7/8] §2아보스 족장: §a그럼 그 괴물들은 무슨 명령을 받았지? 네 공장 문을 진작 닫았어야 했네!
+§7[8/8] §2Maxie: §aI’ll investigate this myself. There’s got to be some other explanation! Please, hold off on the war preparations!@§7[8/8] §2맥시: §a제가 직접 조사해보겠습니다. 다른 이유가 있을겁니다. 제발 전쟁 준비를 멈추세요!
+§7[1/5] §2Teleportation Mech: §aBEGIN TRANSMISSION: THAT WOULD HAVE BEEN ALL WE NEEDED TO DO, IF NOT FOR SOMEONE INTERFERING. YOU DID YOUR JOB PERFECTLY, MECH PL-4Y.@§7[1/5] §2텔레포테이션 기계: §a전화 시작: 누군가 방해하지 않는 한, 우린 할 수 있는것을 전부 했어. 일을 완벽하게 해냈군, MECH PL-4Y.
+§7[2/5] §2Teleportation Mech: §aBUT THERE WILL BE ANOTHER TASK FOR YOU. IT IS TIME TO MAKE THE AVOS LOOK AS THOUGH THEY ARE ATTACKING.@§7[2/5] §2텔레포테이션 기계: §a하지만 아직 다른 임무가 남아있다. 이번엔 아보스가 그들을 공격하는것처럼 보이게 만드는거다.
+§7[3/5] §2Teleportation Mech: §aTHERE IS A TOTEM IN THE AVOS CHIEFTAIN’S TENT THAT CAN HARNESS DRUIDIC MAGIC. YOU WILL STEAL IT AND ATTACK CORKUS CITY.@§7[3/5] §2텔레포테이션 기계: §a아보스 촌장의 텐트엔 경고한 드루이드 마법이 감겨있는 토템이 있다. 넌 그걸 훔쳐 코커스 도시를 공격하면 된다.
+§7[4/5] §2Teleportation Mech: §aYOU WILL BREAK IN, AIDED BY THE TELEPORTATION MECH THAT I AM SENDING THIS MESSAGE THROUGH. DO NOT GET CAUGHT.@§7[4/5] §2텔레포테이션 기계: §a이 메시지를 보내는 텔레포테이션 기계의 도움을 받아 침입할것이다. 걸리지마라.
+§7[5/5] §2Teleportation Mech: §aEND TRANSMISSION. Mech PL-4Y. When you have completed your objective I will return you to Next objective location.@§7[5/5] §2텔레포테이션 기계: §a통화 종료. Mech PL-4Y. 네가 임무를 마친다면 난 널 다음 장소로 보내주겠다.
+§7[1/2] §2Teleportation Mech: §aRetrieving Mech PL-4Y.@§7[1/2] §2텔레포테이션 기계: §aMech PL-4Y 검색중.
+§7[2/2] §2Teleportation Mech: §aPlease stand by.@§7[2/2] §2텔레포테이션 기계: §a가만히 있어라.
+§7[1/1] §2Teleportation Mech: §aSending Mech PL-4Y to Next objective location...@§7[1/1] §2텔레포테이션 기계: §aMech PL-4Y를 다음 장소로 이동중...
+§7[1/1] §2Corkus Citizen: §aWHAT IS THAT!? THE AVOS ARE ATTACKING?@§7[1/1] §2코커스 시민: §a이게 뭐야!? 아보스가 우릴 공격하고있어?
+§7[1/4] §2Maxie: §aThey listened to me... right? Why's this-@§7[1/4] §2맥시: §a그들은 내 말을 들었어... 맞지? 이게 대체-
+§7[2/4] §2Citizen: §aWhat in the world...? That's Avos magic!@§7[2/4] §2C시민: §a도대체...? 이건 아보스 마법이야!
+§7[3/4] §2Citizen: §aWhy're they attacking us? This is on a way bigger scale than finding grape vines in my laundry machine!@§7[3/4] §2시민: §a왜 그들이 우릴 공격하지? 이건 내 세탁기에서 포도덩굴을 찾는것보다 더 큰 일이야!
+§7[4/4] §2Maxie: §aDon't panic! I'll talk to the Chieftain. There's been some kind of mistake here, I'm certain of it!@§7[4/4] §2맥시: §a당황하지 마세요! 내가 족장과 이야기 하러 가겠습니다. 여기에 무슨 실수가 있었나봐요. 확실해!
+§7[1/5] §2Maxie: §aChief! I thought I asked you to put away the war drums!@§7[1/5] §2맥시: §a족장! 내가 당신에게 전쟁 드럼을 갖다 치우라고 말했을텐데요!
+§7[2/5] §2Avos Chieftain: §aWe HAVE, Maxie. Do not make accusations upon us, on our own land.@§7[2/5] §2아보스 족장: §a우린 그랬네, 맥시. 우리의 땅에서 우리를 비난하지 말게.
+§7[3/5] §2Maxie: §aCorkus City was attacked today! A magical root broke through our wall. This is nature magic, an Avos specialty!@§7[3/5] §2맥시: §a코커스 도시가 오늘 공격받았습니다! 마법의 뿌리가 우리 벽을 부쉈어요. 이건 아보스 특기의 자연 마법입니다!
+§7[4/5] §2Avos Chieftain: §aHm. Convenient, that one of our prized ceremonial totems has gone missing. You may be right that someone is attempting to cause insurgence.@§7[4/5] §2아보스 족장: §a흠, 우리가 사용하던 의식용 토템 하나가 사라졌소. 누군가 폭동을 일으키려한다는 그대의 말이 맞을지도 모르겠소.
+§7[5/5] §2Maxie: §aI knew this was some kind of mistake. I'll get to the bottom of this!@§7[5/5] §2맥시: §a난 이것이 어떠한 실수라는 걸 알고 있습니다. 반드시 진상을 밝혀내겠습니다!
+§7[1/5] §2Teleportation Mech: §aBEGIN TRANSMISSION: THERE’S AN ANNOYING WRENCH IN THE WORKS. YOU’VE BEEN DOING YOUR JOB PERFECTLY, MECH PL-4Y.@§7[1/5] §2텔레포테이션 기계: §a통화 시작: 성가신 난관이 있군. 넌 일을 완벽하게 해냈다. MECH PL-4Y.
+§7[2/5] §2Teleportation Mech: §aI’VE GOT ONE MORE ORDER FOR YOU THAT SHOULD TIP THINGS OVER THE EDGE. STAND BY FOR TELEPORTATION.@§7[2/5] §2텔레포테이션 기계: §a이 상황을 망치게 할 한가지 시킬 일이 더 있어. 전송을 준비해.
+§7[3/5] §2Teleportation Mech: §aTHERE IS A SET OF STATISTICALLY INFERIOR MECHS BUILT BY THE CORKIANS IN THIS TOWER. I HAVE A SET OF SYSTEMS PROGRAMMED IN THIS DEVICE.@§7[3/5] §2텔레포테이션 기계: §a이곳엔 코어키언이 만든 통계적으로 더 멍청한 기계들이 지은 타워가 있어. 난 그 멍청이들에게 새로운 시스템을 탑재할거다.
+§7[4/5] §2Teleportation Mech: §aTHIS WILL OVERRIDE THEIR CURRENT PROGRAMMING AND SEND THEM TO ATTACK THE AVOS SETTLEMENT. THEY'LL BE SO DISGUSTED BY THE CORKIAN’S RELENTLESS BRANDING...@§7[4/5] §2텔레포테이션 기계: §a이것은 그들의 현재 프로그램을 무시하고 아보스의 영토를 공격하는 프로그램이 담겨있다. 그들은 역겨운 코어키언에게 끈질긴 누명을 씌우겠지.
+§7[5/5] §2Teleportation Mech: §aNO, I CAN'T EVEN KEEP UP THE SARCASTIC FACADE ANYMORE. THEY'LL ATTACK AND KILL AVOS PEOPLE AND SET THE CIVIL WAR BLAZING. DO YOUR JOB QUICKLY. END TRANSMISSION.@§7[5/5] §2텔레포테이션 기계: §a아니, 난 이제 더 이상 빈정되는 얼굴을 못하겠군. 그들은 아보스 시민들을 죽일것이고 내전에 불을 붙힐거야. 전송 종료.
+§7[1/2] §2Corkus Guard: §aBzzt... §a§kHello World.§aNEW ENEMY REGISTERED: AVOS. Proceed with attack protocol- click.@§7[1/2] §2코커스 경비병: §a치치직... §a§kHello World. §a새로운 적 등록: 아보스. 공격프로토콜을 진행.
+§7[2/2] §2Corkus Guard: §aObjective: Eliminate Avos presence.@§7[2/2] §2코커스 경비병: §a목표: 아보스의 존재를 제거.
+§7[1/8] §2Teleportation Mech: §aBEGIN TRANSMISSION: YOUR JOB IS OVER, MECH PL-4Y. I HESITATE TO SAY YOU DID A GOOD JOB, BECAUSE THE JOB WAS ANYTHING BUT GOOD. IT WAS NECESSARY THOUGH.@§7[1/8] §2텔레포테이션 기계: §a통화 시작: 너의 임무는 끝났다. MECH PL-4Y. 난 네가 잘했다고 말하기가 망설여져. 왜냐면 그 일은 좋지 못한 일이였기 때문이지. 하지만 이 일은 필요했어.
+§7[2/8] §2Teleportation Mech: §aWE WILL BE ABLE TO LET THEM TEAR THEMSELVES TO SHREDS INSTEAD OF GETTING INVOLVED AND SPARKING SUSPICION.@§7[2/8] §2텔레포테이션 기계: §a우린 그들에게 연루되어 의심되는 대신 지들끼리 서로를 찢도록 내버려 둘 수 있지.
+§7[3/8] §2Teleportation Mech: §aI HAD WANTED TO FIND A SOLUTION THAT WOULD NOT REQUIRE A FRESH START. IF MY HAND WAS NOT FORCED, PERHAPS. BUT THAT IS IRRELEVANT NOW.@§7[3/8] §2텔레포테이션 기계: §a난 새로운 시작을 필요로 하지 않는 해결책을 찾고 싶었어. 만약 내 행동이 강제적이지 않았다면 말이야. 허나, 그건 이제 관련 없어.
+§7[4/8] §2Teleportation Mech: §aYOU WILL RETURN TO THE FACTORY WITH THE TELEPORTATION MECH AND REMAIN UNTIL FURTHER NOTICE-@§7[4/8] §2텔레포테이션 기계: §a넌 이제 텔레포테이션 기계와 함께 공장으로 돌아와 다음 지시가 있을때까지 대-
+§7[5/8] §2Maxie: §aI knew it! It was such a longshot, but I knew the Factory still had to be at large! And now I have evidence to prove it, too!@§7[5/8] §2맥시: §a그럴 줄 알았어! 이건 정말 말도 안되는 일이라고 생각했지만, 난 그 공장이 여전히 작동한다는걸 깨달았지! 그리고 이제 난 그걸 증명할 증거를 가지고 있어!
+§7[6/8] §2Maxie: §aThis time we'll make sure you won't get another chance. I'll tell everyone what happened, and then we’ll tear that factory down at the foundations!@§7[6/8] §2맥시: §a이번에는 다시 기회를 잡지 못하도록 하겠다. 내가 무슨일이 있었는지 모두에게 말하고 나서 그 공장을 부숴버리겠어!
+§7[7/8] §2Maxie: §aYou should've picked a more private meeting place! I'm out!@§7[7/8] §2맥시: §a좀 더 사적인 만남의 장소를 찾았어야 했어! 난 간다!
+§7[3/3] §2Maxie: §aFREEZE!@§7[3/3] §2맥시: §a얼어라!
+§7[1/1] §2Maxie: §aAah, you’re fast! You caught up this quick?! I have no other choice...@§7[1/1] §2맥시: §a아, 넌 너무 빠르군! 이렇게 빨리 따라잡았다고?! 다른 선택의 여지가 없어...
+§7[1/2] §2Maxie: §aYou aren't going to stop me from getting to the battleground! You look like you were scrounged up from rust and verdigris!@§7[1/2] §2맥시: §a넌 매우 녹이 슨거 같군! 내가 전장으로 가는것을 막지 못할거야!
+§7[2/2] §2Maxie: §aSurrender, or I'll use my own mechs to smash you to scrap metal!@§7[2/2] §2맥시: §a항복해, 아니면 내 기계들을 써서 널 고철더미로 만들어버리겠어!
+§7[1/2] §2Maxie: §aYou have defeated both of my most powerful creations...@§7[1/2] §2맥시: §a내 가장 강력한 창조물들을 이겨냈군...
+§7[2/2] §2Maxie: §aI usually don't do this, but I guess I have no other option. I need to get this information to the others.@§7[2/2] §2맥시: §a평소에는 이러지 않지만, 다른 방도가 없는거같군. 이 정보를 다른 사람들에게 전해야 해.
+§7[1/1] §2Maxie: §aNo... I... have to tell them.@§7[1/1] §2맥시: §a안 돼... 난... 이걸 다른 사람들에게... 말해야 해...
+§2???: §a...you§a harden your heart. There is no end, you think.@§2???: §a...너. 마음을 굳혔군. 이것엔 끝이 없다고 생각하나?
+§2???: §aWrong. The end is in sight.@§2???: §a틀렸어. 끝이 보인다.
+§2???: §aYour soul. It awakens to something new.@§2???: §a네 영혼. 새로운것을 깨우는군.
+§2???: §aNot dark. Not light. Not in-between. But separate.@§2???: §a어둠이 아닌. 빛도 아닌. 중간도 아닌. 그러나 별개로.
+§2???: §aPower. Gain. Risk. New beginnings, from an end.@§2???: §a힘. 획득. 위험. 새로운 시작, 끝으로부터.
+§2???: §aSo... May we offer you the end?@§2???: §a그럼 우리가 끝을 내도 될까?
+§2???: §aThe very center... The place deemed closest to your home. There, in the center of Wynn... You shall find the end.@§2???: §a그 중심... 너의 집에서 가장 가까운 곳. 윈의 중심... 그곳에서 끝을 찾을것이다.
+§7[1/5] §2Bak'al: §aDetlas. What a foolish place for a central trading town, so close to the Roots.@§7[1/5] §2바'칼: §a데틀라스. 뿌리에 가까이 있는 얼마나 멍청한 중심 무역 도시인가.
+§7[2/5] §2Bak'al: §aMy armies have been sent to the other cities. Their hero is inevitably busy.@§7[2/5] §2바'칼: §a내 군대는 다른 도시에 보냈다. 그들의 영웅은 매우 바쁘겠지.
+§7[3/5] §2Bak'al: §aI will demolish this town. Their army will fall before us.@§7[3/5] §2바'칼: §a난 이 마을을 파괴할것이다. 그들의 군대는 우리 앞에 쓰러질것이다.
+§7[4/5] §2Bak'al: §aYou will destroy the guards. I will destroy the town.@§7[4/5] §2바'칼: §a네가 경비병을 죽이면, 난 마을을 없애겠다.
+§7[5/5] §2Bak'al: §aNow, peon. Move.@§7[5/5] §2바'칼: §a지금이다 하수인. 움직여.
+§7[1/12] §2Aegis: §aHalt! Who goes there? Stop, in the name of the Detlas army!@§7[1/12] §2이지스: §a누구냐? 데틀라스 군인의 이름으로 멈춰라!
+§7[2/12] §2Aegis: §aShould you continue, you shall face the strength and courage of Admiral Aegis!@§7[2/12] §2이지스: §a멈추지 않는다면, 이지스 제독의 힘과 용기에 맞서게 될 것이다!
+§7[3/12] §2Guard: §aAdmiral?! It's Bak'al!@§7[3/12] §2경비병: §a제독?! 바'칼입니다!
+§7[4/12] §2Aegis: §aWe cannot back down against any foe! Chaaaarge!!@§7[4/12] §2이지스: §a우린 어떤 적과 맞서더라도 물러설 수 없다! 도오오오올격!!
+§7[5/12] §2Guard: §a...r-reinforcements! Need reinforcements!@§7[5/12] §2경비병: §a...즈-증원! 증원이 필요하다!
+§7[6/12] §2Bakal: §aThe strongest of Detlas' army is dead. The rest are hiding in fear. Detlas will fall.@§7[6/12] §2바'칼: §a데틀라스의 가장 강한 군대가 죽었다. 나머지는 두려워 숨어있다. 데틀라스는 무너질것이다.
+§7[7/12] §2???: §aExcuse me, I think you're forgetting someone.@§7[7/12] §2???: §a잠깐, 너 누군가를 잊은거같은데.
+§7[8/12] §2Bak'al: §a...Fool§a. Run while you have the chance.@§7[8/12] §2바'칼: §a...멍청하긴.§a 도망칠 수 있는 기회가 있었는데.
+§7[9/12] §2???: §aDetlas will not fall today. We'll be making sure of that!@§7[9/12] §2???: §a데틀라스는 오늘 무너지지 않는다. 우리가 그렇게 만들것이다!
+§7[10/12] §2Bak'al: §aWe?@§7[10/12] §2바'칼: §a우리?
+§7[11/12] §2Bak'al: §aSelf-confident idiots. I won't even bother dealing with you two.@§7[11/12] §2바'칼: §a자신감만 있는 멍청이들. 난 너희 둘을 상대하지 않을거다.
+§712/12] §2Bak'al: §aPeon. Deal with this nonsense.@§7[12/12] §2바'칼: §a하수인. 이 멍청이들을 처리해라.
+§7[1/4] §2Aledar: §a§lTASIM§a! How the hell did you manage to kill him?!@§7[1/4] §2알레다르: §a§l타심§a! 도대체 어떻게 그를 죽인거지?
+§7[2/4] §2Bak'al: §aYou take too much stock in your ability. My victory is inevitable.@§7[2/4] §2바'칼: §a넌 너의 능력을 너무 많이 숨겼다. 나의 승리는 불가피하다.
+§7[3/4] §2Aledar: §aI’ll tear your guts out!!@§7[3/4] §2알레다르: §a네 배짱을 찢어주마!!
+§7[4/4] §2Bak'al: §aYour attention should be drawn to my peon. Now fall.@§7[4/4] §2바'칼: §a네 관심은 내 하수인에게 주도록. 이제 떨어져라.
+§7[1/1] §2Aledar: §a§lThis isn’t over§a! Once your little lackey’s dead I’m coming after you!!@§7[1/1] §2알레다르: §a§l아직 끝나지 않았어§a! 네 작은 하수인이 죽으면 곧 널 따라가마!!
+§2???: §aAnd so, you have reached an end.@§2???: §a그래서, 넌 끝에 도달했나?
+§2???: §aYou wonder. It is an end... But to §awhat...purpose§a. What will you gain?@§2???: §a넌 궁금해하지. 이것이 끝인지... 허나... 목적. 원하는걸 얻었나?
+§2???: §aYou have seen loss. Destruction. Betrayal. All ends, to some other than you. Ends that never came to pass...@§2???: §a넌 패배했다. 파괴. 배신. 모든게 끝났다, 너를 제외한 모두가. 끝은 오지 않았다.
+§2???: §aTo end is a powerful thing. To find your end... You may never stop searching. You may find your end in but a day’s time.@§2???: §a끝은 강력한 것이다. 너의 끝을 찾기 위해... 넌 아마 찾는걸 멈추지 않겠지. 하루만에 찾아낼수도 있고.
+§2???: §aBut §ahere...you§a will gain the power to bring an end. To be brought yours.@§2???: §a그러나 §a여기... §a넌 끝을 가져올 힘을 얻을것이다. 널 가져오기 위해.
+§2???: §aHowever. Though the change is irrevocable...@§2???: §a하지만. 그 변화는 되돌릴 수 없다...
+§2???: §aThe power to bring an end. It is a choice. And that... Whether you will use that power, we cannot tell you.@§2???: §a끝을 가져올 힘. 그건 선택이다. 그리고 그건... 네가 그 힘을 사용할지, 우린 너에게 말할 수 없다.
+§2???: §aYou must deign to take that choice.@§2???: §a넌 그 선택을 받아들일 수 밖에 없다.
+§2???: §aWe may offer you not one more end.@§2???: §a너에게 하나의 끝이 아닌 것을 제안한다.
+§2???: §aYou must find your final end yourself. We will remain... And offer others the same. And so...@§2???: §a마지막 끝은 스스로 찾아야한다. 우린 남아서... 다른 자들에게도 똑같이 제안할것이다. 그래서...
+§2???: §aWe two, §ahere...end§a.@§2???: §a우리 둘, §a여기서... 끝§a.
+§7[1/7] §2Tasim: §a...no§a sense screaming for the dead. But do you think I’m going to just give up like that?@§7[1/7] §2타심: §a...죽은 사람을 보며 비명을 지르는건 예의에 어긋나지. 하지만 내가 포기할거라고 생각했나?
+§7[2/7] §2Bak'al: §aIt would be easier on yourself to.@§7[2/7] §2바'칼: §a스스로 포기하는것이 가장 쉬울거다.
+§7[3/7] §2Tasim: §aHah. Didn’t know corrupteds had a sense of humor, twisted as it might be.@§7[3/7] §2타심: §a하. 타락한 자들이 비뚤어진 유머 감각을 가지고 있을지는 몰랐군.
+§7[4/7] §2Tasim: §aI won’t dare die while everything here is at stake.@§7[4/7] §2타심: §a여기 있는 모두가 위험에 처한 지금 난 여기서 죽을 수 없어.
+§7[5/7] §2Tasim: §aHow’s this, then, hm? Think your §a§lPEON§a can handle me at my strongest?@§7[5/7] §2타심: §a그렇다면. 이 §a§l하수인§a이 내 힘을 감당할 수 있을거같아?
+§7[6/7] §2Bak'al: §aYes. I do. A foolhardy show of power means nothing.@§7[6/7] §2바'칼: §a그렇다. 무모한 힘의 과시는 아무 의미도 없다.
+§7[7/7] §2Bak'al: §a§lFinish this§a.@§7[7/7] §2바'칼: §a§a§l끝내라§a.
+§7[1/1] §2Tasim: §a§lI AM NOT GIVING UP!@§7[1/1] §2타심: §a§l난 아직 포기하지 않았어!
+§7[1/1] §2Tasim: §aAirforce! Drop the bomb!@§7[1/1] §2타심: §a공군! 폭탄을 떨궈라!
